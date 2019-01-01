@@ -1,3 +1,6 @@
+import sys
+reload(sys)
+sys.setdefaultencoding("utf-8")
 import requests
 import bs4
 
@@ -11,9 +14,11 @@ def extract_url(stringVal):
 
 if __name__ == '__main__':
 	url = "https://old.reddit.com/r/cscareerquestions/search?q=%5BOFFICIAL%5D+Salary+Sharing&restrict_sr=on&include_over_18=on&sort=relevance&t=all"
+	url = "https://old.reddit.com/r/cscareerquestions/comments/9cjd6n/official_salary_sharing_thread_for_interns/?limit=500"
 	res = grabSite(url)
 	page = bs4.BeautifulSoup(res.text, 'lxml')
-	for val in page.select(".search-title"):
-		if "[OFFICIAL] Salary Sharing thread for " in str(val):
-			print extract_url(str(val))
-
+	for val in page.select(".md-container"):
+		x = str(val.getText()).lower()
+		if 'salary' in x and ':' in x:
+			print val.getText().replace("\n\n", "\n")
+			print("______________")
