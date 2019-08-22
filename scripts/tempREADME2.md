@@ -11,16 +11,21 @@ Relocation/Housing Stipend: None
 ```
 
 ```
-Education: BS in Network Computing
-Prior Experience: 2 years of Help Desk internship (not super relevant)
-Company/Industry: University Marketing Department
-Title: Web Developer
-Tenure length: ~2.5 years
-Location: Rural Michigan
-Salary: 42K
-Relocation/Signing Bonus: none
-Stock and/or recurring bonuses: none
-Total comp: 42K
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -148,17 +153,22 @@ Signing Bonus: 1.5k
 ```
 
 ```
-School/Year: Non-target Florida school. Junior  
-Prior Experience: 1 internship at local startup  
-Company/Industry: JP Morgan Chase  
-Title: SWE Intern  
-Location: NY Metro Area  
-Duration: 10 weeks  
-Salary: 47.36/hr, 71.04/hr overtime  
-Relocation/Housing Stipend: 1500 one time bonus
-​
-I had interviewed with lots of big companies but need to sharpen up my skills for next recruiting season
-​
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```School/Year: Sophomore @ Top 40 Private University 
@@ -174,42 +184,40 @@ Signing Bonus: 1.5k one-time payment
 ## cruise
 
 ```
-School/Year: Top 10 CS/Rising 5th year
-Prior Experience: 2 F500 Internships
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Disney Cruise Line
-Title: Mobile Developer Intern
-Location: Celebration, FL (30 min from Orlando)
-Duration: ~18 Weeks (Fall internship)
-Salary: $35/hour
-Relocation/Housing Stipend: $2,000 for housing/relocation. Cheap corporate housing.
-
-Company/Industry: American Express
-Title: Software Engineering Intern
-Location: Phoenix, AZ
-Duration: 11 weeks
-Salary: $75,000 prorated ~$37/hour
-Relocation/Housing Stipend: $5k for housing
-
-```
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
-School/Year: Top 10 CS/Rising 5th year
-Prior Experience: 2 F500 Internships
 
-Company/Industry: Disney Cruise Line
-Title: Mobile Developer Intern
-Location: Celebration, FL (30 min from Orlando)
-Duration: ~18 Weeks (Fall internship)
-Salary: $35/hour
-Relocation/Housing Stipend: $2,000 for housing/relocation. Cheap corporate housing.
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: American Express
-Title: Software Engineering Intern
-Location: Phoenix, AZ
-Duration: 11 weeks
-Salary: $75,000 prorated ~$37/hour
-Relocation/Housing Stipend: $5k for housing
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -233,52 +241,41 @@ Total: 198k cash + 31k illiquid RSUs + 10k signing
 ```
 
 ```About Me:
-School/Year: Top 10 Tech University / Sophomore
-Prior Experience: 2 Internships at startups
-Citadel:
+School/Year: Junior at a higher ranked (lol) UC
+Prior Experience: 3 Internships ( 1 small startup, 1 big company, 1 big-N )
+Uber:
 Title: SWE Intern
-Location: Chicago
-Duration: 11 Weeks
-Salary: $12000 / mo
-Relocation/Housing Stipend/Misc.: corporate housing, 3 meals a day, relocation
-Microsoft:
-Title: SWE Intern
-Location: Seattle
+Location: San Francisco
 Duration: 12 Weeks
-Salary: $7300 / mo
-Relocation/Housing Stipend/Misc.: $7000 housing stipend or free housing, $1000 bike stipend, free bus pass, paid relocation
-Bloomberg:
+Salary: $44 / hr
+Relocation/Housing Stipend/Misc.: $1000 monthly, ~$300/mo Uber credit, free meals
+Rubrik:
 Title: SWE Intern
-Location: NYC
-Duration: 11 Weeks
-Salary: $8000 / mo
-Relocation/Housing Stipend/Misc: $5100 housing stipend or free housing, $2000 relocation stipend
-Flatiron Health:
-Title: SWE Intern
-Location: NYC
-Duration: 12 Weeks
-Salary: $7600 / mo
-Relocation/Housing Stipend/Misc: $1500/month prorated housing stipend, paid relocation
-Cruise Automation:
-Title: SWE Intern
-Location: SF
+Location: Palo Alto
 Duration: 12 Weeks
 Salary: $8000 / mo
-Relocation/Housing Stipend/Misc: $2500/month housing stipend, paid relocation, free lunch
+Relocation/Housing Stipend/Misc: $1000 monthly, free meals
 
 ```
 
 ## viasat
 
 ```
-School/Year: San Diego State University/Junior
-Prior Experience: None in tech/CS Tutor
-Company/Industry: ViaSat
-Title: Software Engineer Intern
-Location: Carlsbad, CA
-Duration: 10 Weeks
-Salary: $32/hour Full-time
-Relocation/Housing Stipend: Shared Furnished Apartment or $25/day Stipend (prorated lump sum payment 1st or 2nd check)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -302,14 +299,14 @@ The position has its ups and downs. I'm passively looking around.
 ## homeaway
 
 ```​
-School/Year: UT Austin/Senior
-Prior Experience: SW Intern at startup, SW research assistant at university
-Company/Industry: HomeAway
-Title: SWE Intern
-Location: Austin, TX
-Duration: 11 weeks
-Salary: $40/hr (40 hour work week, so $17600 + $2500 bonus = $20,100 total)
-Relocation/Housing Stipend: None, but there is a $2500 signing bonus
+School/Year: Top 50 school, Masters
+Prior Experience: 3 years 3 months
+Company/Industry - Autodesk
+Title: Reliability Engineer Intern
+Location: San Francisco
+Duration: 12 weeks
+Salary: 42$/hour
+Relocation/Housing Stipend: 1200$/month
 
 ```
 
@@ -347,14 +344,21 @@ Confluent:
 ## snap
 
 ```
-School/Year: Junior Top 10 CS
-Prior Experience: Startup + Unicorn
-Company/Industry: Snap Inc. (Snapchat)
-Title: SWE Intern
-Location: Santa Monica, CA
-Duration: 12 weeks
-Salary: $9k/mo + $225/mo commuting benefit + healthcare benefits
-Housing Stipend/Misc: Corp Housing or $2.5k/mo
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -385,57 +389,71 @@ None
 ## nasa
 
 ```
-Education: BA - Computer Science (public state university)
-Prior Experience: 
-University (netops, help desk, programmign research assistant) 
-NASA Internship
-Military
-Company/Industry: Defense Contrator
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
 Tenure length: 1 month
-Location: Tucson AZ
-Salary: $65k/year
-Relocation/Signing Bonus: None
-Stock and/or recurring bonuses: None
-Total comp: $65k/year
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: M.S Comp Sci  
-Prior Experience: ~ 3.5 yrs, 1.5 at a DoD contractor, 2 at a consulting company  
-Company/Industry: NASA contractor, space  
-Title: Software Engineer  
-Tenure length: 1 mo  
-Location: Maryland, greater D.C. metro area  
-Salary: $96,000  
-Relocation/Signing Bonus: N/A  
-Stock and/or recurring bonuses: None  
-Total comp: $96,000
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```​
-School/Year: Top 5 California University - Junior 
-Prior Experience: 1 SWE internship @ big memory company, Current NASA SWE internship 
-Company/Industry: Foursquare
-Title: Software Engineering Intern
-Location: San Francisco, CA
-Duration: Summer 2019 
-Salary: $40/hour ($6933/Month) + $5000 signing bonus
-Relocation/Housing Stipend: No housing/travel assistance.
+School/Year: Top 50 school, Masters
+Prior Experience: 3 years 3 months
+Company/Industry - Autodesk
+Title: Reliability Engineer Intern
+Location: San Francisco
+Duration: 12 weeks
+Salary: 42$/hour
+Relocation/Housing Stipend: 1200$/month
 
 ```
 
 ```
-School/Year: Waterloo, 3rd Year
-Prior Experience: 12 months of previous internships, average companies.
-Company/Industry: NASA
-Title: Software Eng. Intern
-Location: Mountain View, CA
-Duration: 16 weeks
-Salary: $9800 stipend for the whole 4 months (not taxed)
-Relocation/Housing Stipend: Hah, I wish.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -493,15 +511,21 @@ Relocation/Housing Stipend: None, live in the area
 ```
 
 ```
-Education: BS in Computer Science
-Prior Experience: 1 year working part time as an intern while during senior year of college, 1 year FT after graduating at the company I interned with, been at current company for 2 years, so 3 years total experience FT 
-Company/Industry: Amazon
-Title: SDE 2
-Tenure length: 2 years
-Location: Seattle, WA 
-Salary: $135k
-Stock and/or recurring bonuses: $80k at current valuation
-Total comp: $215k
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -538,29 +562,40 @@ Total comp: $120,000
 ```
 
 ```
-Education: Bachelor's in CS from liberal arts college, 2018 grad
-Prior Experience: ~8 months at a small software startup full-time, 1 on-campus internship, some side projects
-Company/Industry: Amazon
-Title: Software Development Engineer
-Tenure length: 8 months experience after graduation
-Location: Seattle
-Salary: 122k base
-Relocation/Signing Bonus: 7k relocation (tax already withheld), 40k first year sign on, 30k second year sign on. 
-Stock and/or recurring bonuses: 50 RSUs vesting at standard 5/15/40/40.
-Total comp: ~165k year 1
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: BA / MA in unrelated field. Bootcamp after.
-Prior Experience: 1 year at small company doing web dev
-Company/Industry: Amazon
-Title: SDE2
-Location: Seattle
-Salary: ~156k
-Relocation/Signing Bonus: ~80k
-Stock and/or recurring bonuses: Something, idk. Amazon stock has paltry vest amounts until year 3 so I don't think much of it.
-Total comp: ~230k - 240k
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -622,126 +657,145 @@ Total comp: ~230k - 240k
 ```
 
 ```
-Education: BS in CS, low GPA at local state college
-Prior Experience: no SWE experience, IT part time job
-Company/Industry: Amazon
-Title: Technical Apprentice - Solutions Architect, will move into full time role after 1 year of apprenticeship, which has an avg salary of around $140,000
-Tenure length: 0, new grad
-Location: Seattle
-Salary: $97,000
-Relocation/Signing Bonus: $10,000 relocation, $20,000 signing first year, additional $16,600 on 1 year anniversary
-Stock and/or recurring bonuses: $68,000 over 4 years. 5% at end of 1 year completed (so none for the first year), 15% after completion of second year,20% after every 6 months completed until fully vested.
-Total comp: this is assuming I stay an apprentice for 4 years, which won't happen. I'll be moved into a big boy role when the apprenticeship is finished in 1 year, so these numbers are lower than it will be, but I don't have those numbers until next year this time.
-
-Year 1: $130,400 (5% RSUs earned)
-Year 2: $123,800 (+15% RSUs earned)
-Year 3: $124,200 (+40% RSUs earned)
-Year 4: $124,200 (+40% RSUs earned)
-
-```
-
-```
-Education: BSCS @ Top 15 University
-Prior Experience: None
-Company/Industry: Amazon
-Title: SDE
-Location: NYC
-Salary: 120K
-Relocation/Signing Bonus: 10k relocation, 25k signing year 1, 22k year 2
-Stock and/or recurring bonuses: 75k over 4 years
-Total comp: 150k+
-
-```
-
-```
-Education: BS Computer Science @ well-known state school
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-SWE Internship at one of Microsoft, Amazon
-SWE internship at large defense contractor
-Company/Industry: Google
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Tenure length: New Grad
-Location: Bay Area
-Salary: 120k
-Relocation/Signing Bonus: 10,500/15k
-Stock and/or recurring bonuses: 100k / 15% target bonus
-Total comp: ~170-188k
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: B.S. Computer Science from low-tier UC
-Prior Experience: 1 internship (small company)
-Company/Industry: Amazon
-Title: SDE 1
-Location: Seattle (probably)
-Salary: $108k base
-Relocation/Signing Bonus: $7k relocation, ~40k split over 2 years
-Stock and/or recurring bonuses: Don’t remember
-Total comp: ~$135k 1st year
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: Top 10 UK CS degree
-Prior Experience (all internships):
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-research at own uni
-startup Soft Eng
-Amazon Soft Eng
-startup Soft Eng part time
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
-​
-Amazon
-Title: Software Development Engineer I
-Location: London, UK
-Salary: 45k
-Signing Bonus: 10k first year, 8k second year
-Stock and/or recurring bonuses: RSUs the usual 5/15/40/40 split on 30k; not sure what the usual yearly bonus is, I know of around 1k per year for being on call which everyone gets, but it's unofficial info so won't include in calculations.
-Total comp: 56.5k first year then 57.5k year 2 then 57 years 3-4 assuming no yearly bonus/promotions/whatevs
-​
-Morgan Stanley
-Title: Graduate Software Engineer
-Location: London, UK
-Salary: 55k
-Signing Bonus: -
-Relocation/Signing Bonus: 5k
-Stock and/or recurring bonuses: none that I was told about and didn't ask but I assume some nice yearly performance bonus exists
-Total comp: 60k first year, 55k onwards, again, assuming no performance bonuses
-​
-Note, Amazon refused to negociate, I didn't try with MS
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```School/Year: Junior
-Prior Experience: 1 internship
-Company/Industry: Amazon
-Title: SDE Intern
-Location: NYC
-Duration: 12 weeks
-Salary: $8500 / month
-Relocation/Housing Stipend: ~$1700 / month (post tax)
+Prior Experience: Two internships (one Big4)
+Company/Industry: GitHub
+Title: Software Engineering Intern
+Location: San Francisco, CA
+Duration: 10 weeks
+Salary: $50/hr
+Relocation/Housing Stipend: Corporate housing (studio) in downtown SF, walking distance from office
+​
+Starting next week, super pumped!
 ```
 
 ```School / year: Midwest state school. Decent CS and know in the Rocky Mountain area. Rising Junior. 
 Prior experience: Research assistant and part time for a year with the IT division at the uni. 
-Company: Amazon
-Title: SDE intern
-Location: Seattle
+Company: Big Bank 
+Title: Software internship (don’t remember the full name but it’s the software focused internship, not a quant position)
+Location: SLC, Utah
 Duration: 12 weeks 
-Salary: $7650 per month 
-Relocation: $1950 stipend a month. Corporate housing not offered.
+Salary: $33 / hour
+Relocation: None 
+—————————-
+Company: Relatively large startup
+Title: Software dev intern 
+Location: SLC, Utah
+Duration: 16 weeks 
+Salary: $27 / hour
+Relocation: None
 ```
 
 ```
-School/Year:    PhD Student  
-Prior Experience:    1 x SDE Internship @ Amazon WS   
-Company/Industry:    Amazon Web Services  
-Title:   SDE Intern  
-Location:   Bay Area  
-Duration:    12 Weeks  
-Salary:    9400 $ / mo  
-Relocation/Housing Stipend:   Corporate Housing  OR   Monthly Net Stipend 1925$
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -873,51 +927,21 @@ I chose Microsoft
 ```
 
 ```
-Education: Solid state school with not-so-solid CS program
-Prior Experience: one internship at a no-name startup, two internships at Amazon, significant (revenue generating) side projects
-Company/Industry: Amazon
-Title: Software Development Engineer I
-Location: Multiple options--Seattle, non-bay area California, etc
-Salary: 106k
-Relocation/Signing Bonus: 10k relocation, 66k signing split over two years (35.5k year 1, 30.5k year 2)
-Stock and/or recurring bonuses: 65k with Amazon's shitty 5/15/40/40 vesting schedule
-Total comp: 154.25/146.25/132/132. Note this is the previous year's return intern offer which I got grandfathered into, which is better than this year's return intern offer. Other perks include 2% 401k match (vests over 3 years), transportation allowance of $260/mo, $100 worth of discounts on Amazon products
-Company/Industry: Wayfair
-Title: Software Engineer, Wayfair Labs
-Location: Boston
-Salary: 95k
-Relocation/Signing Bonus: 7k
-Stock and/or recurring bonuses: 22k stock over 4 years
-Total comp: 107.5/100.5/100.5/100.5, plus 4% 401k match, tuition reimbursement (I think up to 5k a year) and employee discount on Wayfair.com. Also worth noting Wayfair labs is a 3 month "rotational" program, and if after 3 months they're not satisfied with your performance they let you go and you don't continue on. However, the recruiter told me the vast majority of people do continue on, and the ones that don't usually have nontraditional backgrounds (e.g., people from bootcamps)
-Company/Industry: Betterment
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Location: NYC
-Salary: 112k
-Relocation/Signing Bonus: None
-Stock and/or recurring bonuses: 40k over 4 years
-Total comp: 122/122/122/122, free use of Betterment for 401k management (.25% management fee waived), free snacks, catered lunch 3 times a week, $260/mo transportation subsidy, personal development budget (not sure how much)
-Company/Industry: Mid sized startup
-Title: Software Engineer
-Location: Boston
-Salary: 110k
-Relocation/Signing Bonus: 5k relocation, 8k signing
-Stock and/or recurring bonuses: 25k over 4 years
-Total comp: 129.25/116.25/116.25/116.25 plus a few free lunches per month and modest transportation subsidy
-Company/Industry: Google
-Title: Software Engineer
-Location: Cambridge/Boston
-Salary: 117k
-Relocation/Signing Bonus: 10.5k relocation, 30k signing
-Stock and/or recurring bonuses: 150k over 4 years, target 10% bonus
-Total comp: 195/154.5/154.5/154.5 plus target 12k bonus per year + 6% 401k + all of Google's perks (unlimited free food/coffee, free gym, 2/3 tuition reimbursement up to 5k per year, $260/mo transportation subsidy, personal development budget, etc.)
-Company/Industry: Unicorn
-Title: Software Engineer
-Location: NYC
-Salary: 130k
-Relocation/Signing Bonus: 10k relocation, 30k signing
-Stock and/or recurring bonuses: 80k/4 years, 10% target bonus in years 1-2, 20% target bonus after
-Total comp: 190/150/150/150 + target bonus of 13k, 13k, 26k, 26k, plus standard unicorn perks like catered meals, free snacks, gym/gym reimbursement, transportation subsidy, personal development budget, etc.
-I feel pretty lucky to get the offers I did. A few years ago I really struggled, but through hard work, learning the system, and some luck, things eventually got better, and negotiating helps too. Good luck everyone!
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -1005,27 +1029,34 @@ Got interviews through referrals because my resume sucked. Failed Microsoft firs
 ```
 
 ```
-Education: MA in unrelated field - went to bootcamp
-Prior Experience: 1 year at small company
-Company/Industry: Amazon
-Title: SDE II
-Location: Seattle
-Salary: ~160k
-Relocation/Signing Bonus: ~80k / ~60k
-Stock and/or recurring bonuses: 85 shares @ 5/15/40/40
-Total comp: ~240k + whatever shares end up being
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```• Education: BS in CS at state school
-• ⁠Prior Experience: Amazon internship
-• ⁠Company/Industry: Amazon
-• ⁠Title: Software Development Engineer
-• ⁠Location: Minneapolis, MN
-• ⁠Salary: $108,000
-• ⁠Relocation/Signing Bonus: $34,000 first year, $20,000 second year, $10,000 relocation
-• ⁠Stock and/or recurring bonuses: $70,000 in RSUs vesting over four years 5/15/40/40%
-• ⁠Total comp: ~$155,000 first year
+• ⁠Prior Experience: Amazon Subsidiary. Fin-Tech. Research.
+• ⁠Company/Industry: Fin-Tech
+• ⁠Title: Junior Software Developer
+• ⁠Location: Philadelphia, PA
+• ⁠Salary: $95,000 
+• ⁠Relocation/Signing Bonus: $7,000 Signing
+• ⁠Stock and/or recurring bonuses: $5,000 - $10,000 end of the year
+• ⁠Total comp: ~$109,000
+​
 ```
 
 ```School: BS CS @ top 10 CS school
@@ -1059,15 +1090,21 @@ Total Comp: $114k year 1, then $103k
 ```
 
 ```
-Education: BS CSE UMich
-Prior Internships: Security Unicorn,
-Company/Industry: Amazon
-Title: Software Development Engineer I
-Location: Seattle, WA
-Salary: $108,000
-Relocation/Signing Bonus: $24,000 / $20,000 signing (first year and second year), $10,000 relocation bonus
-Stock and/or recurring bonuses: $70,000 over 4 years, standard Amazon vesting schedule
-Total comp: ~$145,000 first year
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -1113,117 +1150,87 @@ Accepted return internship offer. Didn't apply elsewhere.
 ```
 
 ```
-School/Year: I don't even know at this point, man   
-Prior Experience: 2x SWE Internships at Amazon and smaller company   
-    
-Company/Industry: Amazon (Declined, hopefully converting to Fall 2019)   
-Title: Software Development Engineer Intern   
-Location: TBD but I think as a return I get some level of priority during placement?   
-Duration: 12 weeks   
-Salary: 7.9k/month, which I assume would be uppped to 8.7k/month in a premium location based on my experience last year   
-Relocation/Housing Stipend: Corp housing or 2.5k-3.5k/month stipend depending on location   
-    
-Company/Industry: Zillow (Accepted)   
-Title: Software Engineer Intern   
-Location: Irvine, CA   
-Duration: 12 weeks   
-Salary: 7.3k/month   
-Relocation/Housing Stipend: 1k/month   
-    
-Had to work my way down the coast but this summer is finally in the place I wanted.  Can't wait to be back home in SoCal/OC 😄🏝️   
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```School/Year: Senior at Top 15/20 school, graduating Fall 2019
 Prior Experience: Internship at very small company
- 
-Amazon (Accepted):
-Title: SDE Intern
-Location: Seattle, WA
-Salary: $7650/mo
-Relocation/Housing Stipend: $1925/mo post-tax
- 
-Audible:
-Title: SDE Intern
-Location: Newark, NJ
-Salary: $7650/mo
-Relocation/Housing Stipend: Corporate housing in university apartments
- 
-Okta:
-Title: SWE Intern
-Location: San Francisco, CA
-Salary: $53/hr
-Relocation/Housing Stipend: N/A
+Company/Industry: Facebook
+Title: Solutions Engineering Intern
+Location: Austin, TX
+Salary: $6100/mo
+Relocation/Housing Stipend: Free corporate housing
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: top 5-8 for cs as a Junior
-Prior Experience: None
-Company/Industry: Amazon / Business Development Organization whatever that means
-Title: SDE Intern
-Location: Palo Alto, CA
-Duration: 12 weeks
-Salary: $7,650 per month on offer letter. There is a supposed income increase for people working in the Bay Area like me.
-Relocation/Housing Stipend: $1,925 post tax per month + plane ticket to and from Palo Alto.
-​
-Also got a TCP Intern offer from a Optum in their New Jersey office for $24 an hour and housing provided. Just thought I would mention it here even though I declined it.
-​
-Happy to say that seeing the previous internship salary thread motivated me to work harder on Leetcode and try to be able to post in the next one that happens. Sure enough, I got Amazon (which isn't the best but fuck it I'll take it). Good luck to those looking around and still trying to find an internship!
-```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-```
-School/Year: Some Canadian University
-Prior Experience: 4 internships
-​
-Credit Karma
-Title: SWE Intern
-Location: SF
-Duration: 16 weeks
-Salary: $45/hour (unwilling to negotiate)
-Relocation: $1000/month housing
-Facebook
-Title: SWE Intern
-Location: Seattle/Menlo Park/NYC wherever u wanna work
-Duration: 16 weeks
-Salary: $8000/month  (unwilling to negotiate)
-Relocation: Corporate housing or $1600/month stipend
-Other perks: bare perks
-Apple
-Title: SWE Intern
-Location: Cupertino, CA (Apple Park)
-Duration: 12-16 weeks (u choose)
-Salary: $45/hour (they were willing to negotiate but didn't bother)
-Relocation: Corporate housing
-Amazon
-Title: SWE Intern
-Location: Toronto or Vancouver
-Duration: 16 weeks?
-Salary: didn't ask but apparently it's 7.1k CAD/month 
-Relocation: apparently it's 1900 CAD/month housing stipend
-Uber ATG
-Title: SWE Intern
-Location: Pittsburgh, PA
-Duration: 16 weeks ?
-Salary: $44.15/hr or $7.7k/month
-Relocation/Housing Stipend: $1000/month
-Bloomberg
-Title: SWE Intern
-Location: New York, NY
-Duration: 15/16 weeks
-Salary: $47/hour (don't know why their pay isn't consistent across the board). barely willing to negotiate.
-Relocation: Corporate housing or $5100 lump sum + $2000 relocation bonus (idk why people keep calling this a signing bonus)
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Regional Midwest State School / Junior
-Prior Experience: Software Development Intern at a Local Insurance Company 
-Company/Industry: Amazon
-Title:SDE Intern
-Location: Cambridge, MA
-Duration: 12 weeks in the summer
-Salary: $7650/month
-Relocation/Housing Stipend: $1375 post taxes/month + travel
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -1240,186 +1247,79 @@ Relocation/Housing Stipend: $3,500 per month housing stipend, or corporate housi
 ```
 
 ```School/Year: Junior at top 30 CS school
-Previous Experience: F50 Internship
-Company/Industry: One of {Asana, Plaid, Slack}
+Previous Experience: F50 Internship, dev job at school
+Company/Industry: Prop Trading
 Title: Software Engineering Intern
+Location: Chicago
+Duration: 10 weeks
+Salary: $10,000/month
+Relocation/Housing Stipend: Corporate housing 
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```​
+School/Year: Top 50 school, Masters
+Prior Experience: 3 years 3 months
+Company/Industry - Autodesk
+Title: Reliability Engineer Intern
 Location: San Francisco
 Duration: 12 weeks
-Salary: $55/hour (~$9,500/mo)
-Relocation/Housing Stipend: Nothing
-Also had the amazon offer, but I turned it down so idk the numbers 
-```
-
-```
-School/Year: Top 4 CS in US (yay?), junior
-Prior Experience: semi-coding internship, side projects
-​
-Company/Industry - Guidewire
-Title: SWE Intern
-Location: San Mateo, CA
-Duration: 10 weeks
-Salary: $36/hr
-Relocation/Housing Stipend: $2,500 (not sure if monthly or flat), given regardless of whether you relocate or not
-​
-Company/Industry - Atlassian
-Title: SWE Intern
-Location: Mountain View, CA
-Duration: 12 weeks
-Salary: $49/hr
-​
-Company/Industry - Amazon
-Title: SWE Intern
-Location: Sunnyvale, CA
-Duration: 12 weeks
-Salary: $8500/month
+Salary: 42$/hour
+Relocation/Housing Stipend: 1200$/month
 
 ```
 
 ```​
-School/Year: Junior, no name midwest university
-Prior Experience: 1 Internship, 3 years web dev at university
-​
-Company/Industry: Amazon (Accepted)
-Title: SDE Intern
-Location: Austin, TX
+School/Year: Top 50 school, Masters
+Prior Experience: 3 years 3 months
+Company/Industry - Autodesk
+Title: Reliability Engineer Intern
+Location: San Francisco
 Duration: 12 weeks
-Salary: 7,650 a month
-Relocation/Housing Stipend: 1,375 housing post-tax, mileage/flights covered
-​
-
-Company/Industry: Travel Techology Company
-Title: Software Developer Intern
-Location: Dallas, TX
-Duration: 13 weeks
-Salary: 26 / hr
-Relocation/Housing Stipend: none
-​
-
-Company/Industry: Financial Investment Company
-Title: Software Developer Intern
-Location: Milwaukee, WI
-Duration: 12 weeks
-Salary: 20 / hr
-Relocation/Housing Stipend: 1,900 relocation
-​
-
-Company/Industry: Government Imaging Company
-Title: Software Developer Intern
-Location: Ann Arbor, MI
-Duration: 12 weeks
-Salary: 23 / hr
-Relocation/Housing Stipend: none
+Salary: 42$/hour
+Relocation/Housing Stipend: 1200$/month
 
 ```
 
 ```​
-School/Year: Junior, no name midwest university
-Prior Experience: 1 Internship, 3 years web dev at university
-​
-Company/Industry: Amazon (Accepted)
-Title: SDE Intern
-Location: Austin, TX
+School/Year: Top 50 school, Masters
+Prior Experience: 3 years 3 months
+Company/Industry - Autodesk
+Title: Reliability Engineer Intern
+Location: San Francisco
 Duration: 12 weeks
-Salary: 7,650 a month
-Relocation/Housing Stipend: 1,375 housing post-tax, mileage/flights covered
-​
-
-Company/Industry: Travel Techology Company
-Title: Software Developer Intern
-Location: Dallas, TX
-Duration: 13 weeks
-Salary: 26 / hr
-Relocation/Housing Stipend: none
-​
-
-Company/Industry: Financial Investment Company
-Title: Software Developer Intern
-Location: Milwaukee, WI
-Duration: 12 weeks
-Salary: 20 / hr
-Relocation/Housing Stipend: 1,900 relocation
-​
-
-Company/Industry: Government Imaging Company
-Title: Software Developer Intern
-Location: Ann Arbor, MI
-Duration: 12 weeks
-Salary: 23 / hr
-Relocation/Housing Stipend: none
+Salary: 42$/hour
+Relocation/Housing Stipend: 1200$/month
 
 ```
 
 ```​
-School/Year: Junior, no name midwest university
-Prior Experience: 1 Internship, 3 years web dev at university
-​
-Company/Industry: Amazon (Accepted)
-Title: SDE Intern
-Location: Austin, TX
+School/Year: Top 50 school, Masters
+Prior Experience: 3 years 3 months
+Company/Industry - Autodesk
+Title: Reliability Engineer Intern
+Location: San Francisco
 Duration: 12 weeks
-Salary: 7,650 a month
-Relocation/Housing Stipend: 1,375 housing post-tax, mileage/flights covered
-​
-
-Company/Industry: Travel Techology Company
-Title: Software Developer Intern
-Location: Dallas, TX
-Duration: 13 weeks
-Salary: 26 / hr
-Relocation/Housing Stipend: none
-​
-
-Company/Industry: Financial Investment Company
-Title: Software Developer Intern
-Location: Milwaukee, WI
-Duration: 12 weeks
-Salary: 20 / hr
-Relocation/Housing Stipend: 1,900 relocation
-​
-
-Company/Industry: Government Imaging Company
-Title: Software Developer Intern
-Location: Ann Arbor, MI
-Duration: 12 weeks
-Salary: 23 / hr
-Relocation/Housing Stipend: none
-
-```
-
-```​
-School/Year: Junior, no name midwest university
-Prior Experience: 1 Internship, 3 years web dev at university
-​
-Company/Industry: Amazon (Accepted)
-Title: SDE Intern
-Location: Austin, TX
-Duration: 12 weeks
-Salary: 7,650 a month
-Relocation/Housing Stipend: 1,375 housing post-tax, mileage/flights covered
-​
-
-Company/Industry: Travel Techology Company
-Title: Software Developer Intern
-Location: Dallas, TX
-Duration: 13 weeks
-Salary: 26 / hr
-Relocation/Housing Stipend: none
-​
-
-Company/Industry: Financial Investment Company
-Title: Software Developer Intern
-Location: Milwaukee, WI
-Duration: 12 weeks
-Salary: 20 / hr
-Relocation/Housing Stipend: 1,900 relocation
-​
-
-Company/Industry: Government Imaging Company
-Title: Software Developer Intern
-Location: Ann Arbor, MI
-Duration: 12 weeks
-Salary: 23 / hr
-Relocation/Housing Stipend: none
+Salary: 42$/hour
+Relocation/Housing Stipend: 1200$/month
 
 ```
 
@@ -1469,69 +1369,58 @@ The company I was at had plenty of unpaid interns actually, which is unfortunate
 ```
 
 ```​
-School/Year: Well known Public University in SC / Junior
-Prior Experience: Previous small internship/ on-campus Web Intern
-Company/Industry:  Amazon (AWS)
-Title: Software Engineering Intern
-Location:  Herndon VA
-Duration: Summer
-Salary: $7850 a month so ~$50 an hour
-Relocation/Housing Stipend:  housing costs $300-$500 a month depending on what you pick or around a $2500 stipend to find your own housing.
+School/Year: Top 50 school, Masters
+Prior Experience: 3 years 3 months
+Company/Industry - Autodesk
+Title: Reliability Engineer Intern
+Location: San Francisco
+Duration: 12 weeks
+Salary: 42$/hour
+Relocation/Housing Stipend: 1200$/month
 
 ```
 
 ```Current:
-—
-* Education: BS CS
-* Prior Experience: Startup, ~1.5 years. Various internships.
-* Company/Industry: Amazon
-* Title: SDE2 (L5)
-* Tenure length: 4 years
-* Location: Seattle
-* Salary: $140,000
-* Stock and/or recurring bonuses: Currently ~$140,000/year in vesting RSUs. No bonuses.
-* Total comp: $280,000
-Notes: based on current grants, total comp drops to $244,000 next year and $200,000 (actual target) in 2020.
-Offer 1:
-—
-* Company/Industry: Facebook
-* Title: Software Engineer (E5/Senior)
-* Location: Seattle
-* Salary: $170,000
-* Stock and/or recurring bonuses: $500,000 vesting quarterly with a one year cliff + 15% bonus target + 30k/year refresher target (120k/4 years)
-* Total comp: $320,000
-Offer 2:
-—
-* Company/Industry: Snap
-* Title: Software Engineer (L4/Senior)
-* Location: choice of LA/Seattle/MTV
-* Salary: $190,000
-* Stock and/or recurring bonuses: $750,000 vesting monthly over 48 months. Annual refresher of $46k/year (187.5k/4 years) + $75k annual bonus target. 
-* Total comp: $377,500 (expected/likely) / $450,000+ (with sketchy bonuses)
-Notes: I think the bonuses/refresher targets are bogus (Snap made headlines by cancelling employee bonuses last year) and the stock will likely continue to drop, so the real/likely TC is probably more like $320-330k if the company doesn’t totally collapse.
-Offer 3:
-—
-* Company/Industry: Microsoft
-* Title: Sr. Software Engineer (L63)
-* Location: Redmond
-* Salary: $160,000
-* Stock and/or recurring bonuses: $200,000 vesting biannually with a 6 month cliff. 15% bonus target. Weak refreshers.
-* Total comp: $234,000
-Notes: I omitted signing bonuses and relo and perks and the like because they’re relatively token amounts and I’m not a new grad who pads/inflates the numbers. These are real, recurring amounts (see above what I had to say about Snap above).
-Also, what really sets the tier 1 companies (FB/Google et al) from tier 1.5/2 companies (Microsoft/Amazon) apart is their RSU refresher policy. Amazon notoriously denies refresher grants prior to year 5 if the stock appreciates more than 15%, and Microsoft has long been known to give out terrible refreshers in general (e.g. tiny amounts like $10k vesting over 5 years), whereas at FB (and Snap, if you trust them), your annual TC will grow by $100k+ over four years due to refresh grants stacking.
+Education: BSEE from a Florida state school
+Prior Experience:
+
+9.5 years at Raytheon (various titles)
+4 years at a small government research contractor (NLP software)
+1.5 years at Bloomberg
+Company/Industry: Walmart e-commerce
+Title: Lead Backend Engineer
+Tenure length: 4 months
+Location: NYC
+Salary: $180,000
+Relocation/Signing Bonus: $25,000
+Stock and/or recurring bonuses: 20% cash + $60,000/4 years stock (each year)
+Total comp: $231,000 (going up to $276,000 when I get to four overlapping grants)
+For reference, an offer I got from Google recently:
+Title: L4
+Location: NYC
+Salary: $158,000
+Relocation/Signing Bonus: $20,000
+Stock and/or recurring bonuses: 15% cash + $292,000/4 years stock
+Total comp: $255,000
+
 ```
 
 ```
-Education: BS CS from state school satellite campus
-Prior Experience: summer internship in same company/team
-Company/Industry: Amazon 
-Title: SDE II
-Tenure length: 2 years
-Location: Seattle
-Salary: 131k
-Relocation/Signing Bonus: not relevant anymore
-Stock and/or recurring bonuses: at current value and vesting schedule, 54k this year, 60k next year, and 50k the following year. 
-Total comp: averaging those out, 185k
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -1564,53 +1453,72 @@ Total Comp: $250-300k Target is about $275k
 ```
 
 ```• ⁠Education: BS in CS at large SEC school
-• ⁠Prior Experience: 1x Amazon internship, 1x Defense contracting/consulting firm internship 
-• ⁠Company/Industry: Amazon
-• ⁠Title: Software Development Engineer
-• ⁠Location: Seattle, WA (tentatively, location is fungible)
-• ⁠Salary: $108k (base)
-• ⁠Relocation/Signing Bonus: $34k first year, $20k second year, ~$10k relocation
-• ⁠Stock and/or recurring bonuses: $70k in RSUs vesting over four years (backloaded)
-• ⁠Total comp: ~$155k first year
+• ⁠Prior Experience: 1x internship at a small company, 1x large top 10 company
+ 
+• ⁠Company/Industry: NCR
+• ⁠Title: Software Engineer
+• ⁠Location: Atlanta, GA
+• ⁠Salary: $78k talked up from $75k
+ 
+• ⁠Company/Industry: Deloitte
+• ⁠Title: Technology Consultant
+• ⁠Location: Atlanta, GA based
+• ⁠Salary: $80k w/ 12.5k signing
+ 
+• ⁠Company/Industry: AT&T
+• ⁠Title: Software Engineer
+• ⁠Location: Atlanta, GA
+• ⁠Salary: $83k w/ $3k signing
 ```
 
 ```
-Education: Top 20 USWNR School
-Prior Internships: Large database company, medium sized fitness-tech company
-Company/Industry: Amazon
-Title: Software Development Engineer I
-Location: Seattle, WA
-Salary: $108,000
-Relocation/Signing Bonus: $24,000 / $20,000 signing (first year and second year), $10,000 relocation bonus
-Stock and/or recurring bonuses: $70,000 over 4 years, standard Amazon vesting schedule
-Total comp: ~$145,000 first year
-
-```
-
-```
-Education: BS in CS at a low tier UC
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-3 Internships - 1 Small Company (300 size), 1 Mid sized (5,000), and 1 at Amazon
-Company/Industry: Microsoft
-Title: Software Development Engineer (lvl 59)
-Location: Redmond, WA
-Salary: $109K (base)
-Relocation/Signing Bonus: $5.5K Relocation / $15K SB
-Stock and/or recurring bonuses: $70K (3.5 years) / annual bonus 0-20%; 10% target
-Total comp: $109K (base) + 15K (SB) + $5.5K (Relocation) + $20K (Stock) + 21K (Up to Performance Bonus) => 170,500. 
-I feel like I got low balled with the Signing Bonus. The RSU looks good, but I've heard people getting 120K. Should I negotiate and if so, how much? 
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```• Education: BS in CS at state school
-• ⁠Prior Experience: Amazon internship; 2 internships at small company
-• ⁠Company/Industry: Amazon
-• ⁠Title: Software Development Engineer
-• ⁠Location: Most likely one of: Minneapolis, MN or Austin, TX
-• ⁠Salary: $108,000
-• ⁠Relocation/Signing Bonus: $34,000 first year, $20,000 second year, $10,000 relocation
-• ⁠Stock and/or recurring bonuses: $70,000 in RSUs vesting over four years 5/15/40/40%
-• ⁠Total comp: ~$155,000 first year
+• ⁠Prior Experience: Amazon Subsidiary. Fin-Tech. Research.
+• ⁠Company/Industry: Fin-Tech
+• ⁠Title: Junior Software Developer
+• ⁠Location: Philadelphia, PA
+• ⁠Salary: $95,000 
+• ⁠Relocation/Signing Bonus: $7,000 Signing
+• ⁠Stock and/or recurring bonuses: $5,000 - $10,000 end of the year
+• ⁠Total comp: ~$109,000
+​
 ```
 
 ```• Education: BS in CS at state school
@@ -1659,26 +1567,40 @@ tl:dr - Amazon convenience housing costs OP $3440-3732 post-tax each month.
 ```
 
 ```
-School/Year: Ivy League, sophomore
-Prior Experience: interned part time during the school year as a full stack dev at a startup
-Company/Industry: Amazon
-Title: SDE Intern
-Location: Seattle, WA
-Duration: 12 weeks
-Salary: $7.7k/month
-Relocation/Housing Stipend: $2.5k/month
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Penn State / Senior
-Prior Experience: No internships, lot of club activity + worked in on-campus IT
-Company/Industry: Amazon
-Title: SDE Intern
-Location: Seattle
-Duration: 12 weeks
-Salary: $7.7k/mo
-Relocation/Housing Stipend: Relocation up to price from your home location / school location to internship location. $6.7k housing stipend (pretax)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -1711,18 +1633,21 @@ Total comp: Roughly $150k
 ```
 
 ```
-Education: B.S. Computer Science, Michigan State University
-Prior Experience: Summer SDE Internship at Amazon
-Company: Amazon
-Title: Software Engineer I
-Location: Pending, likely Seattle
-Salary: $103k/year
-Relocation/Signing Bonus:
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Sign-on: $26k year 1, $26k year 2
-Relocation:  $10k
-Stock/Bonuses: $65k RSUs over 4 years (back-loaded, 20% vests over first 2 years)
-Total Comp: ~$130k/year + $10k relocation
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -1739,392 +1664,154 @@ Relocation/Housing Stipend: $2500/month housing stipend, upped to $3500/month fo
 ```
 
 ```
-School/Year: State school in SC (top 4 in football tho), Junior
-Prior Experience: 1 on campus, 1 at financial firm in Charlotte
-Company/Industry: Amazon
-Title: SDE Intern
-Location: Seattle
-Duration: 12 weeks
-Salary: $7725/month
-Relocation/Housing Stipend: $2500/mo stipend or corp housing (lose $500/mo from salary)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Somewhere in top 50 CS school (lol)
-Prior Experience: 2 research, 1 internship at med-size company
-Company/Industry: Facebook
-Title: Software Engineering Intern
-Location: Seattle, WA
-Duration: 12 weeks
-Salary: $8000 a month
-Relocation/Housing Stipend: Corporate housing or $1000 stipend a month.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: HFT 
-Title: Software Engineering Intern
-Location: Chicago, IL
-Duration: 10 weeks  ( I think it was? )
-Salary: $10000 a month
-Relocation/Housing Stipend: Luxury apartment housing downtown
-
-Company/Industry: Amazon
-Title: Software Engineering Intern
-Location: Seattle, WA
-Duration: 12 weeks  
-Salary: $7725 a month
-Relocation/Housing Stipend: $2500 stipend or corporate with soe deduction from paycheck
-
-Company/Industry: My Previous intern return offer
-Title: Software Engineering Intern
-Location: Somewhere in the East coast
-Duration: 12 weeks  
-Salary: $32 per hour, no OT allowed
-Relocation/Housing Stipend: just for travel expense, which comes out to around total of $600.
-
-Company/Industry: Golden Ballsach
-Title: Software Engineering Intern
-Location: NYC
-Duration: 10 weeks  
-Salary: $100k prorated 
-Relocation/Housing Stipend: $1500 stipend
-
-Company/Industry: Microstrategy
-Title: Software Engineering Intern
-Location: VA
-Duration: 12 weeks I think it was?
-Salary: was something like $25 per hr  
-Relocation/Housing Stipend: A little bit of bonus or stipend I think
-
-Company/Industry: Capital One
-Title: Software Engineering Intern
-Location: Mclean, VA
-Duration: 10 weeks I think it was?
-Salary: ~$45 per hr 
-Relocation/Housing Stipend: corp housing or $5000 I think it was
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Somewhere in top 50 CS school (lol)
-Prior Experience: 2 research, 1 internship at med-size company
-Company/Industry: Facebook
-Title: Software Engineering Intern
-Location: Seattle, WA
-Duration: 12 weeks
-Salary: $8000 a month
-Relocation/Housing Stipend: Corporate housing or $1000 stipend a month.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: HFT 
-Title: Software Engineering Intern
-Location: Chicago, IL
-Duration: 10 weeks  ( I think it was? )
-Salary: $10000 a month
-Relocation/Housing Stipend: Luxury apartment housing downtown
-
-Company/Industry: Amazon
-Title: Software Engineering Intern
-Location: Seattle, WA
-Duration: 12 weeks  
-Salary: $7725 a month
-Relocation/Housing Stipend: $2500 stipend or corporate with soe deduction from paycheck
-
-Company/Industry: My Previous intern return offer
-Title: Software Engineering Intern
-Location: Somewhere in the East coast
-Duration: 12 weeks  
-Salary: $32 per hour, no OT allowed
-Relocation/Housing Stipend: just for travel expense, which comes out to around total of $600.
-
-Company/Industry: Golden Ballsach
-Title: Software Engineering Intern
-Location: NYC
-Duration: 10 weeks  
-Salary: $100k prorated 
-Relocation/Housing Stipend: $1500 stipend
-
-Company/Industry: Microstrategy
-Title: Software Engineering Intern
-Location: VA
-Duration: 12 weeks I think it was?
-Salary: was something like $25 per hr  
-Relocation/Housing Stipend: A little bit of bonus or stipend I think
-
-Company/Industry: Capital One
-Title: Software Engineering Intern
-Location: Mclean, VA
-Duration: 10 weeks I think it was?
-Salary: ~$45 per hr 
-Relocation/Housing Stipend: corp housing or $5000 I think it was
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Somewhere in top 50 CS school (lol)
-Prior Experience: 2 research, 1 internship at med-size company
-Company/Industry: Facebook
-Title: Software Engineering Intern
-Location: Seattle, WA
-Duration: 12 weeks
-Salary: $8000 a month
-Relocation/Housing Stipend: Corporate housing or $1000 stipend a month.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: HFT 
-Title: Software Engineering Intern
-Location: Chicago, IL
-Duration: 10 weeks  ( I think it was? )
-Salary: $10000 a month
-Relocation/Housing Stipend: Luxury apartment housing downtown
-
-Company/Industry: Amazon
-Title: Software Engineering Intern
-Location: Seattle, WA
-Duration: 12 weeks  
-Salary: $7725 a month
-Relocation/Housing Stipend: $2500 stipend or corporate with soe deduction from paycheck
-
-Company/Industry: My Previous intern return offer
-Title: Software Engineering Intern
-Location: Somewhere in the East coast
-Duration: 12 weeks  
-Salary: $32 per hour, no OT allowed
-Relocation/Housing Stipend: just for travel expense, which comes out to around total of $600.
-
-Company/Industry: Golden Ballsach
-Title: Software Engineering Intern
-Location: NYC
-Duration: 10 weeks  
-Salary: $100k prorated 
-Relocation/Housing Stipend: $1500 stipend
-
-Company/Industry: Microstrategy
-Title: Software Engineering Intern
-Location: VA
-Duration: 12 weeks I think it was?
-Salary: was something like $25 per hr  
-Relocation/Housing Stipend: A little bit of bonus or stipend I think
-
-Company/Industry: Capital One
-Title: Software Engineering Intern
-Location: Mclean, VA
-Duration: 10 weeks I think it was?
-Salary: ~$45 per hr 
-Relocation/Housing Stipend: corp housing or $5000 I think it was
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Somewhere in top 50 CS school (lol)
-Prior Experience: 2 research, 1 internship at med-size company
-Company/Industry: Facebook
-Title: Software Engineering Intern
-Location: Seattle, WA
-Duration: 12 weeks
-Salary: $8000 a month
-Relocation/Housing Stipend: Corporate housing or $1000 stipend a month.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: HFT 
-Title: Software Engineering Intern
-Location: Chicago, IL
-Duration: 10 weeks  ( I think it was? )
-Salary: $10000 a month
-Relocation/Housing Stipend: Luxury apartment housing downtown
-
-Company/Industry: Amazon
-Title: Software Engineering Intern
-Location: Seattle, WA
-Duration: 12 weeks  
-Salary: $7725 a month
-Relocation/Housing Stipend: $2500 stipend or corporate with soe deduction from paycheck
-
-Company/Industry: My Previous intern return offer
-Title: Software Engineering Intern
-Location: Somewhere in the East coast
-Duration: 12 weeks  
-Salary: $32 per hour, no OT allowed
-Relocation/Housing Stipend: just for travel expense, which comes out to around total of $600.
-
-Company/Industry: Golden Ballsach
-Title: Software Engineering Intern
-Location: NYC
-Duration: 10 weeks  
-Salary: $100k prorated 
-Relocation/Housing Stipend: $1500 stipend
-
-Company/Industry: Microstrategy
-Title: Software Engineering Intern
-Location: VA
-Duration: 12 weeks I think it was?
-Salary: was something like $25 per hr  
-Relocation/Housing Stipend: A little bit of bonus or stipend I think
-
-Company/Industry: Capital One
-Title: Software Engineering Intern
-Location: Mclean, VA
-Duration: 10 weeks I think it was?
-Salary: ~$45 per hr 
-Relocation/Housing Stipend: corp housing or $5000 I think it was
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Somewhere in top 50 CS school (lol)
-Prior Experience: 2 research, 1 internship at med-size company
-Company/Industry: Facebook
-Title: Software Engineering Intern
-Location: Seattle, WA
-Duration: 12 weeks
-Salary: $8000 a month
-Relocation/Housing Stipend: Corporate housing or $1000 stipend a month.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: HFT 
-Title: Software Engineering Intern
-Location: Chicago, IL
-Duration: 10 weeks  ( I think it was? )
-Salary: $10000 a month
-Relocation/Housing Stipend: Luxury apartment housing downtown
-
-Company/Industry: Amazon
-Title: Software Engineering Intern
-Location: Seattle, WA
-Duration: 12 weeks  
-Salary: $7725 a month
-Relocation/Housing Stipend: $2500 stipend or corporate with soe deduction from paycheck
-
-Company/Industry: My Previous intern return offer
-Title: Software Engineering Intern
-Location: Somewhere in the East coast
-Duration: 12 weeks  
-Salary: $32 per hour, no OT allowed
-Relocation/Housing Stipend: just for travel expense, which comes out to around total of $600.
-
-Company/Industry: Golden Ballsach
-Title: Software Engineering Intern
-Location: NYC
-Duration: 10 weeks  
-Salary: $100k prorated 
-Relocation/Housing Stipend: $1500 stipend
-
-Company/Industry: Microstrategy
-Title: Software Engineering Intern
-Location: VA
-Duration: 12 weeks I think it was?
-Salary: was something like $25 per hr  
-Relocation/Housing Stipend: A little bit of bonus or stipend I think
-
-Company/Industry: Capital One
-Title: Software Engineering Intern
-Location: Mclean, VA
-Duration: 10 weeks I think it was?
-Salary: ~$45 per hr 
-Relocation/Housing Stipend: corp housing or $5000 I think it was
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Somewhere in top 50 CS school (lol)
-Prior Experience: 2 research, 1 internship at med-size company
-Company/Industry: Facebook
-Title: Software Engineering Intern
-Location: Seattle, WA
-Duration: 12 weeks
-Salary: $8000 a month
-Relocation/Housing Stipend: Corporate housing or $1000 stipend a month.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: HFT 
-Title: Software Engineering Intern
-Location: Chicago, IL
-Duration: 10 weeks  ( I think it was? )
-Salary: $10000 a month
-Relocation/Housing Stipend: Luxury apartment housing downtown
-
-Company/Industry: Amazon
-Title: Software Engineering Intern
-Location: Seattle, WA
-Duration: 12 weeks  
-Salary: $7725 a month
-Relocation/Housing Stipend: $2500 stipend or corporate with soe deduction from paycheck
-
-Company/Industry: My Previous intern return offer
-Title: Software Engineering Intern
-Location: Somewhere in the East coast
-Duration: 12 weeks  
-Salary: $32 per hour, no OT allowed
-Relocation/Housing Stipend: just for travel expense, which comes out to around total of $600.
-
-Company/Industry: Golden Ballsach
-Title: Software Engineering Intern
-Location: NYC
-Duration: 10 weeks  
-Salary: $100k prorated 
-Relocation/Housing Stipend: $1500 stipend
-
-Company/Industry: Microstrategy
-Title: Software Engineering Intern
-Location: VA
-Duration: 12 weeks I think it was?
-Salary: was something like $25 per hr  
-Relocation/Housing Stipend: A little bit of bonus or stipend I think
-
-Company/Industry: Capital One
-Title: Software Engineering Intern
-Location: Mclean, VA
-Duration: 10 weeks I think it was?
-Salary: ~$45 per hr 
-Relocation/Housing Stipend: corp housing or $5000 I think it was
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Somewhere in top 50 CS school (lol)
-Prior Experience: 2 research, 1 internship at med-size company
-Company/Industry: Facebook
-Title: Software Engineering Intern
-Location: Seattle, WA
-Duration: 12 weeks
-Salary: $8000 a month
-Relocation/Housing Stipend: Corporate housing or $1000 stipend a month.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: HFT 
-Title: Software Engineering Intern
-Location: Chicago, IL
-Duration: 10 weeks  ( I think it was? )
-Salary: $10000 a month
-Relocation/Housing Stipend: Luxury apartment housing downtown
-
-Company/Industry: Amazon
-Title: Software Engineering Intern
-Location: Seattle, WA
-Duration: 12 weeks  
-Salary: $7725 a month
-Relocation/Housing Stipend: $2500 stipend or corporate with soe deduction from paycheck
-
-Company/Industry: My Previous intern return offer
-Title: Software Engineering Intern
-Location: Somewhere in the East coast
-Duration: 12 weeks  
-Salary: $32 per hour, no OT allowed
-Relocation/Housing Stipend: just for travel expense, which comes out to around total of $600.
-
-Company/Industry: Golden Ballsach
-Title: Software Engineering Intern
-Location: NYC
-Duration: 10 weeks  
-Salary: $100k prorated 
-Relocation/Housing Stipend: $1500 stipend
-
-Company/Industry: Microstrategy
-Title: Software Engineering Intern
-Location: VA
-Duration: 12 weeks I think it was?
-Salary: was something like $25 per hr  
-Relocation/Housing Stipend: A little bit of bonus or stipend I think
-
-Company/Industry: Capital One
-Title: Software Engineering Intern
-Location: Mclean, VA
-Duration: 10 weeks I think it was?
-Salary: ~$45 per hr 
-Relocation/Housing Stipend: corp housing or $5000 I think it was
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -2165,19 +1852,12 @@ Relocation/Housing Stipend: 6000 one time
 ```Accepted:
 School/Year: Decent Uni in Canada, Junior
 Prior Experience: Internships at local company and Amazon
-Company/Industry: Amazon (returning)
-Title: SDE Intern
-Location: Most likely seattle
-Duration: 12 weeks
-Salary: 7925 USD/month
-Relocation/Housing Stipend: 2500 USD/month
-Other offers:
-Company/Industry: LinkedIn
+Company/Industry: Hedge Fund
 Title: Software Engineering Intern
-Location: Sunnyvale
-Duration: 12 weeks
-Salary: 7800 USD/month
-Relocation/Housing Stipend: Housing provided
+Location: Chicago
+Duration: 4 months
+Salary: 70 USD/hr
+Relocation/Housing Stipend: Provided
 
 ```
 
@@ -2220,26 +1900,33 @@ Relocation/Housing: Relocation covered, $2500-3500/month housing stipend, depend
 ```
 
 ```Offers to date:
-School/Year: Top CS State School / Sophomore
-Prior Experience: 2 previous average internships
-Company/Industry: Amazon (Accepted for Fall '18)
-Title: SDE Intern
-Location: North America 
-Duration: 12 weeks
-Salary: $7725/month
-Relocation/Housing Stipend: Corporate housing(-$300 - $500 per month) or Housing stipend (+$1500/$2500/$3500 per month) + RT Airfare
-Company/Industry: Qualtrics (Accepted for Summer '18)
-Title: SWE Intern
-Location: Seattle
-Duration: 14 weeks
-Salary: $40/hour
-Relocation/Housing Stipend: $1250/month + RT Airfare
-Company/Industry: Uber
-Title: SWE Intern
-Location: San Francisco
-Duration: 12 weeks
-Salary: $43/hour + OT at $65/hour, 10 hours per week of OT without manager approval allowed
-Relocation/Housing Stipend: 1000/month stipend + $300 Uber/UberEats credit per month 
+School/Year: small school in the middle of nowhere, 3/5
+Prior Experience: 2 internships
+Company/Industry: Finance
+Hedge fund you haven't heard of: 
+Title: software developer intern
+Location: nyc
+Duration: summer, 10 weeks
+Salary: 36/hr, 1.5x overtime
+Relocation/Housing Stipend: none
+Goldman Sachs
+Title: summer tech analyst
+Location: nyc
+Duration: summer
+Salary: 100k/yr prorated
+Relocation/Housing Stipend: 1500 one-time
+Fintech startup (< 50 people)
+Title: software developer intern
+Location: nyc
+Duration: summer
+Salary: 100k/yr prorated
+Relocation/Housing Stipend: 7k one-time post tax 
+Optiver
+Title: software developer intern
+Location: chicago
+Duration: summer
+Salary: 9500/mo
+Relocation/Housing Stipend: provided housing
 
 ```
 
@@ -2311,29 +1998,21 @@ Google host matching (ugh)
 ```
 
 ```
-School/Year: Little Ivy / Junior
-Prior Experience: One Fortune 500 internship, contracted to do mobile dev work for a non-profit, teaching assistant at college
- 
-Company/Industry: Amazon (accepted)
-Title: SDE Intern
-Location: TBD
-Duration: 12 weeks
-Salary: $7,725 monthly
-Relocation/Housing: monthly stipend or discounted corporate housing
- 
-Company/Industry: Goldman Sachs
-Title: Technology Summer Analyst
-Location: Jersey City, NJ
-Duration: 10 weeks
-Salary: $100k annualized
-Relocation/Housing: $1,500 one-time housing stipend
- 
-Company/Industry: Capital One
-Title: Software Engineering Intern
-Location: New York, NY
-Duration: 10 weeks
-Salary: $4,100 biweekly
-Relocation/Housing: $6,000 one-time housing stipend
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -2357,44 +2036,59 @@ EDIT: Amazon offer is for returning+MS intern. That's Google's 2018 intern salar
 ```
 
 ```
- School/Year: Top State School, Junior
- Prior Experience: Two internships, one at Amazon
-[Accepted]  Company/Industry: Amazon
- Title: SDE Intern
- Location: Fungible
- Duration: 12 weeks
- Salary: $8000/mo
- Relocation/Housing Stipend: $2500/mo
-Company/Industry: Microsoft
- Title: Software Engineer Intern
- Location: Seattle, WA
- Duration: 12 weeks
- Salary: $7250/mo
- Relocation/Housing Stipend: $4000 one-time lump sum
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
- School/Year: Top State School, Junior
- Prior Experience: Two internships, one at Amazon
- Company/Industry: Amazon
- Title: SDE Intern
- Location: Fungible, but will choose Austin, TX
- Duration: 12 weeks
- Salary: $8000/mo
- Relocation/Housing Stipend: $2500/mo
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Top 3 CS school in Canada, 3rd year
-Prior Experience: None
-Company/Industry: Amazon
-Title: SDE Intern
-Location: Vancouver, BC
-Duration: 12 weeks
-Salary: 6975 CAD
-Relocation/Housing Stipend: 2500 USD or Corporate housing (-500 USD)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -2433,16 +2127,21 @@ Total comp: hard to say with non-liquid RSU's and high variance bonuses, but my 
 ```
 
 ```
-Education: Top 5
-Prior Experience: hired out of college
-Company/Industry: Amazon
-Title: SDE2
-Tenure length: 4 years
-Location: Seattle, WA
-Salary: 135k
-Relocation/Signing Bonus: n/a
-Stock and/or recurring bonuses: 110k
-Total comp: 245k
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -2459,30 +2158,40 @@ Cambridge is probably one of the nicest places to live in the world.
 ```
 
 ```
-Education: Target school
-Prior Experience: multiple internships. 
-Company/Industry: Amazon
-Title: Software Development Engineer
-Tenure length: New Grad
-Location: Seattle
-Salary: $106,000
-Relocation/Signing Bonus: 35.5k Year 1, 30.5k Year 2
-Stock and/or recurring bonuses: 65k over 4 years, backloaded 5%, 15%, 40%, 40%
-Total comp: ~ 145k for first 2 years
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: Big 10 public university
-Prior Experience: 1 internship
-Company/Industry: Amazon
-Title: Software Development Engineer
-Tenure length: New Grad
-Location: Minneapolis
-Salary: $106,000
-Relocation/Signing Bonus: 35.5k Year 1, 30.5k Year 2
-Stock and/or recurring bonuses: 65k over 4 years, backloaded 5%, 15%, 20%, 20%
-Total comp: $145,000
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -2501,17 +2210,22 @@ Total comp: $145,000
 ## facebook
 
 ```
-Education: Bachelors, foreign
-Prior Experience: 3 years
-Company/Industry: facebook
-Title: SWE
-Tenure length: 4 years
-Location: Bay area
-Salary: ~250K
-Stock and/or recurring bonuses: ~750k
-Total comp: ~1.05 M
-​
-edit: fixed years of experience (prior not total)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```Education: BCS @ UWaterloo
@@ -2550,17 +2264,21 @@ Total comp: 163k, soon to be 218k
 ```
 
 ```
-Education: Top-1 CS Institvte
-Prior Experience: Unicorn, HFT
-Years of Experience: 7
-Company/Industry: Decacorn
-Title: Software Engineer (according to levels.fyi, my level is equivalent to Facebook E6/E7)
-Tenure length: 2 years
-Location: Seattle
-Salary: $210k
-Relocation/Signing Bonus: N/A
-Stock and/or recurring bonuses: In 2019, I will vest $565k in RSUs; 20% annual bonus; significant one-time performance, spot, and discretionary bonuses so far in 2019
-Total comp: $887k
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -2589,58 +2307,59 @@ Started with a FB return offer from the summer, and only interviewed at places w
 ```
 
 ```
-Education: BS in CS and Physics, university not special
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-Intern at Google
-Physics research for Large Hadron Collider
-Company/Industry: Facebook
-Title: SWE 3
-Location: Menlo Park, CA
-Salary: $110k base + 10% target bonus
-Relocation/Signing Bonus: 10k relocation, 25k signing
-Stock and/or recurring bonuses: 150k over 4 years
-Total comp: ~160k
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Sophomore, Top 10 CS school
-Prior Experience: A few graphic design internships
-​
-Facebook
-Title: Product Design Intern
-Location: Seattle, WA
-Duration: 12 weeks
-Salary: $8000/month
-Relocation/Housing Stipend: Corporate housing (or stipend), paid relocation (+$300 for shipping things)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Junior at Top 15/20 school
-Prior Experience: Not great Internship after Freshman Year in home country, decent internship after Sophomore Year at a small-medium company
- 
-Company/Industry: Return offer from Sophomore internship
-Title: SWE Intern
-Location: Chicago, IL
-Duration: 12 weeks
-Salary: ~$4000/month
-Relocation/Housing Stipend: Corporate housing
- 
-Company/Industry: Microsoft
-Title: SWE Intern
-Location: Redmond, WA
-Duration: 12 weeks
-Salary: $7300/month
-Relocation/Housing Stipend: Corporate Housing or $7000 for the entire duration
- 
-Company/Industry: Facebook
-Title: SWE Intern
-Location: Menlo Park/SF, CA
-Duration: 12 weeks
-Salary: $8000/month
-Relocation/Housing Stipend: Corporate Housing or variable stipend 
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -2653,16 +2372,22 @@ It's standart as far as I know.
 ```
 
 ```
-Education: BS CS from state school (not super high ranked)  
-Prior Experience: first job  
-Company/Industry: Facebook  
-Title: Software Engineer  
-Tenure length: 7 years  
-Location: Menlo Park  
-Salary: ~$250k  
-Stock and/or recurring bonuses: ~$400k stock (at grant time, so excluding growth), ~$80k bonus last year  
-Total comp: ~$730k (W2 is higher because of growth in stock price but I don't count that as "comp" since it's variable)
-​
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```• Education: BS in CS from a top 20 university for CS 
@@ -2678,18 +2403,22 @@ Total comp: ~$730k (W2 is higher because of growth in stock price but I don't co
 ```
 
 ```
-Education: MS in CS
-Prior Experience: 13 years
-Company: Google
-Title: Site Reliability Engineer (L5)
-Tenure: 2 months
-Location: SF Bay Area
-Salary: $170K
-Signing bonus: $50K
-Bonus target: 15% ( = $25,500)
-Stock: $100K/year (4 year grant, monthly vesting)
-Total comp: $295.5K
-I also had an offer from Facebook that was nearly identical; the only difference was that it lacked a signing bonus. I picked Google for two reasons: first, the commute is significantly easier for me; second, I got to pick a team to work on before signing the offer. Facebook does this boot camp thing where you spend your first few weeks finding a team to join. I'm sure it works out well for lots of people, but the risk of getting stuck on something boring was too much for me.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```Education: BS in NanoEngineering
@@ -2705,38 +2434,21 @@ Total comp: 351k first year, 251k recurring
 ```
 
 ```
-School/Year: Junior, no-name state school in the southern US.
-Prior Experience: 2 prior internships.
-Facebook
-Title: SWE Intern
-Location: Menlo Park, CA
-Duration: 12 weeks
-Salary: $8000/month
-Relocation/Housing Stipend: Corporate Intern Housing + free meals.
-Uber
-Title: SWE Intern
-Location: San Francisco, CA
-Duration: 12 weeks
-Salary: $44/hr
-Relocation/Housing Stipend: $1000/month + $200/month in Uber credits + free meals.
-LinkedIn
-Title: SWE Intern
-Location: Sunnyvale, CA
-Duration: 12 weeks
-Salary: $45/hr
-Relocation/Housing Stipend: Corporate Intern Housing or $6000 one time stipend + free meals.
-Nextdoor
-Title: SWE Intern
-Location: San Francisco, CA
-Duration: 12 weeks
-Salary: $7500/month
-Relocation/Housing Stipend: $1500/month housing stipend.
-Walmart Labs (return offer):
-Title: SWE Intern
-Location: Sunnyvale, CA
-Duration: 14 weeks
-Salary: $6400/month
-Relocation/Housing Stipend: Corporate Intern Housing or $1600/month housing stipend.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -2790,22 +2502,21 @@ Relocation/Housing Stipend: Provided housing (with additional perks of working a
 ```
 
 ```
-Education: Top 20 CS University in the US
-Prior Experience: SWE Internships at Google, Quora, Facebook (+ a cloud backup company no one has heard of)
-Facebook (Accepted)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Location: Menlo Park
-Salary: $110k + 10% target bonus (up to 30% based on perf)
-Relocation/Signing Bonus: $100k signing + $10k relocation
-Stock: $220k/4 years (RSU)
-Total comp: $286k year one + $175k/year after or ~$200k/year amortized over 4 years
-Quora
-Title: Software Engineer
-Location: Mountain View
-Salary: $125k
-Relocation/Signing Bonus: $25k signing
-Stock: $175k/4 years (Options, after strike price)
-Total comp: $194k year one + $170k/year after or ~$176k/year amortized over 4 years
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -2841,15 +2552,21 @@ Nothing surprising, but just a general heads up that FB's intern offer isn't cha
 ```
 
 ```
-Education: dropout unranked state school
-Prior Experience: SWE intern @ FB
-Company/Industry: Facebook
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Location: Silicon Valley
-Salary: $110k
-Relocation/Signing Bonus: $10k/$75k
-Stock and/or recurring bonuses: $150k over 4 years. 10% bonus. 
-Total Comp: $232k first year. $144k after that.
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -2875,30 +2592,40 @@ Relocation/Housing Stipend: Corporate housing or 1000$/month
 ```
 
 ```
-School/Year: MSc CS, 1 year before graduation, German technical university, Top4 in the country
-Prior Experience: 1 year at CERN as technical student (something in between an intern and a first job, fulltime)
-Company/Industry: Facebook
-Title: Software Engineering Intern
-Location: London
-Duration: 12 weeks
-Salary: £4,400/month (pre-taxes)
-Relocation/Housing Stipend: £700 housing stipend or corporate housing (everyone chooses corp.), relocation with a company, all expenses (flight, transport, etc) paid, nothing else
-
-```
-
-```
-Education: Cornell
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-2 prior internships at Facebook
-Company/Industry: Facebook
-Title: Software Engineer, E5
-Tenure length: 2 years
-Location: New York
-Salary: $180k
-Relocation/Signing Bonus: $75k (new grad, returning internship)
-Stock and/or recurring bonuses: ~$400k unvested stock, ~$30k bonus
-Total comp: ~$330k
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -2986,15 +2713,21 @@ Negotiated both offers, both increased signing bonuses (75K -> 100K, 0 -> 25K ->
 ```
 
 ```
-Education: BSc, shitty university from the third-world country named Kyrgyzstan, low GPA
-Prior Experience: 1 year
-Company/Industry: Facebook
-Title: Software Engineer E3
-Location: London, UK
-Salary: 70,000 GBP
-Relocation/Signing Bonus: 10,000 GBP signup + 10,000 GBP relocation
-Stock and/or recurring bonuses: 10% target bonus, 80,000 USD RSUs (4 years, 1 year cliff)
-Total comp: 95,000 GBP (first year) + relocation + target
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -3013,173 +2746,181 @@ Total comp: 95,000 GBP (first year) + relocation + target
 ## riot games
 
 ```
-School/Year: Top 10 EE School
-Company/Industry: Riot Games
-Title: SWE Intern
-Location: Los Angeles, CA
-Duration: 12 Weeks
-Salary: $9000/month
-Relocation/Housing Stipend: Company housing, free meals, etc. 
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## sony
 
 ```
-Education: BS CS at UCLA
-Prior Experience: 1 semester internship at a WordPress web dev shop. 1 summer internship at DirecTV. 1 yr at mid sized marketing company. 2 years at MVNO start up. 1.5 years at Sony Interactive.
-Company/Industry: Sony Interactive Entertainment
-Title: Software Engineer II
-Tenure length: 1.5 years
-Location: LA
-Salary: 120k 
-Relocation/Signing Bonus: None
-Stock and/or recurring bonuses: 10%+ annual bonus
-Total comp: 140k plus good benefits
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## credit karma
 
 ```
-School/Year: University of Waterloo (4th year CS)
-Prior Experience: 2 startups, Bay Area tech
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Salesforce (Accepted)
-Title: SWE Intern
-Location: San Francisco, CA
-Duration: 16 weeks
-Salary: $48.37/hr or $8.4k/month
-Relocation/Housing Stipend: $16,400 ($4100/month) (covers flights + housing)
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
-Company/Industry: Credit Karma
-Title: SWE Intern
-Location: San Francisco, CA
-Duration: 16 weeks
-Salary: $45/hr or $7.8k/month
-Relocation/Housing Stipend: $1000/month
----​
-Company/Industry: Uber ATG
-Title: SWE Intern
-Location: Pittsburgh, PA
-Duration: 15 weeks
-Salary: $44.15/hr or $7.7k/month
-Relocation/Housing Stipend: $1000/month
-​
 ```
 
 ```
-School/Year: University of Waterloo (4th year CS)
-Prior Experience: 2 startups, Bay Area tech
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Salesforce (Accepted)
-Title: SWE Intern
-Location: San Francisco, CA
-Duration: 16 weeks
-Salary: $48.37/hr or $8.4k/month
-Relocation/Housing Stipend: $16,400 ($4100/month) (covers flights + housing)
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
-Company/Industry: Credit Karma
-Title: SWE Intern
-Location: San Francisco, CA
-Duration: 16 weeks
-Salary: $45/hr or $7.8k/month
-Relocation/Housing Stipend: $1000/month
----​
-Company/Industry: Uber ATG
-Title: SWE Intern
-Location: Pittsburgh, PA
-Duration: 15 weeks
-Salary: $44.15/hr or $7.7k/month
-Relocation/Housing Stipend: $1000/month
-​
 ```
 
 ```
-School/Year: Rising Senior, target Canadian School
-Prior Experience: 5 coops, 2 times in Canada, 1 time in Boston, 2 times in the bay area
-Company 1
-Company/Industry: Uber
-Title: Software Engineering Intern
-Location: San Francisco
-Duration: 16 weeks
-Salary: 43.24/hr
-Relocation/Housing Stipend: 1000/mo
-Company 2
-Company/Industry: Yelp
-Title: Software Engineering Intern
-Location: San Francisco
-Duration: 16 weeks
-Salary: 46/hr
-Relocation/Housing Stipend: 1500/mo
-Company 3
-Company/Industry: Credit Karma
-Title: Software Engineering Intern
-Location: San Francisco
-Duration: 16 weeks
-Salary: 45/hr
-Relocation/Housing Stipend: none
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## slack
 
 ```
-Education: Bachelors in Computer Science, state uni, a GPA I don't put on resumes.
-Prior Experience: 19 years
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Startup
-Big 4
-Unicorn
-Company/Industry: FFFFFFFFFFFFFF
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Tenure length: ~1 year
-Location: Seattle
-Salary: ~220k
-Relocation/Signing Bonus:  ~1200k equity, no signing.
-Stock and/or recurring bonuses: 400k RSU / year, 25% bonus target
-Total comp: ~600k 
-​
-levels.fyi is generally pretty accurate, much better then glassdoor.
-​
-Career progression is inconsistent with bursts followed by slack - I kept expecting to cap out, but there was always something more to do. Kept doing it. Gonna keep doing it, and buy a nicer car.
-```
-
-```
-School/Year: Top public school, Junior
-Prior Experience: Low-key unicorn
-Company/Industry: Slack
-Title: SWE Intern
-Location: SF
-Duration: 12 weeks
-Salary: 50/hr (~8.5k/mo)
-Relocation/Housing Stipend: 2k/mo + flights/commute
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: East coast public university, Junior
-Prior Experience: 1 internship at fortune 500 company
-Company/Industry: Slack
-Title: Software Engineer Intern
-Location: San Francisco
-Duration: 12 weeks
-Salary: $50/hr
-Relocation/Housing Stipend: $2000/ month
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## little labs
 
 ```
-School/Year: Sophomore @ Puerto Rico
-Prior Experience: MITRE (federal contractor), by then MIT Lincoln Labs and Rockwell Collins (now Collins Aerospace)
-Company/Industry: Leidos
-Title: Software Coop Intern
-Location: Reston, VA
-Duration: 6 months
-Salary: $26/hr
-Relocation/Housing Stipend: salary was bumped up a little to help with housing costs, but besides that none.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -3188,19 +2929,33 @@ Relocation/Housing Stipend: salary was bumped up a little to help with housing c
 ```School/Year: Target Canadian school
 Prior Experience: 3 internships
 Company 1:
-Company/Industry: Shopify
-Title: Software Developer Intern
-Location: Ottawa
+Company/Industry: Uber
+Title: Software Engineering Intern
+Location: San Francisco
 Duration: 16 weeks
-Salary: $33/hr
-Relocation/Housing Stipend: Housing program (-$800/month)
+Salary: $44/hr, eligible for overtime
+Relocation/Housing Stipend: $1000/month, 17% off Uber, $200 in Uber credits
 Company 2:
-Company/Industry: PagerDuty
-Title: Software Developer Intern
-Location: Toronto
+Company/Industry: Yahoo/Oath
+Title: Software Engineering Intern
+Location: Sunnyvale
 Duration: 16 weeks
-Salary: $6250/month
-Relocation/Housing Stipend: N/A
+Salary: $41/hr, eligible for overtime
+Relocation/Housing Stipend: $6000 one-time bonus
+Company 3:
+Company/Industry: Redfin
+Title: Software Engineering Intern
+Location: Seattle
+Duration: 16 weeks
+Salary: $1880/week
+Relocation/Housing Stipend: $1000 relocation + $1500/month housing
+Company 4:
+Company/Industry: Yext
+Title: Software Engineering Intern
+Location: New York
+Duration: 16 weeks
+Salary: $7700/month
+Relocation/Housing Stipend: $10,000 one-time bonus
 
 ```
 
@@ -3220,36 +2975,34 @@ Total comp: 100k first year, ~93k from then on.
 ```
 
 ```
-School/Year: Community College, Freshman
-Prior Experience: Web Development
-Internship 1
-Company/Industry: Intel
-Title: Internal Application Developer
-Location: Folsom
-Duration: 8 months
-Salary: 24/hour
-Internship 2 (Begin Q1 of next year)
-Company/Industry: Intel
-Title: Automation Application Developer
-Location: Folsom
-Duration: 8 months
-Salary: 31/hour
-Currently working in the first position. Begin the 2nd in February.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ## drop
 
 ```Education: BS in CS
-Prior Experience: 25+ years
-Company/Industry: AWS
-Title: Principal (L7)
-Tenure length: 3 years
-Location: Seattle
-Salary: $160K
-Relocation/Signing Bonus: N/A
-Stock and/or recurring bonuses: $1.5M
-Total comp:$1.7M
-Initial offer in 2015 was $500K TC when the stock price was 370ish. My comp will drop down to somewhere around there when the initial 4 year RSUs run out.
+Prior Experience: 2 SWE internships at a startup and a 3 person company
+Company: Microsoft
+Title: SWE
+Location: Redmond, WA
+Salary: 119k after raise/promotion last fall, started at 107k
+Tenure: 1.5 years
+Total Comp: ~155k if target bonus, includes ~23k of stock vest
 ```
 
 ```Education: none/college drop out/self taught
@@ -3291,35 +3044,42 @@ Relocation/Housing Stipend: $1,500/mo, but I live too close to qualify
 ## grab
 
 ```
-Education: MS in CS from a state school
-Prior Experience: 3 internships with Midwestern tech companies, 3 school internships
-Company/Industry: Big Data
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Tenure length: ?
-Location: Bay Area
-Salary: $120,000
-Relocation/Signing Bonus: $10,000
-Stock and/or recurring bonuses: 500 RSUs, performance bonus 10% of salary
-Total comp: 194k / 4 years
-I did not go to a highly prestigious school, but employers don't care about that if you have experience. Internships get you the practical knowledge that schools don't cover, so try to grab as many as you can.
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ## braintree
 
 ```
-Education: CS dropout from a community college
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
-6 Month internship at a valve and gate manufacturing company.
-1 year working as a Web Developer.
-1 year working as a Software Engineer for an ad-tech startup.
-Company/Industry: Braintree Payments (PayPal)
-Title: Software Engineer, Level 23
-Tenure length: 2 years.
-Location: San Francisco, CA
-Salary: 127k
-Relocation/Signing Bonus: 7k
-Stock and/or recurring bonuses: 10k stock, 12k bonus
-Total comp: 149k, I feel like I'm massively underpaid for 4 years industry experience.
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -3337,15 +3097,21 @@ Salary: $28/hour
 ## ge healthcare
 
 ```
-Education: BIG TEN school
-Prior Experience: 2 internships and a couple of part time developer jobs
-Company/Industry: GE Healthcare
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Location: Waukesha, WI
-Salary: 81k
-Relocation/Signing Bonus: 4k
-Stock and/or recurring bonuses: I have no idea, didn't look closely
-Total comp: 85k
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -3394,14 +3160,21 @@ Relocation/Housing Stipend: $9000 one time
 ```
 
 ```
-School/Year: Georgia Tech / Rising 2nd year
-Prior Experience: Founded tiny SaaS startup with a friend
-Company/Industry: Google
-Title: SWE Intern
-Location: Silicon Valley
-Duration: 14 Weeks
-Salary: $7500/mo
-Relocation/Housing Stipend: $9000
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -3414,17 +3187,22 @@ Relocation: $9k one-time (minus taxes, so more like 4.5-5k)
 ```
 
 ```
-Education: A state school in California  
-Prior Experience: Internship at a media company  
-Company/Industry: Google  
-Title: Software Engineering Resident  
-Tenure length: 1 year  
-Location: Mountain View, CA  
-Salary: 112,000  
-Relocation/Signing Bonus: 10,500 / 15,000  
-Stock and/or recurring bonuses: N/A  
-Total comp: 137,500
-EDIT: 15,000 is a completion bonus after one year, not quite a signing bonus
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```Education: Graduated UC Santa Cruz last June with double major Math and Computer Science. 3.91 GPA. 
@@ -3577,45 +3355,36 @@ Total comp: 245K + 401k, perks, etc.
 ```
 
 ```
-Education: BSCS from a state school in the southeast
-Prior Experience: 2 semesters of a co-op, 6 months of full-time experience before this new job
-Company/Industry: Small enterprise software company 
-Title: Software Engineer 
-Tenure length: <1 month
-Location: Denver
-Salary: $80k
-Relocation/Signing Bonus: $3k relocation 
-Stock and/or recurring bonuses: 5-10% annual cash bonus, performance based, 3% 401k match 
-Total comp: $85-90k, depending on bonus 
-There's definitely a lot of room for growth in the next few years with a bigger company in Colorado, but coming from the middle of nowhere I'm just really pleased to be in an area that has a presence from companies like Google or Uber or VMWare after going to a terrible school really far from any major tech hub. Taking this new job was probably the single biggest step I'll make in my career, since I expect I'll only want to job hop within the Denver/Boulder area for the rest of my career. 
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```Education: BS CS
-Prior Experience: Google, Unicorn, Hedge Fund
-Did a lot of recruiting and negotiation. Got some very strong offers from financial firms which then other companies matched. These were the most notable offers, though received some from startups as well.
-Small HFT Firm (accepted):
-Location: NYC
-Position: Quant Dev
-Salary: $150k
-Signing bonus: $150k
-Minimum Yearly Bonus: $100k
-Total comp: $400k year 1, then $250k
-Hedge Fund (return intern):
-Location: Chicago
-Position: Quant
-Salary: $150k
-Signing bonus: $150k
-Minimum Yearly Bonus: $100k
-Total comp: $400k year 1, then $250k
-Google (return intern):
-Location: NYC
-Position: SWE
-Salary: $116k
-Relocation/Signing Bonus: $75k
-Stock: $300k/4 years
-Recurring Bonus: 15% target bonus
-Total comp: $283k first year, then 208k after
-
+Prior Experience: 10 years
+--Internship 1 year
+--RealJob 9 years
+Company/Industry: media
+Title: senior software engineer
+Tenure length: 10 months
+Location: DC
+Salary: $125,000
+Relocation/Signing Bonus: $10,000
+Stock and/or recurring bonuses: 0
+Total comp: $135,000
 ```
 
 ```School: UCSD (top 10 ish CS school), BS/MS
@@ -3709,61 +3478,59 @@ Had an offer coming from Atlassian, but they basically said they couldn't match.
 ```
 
 ```
-Education: /r/RPI, BS CSCI, 7 semesters total
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
-Assorted open source work
-Undergraduate TA for CSCI course, 5 semesters
-Full-Stack SWE @ Tripadvisor, Summer '17
-Productioner Engineer Intern @ Facebook, Summer '18
 
-Offers:
-Google (Accepted)
-Title: Site Reliability Engineer (Software)
-Location: Mountain View
-Salary: 120k
-Signing Bonus: 15k
-Relocation: 11k
-Stock and/or recurring bonuses: 100k stock (vests over 4 years), 15% target bonus/year
-Total comp: 162k/yr + 26k signing/relocation
-Microsoft
-Title: SWE
-Location: Redmond
-Salary: 109k
-Signing Bonus: 25k
-Relocation: 7k
-Stock and/or recurring bonuses: 70k stocks (vests over 4 years), 10% target bonus/year
-Total Comp: 137k/yr + 32k signing/relocation
-I've been aiming for Google for a while, mostly since I'm trans and they have the best trans benefits in the industry - that'll be worth about another 10k/year or so alone.
-Didn't really negotiate with Google since I graduate in a couple weeks and don't have the time for the back-and-forth.
-```
-
-```
-Education:  BS CS @ Top 10 US CS University
-Prior Experience: 
-1st internship: small company, doing full stack web/mobile development
-2nd internship: medium sized tech company known in the Seattle area, doing backend Python programming working with hardware
-Google
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Location: Seattle, WA
-Total comp: $146k/yr
-Salary: $108k + 15% bonus
-Stock: $90k over 4 years
-Signing: $0
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: University of California
-Prior Experience: Internship at Big 4, 2 more internships
-Company/Industry: Google
-Title: Engineering Resident
-Tenure length: Starting Fall 2019 - 12 months fixed term
-Location: Mountain View
-Salary: 112,000
-Relocation/Signing Bonus: No signing bonus, No relocation bonus bc i live close by
-Stock and/or recurring bonuses: 15k upon completion OR converting to FT after 6 mos.
-Total comp: 127,000
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -3781,17 +3548,22 @@ Total comp: $187,300 first year, $167,300 recurring
 ```
 
 ```
-Education: BA in CS @ Ivy
-Prior Experience: 1 year @ other Big 4
-Company/Industry: Google
-Title: Software Engineer (SWE)
-Tenure length: Haven't started
-Location: Seattle
-Salary: $116k
-Relocation/Signing Bonus: $20k
-Stock and/or recurring bonuses: $198k RSUs over 4 years, 15% target bonus
-Total comp: $183k + $20k signing bonus
-Not technically a new grad (1 YoE), but I fall under the criteria. No competing offers. Signing bonus was negotiated up from $10k, and I think I could've squeezed in another $5 - 10k, cuz the negotiation process was pretty painless.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```Education: BS Software Engineering (target school I guess? Google and MS recruit there)
@@ -3807,62 +3579,60 @@ Same company paid the bulk of my tuition, so if left I would have to repay ~30K.
 ```
 
 ```
-School/Year: Freshman, T5
-Prior Experience: 2 startups, gov internships
-***
-Company/Industry: Oil
-Title: SWE Intern
-Location: Bay Area
-Duration: 12 weeks
-Salary: $3900/month
-Relocation/Housing Stipend: $2000/month housing + ~$1000 relocation/misc one-time stipend
-***
-Company/Industry: Google 
-Title: SWE Intern
-Location: Sunnyvale, CA
-Duration: 14 weeks
-Salary:  $7000/month
-Relocation/Housing Stipend: $9000 total
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Large, well-known private university, junior  
-Prior Experience: Lots of nonprofits, mid-sized company last summer
-​
-Company/Industry: Google (edit: accepted!)  
-Title: Technical Program Manager Intern  
-Location: Mountain View, CA  
-Duration: 13 weeks  
-Salary: $1538/wk (~$20k summer)  
-Relocation/Housing Stipend: $9000
-​
-Company/Industry: Midsized startup  
-Title: SWE Intern  
-Location: Boston, MA  
-Duration: 10 weeks  
-Salary: $4000/mo  
-Relocation/Housing Stipend: none
-The Google offer was a huge surprise to me. Never thought I'd actually be able to score an internship (yay imposter syndrome!)
-​
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```
-School/Year: Northeastern University, Sophomore
-Prior Experience: 2 bay area internships, one start up, one 170~ person fitness company. 5 years Android dev experience.
-Company/Industry: Google (ACCEPTED)
-Title: Software Engineer Intern
-Location: NYC
-Duration: 14 Weeks
-Salary: $43.5/hr
-Relocation/Housing Stipend: 12k signing bonus, so like 4k per month for housing.
-Company/Industry: Squarespace
-Title: Software Engineer Intern
-Location: NYC
-Duration: 11 Weeks
-Salary: $45/hr
-Relocation/Housing Stipend: Either cooperate housing in Brooklyn or 1.5k/month.
-TBH I really wanted to go with Squarespace due to a much more personalized interview process. I connected more with them, people were friendlier, had my own say what I wanted to focus on. But Google sets me up for life and had better dates for me so I went with that.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```School: Freshman at Morehouse College
@@ -3885,79 +3655,117 @@ Relocation / Housing Stipend: 7200 CHF
 ```
 
 ```
-Education: BS in Physics
-Prior Experience: 5 years
-Company/Industry: Google
-Title: Software Engineer
-Tenure length: 0
-Location: Seattle
-Salary: 140k
-Relocation/Signing Bonus: 30k signing bonus
-Stock and/or recurring bonuses: 15% target bonus, 260k in stock
-Total comp: 256k first year, 226k recurring
-
-```
-
-```
-Education: BEng, PhD
-Prior Experience: 2 Years SWE, 2 Years CTO @ startup + many years of open source contributions and side projects.
-Company/Industry: Google
-Title: SWE
-Tenure length: 2 years
-Location: Mountain View
-Salary: $175k
-Stock and/or recurring bonuses: 15% target (~$26k), ~$200k GOOG vesting per year.
-Total comp: $406k this year ($340k last year, promoted to L+1 start of this year).
-
-```
-
-```
-Education: BS in Biomedical Engineering
-Prior Experience: 2 years in a small ad-tech company in NYC
-Company/Industry: Google
-Title: Software Engineer
-Tenure length: 0
-Location: Mountain View
-Salary: 125k
-Relocation/Signing bonus: 10k/20k
-Stock: 15% target bonus, 160k stock vesting over 4 years
-Total comp: ~190k/year (accounting for growth in stock price)
-
-```
-
-```
-Education: BS EE + CS (double major)
-Prior Experience: 5yrs at a microscopic-sized company
-Company/Industry: BigN
-Title: Equiv. to T4 at Google or high-E4/low-E5 at FB
-Tenure length: new job
-Location: Bay area
-Salary: $185K + 10-15% performance bonus
-Relocation/Signing Bonus: $50K
-Stock and/or recurring bonuses: $360K
-Total comp: $298K (+ $50K signing bonus)
-
-```
-
-```
-Education: BS in CS from top 10 public university 
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-Summer internship abroad
-Company/Industry: Google
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Location: Bay Area
-Salary: 117,000
-Relocation/Signing Bonus: 10k relo 15k signing
-Stock and/or recurring bonuses: 100k RSU over 4 years (25k/y). Yearly refresh. 15% target bonus 
-Total comp: ~159,000
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Google Tokyo pays around $75,000 USD starting and only about $40k per year in stock on a two or three year vest depending on internships. Their salary in Tokyo is definitely lower. Not sure about experienced.
-Still at the very top of the local market.. 
-For comparison, Google London starting salary is ~£50-55k base, ~£20k vesting stock and ~15% bonus for a TC of: ~£80k. The average grad in London makes £25-45k starting at normal to above average companies.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```Education: B.S. in Computer Science at no-name private University in the midwest
@@ -3976,28 +3784,40 @@ I also got an offer from the options prop trading firm for about 115K total comp
 ```
 
 ```
-Education: Comp Sci B.S. from average/below-avg uc
-Prior Experience: Two internships
-Company/Industry: Google
-Title: SETI
-Location: Mountain View
-Salary: 116,000
-Relocation/Signing Bonus: 15,000
-Stock and/or recurring bonuses: 100k/4yr @ 25%
-Total comp: 172k first year, 156.4k recurring.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: BA Computer Science  
-Prior Experience: A known Open Source Software Project  
-Company/Industry: Google  
-Title: Engineering Resident  
-Location: NYC  
-Salary:108k  
-Relocation/Signing Bonus: 0 (I'm from NYC, so if I was from outside the city I would have been offered a relocation bonus)  
-Stock and/or recurring bonuses:15k  
-Total comp:123k
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -4012,14 +3832,21 @@ Relocation: 7200 pounds
 ```
 
 ```
-School/Year: PhD student
-Prior Experience: 0
-Company/Industry: Google
-Title: SWE Intern
-Location: Mountain View
-Duration: 14 weeks
-Salary: $2000 / week
-Relocation/Housing Stipend: $10000
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -4084,15 +3911,22 @@ In reality my compensation this year will be closer to 250K, and likely approach
 ```
 
 ```
-School/Year: incoming 3rd year, Midwestern flagship state school (not known for CS)
-Prior Experience: internship at oil company, 1 year research, TAing 
-Company/Industry: Google
-Title: Software Engineering Intern
-Location: Mountain View, CA
-Duration: 13 weeks
-Salary: 43/hr
-Relocation/Housing Stipend: lump sum of 9000 pretax (45% initially withheld)
-edit: This is for fall 2018
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```School/Year: no name State school
@@ -4127,33 +3961,40 @@ Relocation: None, local employer
 ```
 
 ```
-School/Year: Drexel University, Sophomore
-Prior Experience: 1 startup, research 
-Company: Google 
-Title: Engineering Practicum Intern
-Location: Mountain View, CA 
-Duration: 3 months 
-Salary: $33.65/hr 
-Relocation: $9,000
-Second company: 
-Company: Bristol Myers Squibb
-Title: Software Engineering Intern
-Location: Princeton, NJ
-Duration: 2.5 months
-Salary: $23.65/hr 
-Relocation: $250 for traveling stipend
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: UK polytechnic for BSc CS, currently on placement year
-Prior Experience: Halfway through 1 year software dev placement with government science research institute (salary: ~£18,000/year)
-Company/Industry: Google
-Title: Software Engineering Intern
-Location: Paris
-Duration: 3 months
-Salary: 3000 euro/month
-Relocation/Housing Stipend: 5400 euro relocation, no housing
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -4189,113 +4030,103 @@ Total comp: $273,000 first year, $162,000 per year after
 ```
 
 ```
-Education: Ivy
-Company/Industry: Google
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Location: Bay
-Salary: 116 + 15%
-Relocation/Signing Bonus: 75
-Stock and/or recurring bonuses: 360/4
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
-Company/Industry: Lyft
-Title: Software Engineer
-Location: Bay
-Salary: 135
-Relocation/Signing Bonus: 60
-Stock and/or recurring bonuses: 250/4 * whatever discount pct
-
-Company/Industry: Trading
-Title: Trader
-Location: NYC
-Salary: 150
-Relocation/Signing Bonus: 50
-Stock and/or recurring bonuses: 50
-
-Also had a couple of startups (and FB) that were much lower. They didn't negotiate so I dropped them.
 ```
 
 ```
-Education: Ivy
-Company/Industry: Google
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Location: Bay
-Salary: 116 + 15%
-Relocation/Signing Bonus: 75
-Stock and/or recurring bonuses: 360/4
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
-Company/Industry: Lyft
-Title: Software Engineer
-Location: Bay
-Salary: 135
-Relocation/Signing Bonus: 60
-Stock and/or recurring bonuses: 250/4 * whatever discount pct
-
-Company/Industry: Trading
-Title: Trader
-Location: NYC
-Salary: 150
-Relocation/Signing Bonus: 50
-Stock and/or recurring bonuses: 50
-
-Also had a couple of startups (and FB) that were much lower. They didn't negotiate so I dropped them.
 ```
 
 ```
-Education: Ivy
-Company/Industry: Google
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Location: Bay
-Salary: 116 + 15%
-Relocation/Signing Bonus: 75
-Stock and/or recurring bonuses: 360/4
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
-Company/Industry: Lyft
-Title: Software Engineer
-Location: Bay
-Salary: 135
-Relocation/Signing Bonus: 60
-Stock and/or recurring bonuses: 250/4 * whatever discount pct
-
-Company/Industry: Trading
-Title: Trader
-Location: NYC
-Salary: 150
-Relocation/Signing Bonus: 50
-Stock and/or recurring bonuses: 50
-
-Also had a couple of startups (and FB) that were much lower. They didn't negotiate so I dropped them.
 ```
 
 ## adobe
 
 ```
-Education: B.S. in CS from a top 5 uni, but not a top CS program. 3.0 GPA.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-1 internship at a local investment management firm in Ohio for $12/hr (lol)
-1 internship assisting in teaching kids web dev in Ruby
-15 months at startup after graduation
-Company/Industry: Marketo -> Adobe
-Tenure length: 13 months
-Location: Denver
-Salary: $93,xxx (adjusted algorithmically in acquisition)
-Relocation/Signing Bonus: $4,000
-Stock and/or recurring bonuses: 60 units/year. I think the bonus is 7.5%
-Total comp: I'd estimate $120-130k
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## equifax
 
 ```School/Year: Top 10 CS, Rising Sr.
-Prior Experience: 1 internship
+Prior Experience: 1 internship, large group project, PT Back End work for my school
 -----------------------
-Company/Industry: Equifax
-Title: Technology Intern
-Location: Santiago, Chile
-Duration: 12.5 weeks
-Salary: US$1,600/month
-Relocation/Housing Stipend: None. The pay is more than enough for COL.
+Company/Industry: Qualcomm
+Title: IT Intern (Front End/Devopsy stuff)
+Location: Raleigh, NC
+Duration: 12 weeks
+Salary: $26/hour
+Relocation/Housing Stipend: IIRC, there was free housing and relocation. Don´t remember specifics. 
+-------------------------
+Company/Industry: Macy´s Tech
+Title: Software Engineering Intern
+Location: Johns Creek, GA (1hr from ATL)
+Duration: 10 weeks
+Salary: $24/hour
+Relocation/Housing Stipend: I´m in Atlanta so no relocation or housing.
+-----------------------
+Didn´t take either of these.
 ```
 
 ```Hope this doesn't get buried. I feel like I struck gold with this one. 
@@ -4359,24 +4190,22 @@ Relocation/Housing Stipend: Housing included
 ## even
 
 ```
-Education:
-
-None
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-a few months internship into nearly 2 years full-time doing server-side development (multiple languages), ~$30k - ~$55k;
-a few months into new gig doing more server-side development but also front-end work developing on multiple platforms.
-Company/Industry: shipping and logistics (roughly, both jobs are very different customer-facing wise but are at their core just shipping and logistics)
-Title: Full stack engineer
-Tenure length: 8 months at current place total
-Location: Toronto, Ontario, Canada
-Salary: $80,000 CAD
-Relocation/Signing Bonus: $0
-Stock and/or recurring bonuses: a good chunk of option but the place I'm at isn't public and is still very early on so it's pretty much worth nothing right now
-Total comp: $80,000 CAD
-​
-Always, always, always negotiate for more whenever you can. I regret letting my boss at the internship + full-time have at it for so long without a substantial pay bump, and even at my new place it's definitely been a let down compared to other salaries I've seen at the same level of responsibility.
-Salaries are slowly rising to levels comparable to other areas in the US, but definitely still far behind. I suggest anyone who can who's still young enough without as much ties or dependents in Canada to take a leap to the US for a good 2-3 years and save up. Even at some of the higher COLs you're going to be taking home way more than you would in Toronto on top of having a much more competent environment to learn and work in, too.
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```~United Kingdom~
@@ -4432,19 +4261,22 @@ Edit: Like that other guy in this thread, I get 36 vacation/sick days, though.
 ```
 
 ```
-Education: BA CS, Okay school not known for CS
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-One internship
-Industry: Delivery
-Title: Software Engineer I
-Location: NYC
-Salary: $95k
-Signing Bonus: $5k
-Stock bonuses: $50k RSUs
-Extras: $2k for conferences/learning, $2k for meals
-Total comp: $117k
-Originally I didn't feel the need to post, but most of the comments here are for super huge companies, and I wanted to even things out a little bit.
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```Education: MS CS
@@ -4500,96 +4332,72 @@ The Robinhood offer was not negotiated (I'm not sure if they even allow for nego
 ```
 
 ```Education: Ivy League
-BA in CS-Math May 2019
-MS in CS December 2019 (same school)
-Experience:
-2018 SWE Summer Intern @ FB MPK
-2017 SWE Summer Intern @ Yahoo/Oath NYC
-TA
-New Grad SWE Offers:
-Facebook (negotiated EE intern return offer, accepted and starting January 2020):
-Location: NYC
-Salary: $115k + 10% target bonus
-Signing bonus: $100k
-Stock: $160k over 4 years, quarterly vesting, no cliff
-Relocation: Package worth about $10000, but can't be taken as a lump sum so I didn't include in TC
-TC: $266.5k first year, $166.5k following
-Google (negotiated to slightly beat my original FB offer):
-Location: LA
-Salary: $110k + 15% target bonus
-Signing bonus: $65k
-Stock: $165k over 4 years
-Relocation: $10500, can be taken as a lump sum
-TC: $243.25 first year, $167.75k following
-Notes:
-I demonstrated plenty of interest in NYC office for Google but even when I secured the location for FB they were still unable to give me a spot there.  The pre-negotiation G LA offer was far, far lower than the final offer shown above (20k less salary, little to no signing bonus, half as much stock).  Went back to FB with the Google offer shown above and they bumped my signing from 65 to 100, which essentially pays for my MS.  They said they couldn't bump RSUs (even though GE interns got a 220k grant this year). Very happy with how things went overall, obviously!
-​
+Prior Experience: 3 x Internships, interned at this company last summer
+Company: Finance
+Title: SWE
+Start Date: Spring 2018
+Location: Chicago
+Salary: 135k
+Relocation/Signing Bonus: 75k + 10k relocation
+Stock/Bonuses: ~50k expected cash bonus
+Total Comp: ~270k
 ```
 
 ```
-Education: BS CS, top public university
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-4 internships, last one at FB
-
-FB (accepted):
-Location: MPK
-Salary: $110k + 10% annual bonus that's subject to company/personal multipliers
-Signing Bonus: $100k
-Stock: $220k over 4 years
-Relocation: $10k + moving expenses covered
-Total comp: $286k first year, $176k after (counts bonuses)
-Quora:
-Location: MTV
-Salary: $125k
-Signing bonus: $25k
-Stock: ~$200k in stock options
-Total comp: $200k year 1, then $175k, assuming that you take the present value of the options.
-Google:
-Location: MTV
-Salary: $120k
-Signing bonus: $100k + 15% annual bonus
-Stock: $200k
-Relocation: Expenses covered, might be some lump sum as well
-Total comp: $288k first year, $188k after, counting bonuses
-Affirm:
-Location: SF
-Salary: $130k
-Signing bonus: $20k
-Stock: ~$150k in stock options
-Relocation: $5k
-Total comp: $192.5k year 1, then 167.5k after, if you take the current value of the options.
-​
-negotiated hard with both FB & Goog, others were unwilling to negotiate. The initial google offer was about 80ish k lower for the first year (mostly in the signing bonus), so negotiation can definitely pay.
-ended up picking FB even though Google's offer was higher, especially after 1st year, and it's probably the more "safe" company between the two (i.e. $GOOG is probably a safer bet than $FB but I hope I'm wrong). The main reasons I picked FB was because I really enjoyed my internship there, and I think I'll be able to move up faster there than at Google.
-```
-
-```
-Education: BA in Computer Science from a no name small private school
-Prior Experience: 3 years at my current job, new job starting in a couple weeks. 
-Industry: don't want to be specific, since that would give away the company
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Tenure: 0 years(new job starts in a few weeks)
-Location: Columbus, OH area
-Salary: $63k
-Other Compensation: 401lk match, moving expenses paid, 3 weeks vacation instead of the standard 2 weeks for new employees. 
-I'm excited to be finally making the average comp for the Midwest/Ohio, since I was underpaid at my current position(making about $50k right now). My experience with my first job caused to realize that I'm worth a lot more than I think I am, even if I'm not a leetcode/algorithms genius. 
-The main thing that excites me about this job is I'll be working for a company that actually sells software products, instead of a consulting agency. 
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: MS CpE
-Prior Experience: 3 yrs at a military contractor
-Company/Industry: Health insurance
-Title: Senior Software Engineer
-Tenure length: 1.5 years
-Location: Baltimore
-Salary: $98.5k
-Relocation/Signing Bonus: $3k
-Stock and/or recurring bonuses: 7% annual bonus
-Total comp: about $105k
-Sigh... definitely feel underpaid after seeing some of the salaries in here. Will be asking for a raise some time this month so hopefully it works out. I'd also like to add that even though Baltimore is listed as LCoL, if you want to live anywhere safe / desirable, it's at least MCoL, and the closer you get to DC, rent / house prices get bananas. So it might be more accurate to list this under MCoL.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```I guess I'll update this yet again. Still looking for work, still none to be had (or at least only really low wages) for programmers in Windsor, ON so I'm still at the same place.
@@ -4613,36 +4421,41 @@ Total comp: $62K
 ```
 
 ```
-Education: BSCS from a no name school
-Prior Experience: Mediocre internship where I did not really do anything
-Company/Industry: Infosys
-Title: Associate software engineer
-Tenure length: Joined months ago but missed the new grad salary thread at the time.
-Location: Bay Area, California. Palo Alto
-Salary: $65,000/year
-Relocation/Signing Bonus: $4,000, have to pay it back if you leave within a year
-Stock and/or recurring bonuses: None
-Think I am the lowest paid software engineer in the entire bay area. I had a sliver of hope that one day I would be able to make it into a good tech company but that hope is lost. 
-It is tough knowing that there are fellow new grads out there making 2-3 times as much; I would be ecstatic if I ever even reached 6 figures at this point. 
-```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-```
-Education: BS in Mechanical Engineering (ME), North Carolina State, 88% through this program
-Prior Experience: 2 yrs ME ft at big car company (no CS exp)
-
-$Coop: 1 yr ME same company
-Company/Industry: finance startup
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Tenure length: 8 months
-Location: San Diego
-Salary: 85k
-Relocation/Signing Bonus: 5k
-Stock and/or recurring bonuses: .3% (.075% at 1 yr then monthly vested)
-Total comp: 85k
-Company has not even had a seed round valuation yet, so really Monopoly money that I value pretty much at 0.
-Edit: I'm not really sure what to call the program I went through but you can see for yourself the classes involved. I would say it's probably equivalent to having a minor in CS. I was doing it initially to qualify for the MS program. Before the program I had about 6 months of self taught experience but really the only thing I learned from that was syntax. I didn't learn a whole lot from my self studying which is why I moved towards this route. I started learning about CS in Dec 2015 and landed the job in July of 2017.
-Sorry, I did not mean to mislead that I was self-taught. I just completely forgot to mention it.
-Also, I'm curious, but how is NCSU viewed as a school in this sub? They're rank like 80ish  overall but 25 for engineering. Is it a mid tier school? Do people outside of NC even know about it?
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```Honestly I applied anywhere and everywhere when I graduated. I moved to Wisconsin for my first job just because it was the only place that would accept me. I've moved to WI, NC, and NYC for jobs before CA. I just moved where I could until I became more desirable for companies I wanted to work at.
@@ -4650,27 +4463,21 @@ Not everyone gets interviews with FB/G out of college or even pass them. There's
 ```
 
 ```
-Education:
-
-B.Sc in Computer Science (small local uni)
-B.Comm in Business (small local uni)
-College Trade Certificate: Tech Support (small local college)
-Advanced College Diploma: Network Technologist (small local college)
-Advanced College Diploma: Programmer Analyst (small local college)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-Previous experience: ISP tech support (5 years)
-Internship / Previous Experience: Startup, writing software (2 years)
-Internship: Utility company, network analysis and server administration (9 months)
-Internship: Utility company, writing software (9 months)
-Company/Industry: Automotive (Contracted by big 3 to apply upgrade packages to their vehicles, not actually working for an auto manufacturer.)
-Title: Junior Business Systems Analyst (It's a flat company. The only step up from Junior is IT Director, for which there are obviously no openings. Director isn't even technical, doesn't know IT let alone software development... but he fights for us when we say we need something, so he's good.)
-Tenure length: 5 years
-Location: Lower Ontario, low COL
-Salary: $60K
-Relocation/Signing Bonus: none
-Stock and/or recurring bonuses: ~$2K
-Total comp: ~$62K + health benefits + 3% matching contributions to retirement
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -4712,15 +4519,15 @@ I know people that have been around for a few more years and are making 800k+ or
 ```
 
 ```Education: Masters
-Prior Experience: SWE @ a finance firm, Big 4 internship
+Prior Experience: 3 years
 Company/Industry: Finance
 Title: Software Developer
-Location: NYC
+Tenure length: 0 year (just joined)
+Location: NYC (Fuck it's expensive)
 Salary: 175K
-Relocation/Signing Bonus: 75K + total relocation reimbursement
-Stock and/or recurring bonuses: 50K target bonus for meets expectation
-Total comp: 300K first year, 225K recurring
-I negotiated with competing offers from Big 4. All companies are considering me as a new grad, even though I was working as SWE for 3 years prior to my masters.
+Relocation/Signing Bonus: 100K
+Recurring bonuses: 50K 
+Total comp: 325K first year, 225K from second year (hope it stays the same for the second year, company is known for giving ridiculously high performance bonus)
 ```
 
 ```Education: Currently a 4th year CS and Math dual major at UC Davis (3.86 GPA)
@@ -4820,14 +4627,14 @@ I was looking at staying in my current state and even with a 35k+ paycut, I woul
 ## datadog
 
 ```​
-School/Year: Final co-op at a relatively unknown Canadian school.
-Prior Experience: 4 SWE internships
-Company/Industry: Datadog
-Title: Product Manager Intern
-Location: NYC
-Duration: 16 weeks
-Salary: ~$50/hr
-Relocation/Housing Stipend: Relocation reimbursed
+School/Year: Top 50 school, Masters
+Prior Experience: 3 years 3 months
+Company/Industry - Autodesk
+Title: Reliability Engineer Intern
+Location: San Francisco
+Duration: 12 weeks
+Salary: 42$/hour
+Relocation/Housing Stipend: 1200$/month
 
 ```
 
@@ -4898,36 +4705,40 @@ Decided to do BW bc I kind of wanted to explore out the tech scene (plus I reall
 ## airbnb
 
 ```
-Education: BS and MS from one of: MIT, Stanford, CMU, Berkeley
-Prior Experience (Internships):
-No-name financial company
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Two of: Google, Facebook, Amazon, Microsoft, Apple
-Company/Industry: Airbnb
-Title: Software Engineer (L3)
-Tenure length: <1 year (includes annual performance review with comp adjustment)
-Location: San Francisco
-Salary: a little under $150,000
-Relocation/Signing Bonus: $15,000
-Stock and/or recurring bonuses: 
-If you believe the 409A, a bit over $80,000/year
-
-Bonus targeted at 10%
-Total comp: ~$245,000/yr (assumes full bonus, 409A comparable to IPO price, excludes signing bonus)
-
-```
-
-```
-Education: BS from non target school
-Prior Experience: few internships and full time at NY company
-Company/Industry: Airbnb
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Tenure length: ~8 months
-Location: San Francisco, CA
-Salary: $130k
-Relocation/Signing Bonus: 11k relocation + 40k signing
-Stock and/or recurring bonuses: 210k / 4 years + potential 15% cash bonus
-Total comp: ~233k first year, 182k next year
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -5005,20 +4816,21 @@ TC: 266k year 1, then 155k
 ```
 
 ```
-School/Year: Junior Top 10 CS
-Prior Experience: Big 4 
-Airbnb:  
-Title: SWE Intern
-Location: San Francisco
-Duration: 12 Weeks
-Salary: ~$7200 / mo
-Relocation/Housing Stipend/Misc.: $4000 monthly housing stipend, $500 quarterly Airbnb credit, free meals, etc.
-Lyft:  
-Title: SWE Intern
-Location: San Francisco
-Duration: 12 Weeks
-Salary: $52 / hr ($9000 / mo) + $78 / hr overtime
-Relocation/Housing Stipend/Misc.: $1500 post-tax monthly, ride discount, free meals, etc.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -5078,25 +4890,22 @@ Relocation/Housing Stipend: $9k stipend
 ```
 
 ```
-Education: Bachelors from school in the top 20-30
-Prior Experience: 1 internship at Airbnb, 1 at Google
-Company/Industry: Google
-Title: SWE
-Tenure length: 0
-Location: MTV
-Salary: 116k
-Relocation/Signing Bonus: 50k signing, 10.5k relocation
-Stock and/or recurring bonuses: 300k/4 years, 15% target bonus
-Total comp: ~210k without signing/relocation bonus
-Company/Industry: Airbnb
-Title: SWE
-Tenure length: 0
-Location: SF/Seattle
-Salary: 125k
-Relocation/Signing Bonus: 25k signing, ~13k relocation
-Stock and/or recurring bonuses: 240k/4 years
-Total comp: ~185k without signing/relocation
-I negotiated hard with both Airbnb and Google, and got some amazing offers because I was a returning intern who performed well. I ended up choosing Google.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```Education: BS and MS in CS from one of [CMU, MIT, Berkeley, Stanford]
@@ -5164,387 +4973,135 @@ Relocation/Housing Stipend: $1000/month
 ```
 
 ```
-School/Year: Top 40 School/Junior
-Prior Experience: Big4s + Unicorns
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Prop Shop (Accepted)
-Title: SDE Intern
-Location: NYC
-Duration: 10 weeks
-Salary: $62.5/hr
-Relocation/Housing Stipend: Housing + $5k lump sum
-
-Company/Industry: Quant Hedge Fund
-Title: SWE Intern
-Location: NYC
-Duration: 10 weeks
-Salary: $62.5/hr
-Relocation/Housing Stipend: Housing + $5k lump sum
-
-Company/Industry: Quant Hedge Fund
-Title: SDE Intern
-Location: Chicago
-Duration: 10 weeks
-Salary: $70/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Prop Shop
-Title: SDE Intern
-Location: Chicago
-Duration: 10 weeks
-Salary: $65/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Airbnb
-Title: SDE Intern
-Location: SF
-Duration: 12 weeks
-Salary: $45/hr
-Relocation/Housing Stipend: $4k/month
-
-Company/Industry: Quora
-Title: SDE Intern
-Location: Bay
-Duration: 12 weeks
-Salary: $48/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Facebook
-Title: SDE Intern
-Location: Bay
-Duration: 12 weeks
-Salary: $48.5/hr
-Relocation/Housing Stipend: Housing
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Top 40 School/Junior
-Prior Experience: Big4s + Unicorns
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Prop Shop (Accepted)
-Title: SDE Intern
-Location: NYC
-Duration: 10 weeks
-Salary: $62.5/hr
-Relocation/Housing Stipend: Housing + $5k lump sum
-
-Company/Industry: Quant Hedge Fund
-Title: SWE Intern
-Location: NYC
-Duration: 10 weeks
-Salary: $62.5/hr
-Relocation/Housing Stipend: Housing + $5k lump sum
-
-Company/Industry: Quant Hedge Fund
-Title: SDE Intern
-Location: Chicago
-Duration: 10 weeks
-Salary: $70/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Prop Shop
-Title: SDE Intern
-Location: Chicago
-Duration: 10 weeks
-Salary: $65/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Airbnb
-Title: SDE Intern
-Location: SF
-Duration: 12 weeks
-Salary: $45/hr
-Relocation/Housing Stipend: $4k/month
-
-Company/Industry: Quora
-Title: SDE Intern
-Location: Bay
-Duration: 12 weeks
-Salary: $48/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Facebook
-Title: SDE Intern
-Location: Bay
-Duration: 12 weeks
-Salary: $48.5/hr
-Relocation/Housing Stipend: Housing
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Top 40 School/Junior
-Prior Experience: Big4s + Unicorns
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Prop Shop (Accepted)
-Title: SDE Intern
-Location: NYC
-Duration: 10 weeks
-Salary: $62.5/hr
-Relocation/Housing Stipend: Housing + $5k lump sum
-
-Company/Industry: Quant Hedge Fund
-Title: SWE Intern
-Location: NYC
-Duration: 10 weeks
-Salary: $62.5/hr
-Relocation/Housing Stipend: Housing + $5k lump sum
-
-Company/Industry: Quant Hedge Fund
-Title: SDE Intern
-Location: Chicago
-Duration: 10 weeks
-Salary: $70/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Prop Shop
-Title: SDE Intern
-Location: Chicago
-Duration: 10 weeks
-Salary: $65/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Airbnb
-Title: SDE Intern
-Location: SF
-Duration: 12 weeks
-Salary: $45/hr
-Relocation/Housing Stipend: $4k/month
-
-Company/Industry: Quora
-Title: SDE Intern
-Location: Bay
-Duration: 12 weeks
-Salary: $48/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Facebook
-Title: SDE Intern
-Location: Bay
-Duration: 12 weeks
-Salary: $48.5/hr
-Relocation/Housing Stipend: Housing
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Top 40 School/Junior
-Prior Experience: Big4s + Unicorns
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Prop Shop (Accepted)
-Title: SDE Intern
-Location: NYC
-Duration: 10 weeks
-Salary: $62.5/hr
-Relocation/Housing Stipend: Housing + $5k lump sum
-
-Company/Industry: Quant Hedge Fund
-Title: SWE Intern
-Location: NYC
-Duration: 10 weeks
-Salary: $62.5/hr
-Relocation/Housing Stipend: Housing + $5k lump sum
-
-Company/Industry: Quant Hedge Fund
-Title: SDE Intern
-Location: Chicago
-Duration: 10 weeks
-Salary: $70/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Prop Shop
-Title: SDE Intern
-Location: Chicago
-Duration: 10 weeks
-Salary: $65/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Airbnb
-Title: SDE Intern
-Location: SF
-Duration: 12 weeks
-Salary: $45/hr
-Relocation/Housing Stipend: $4k/month
-
-Company/Industry: Quora
-Title: SDE Intern
-Location: Bay
-Duration: 12 weeks
-Salary: $48/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Facebook
-Title: SDE Intern
-Location: Bay
-Duration: 12 weeks
-Salary: $48.5/hr
-Relocation/Housing Stipend: Housing
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Top 40 School/Junior
-Prior Experience: Big4s + Unicorns
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Prop Shop (Accepted)
-Title: SDE Intern
-Location: NYC
-Duration: 10 weeks
-Salary: $62.5/hr
-Relocation/Housing Stipend: Housing + $5k lump sum
-
-Company/Industry: Quant Hedge Fund
-Title: SWE Intern
-Location: NYC
-Duration: 10 weeks
-Salary: $62.5/hr
-Relocation/Housing Stipend: Housing + $5k lump sum
-
-Company/Industry: Quant Hedge Fund
-Title: SDE Intern
-Location: Chicago
-Duration: 10 weeks
-Salary: $70/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Prop Shop
-Title: SDE Intern
-Location: Chicago
-Duration: 10 weeks
-Salary: $65/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Airbnb
-Title: SDE Intern
-Location: SF
-Duration: 12 weeks
-Salary: $45/hr
-Relocation/Housing Stipend: $4k/month
-
-Company/Industry: Quora
-Title: SDE Intern
-Location: Bay
-Duration: 12 weeks
-Salary: $48/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Facebook
-Title: SDE Intern
-Location: Bay
-Duration: 12 weeks
-Salary: $48.5/hr
-Relocation/Housing Stipend: Housing
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Top 40 School/Junior
-Prior Experience: Big4s + Unicorns
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Prop Shop (Accepted)
-Title: SDE Intern
-Location: NYC
-Duration: 10 weeks
-Salary: $62.5/hr
-Relocation/Housing Stipend: Housing + $5k lump sum
-
-Company/Industry: Quant Hedge Fund
-Title: SWE Intern
-Location: NYC
-Duration: 10 weeks
-Salary: $62.5/hr
-Relocation/Housing Stipend: Housing + $5k lump sum
-
-Company/Industry: Quant Hedge Fund
-Title: SDE Intern
-Location: Chicago
-Duration: 10 weeks
-Salary: $70/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Prop Shop
-Title: SDE Intern
-Location: Chicago
-Duration: 10 weeks
-Salary: $65/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Airbnb
-Title: SDE Intern
-Location: SF
-Duration: 12 weeks
-Salary: $45/hr
-Relocation/Housing Stipend: $4k/month
-
-Company/Industry: Quora
-Title: SDE Intern
-Location: Bay
-Duration: 12 weeks
-Salary: $48/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Facebook
-Title: SDE Intern
-Location: Bay
-Duration: 12 weeks
-Salary: $48.5/hr
-Relocation/Housing Stipend: Housing
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Top 40 School/Junior
-Prior Experience: Big4s + Unicorns
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Prop Shop (Accepted)
-Title: SDE Intern
-Location: NYC
-Duration: 10 weeks
-Salary: $62.5/hr
-Relocation/Housing Stipend: Housing + $5k lump sum
-
-Company/Industry: Quant Hedge Fund
-Title: SWE Intern
-Location: NYC
-Duration: 10 weeks
-Salary: $62.5/hr
-Relocation/Housing Stipend: Housing + $5k lump sum
-
-Company/Industry: Quant Hedge Fund
-Title: SDE Intern
-Location: Chicago
-Duration: 10 weeks
-Salary: $70/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Prop Shop
-Title: SDE Intern
-Location: Chicago
-Duration: 10 weeks
-Salary: $65/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Airbnb
-Title: SDE Intern
-Location: SF
-Duration: 12 weeks
-Salary: $45/hr
-Relocation/Housing Stipend: $4k/month
-
-Company/Industry: Quora
-Title: SDE Intern
-Location: Bay
-Duration: 12 weeks
-Salary: $48/hr
-Relocation/Housing Stipend: Housing
-
-Company/Industry: Facebook
-Title: SDE Intern
-Location: Bay
-Duration: 12 weeks
-Salary: $48.5/hr
-Relocation/Housing Stipend: Housing
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -5716,16 +5273,21 @@ Relocation/Housing Stipend:n/a
 ## deloitte
 
 ```
-Education: Masters in CS (lower ranked UC)  
-Prior Experience:1 Internship at NVIDIA  
-Company/Industry: Deloitte  
-Title: Consultant  
-Tenure length: 1 year, 3 months  
-Location: San Jose  
-Salary: 105K  
-Relocation/Signing Bonus: 5k/15k  
-Stock and/or recurring bonuses:no stocks/ annual performance bonus ranging from 0 to 10% of base  
-Total comp: 105k
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -5756,16 +5318,21 @@ Total comp: $169,000
 ```
 
 ```
-Education: Non-technical BA from liberal arts University on the East Coast, Online MS in Computer Science from Midwest State University.
-Prior Experience: 1 year full time Software Engineer role at Bay Area fintech startup, Big 4 Summer internship, couple other Software Engineer internships.
-Company: Blue Bird Social Media Company.
-Title: Software Engineer I.
-Tenure/Length: Starting Soon.
-Location: SF Bay Area
-Salary: 130k.
-Relocation/Signing Bonus: 20k
-Stock/Bonuses: 50k RSUs/year, 5% base salary/year.
-Total Comp: 180k + 6.5k bonus and one time 20k signing bonus
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -5804,25 +5371,21 @@ Relocation/Housing Stipend: $10,000 signing bonus
 ## arizona state university
 
 ```
-Education: BS in CS at Arizona State University
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-Personal projects
-Company/Industry: Prop trading firm
-Title: Application Engineer
-Tenure length: 1yr w/ intent to extend indefinitely 
-Location: Amsterdam
-Salary: €50k
-Relocation/Signing Bonus: 
-
-Relocation: €2.5k + 1 month housing + all travel 
-Signing Bonus: €10k upon renewal @ 1yr
-Stock and/or recurring bonuses:
-
-Profit sharing scheme, not sure on the details tbh
-Total comp:
-
-€62.5k + profit sharing
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -5848,26 +5411,40 @@ Total comp:
 ```
 
 ```
-School/Year: Senior, Midwest state school
-Prior Experience: back-to-back internships at AT&T
-AT&T: (return offer)
-Title: Software Development Intern
-Location: Saint Louis, MO
-Duration: 10 weeks
-Salary: $26.91/hour
-Relocation/housing: $1500 stipend
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-```
-
-```
-School/Year: Senior, Midwest state school
-Prior Experience: back-to-back internships at AT&T
-Target: 
-Title: SWE Intern
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
 Location: Minneapolis, MN
-Duration: 10 weeks
-Salary: $28/hour
-Relocation/housing: partially paid for intern housing, 10% discount at Target stores
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -5904,41 +5481,42 @@ Total comp: $70,000
 ```
 
 ```
-Education: Bachelor's of Science, Computer Science from Kennesaw State University
-Prior Experience: 
-Internship: 4 months total.
-Company: SAP.
-Salary: 23/hr.
-Internship: 3 months total
-Company: Adp
-Salary: 24.50/hr
-Internship: 5 months total
-Company: CareerBuilder
-Salary: 20/hr
-Company/Industry: AT&T
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Location: Atlanta, Ga
-Salary: $71k
-Relocation/Signing Bonus: $3k
-Stock and/or recurring bonuses: 8% bonus dependent on company performance
-Total comp: 74k
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## university of alabama
 
 ```
-Education: BS in Computer Science
-Prior Experience: 3.5 Years Software Eng, 1.5 year DBA
-Company/Industry: Large University IT
-Title: SQL Server DBA
-Tenure Length: 1.5 Years
-Location: Alabama
-Salary: $70,000
-Relocation/Signing Bonus: None
-Stock and/or Recurring Bonuses: Yearly bonus ~3%
-Total Comp: ~$73,000 without taking classes
-Other: 5 hours free tuition per semester (undergrad and graduate level), 50% tuition discount for immediate family and dependents. Alabama Teacher's pension retirement. Half of Thanksgiving week and two weeks at Christmas off without using PTO.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -5991,68 +5569,89 @@ EDIT: Decided to choose FB!
 ## shift
 
 ```*Education: MS in CS
-*Prior Experience: 3 years
-*Years of Experience: 11
-*Company/Industry: MSP
-*Title: DBA
-*Tenure length: 8 years
-*Location: Remote, but currently residing in a LCoL area.
-*Salary: $120k
+*Prior Experience: This was my first job, although I've transferred among the various dev groups in this company.
+*Years of Experience: 6 years
+*Company/Industry: Retail
+*Title: Software Engineer
+*Tenure length: 5 years
+*Location: Arkansas
+*Salary: $76k
 *Relocation/Signing Bonus: N/A
-*Stock and/or recurring bonuses: N/A
-*Total comp: $120K
-*Other: My job is a remote on-demand weekend shift job where I work 7AM-7PM Fri-Sun and I get the other 4 days off. In addition, I get 7 weekends off for vacation which amounts to more than 2 months of holidays if I take them separately.
+*Stock and/or recurring bonuses: $5k profit-sharing, $5k yearly bonus
+*Total comp: $86K
+EDIT:  I had an internship at this company for about a year, so that's why I'm saying 6 years experience, 5 years tenure.  Not sure if that makes sense, but that's the logic I used there.  lol
 ```
 
 ```*Education: MS in CS
-*Prior Experience: 3 years
-*Years of Experience: 11
-*Company/Industry: MSP
-*Title: DBA
-*Tenure length: 8 years
-*Location: Remote, but currently residing in a LCoL area.
-*Salary: $120k
+*Prior Experience: This was my first job, although I've transferred among the various dev groups in this company.
+*Years of Experience: 6 years
+*Company/Industry: Retail
+*Title: Software Engineer
+*Tenure length: 5 years
+*Location: Arkansas
+*Salary: $76k
 *Relocation/Signing Bonus: N/A
-*Stock and/or recurring bonuses: N/A
-*Total comp: $120K
-*Other: My job is a remote on-demand weekend shift job where I work 7AM-7PM Fri-Sun and I get the other 4 days off. In addition, I get 7 weekends off for vacation which amounts to more than 2 months of holidays if I take them separately.
+*Stock and/or recurring bonuses: $5k profit-sharing, $5k yearly bonus
+*Total comp: $86K
+EDIT:  I had an internship at this company for about a year, so that's why I'm saying 6 years experience, 5 years tenure.  Not sure if that makes sense, but that's the logic I used there.  lol
 ```
 
 ```
-Education: MS in CS
-Prior experience: ~3 years
-Industry: MSP
-Title: DBA
-Tenure: 7 years
-Location: Remote, but currently residing in a MCoL area.
-Salary: $120k
-Other Benefits: My job is a weekend shift job where I work Fri-Sun 7am-7pm and I get 4 days off. It's an on-demand job. I get vacation equivalent of 7 weeks or 7 weekends off.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: MS in CS
-Prior experience: ~3 years
-Industry: MSP
-Title: DBA
-Tenure: 7 years
-Location: Remote, but currently residing in a very borderline MCoL area. For reference, I'm currently renting a 2 bedroom for $800
-Salary: $120k
-Other Benefits: My job is a weekend shift job where I work Fri-Sun 7am-7pm and I get 4 days off. It's an on-demand job. I get vacation equivalent of 7 weeks or 7 weekends off, with my shift scheme, it's almost 3 months. 
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## bank of america
 
 ```
-School/Year: sophomore @ college in New York
-Prior Experience: internship at small startup
-Company/Industry: Bank of America
-Title: Technology Analyst 
-Location: Charlotte, NC
-Duration: ~3 months
-Salary: 35/hr
-Relocation/Housing Stipend: 2.5k for housing
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -6086,39 +5685,22 @@ Stock and/or recurring bonuses: Just an ESPP
 ## drw
 
 ```
-School/Year: one of MIT/Stanford/CMU/UCB, junior
-Prior Experience: G,F, 2 sig
-Jane Street:
-Title: SWE Intern
-Location: New York
-Duration: 12 Weeks
-Salary: ~$12500 / mo
-Relocation/Housing Stipend: free housing
-Citadel:
-Title: SWE Intern
-Location: New York
-Duration: 10 Weeks
-Salary: ~$13000 / mo
-Relocation/Housing Stipend.: free housing
-DRW
-Title: Software Engineer Intern
-Location: Chicago
-Duration: 10 weeks
-Salary: scales to around $67/hr
-Relocation/Housing Stipend: free housing 
-Microsoft
-Title: Software Engineer Intern
-Location: Redmond, WA
-Duration: 10 weeks
-Salary: $7500/month
-Relocation/Housing Stipend: free housing
-2 Sigma (return)
-Title: Software Engineer Intern
-Location: New York
-Duration: 10 weeks
-Salary: $14000/month
-Relocation/Housing Stipend: free housing
-having a competing offer from rival firms is ridiculously strong for negotiation
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ## akuna capital
@@ -6137,29 +5719,21 @@ I thought I'd post this because the Glassdoor numbers seem to be misleading.
 ## twitch
 
 ```
- School/Year: Incoming 3rd year at UC Irvine
-Prior Experience: 2 SWE internships and 1 research position
- 
-Company/Industry: Twitch 
-Title: Data Intern
-Location: SF
-Duration: 6 months
-Salary: 8500 / month
-Relocation/Housing Stipend: $1925 per month
- 
-Company/Industry: Mid-size Startup
-Title: Software Engineering Intern
-Location: Bay Area
-Duration: 14 weeks
-Salary: $20 / hour
-Relocation/Housing Stipend: None
- 
-Company/Industry: Big Consulting company 
-Title: Software Engineering Intern
-Location: Southern California
-Duration: 12 weeks
-Salary: $20 / hour
-Relocation/Housing Stipend: None
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -6261,14 +5835,21 @@ TC: $131.5k
 ```
 
 ```
-School/Year: Junior, ivy
-Prior Experience: 1 internship @ large non-tech company
-Company/Industry: Apple
-Title: SWE Intern
-Location: Cupertino
-Duration: 13 weeks
-Salary: 7700/month
-Relocation/Housing Stipend: Corporate housing or 1k/month
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -6285,16 +5866,21 @@ Relocation/Housing Stipend: Corporate housing or 1k/month
 ```
 
 ```
-Education: BS in CS  
-Prior Experience: 3 internships at big tech companies  
-Company/Industry: Apple  
-Title: ICT3  
-Tenure length: 3 years  
-Location: Cupertino  
-Salary: 137,000  
-Relocation/Signing Bonus: 30k when I joined  
-Stock and/or recurring bonuses: 20k cash bonus, ~100k stock vesting this year at current stock price  
-Total comp: 260k
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -6323,44 +5909,40 @@ This was an intern return offer – I really enjoyed my time there :)
 ```
 
 ```
-School/Year: Junior, top 15 CS school
-Prior Experience: 2 internships, one of them fortune 500
-Lyft (accepted!):
-Title: Software Engineer Intern
-Location: San fran
-Duration: 13 weeks
-Salary: 60/hr
-Relocation/Housing Stipend: 1500/month, post-tax
-Uber:
-Title: Software Engineer Intern
-Location: San fran
-Duration: 12 weeks
-Salary: 44/hr
-Relocation/Housing Stipend: I think it was 1000/month
-Twilio:
-Title: Software Engineer Intern
-Location: San fran
-Duration: 12 weeks
-Salary: 50/hr
-Relocation/Housing Stipend: 1500/month 
-Lime:
-Title: Software Engineer Intern
-Location: San fran
-Duration: 12 weeks
-Salary: 50/hr
-Relocation/Housing Stipend: None
-Got rejection after rejection for a few months until I magically got all of these offers within days of each other. You really do get better with every interview (good or bad), stick with it guys!
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```
-School/Year: US top 100 CS school (not known for CS)
-Prior Experience: 4 Internships, 1 in machine learning, currently in grad school
-Company/Industry: Lyft Level 5 Self Driving Group, Autonomy Team
-Title: Software Engineering Intern
-Location: Palo Alto, CA
-Duration: 13 weeks
-Salary: $58 / hr ~ $9.2k / month
-Relocation/Housing Stipend: Full comp relocation, $1500/month housing
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -6383,14 +5965,21 @@ Relocation/housing stipend: $7,000 for the 12 weeks plus all flights paid for
 ```
 
 ```
-School/Year: Top 10 CS school in California, Junior
-Company: Lyft
-Position: Software Engineering Intern
-Location: San Francisco
-Duration: 13 weeks
-Salary: $54/hr (~9k a month)
-Housing Stipend: 9k
-~$375-400 in perks a month (ride share credits, phone bill, etc.) and catered meals
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -6509,14 +6098,21 @@ Relocation/Housing Stipend: $6,000 relocation bonus or corporate housing
 ## shopify
 
 ```
-School/Year: Carleton U 2nd Year
-Prior Experience: 1 term at an antivirus company
-Company/Industry: Shopify
-Title: Software Developer Intern
-Location: Ottawa
-Duration: 4 months
-Salary: $30 / hr (CAD)
-Relocation/Housing Stipend: not applicable to me
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -6564,39 +6160,40 @@ Total comp/perks: We get free lunch every day, paid parking, $600/year for a new
 ```
 
 ```
-Education:
-
-B.Sc Comp Sci, B.Comm Honours Business Adminstration (grad 2013)
-Tech Support Certificate (grad 2010)
-Assoc. Diplomas in Programming, and in Networking & System Admin (grad 2009)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-2 unpaid internships doing VB.NET programming, and Network and System Administrator work (9 months each in 2008 / 2009)
-Unpaid part-time volunteer work for a failed startup doing PHP programming(1yr in 2011)
-Part-time over the phone tech support for a phone and Internet provider (walking people through router and modem setups and troubleshooting) making $20 / hr (2009-2013)
-Working for 6 years at the same company that I'm still at as a "Programmer and Business Systems Analyst - Team / Technical Lead", making the same amount I am now (2013-2018). But note that I started off at $36K and am now up to $66K.
-Company/Industry: Auto Supplier Network (The company makes auto parts and needs software to enable that. We are not a software company.)
-Title: EDI Analyst
-Tenure length: 6 months in current position (6th year with the company)
-Location: Windsor, ON
-Salary: $65K (no change from former position as they are considered the same level)
-Relocation/Signing Bonus: N/A
-Stock and/or recurring bonuses: Approx. $1000
-Total comp: $66K
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: BS in CS from Florida state school
-Prior Experience: Internship in summer of 2015
-Company/Industry: Media research
-Title: Senior Software Engineer (I call myself a Software Engineer because I'm underqualified for this title)
-Tenure length: 7 months in current role, 2.5 years at company
-Location: Tampa, FL
-Salary: $92k
-Relocation/Signing Bonus: There was a relocation bonus but as I grew up nearby, didn't need it. The signing bonus was $8k.
-Stock and/or recurring bonuses: There's an AIP worth up to $10k a year. They also do have a stock plan as part of the 401(k) but I dumped it a while ago because we were trending poorly.
-Total comp: $92k
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -6613,25 +6210,22 @@ Total comp: 98k.
 ```
 
 ```
-Education: BS CS, public state university
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-3.5 years helpdesk IT work in unviersity athletic dept
-6 months dev intern in other university dept
-6 months sys admin / internal dev intern at local business
-6 months web dev intern at current employer (concurrent with above internship ^ )
-Company/Industry: Construction / Architecture company
-Title: IT Specialist
-Tenure length: 1 month + change (full time)
-Location: Birmingham, AL
-Salary: $60,000
-Relocation/Signing Bonus: $350 / month student loan program for 36 months (not taxed)
-Stock and/or recurring bonuses: Company-wide quarterly incentive program (new, weird, subject to 
-change, but probably around $1000 / year minimum)
-Total comp: ~ 65k / year
-Had 3 offers, one for the same amount (minus the student loan program) and one for 65k salary alone.
-This requires commute for a bit but I'm relocating closer in July. Larger salary one would have been a farther relocation immediately, not worth the money.
-Very new here still but loving it so far. It hasn't been easy, but challenging work is interesting work. It's a unique situation where I'm the primary IT guy but also a developer. I have a lot of IT experience but obviously went to school for development. Very IT heavy to start as we're changing the name of the company and moving away from a contracted IT company onto me and hopefully an intern or something soon. Management has been very clear about wanting to expand the tech division here and me being on top of that when it happens, so hopefully a CTO type position within the next few years if we prove we can make it work. Definitely not your typical first job.
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```School/Year: No name state school in CA/Junior
@@ -6665,41 +6259,61 @@ Couldn't get a sexy big tech company offer like those at the top of the thread, 
 ```
 
 ```
-School/Year: rising senior/unnamed tiny college
-• Prior Experience: internship after freshman year with the same company
-• Company/Industry: Comcast Corp
-• Title: devops intern
-• Location: Greater Philadelphia Area
-• Duration: 3month
-• Salary: 28/hour
-• Relocation/Housing Stipend: no but got 1500 sign on bonus for 1 hr commute.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## citadel
 
 ```
-Education: CS and Math major from non-Ivy
-Prior Experience: Interned at start-up, SWE intern at a trading firm.
-Company/Industry: Citadel
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Location: Chicago, IL
-Salary: $150k
-Relocation/Signing Bonus: $150k signing bonus. $10k one-time relocation bonus.
-Stock and/or recurring bonuses: $100k expected first year bonus.
-Total comp: ~$400k first year
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Large, well-known state school, Junior
-Prior Experience: Startup, School Website, Juniper Networks
-Company/Industry - Citadel
-Title: SWE Intern
-Location: New York or Chicago
-Duration: 12 weeks
-Salary: 2800/wk (11,200/month)
-Relocation/Housing Stipend: Corporate Housing/all meals provided
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -6720,25 +6334,34 @@ Facebook
 ```
 
 ```
-School/Year: top 10 CS School, Sophomore
-Prior Experience: Oracle SWE Intern
-Company/Industry: Citadel
-Title: Option between Quant Researcher and SWE Intern
-Location: Chicago
-Duration: 11 weeks
-Salary: $2800/week
-Relocation/Housing Stipend: Corporate housing + flights provided
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```School/Year: Junior
-Prior Experience: Academic Research
-Company/Industry: Citadel LLC
-Title: Quantitative Research/Analyst Intern
-Location: Chicago
+Prior Experience: Two internships (one Big4)
+Company/Industry: GitHub
+Title: Software Engineering Intern
+Location: San Francisco, CA
 Duration: 10 weeks
-Salary: $10,000/month
-Relocation/Housing Stipend: Housing covered in a very nice place. 
+Salary: $50/hr
+Relocation/Housing Stipend: Corporate housing (studio) in downtown SF, walking distance from office
+​
+Starting next week, super pumped!
 ```
 
 ## medium
@@ -6758,7 +6381,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing. Also, while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
+Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6797,7 +6420,6 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6807,16 +6429,21 @@ Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Ch
 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
-This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
-School/Year:
+This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
+Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
+Education:
 Prior Experience:
+
+$Internship
+$Coop
 Company/Industry:
 Title:
+Tenure length:
 Location: 
-Duration: 
 Salary: 
-Relocation/Housing Stipend:
-Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
+Relocation/Signing Bonus:
+Stock and/or recurring bonuses:
+Total comp:
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6868,7 +6495,6 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6892,7 +6518,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing. Also, while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
+Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6917,7 +6543,6 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6927,16 +6552,21 @@ Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Ch
 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
-This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
-School/Year:
+This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
+Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
+Education:
 Prior Experience:
+
+$Internship
+$Coop
 Company/Industry:
 Title:
+Tenure length:
 Location: 
-Duration: 
 Salary: 
-Relocation/Housing Stipend:
-Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
+Relocation/Signing Bonus:
+Stock and/or recurring bonuses:
+Total comp:
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6960,7 +6590,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing. Also, while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
+Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6970,28 +6600,40 @@ Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Ch
 ```
 
 ```
-Education: Associates in computer programming
-Prior experience: none
-Company/Industry: State Government
-Title: Software Developer
-Tenure: 2 years
-Location: Medium COL city in pacific northwest
-Salary: ~$52k
-Other compensation: 5% retirement match, 25 days vacation and 12 days sick leave annually. 
-I'm working on getting a bachelor's in CS while working full time, I'm stuck between not being sure if it's worth it or not as by the time I'd get it I feel like it'd be 6 years, by then I'll have 8 years of experience. I would appreciate any advice someone could offer. 
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
-This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
-School/Year:
+This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
+Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
+Education:
 Prior Experience:
+
+$Internship
+$Coop
 Company/Industry:
 Title:
+Tenure length:
 Location: 
-Duration: 
 Salary: 
-Relocation/Housing Stipend:
-Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
+Relocation/Signing Bonus:
+Stock and/or recurring bonuses:
+Total comp:
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -7015,7 +6657,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing. Also, while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
+Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -7057,7 +6699,6 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -7081,7 +6722,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing. Also, while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
+Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -7091,16 +6732,13 @@ Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Ch
 ```
 
 ```Education: BS in CS
-Prior Experience: Backend Webdev - 3 years
-Company/Industry: Auto Dealership Software
-Title: Software Programmer
-Tenure length: 6 months
-Location: Central Valley, CA
-Salary: 65k
-Relocation/Signing Bonus: none
-Stock and/or recurring bonuses: quarterly performance based bonuses (Have already received one in my 6 months here for 2.5% of my salary though that number will change) and end of year profit sharing into 401(k) of 5% they also match contributions to 401(k) up to 4%.
-Total comp: 80k+
-My city is in the very low end of the Medium CoL range.
+Prior Experience: 2 SWE internships at a startup and a 3 person company
+Company: Microsoft
+Title: SWE
+Location: Redmond, WA
+Salary: 119k after raise/promotion last fall, started at 107k
+Tenure: 1.5 years
+Total Comp: ~155k if target bonus, includes ~23k of stock vest
 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
@@ -7119,7 +6757,6 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -7140,16 +6777,21 @@ Total comp: 100k
 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
-This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
-School/Year:
+This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
+Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
+Education:
 Prior Experience:
+
+$Internship
+$Coop
 Company/Industry:
 Title:
+Tenure length:
 Location: 
-Duration: 
 Salary: 
-Relocation/Housing Stipend:
-Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
+Relocation/Signing Bonus:
+Stock and/or recurring bonuses:
+Total comp:
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -7194,20 +6836,22 @@ Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Ch
 ```
 
 ```
-Education: BS CS, no-name private iniversity
-Prior Experience: 
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-3 internships at energy utility behemoth, 1 co-op at railroad company, freelancer for 6 months
-Company/Industry: Medical Software Company
-Title: Academy Software Engineer
-Tenure length: 1 year
-Location: Kansas City, Missouri
-Salary: $69,000
-Relocation/Signing Bonus: $5,000
-Stock and/or recurring bonuses: NA
-Total comp: $74,000 (first year)
-This is a current offer, being debated against my Medium CoL offer.
-Edit: added signing bonus, and accepted the offer.
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```I ran some very basic and rudimentary calculations using SmartAsset.com's paycheck calculator comparing a high COL city (SF) to a low COL city (PHX), assuming a few things: a 5% 401k contribution each paycheck, rent for a 1 bedroom apartment (maybe...it could be like $10,000 in SF for all I know. Probably low balled it a bit there), $70 for internet, and $80 for combined utils, along with a 1.8% tax withholding in PHX.
@@ -7256,34 +6900,40 @@ By the time the 3rd interview endd, Microsoft usually knows if they are going to
 ```
 
 ```
-Education: Software Engineering Bachelor
-Prior Experience: Two internships
-Company/Industry: Medium Software Consulting Firm
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Tenure length: Contract without end date
-Location: The Netherlands
-Salary: €32.335
-Relocation/Signing Bonus: Half of monthly salary.
-Stock and/or recurring bonuses:
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
-1% Provision when working for client, based on your tariff. 
-Leased company car, also for private use.
-Yearly bonus around €1000
-€400 health-bonus if you have no sick days in a year.
-Total comp: €36.000 (estimate)
-Also pension scheme included based on gross income. Any questions, feel free to ask!
 ```
 
 ```
-Education: Some College (BS Computer Engineering at top tier tech school)
-Prior Experience: Internships
-Company/Industry: Medium size software company
-Title: Software Developer
-Location: Fairfield County, CT
-Salary: $75k
-Relocaction/Signing Bonus: $2.5k
-Stock and/or recurring bonus: 5k - 10k depending on performance
-Total comp: $80-85k
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -7324,16 +6974,21 @@ Total comp:  $137k
 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
-This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
-School/Year:
+This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
+Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
+Education:
 Prior Experience:
+
+$Internship
+$Coop
 Company/Industry:
 Title:
+Tenure length:
 Location: 
-Duration: 
 Salary: 
-Relocation/Housing Stipend:
-Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
+Relocation/Signing Bonus:
+Stock and/or recurring bonuses:
+Total comp:
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -7403,35 +7058,41 @@ Total comp: $110k + random bonuses
 ```
 
 ```
-Education:
-
-B.S. Computer Science
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
-~8mo Salesforce dev for medium sized company
-1yr Salesforce dev for consulting firm
-2yr specialized help desk
-1.5yr student IT Worker
-Company/Industry:Private company, ~1500 employees
-Title: Salesforce Developer
-Tenure length: ~8 months
-Location: Nashville
-Salary: $85,000
-Relocation/Signing Bonus: N/A
-Stock and/or recurring bonuses: N/A
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
-This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
-School/Year:
+This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
+Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
+Education:
 Prior Experience:
+
+$Internship
+$Coop
 Company/Industry:
 Title:
+Tenure length:
 Location: 
-Duration: 
 Salary: 
-Relocation/Housing Stipend:
-Please make sure to post under the appropriate top-level thread. US High CoL, US Medium CoL, US Low CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
+Relocation/Signing Bonus:
+Stock and/or recurring bonuses:
+Total comp:
+The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
@@ -7440,16 +7101,22 @@ Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Ch
 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
-This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
-School/Year:
+This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
+Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
+Education:
 Prior Experience:
+
+$Internship
+$Coop
 Company/Industry:
 Title:
+Tenure length:
 Location: 
-Duration: 
 Salary: 
-Relocation/Housing Stipend:
-Please make sure to post under the appropriate top-level thread. US High CoL, US Medium CoL, US Low CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
+Relocation/Signing Bonus:
+Stock and/or recurring bonuses:
+Total comp:
+The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
@@ -7489,16 +7156,22 @@ Relocation/Housing Stipend: None
 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
-This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
-School/Year:
+This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
+Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
+Education:
 Prior Experience:
+
+$Internship
+$Coop
 Company/Industry:
 Title:
+Tenure length:
 Location: 
-Duration: 
 Salary: 
-Relocation/Housing Stipend:
-Please make sure to post under the appropriate top-level thread. US High CoL, US Medium CoL, US Low CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
+Relocation/Signing Bonus:
+Stock and/or recurring bonuses:
+Total comp:
+The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
@@ -7678,103 +7351,99 @@ Total comp: 235k
 ## ncr
 
 ```
-School/Year: Top 10 CS/Rising 5th year
-Prior Experience: 2 F500 Internships
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: NCR
-Title: Software Engineering Intern
-Location: Atlanta, GA
-Duration: 12 Weeks
-Salary: $26/hour
-Relocation/Housing Stipend: None. I'm in Atlanta
-
-Company/Industry: RetailMeNot
-Title: Software Engineering Intern
-Location: Austin, TX
-Duration: 11 weeks
-Salary: $7,493/month
-Relocation/Housing Stipend: Paid relocation
-
-```
-
-```
-School/Year: Top 10 CS/Rising 5th year
-Prior Experience: 2 F500 Internships
-
-Company/Industry: NCR
-Title: Software Engineering Intern
-Location: Atlanta, GA
-Duration: 12 Weeks
-Salary: $26/hour
-Relocation/Housing Stipend: None. I'm in Atlanta
-
-Company/Industry: RetailMeNot
-Title: Software Engineering Intern
-Location: Austin, TX
-Duration: 11 weeks
-Salary: $7,493/month
-Relocation/Housing Stipend: Paid relocation
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: top 10 CS school, Sophomore
-Prior Experience: nothing CS related
-Square - Accepted
-Company/Industry: Square
-Title: SWE Intern
-Location: Atlanta
-Duration: 11wks
-Salary: 34/hr
-Relocation/Housing Stipend: 1000 relocation + 1000/mo
-UPS - Declined
-Company/Industry: UPS
-Title: UPS IT intern
-Location: Atlanta
-Duration: 11wks
-Salary: 20.70/hr
-Relocation/Housing Stipend: none
-NCR - declined
-Company/Industry: NCR
-Title: SWE Intern
-Location: Atlanta
-Duration: 12wks
-Salary: 26/hr
-Relocation/Housing Stipend:  1000/mo
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Rising Super Senior @ Top 10 CS
-Prior Experience: 2 F500 Internships, PT work for school
-------------------------------------------------------
-Company/Industry: NCR
-Title: Software Engineer Intern
-Location: Atlanta, GA
-Duration: 12 weeks
-Salary: $26/hr
-Relocation/Housing Stipend: I'm in Atlanta so none. 
---------------------------------------------------------
-Company/Industry: RetailMeNot
-Title: Software Engineer Intern
-Location: Austin, TX
-Duration: 11 weeks
-Salary: $7,493/month
-Relocation/Housing Stipend: Paid relocation. No housing. 
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## paypal
 
 ```
-School/Year: San Jose State University, Master's Student
-Prior Experience: SWE Intern (7mo)
-Company/Industry: PayPal
-Title: SWE Intern
-Location: San Jose, CA
-Duration: 12 weeks
-Salary: 49$/hr
-Relocation/Housing Stipend: Housing + return flight paid for
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -7815,144 +7484,98 @@ Atlassian and the Big4 were unwilling to negotiate compensation as it was fixed 
 ```
 
 ```
-Education: Bach. Software Engineering (RMIT Melbourne)
-Prior Experience: 1yr Interning @ Zendesk, 3 months @ Atlassian
-The above is obviously common to all the following.
-Company/Industry:  Australian Unicorn, SAAS
-Title: Backend Software Engineer (Graduate)
-Tenure length: new grad
-Location: Sydney, Australia
-Salary: $95,000 AUD
-Relocation/Signing Bonus: $5, 000 AUD
-Stock and/or recurring bonuses: $100K USD (1 yr cliff, 4yr vesting) + $9,025 AUD Super-annuation
-Total comp: $143,000 AUD
-
-Company/Industry: Atlassian
-Title: Software Developer (Graduate)
-Tenure length: new grad
-Location: Sydney, Australia
-Salary: $82,000 AUD
-Relocation/Signing Bonus: $7,500 AUD
-Stock and/or recurring bonuses: $70K USD (1 yr cliff, 4 yr vesting) + $8000AUD year bonus + $8000 super
-Total comp: ~$135,000 AUD
-
-Company/Industry: Zendesk, SAAS
-Title: Software Engineer II
-Tenure length: Full-time, not new grad
-Location: Melbourne, Australia
-Salary: $85,000 AUD
-Relocation/Signing Bonus: $0
-Stock and/or recurring bonuses: $100K USD (1 yr cliff, 4 year vesting) + $8000AUD Super-annuation
-Total comp:  ~$128,000 AUD
-Joining Aus Unicorn. Got a good vibe at onsite, and feel it is best for technical and career growth.
-```
-
-```
-Education: Bach. Software Engineering (RMIT Melbourne)
-Prior Experience: 1yr Interning @ Zendesk, 3 months @ Atlassian
-The above is obviously common to all the following.
-Company/Industry:  Australian Unicorn, SAAS
-Title: Backend Software Engineer (Graduate)
-Tenure length: new grad
-Location: Sydney, Australia
-Salary: $95,000 AUD
-Relocation/Signing Bonus: $5, 000 AUD
-Stock and/or recurring bonuses: $100K USD (1 yr cliff, 4yr vesting) + $9,025 AUD Super-annuation
-Total comp: $143,000 AUD
-
-Company/Industry: Atlassian
-Title: Software Developer (Graduate)
-Tenure length: new grad
-Location: Sydney, Australia
-Salary: $82,000 AUD
-Relocation/Signing Bonus: $7,500 AUD
-Stock and/or recurring bonuses: $70K USD (1 yr cliff, 4 yr vesting) + $8000AUD year bonus + $8000 super
-Total comp: ~$135,000 AUD
-
-Company/Industry: Zendesk, SAAS
-Title: Software Engineer II
-Tenure length: Full-time, not new grad
-Location: Melbourne, Australia
-Salary: $85,000 AUD
-Relocation/Signing Bonus: $0
-Stock and/or recurring bonuses: $100K USD (1 yr cliff, 4 year vesting) + $8000AUD Super-annuation
-Total comp:  ~$128,000 AUD
-Joining Aus Unicorn. Got a good vibe at onsite, and feel it is best for technical and career growth.
-```
-
-```
-Education: Bach. Software Engineering (RMIT Melbourne)
-Prior Experience: 1yr Interning @ Zendesk, 3 months @ Atlassian
-The above is obviously common to all the following.
-Company/Industry:  Australian Unicorn, SAAS
-Title: Backend Software Engineer (Graduate)
-Tenure length: new grad
-Location: Sydney, Australia
-Salary: $95,000 AUD
-Relocation/Signing Bonus: $5, 000 AUD
-Stock and/or recurring bonuses: $100K USD (1 yr cliff, 4yr vesting) + $9,025 AUD Super-annuation
-Total comp: $143,000 AUD
-
-Company/Industry: Atlassian
-Title: Software Developer (Graduate)
-Tenure length: new grad
-Location: Sydney, Australia
-Salary: $82,000 AUD
-Relocation/Signing Bonus: $7,500 AUD
-Stock and/or recurring bonuses: $70K USD (1 yr cliff, 4 yr vesting) + $8000AUD year bonus + $8000 super
-Total comp: ~$135,000 AUD
-
-Company/Industry: Zendesk, SAAS
-Title: Software Engineer II
-Tenure length: Full-time, not new grad
-Location: Melbourne, Australia
-Salary: $85,000 AUD
-Relocation/Signing Bonus: $0
-Stock and/or recurring bonuses: $100K USD (1 yr cliff, 4 year vesting) + $8000AUD Super-annuation
-Total comp:  ~$128,000 AUD
-Joining Aus Unicorn. Got a good vibe at onsite, and feel it is best for technical and career growth.
-```
-
-```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-B.S. at top CS school
-Internship at large tech
-Internship at startup
-Company/Industry: Twitter
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Location: SF
-Total comp:
-Salary: $127,000 + 10% annual bonus
-Stock: ~$120,000 / 4 years
-Bonus: $30,000
-Company/Industry: Unicorn
-Title: Software Engineer
-Location: SF
-Total comp:
-Salary: ~$130,000
-Stock: ~$140,000 / 4 years
-Bonus: $20,000
-Company/Industry: Atlassian
-Title: Software Engineer
-Location: SF
-Total comp:
-Salary: $116,000 + 10% annual bonus
-Stock: $100,000 / 4 years
-Bonus: $30,000
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: RMIT University 
-Prior Experience: 1 year internship @ Zendesk
-Company/Industry: Atlassian
-Title: Software Developer Intern
-Location: Sydney, Australia
-Duration: 3 months (Dec-Feb)
-Salary: $75,000AUD per/annum (paid hourly)
-Relocation/Housing Stipend: $2000AUD lump sum
-(Have posted this before, but feel like it's worth re-posting as Aus is sometimes bare)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```School/Year: Top/big Australian university, 2nd year undergraduate
@@ -7966,31 +7589,43 @@ Relocation/Housing Stipend: Corporate housing included
 ```
 
 ```
-School/Year: NYU/Junior
-Prior Experience: Personal projects (Android, Unity)
-Company/Industry: Atlassian 
-Title: Software Developer Intern
-Location: NYC
-Duration: 12 weeks
-Salary: $41/hr
-Relocation/Housing Stipend: None
-I had no idea Atlassian could pay like a Big-N company could.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ## properly
 
 ```
-Education: dropped out of college, completed ~2 years of BSEE
-Location: Indianapolis metro area (col: 87.9)
-Experience: ~17 years total professional experience in IT, of that (overlapping) ~15 total with SQL/RDBMS/PLSQL/TSQL/reporting, ~7 as a properly titled software engineer, ~7 in industry, ~2 in cloud, ~3 in consulting
-Industry: Healthcare
-Title: Senior Software Engineer
-Tenure:  just started
-Responsibilities: cloud transition, data engineering, event sourcing, etc.
-Salary:  $125k (full time W2)
-other compensation: standard benefits, up to ~$4.5k in 401k matching, pretty good healthcare coverage/costs, 21 days total PTO
-(prior position ~118k with bonus, mediocre benefits in consulting, had to pay own downtown parking ~1200/yr)
-Worth noting I know a few people in the $170k-180k range in my market (Indianapolis).  Senior engineers in the $110-130k range is now fairly normal.  I know many mid-level engineers in the $80-100k range, and new grads around $55k-60k.  I've had a lot of open conversations with coworkers, people seem to be less shy these days.  I've literally doubled my salary in the past ~7 years since I was first given a software engineering titled role. 
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ## capital one
@@ -8060,67 +7695,60 @@ Total comp: 101.5k + performance (Y1 only).
 ```
 
 ```
-Education: Boring State School
-Prior Experience: 1 internship + part time development at school
-Company/Industry: Capital One
-Title: Associate Software Engineer (TDP) 
-Location: Plano, TX
-Salary: 90k
-Relocation/Signing Bonus: 10k/1.5k
-Stock and/or recurring bonuses: 0-6k possible bonus, stock purchase option of 10% salary at 15% discount 
-Total comp:
-
-First Year: 100k
-
-```
-
-```
-Education: BA Math + CS Minor, state U
-Prior Experience: 2 yr internship + ~ > half a year FT for Gov agency
- 
-Company/Industry: Capital One
-Title: Software Engineer TDP
-Tenure length: Declined
-Location: DC/NoVA
-Salary: 99k
-Relocation/Signing Bonus: 1.5k / 10k
-Stock and/or recurring bonuses:
-Total comp: $110500 first year
- 
-Company/Industry: Microsoft
-Title: Software Engineer
-Tenure length: Haven't started
-Location: DC/NoVA
-Salary: 110k
-Relocation/Signing Bonus: 10k / 10k
-Stock and/or recurring bonuses: 20k / 4 yrs stock, ~ 20-30% cash bonus / yr
-Total comp: Anywhere from 150k - 190k average per year, amortized over 4 years, depending on performance 
-
-```
-
-```
-Education: BS/MS at a no name School
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-18 months co-ops at a fortune 100 company
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
-​
-Company/Industry: Capital One
-Title: TDP 
-Location: McLean, VA
-Salary: 99k
-Relocation/Signing Bonus: 1.5k / 10k 
-Stock and/or recurring bonuses: 6k performance 
-Total comp: 110k Year 1, 99k after
-​
-Company/Industry: Microsoft
-Title: SDE
-Location: Redmond, WA
-Salary: 117k
-Relocation/Signing Bonus: 5.5k / 15k
-Stock and/or recurring bonuses: 120k/3.5years   and 20% performance bonus
-Total comp: 166k Year 1, 151k after not counting performance
-​
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```Education: Bachelors in Computer Science Graduating Spring 2019 - Top Public University
@@ -8135,28 +7763,21 @@ Total comp: ~$104,000 first year, ~$93,000 after
 ```
 
 ```
-Education: Top 5 Public University
-Prior Experience: 1 Internship at a small local company
-Company/Industry: Capital One
-Title: Associate Software Engineer (TDP)
-Location: Richmond, Va
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
 Salary: $90,000
-Relocation/Signing Bonus: $10,000 Signing + $1,500 Relocation
-Target Bonus: $3,800
-Total Comp: $105,300
-
-```
-
-```School: BS ChemE, CS Minor @ State school, probably top 25 engineering programs
-Prior Experience: 1 software engineering internhship, 3 co-ops as ChemE
-Capital One (accepted):
-Location: McLean, VA
-Title: Capital One Developer Academy (CODA) Associate
-Salary: $82k
-Signing bonus: $9k
-Stock: none
-Relocation: $1.5k
-Total comp: 93.5k, after 6 months I convert to TDP and salary goes to 99k + some performance bonus
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -8172,27 +7793,34 @@ Total comp: $88k
 I accepted the Capital One offer I posted under High COL
 ```
 
+```School: BS ChemE, CS Minor @ State school, probably top 25 engineering programs
+Prior Experience: 1 software engineering internhship, 3 co-ops as ChemE
+Small Software Company (Return offer from internship):
+Location: Philadelphia
+Salary: $83k
+Signing bonus: $5k
+Stock: none
+Relocation: none
+Total comp: $88k
+I accepted the Capital One offer I posted under High COL
 ```
-Education: BS in CS at Large State School
-Prior Experience:  1 previous internship
-Company/Industry: Goldman Sachs
-Title: Technology Analyst
-Location: Salt Lake City, UT
-Salary: 65,000
-Relocation/Signing Bonus: 2000/15000
-Stock and/or recurring bonuses: Performance based. Offer letter wasn't specific.
-Total comp: ~82,000
- 
- 
-Education: BS in CS at Large State School
-Prior Experience: 1 previous internship
-Company/Industry: Capital One
-Title: Technology Software Engineer Associate
-Location: Plano, TX
-Salary: 90,000
-Relocation/Signing Bonus: 1500/10,000 post tax.
-Stock and/or recurring bonuses: 0-6000 performance based.
-Total comp: ~100,000
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -8240,41 +7868,32 @@ I accepted offers with the F-500 Company (Spring 2019), Capital One (Summer 2019
 Prior Experience:
 $Internship: 2 internships
 Company/Industry: Capital One
-Title: Principal Associate Software Engineer (Senior Software Engineer)
-Tenure length: 3yr
+Title: Senior Associate Software Engineer 
+Tenure length: 2 yr
 Location: DC / McLean
-Salary: $130,000
-Relocation/Signing Bonus: none this year
-Stock and/or recurring bonuses: 15% match on 15% espp (~$3,200) , $8,800 target with a max of $17,600, 7.5% 401k match on salary & bonus no limit except the legal one
-Total comp: $142,000 - $150,800 -- $147,000 - $161,870 w/ 401k match
+Salary: 109000
+Relocation/Signing Bonus: $0 (my first year it was ~15k gross)
+Stock and/or recurring bonuses: 16.75% match on 15% espp (~2700) , $5000-8400 target up to $13,400, 7.5% 401k match
+Total comp: $116,700 - $125,100 ; $125,000 - $135,000 w/ 401k
 ```
 
 ```
-School/Year: non-target state school on the east coast  
-Prior Experience: Internship at generic finance company
-​
-Facebook
-Title: SWE Intern  
-Location: Menlo Park, CA  
-Duration: 12 Weeks  
-Salary: 8000/m ($50/hour)  
-Relocation/Housing Stipend: Corp Housing or 1000/month
-​
-Microsoft
-Title: SWE Intern  
-Location: Redmond, WA  
-Duration: 12 Weeks  
-Salary: 7300/m ($45/hour)  
-Relocation/Housing Stipend: Corp Housing or 7000 lump sum
-​
-Capital One
-Title: SWE Intern  
-Location: McLean, VA  
-Duration: 10 Weeks  
-Salary: 7600/m ($47.5/hour)  
-Relocation/Housing Stipend: Corp Housing or ~1500/month
-​
-Taking offers in the Winter/Summer. Hype to have these opportunities :) (although I still get jealous when I see these unicorn/trading comps)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```School/Year: HYP/Junior
@@ -8325,96 +7944,53 @@ Relocation/Housing Stipend: None
 ```
 
 ```​
-School/Year: Northwestern University / Junior
-Prior Experience: Startup Internship + NASA Internship
-​
-Company/Industry: Google
-Title: SWE Intern
-Location: Los Angeles, CA
+School/Year: Top 50 school, Masters
+Prior Experience: 3 years 3 months
+Company/Industry - Autodesk
+Title: Reliability Engineer Intern
+Location: San Francisco
 Duration: 12 weeks
-Salary: ~$7500/month
-Relocation/Housing Stipend: $9000 lump sum
-​
-Company/Industry: Facebook
-Title: SWE Intern
-Location: Menlo Park, CA
-Duration: 12 weeks
-Salary: 8000/month
-Relocation/Housing Stipend: Free housing
-​
-Company/Industry: Microsoft
-Title: SWE Intern
-Location: Redmond, WA
-Duration: 12 weeks
-Salary:  $7300/month
-Relocation/Housing Stipend: Free housing or $7000
-​
-Company/Industry: Uber
-Title: SWE Intern
-Location: San Francisco, CA
-Duration: 12 weeks
-Salary: $44.15/hr and $66.22/hr (overtime)
-Relocation/Housing Stipend:  $1800/month + 200/month in Uber credits
-​
-Company/Industry: JP Morgan Chase
-Title: SWE Intern
-Location: NYC
-Duration: 12 weeks
-Salary:  $47.36/hr and $71.03/hr (overtime)
-Relocation/Housing Stipend: $1500 lump sum
-​
-Company/Industry: LinkedIn
-Title: SWE Intern
-Location: Sunnyvale, CA
-Duration: 12 weeks
-Salary: $7200/month
-Relocation/Housing Stipend: Free Housing
-​
-Company/Industry: Intel
-Title: Firmware Engineering Intern
-Location: Folsom, CA
-Duration: 12 weeks
-Salary: $27/hr
-Relocation/Housing Stipend: Relocation Assistance
-​
-Company/Industry: Capital One
-Title: SWE Intern
-Location: Richmond, VA
-Duration: 10 weeks
-Salary:  $7600/month
-Relocation/Housing Stipend:  $1500/month
-​
-Company/Industry: Convoy
-Title: SWE Intern
-Location: Seattle, WA
-Duration: 12 weeks
-Salary: ~$8000/month
-Relocation/Housing Stipend: 3000 lump sum
+Salary: 42$/hour
+Relocation/Housing Stipend: 1200$/month
 
 ```
 
 ```
-Company/Industry: Capital One
-Title: Associate Software Engineer (Technology Development Program)
-Location: Richmond VA
-Salary: $98,000
-Relocation/Signing Bonus: $10,000 signing, $1,500 relocation
-Stock and/or recurring bonuses: $0
-Total comp: ~$110,000
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: BS in CS at Midwest flagship (you've heard of us). 
-Prior Experience: Capital One and 1 small company doing full stack web dev
-Company: Capital One
-Title: (not sure what my exact title is, but I'd be doing software engineering in the TDP program)
-Location: McLean, VA (suburban Washington DC)
-Salary: $99,000
-Relocation/Signing Bonus: $15k net signing + $1.5 net relocation ('net' means the company pays the taxes such that I receive the full stated amount after taxes). Without the netting up, the relocation and signing bonus would be $27k or so.
-Stock and/or recurring bonuses: An annual 'Meets expectations' rating has a bonus range of $2.5k-4.1k. The overall total possible range is $0-6.6k
-Total comp: $99k + ~$3k recurring bonus = $102k recurring; first year is $102k + $27k = $129k
-Note: this is the offer that all returning interns get. Non-interns get the same deal, except the signing bonus is $10k net rather than $15k net. 
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```Education: Top 15 in USNWR, BS + 1-Year MS
@@ -8442,46 +8018,40 @@ Total comp: $116,700 - $125,100 ; $125,000 - $135,000 w/ 401k
 ```
 
 ```
-School/Year: State School / Junior
-Prior Experience: 3 previous internships
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Capital One (return offer)
-Title: SWE Intern
-Location: Washington, D.C.
-Duration: 10 weeks
-Salary: $45/hr
-Relocation/Housing Stipend: Free Corporate housing or Housing stipend ($5000 lump sum)
-Transportation Stipend: None
-
-Company/Industry: Microsoft
-Title: SDE Intern
-Location: Seattle
-Duration: 12 weeks
-Salary: $42/hour
-Relocation/Housing Stipend: Free Corporate housing or Housing stipend ($7000 lump sum)
-Transportation Stipend: Rental car ($375/month) or $1200 stipend
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: State School / Junior
-Prior Experience: 3 previous internships
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Capital One (return offer)
-Title: SWE Intern
-Location: Washington, D.C.
-Duration: 10 weeks
-Salary: $45/hr
-Relocation/Housing Stipend: Free Corporate housing or Housing stipend ($5000 lump sum)
-Transportation Stipend: None
-
-Company/Industry: Microsoft
-Title: SDE Intern
-Location: Seattle
-Duration: 12 weeks
-Salary: $42/hour
-Relocation/Housing Stipend: Free Corporate housing or Housing stipend ($7000 lump sum)
-Transportation Stipend: Rental car ($375/month) or $1200 stipend
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -8576,47 +8146,63 @@ Looking at all the other London offers I didn't realise how much this was at the
 ## quantcast
 
 ```
-School/Year: UC Berkeley, Sophomore
-Prior Experience: 2 summer internships at Canadian companies
-Company: Quantcast
-Position: Software Engineering Intern
-Location: SF
-Duration: 11 weeks
-Salary: $7.4k / month
-Housing Stipend: $3k
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## zillow
 
 ```
-Education: Public Ivy UC  
-Prior Experience: No Internships, Startup for a couple of months  
-Company/Industry: Zillow Group  
-Title: Software Engineer  
-Location: SF  
-Salary: 145k  
-Relocation/Signing Bonus: 10k over 2 years  
-Stock and/or recurring bonuses: 135k RSU over 4 years  
-Total comp: Around 190k for the first two years.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## salesforce
 
 ```
-Education: BS in Computer Science, large state school
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-1 Internship, same company
-Company/Industry: Salesforce
-Title: Software Engineer MTS
-Tenure length: 2 Years
-Location: San Francisco
-Salary: 138k
-Relocation/Signing Bonus: 11k, 25k
-Stock and/or recurring bonuses: ~30k RSU/yr, at least 10% target bonus
-Total comp: ~185k
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -8628,8 +8214,8 @@ Total comp: ~185k
 • ⁠Location: San Francisco, CA
 • ⁠Salary: $130k
 • ⁠Relocation/Signing Bonus: $25k signing bonus, ~$10k relocation
-• ⁠Stock and/or recurring bonuses: $85k in RSUs vesting evenly over four years ($21,250/yr). 10% target bonus each year (based on base salary)
-• ⁠Total comp: ~$195k Year 1, ~165k Year 2-4, ~145k After Year 4 (assuming no raises or promotions)
+• ⁠Stock and/or recurring bonuses: $85k in RSUs vesting evenly over four years ($21,250/yr). 10% bonus each year (based on base salary)
+• ⁠Total comp: ~$195k first year
 ```
 
 ```This is the internship I'm coming to the end of...
@@ -8670,69 +8256,80 @@ Total comp: 153k first year, 133k subsequent
 ```
 
 ```
-Education: BS in Computer Science
-Prior Experience: 3 years of Help Desk, ~3 years of Salesforce Development
-Company/Industry: Private Business
-Title: Salesforce Developer
-Tenure length: ~6 mos
-Location: Nashville Metro
-Salary: 130K (Pretty large outlier)
-Relocation/Signing Bonus: none
-Stock and/or recurring bonuses: none
-Total comp: 130K
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## ibm
 
 ```
-Education:
-
-BS Software Development
-AAS Web Development
-AAS Network Engineering
-Prior Experience: 14 years professional experience, 19 years total experience:
-
-5 years running my own websites and doing very sporadic freelance work while in jr high and high school and also working "regular" jobs in retail and construction
-3 years at a small insurance agency - started with an internship and then became full-time
-2 years running my own web development agency
-4 years at an online retail startup
-3 years at IBM Watson
-Company/Industry: Enterprise security/management software currently. Previously in cloud AI services, online retail, and insurance.
-Title: Senior Software Engineer
-Tenure length: 1.5 years
-Location: rural Ohio (remote). Previously worked on-site in SF.
-Salary: $165k
-Relocation/Signing Bonus: 0
-Stock and/or recurring bonuses: ~$100k bonus, ~$50k stock
-Total comp: ~$330k
-I'm probably on the upper end at my employer, but I know there are folks here with Top Secret clearance who make more than I do. Also, I'm pretty sure some of the people who joined earlier than me have enough stock that they don't need to work, but they still do. It's is a cool company.
-```
-
-```
-Education: State School
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
-Internship at fortune <100 and fortune <200
-1.5 years of university research
-Company/Industry: IBM
-Title: QA Engineer - software developer
-Tenure length: New Grad
-Location: Raleigh, NC
-Salary: 88k base
-Relocation/Signing Bonus: relo 3k / sign on 10k
-Stock and/or recurring bonuses: N/A
-Total comp: ~101k
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: 3rd-year software engineering at the middle of the pack Scandinavian school
-Prior Experience:  none
-Company/Industry: IBM
-Title: Software engineer intern
-Location: Scandinavia
-Duration: Summer
-Salary: 24$/hr
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -8748,30 +8345,40 @@ Total comp: $98,000 first year, $88,000 after
 ```
 
 ```
-Education: BS in CS at Tech school in NY, MS in CS at UC school
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
-   Internships: 1 internship at Boeing, 2 for IBM
-   Real Jobs: ~2 years at Gov Contractor, ~2 years at IBM
-Company/Industry: MS
-Title: SE-2 (L61)
-Tenure length: 18 mos.
-Location: Bellevue, WA
-Salary: 135,000
-Relocation/Signing Bonus: Relo of about 25k, 30k Sign on bonus
-Stock and/or recurring bonuses: 40k first year, 50k second year. Both vest over about 4 years.
-Total comp: ~200k for this year.
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Freshman/rising sophomore @ a big 4 school
-Prior Experience: IBM
-Company/Industry: Fintech startup
-Title: SWE Intern
-Location: Redwood City
-Duration: 14 weeks
-Salary: $33 / hour
-Relocation/Housing Stipend: $0
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -8788,29 +8395,40 @@ Total comp: $156k
 ```
 
 ```
-Education: CS undergrad
-Prior Experience: one 4-month internship
-Company/Industry: IBM
-Title: Software Developer
-Location: Markham, Ontario
-Salary: 74500
-Relocation/Signing Bonus: 0
-Stock and/or recurring bonuses: 4% retirement matching
-Total comp: 77480
-C'est la vie in Canada lol.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```
-Education: Local State School, Masters 
-Prior Experience: 1 internship at IBM 
-Company/Industry: IBM 
-Title: Entry Level Software Developer 
-Tenure length: New Grad 
-Location: Massachusetts 
-Salary: $120,000 
-Relocation/Signing Bonus: $11,600 
-Stock and/or recurring bonuses: None 
-Total comp: $131,600
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -8829,136 +8447,83 @@ Total comp: $91,500
 ## affirm
 
 ```
-School/Year: top 4 university for cs, Junior
-Prior Experience: TA-ing, unicorn internship
-​
-Company/Industry: Square
-Title: Software Engineer Intern
-Location: NYC
-Duration: 12 weeks
-Salary: 45/hour
-Relocation/Housing Stipend: 2k/month
-​
-Company/Industry: Stripe [accepted!]
-Title: Software Engineer Intern
-Location: Seattle
-Duration: 12 weeks
-Salary: 8k/month
-Relocation/Housing Stipend: 2k/month or corporate housing
-​
-Company/Industry: Shift
-Title: Software Engineer Intern
-Location: SF
-Duration: 12 weeks
-Salary: 8k/month
-Relocation/Housing Stipend: 2k/month
-​
-Company/Industry: Affirm
-Title: Software Engineer Intern
-Location: SF
-Duration: 12 weeks
-Salary:8k/month
-Relocation/Housing Stipend: 4k/summer
-​
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```
-School/Year: Junior, State School (UIUC)
-Prior Experience: Amazon
-Affirm
-Title: SWE Intern
-Location: San Francisco, California
-Duration: 12 weeks
-Salary: $46.13/hour
-Relocation/Housing Stipend: $3k 1-time :(
-Quora
-Title: SWE Intern
-Location: Mountain View, California
-Duration: 12 weeks
-Salary: $8.3k/month
-Relocation/Housing Stipend: Corporate or $2k/month
-Flexport
-Title: SWE Intern
-Location: San Francisco, California
-Duration: 12 weeks
-Salary: $8k/month
-Relocation/Housing Stipend: $2k/month + they give you free housing broker
-Snowflake Computing
-Title: SWE Intern
-Location: San Mateo, California
-Duration: 12 weeks
-Salary: $8k/month
-Relocation/Housing Stipend: $7.6k 1-time
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## ebay
 
 ```
-Education: CS undergrad at a target
-Prior Experience: Research, 3 big 4 internships
- 
-Company/Industry: Facebook
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Location: Menlo Park, CA
-Salary: 110k
-Relocation/Signing Bonus: 100k
-Stock and/or recurring bonuses: 150k/4 stock, 10% target bonus
- 
-Company/Industry: Microsoft
-Title: Software Engineer
-Location: Redmond, WA
-Salary: 108k
-Relocation/Signing Bonus: 25k
-Stock and/or recurring bonuses: 120k/3 stock, 10% target bonus
- 
-Company/Industry: Lyft
-Title: Software Engineer
-Location: San Francisco
-Salary: 135k
-Relocation/Signing Bonus: 60k
-Stock and/or recurring bonuses: 260k/4 stock, 10% target bonus.
- 
-Company/Industry: Google
-Title: Software Engineer
-Location: San Francisco, CA
-Salary: 116k
-Relocation/Signing Bonus: 25k
-Stock and/or recurring bonuses: 150k/4 stock, 10% target bonus
- 
-Company/Industry: Intuit
-Title: Software Engineer
-Location: Mountain View, CA
-Salary: 110k
-Relocation/Signing Bonus: 15k
-Stock and/or recurring bonuses: 100k/4, 10% target bonus
-Total comp: 167.5k recurring
- 
-Company/Industry: eBay
-Title: Software Engineer
-Location: San Francisco, CA
-Salary: 107k
-Relocation/Signing Bonus: 10k
-Stock and/or recurring bonuses: 25k/4 stock, 10% target bonus.
- 
-Accepted Lyft last week after reviewing my offers, really excited to start there next Fall :)
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## qualcomm
 
 ```
-Education: Football state
-Prior Experience: 1 Internship
-Company/Industry: Qualcomm
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Tenure length: ~1.5 years
-Location: San Diego 
-Salary: $102k
-Relocation/Signing Bonus: $20k (signing & relo)
-Stock and/or recurring bonuses: $21k (stocks, bonus, 401k match)
-Total comp: $135k first year
-Love San Diego, don't love Qualcomm. Looking to move to a FAANG soon.
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```School/Year: Top 10 CS, Rising Sr.
@@ -9007,35 +8572,42 @@ Total comp: ~140k
 ```
 
 ```
-School/Year: Upcoming Senior @ non-target state school
-Prior Experience: N/A
-Company/Industry: Qualcomm
-Title: Software Engineer Intern
-Location: San Diego
-Duration: 14 weeks
-Salary: $38 hr
-Relocation/Housing Stipend: Relocation package + corporate housing
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## carrot
 
 ```
-Education: College Dropout
-Prior Experience: 6 years
-Company/Industry: Mobile App Development -- I'm working 2 jobs at the same time right now and putting in 60-80 hour weeks. 
-Title: Sr Android Software Engineer + Android Consultant
-Tenure length: For this current deal, a little over a year, now.
-Location: 100% remote, I travel and work full-time. I have a base out of San Francisco, though.
-Salary1: $150k
-Salary2: $150/hr
-Relocation/Signing Bonus: N/A
-Stock and/or recurring bonuses: 11% annual year-end performance based bonus
-Total comp: ~$475k
-I've optimized for making as much money as I can. I'm hoping that I can execute on having FI/RE by the age of 30, and "retire" for a bit of time. When I get bored of messing around, I'll probably try to bootstrap and build out my own mobile apps/services end-to-end on my own.
-I too, never thought I'd be in this situation, financially. To be frank, I was actually once homeless (due to poor luck, circumstances outside of my control and a lack of a family and friends safety net.) Crawling out of my financial hole, to survive, I regularly worked jobs I hated at 80-100 hours per week to make ends meet. As a result, I've gotten accustomed to working 60+ hours and became extremely good at time management. I also figure, in high school, my school day was from 8am - 4pm, plus 4 hours in the evening for homework -- so in a way, I've been "working" 12 hours per day my entire life.
-Juggling 2 jobs is really hard. I don't recommend it for everyone, but my big carrot on my own stick is that, at 30, if I live within my means, I'll theoretically never have to work another day again in my life. 
-My life breakdown is generally like so -- there are 168 hours in a week, so 60-80 of those are already syphoned off to working, leaving me 88-108 hours. I usually sleep 6-8 hours total within a day, bringing me down to 32-66 hours of free time to eat food, mess around, or whatever. I allocate and plan accordingly.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -9096,27 +8668,40 @@ Relocation/Housing Stipend: Paid intern housing + transportation pass
 ## uber
 
 ```
-School/Year: Second-Year, Top 20 CS
-⁠Prior Experience: School Projects
-Company/Industry: Uber
-Title: Software Engineer Intern
-Location: San Francisco, CA
-Duration: 12 weeks
-Salary: $44.15 per hour
-Relocation/Housing Stipend: $1500 per month (taxable)
-Perks: 1.5x Overtime Pay ($66.22 per hour, 5 hours a week), 17% Off Uber Rides & Eats, ~$200 Uber Cash, 3 Meals, Unlimited Drinks & Snacks
-At orientation, they claimed that their internship acceptance rate is 0.1%. Looking forward to a great summer!
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```
-School/Year: Top
-Prior Experience: 3 SWE internships
-Company/Industry: Uber
-Title: Software Engineering Intern
-Location: NYC/SF/SEATTLE
-Duration: 12+ weeks
-Salary: $46.15/hr
-Relocation/Housing Stipend: $1500/month, $200/month credits, flights covered
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -9191,19 +8776,21 @@ Relocation/Housing Stipend: 1200$/month
 ## tesla
 
 ```
-Education: BS Computer Science '16, MS Computer Science '18 Stanford  
-Prior Experience:  
-- Web startup, Software, Summer 2014  
-- Tesla Firmware, Summer, 2016  
-- Research, Summers 2015 and 2017  
-Company/Industry: Computer vision startup  
-Title: Software engineer  
-Tenure length: N/A  
-Location: Palo Alto, CA  
-Salary: $140,000  
-Relocation/Signing Bonus: N/A because I didn't move  
-Stock and/or recurring bonuses: 1% of company, stock options vesting over four years  
-Total comp: ??? totally depends on how the startup does
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -9218,14 +8805,21 @@ Relocation/Housing Stipend: None
 ```
 
 ```
-School/Year: Purdue, Sophomore
-Prior Experience: ML startup, Pinterest, Qualcomm, On Campus infra job
-Company/Industry: Tesla
-Title: Software Engineering Intern
-Location: Fremont, CA
-Duration: 14 weeks
-Salary: 28/hr
-Relocation/Housing Stipend: $500 relocation because I drove. $3000 one time housing stipend.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -9253,31 +8847,43 @@ Relocation/Housing Stipend: $6000 or company housing
 ```
 
 ```
-School/Year: Rising senior at UC Santa Cruz (not gonna bother hiding it, since this is my main account anyways.) - low/mid tier UC, prob top 50 CS
-Prior Experience: 1 year internship/software dev position at a consulting firm, SWE internship at Quicken Loans (I put this as incoming SWE intern on my resume since I don't start for another two weeks)
-Company/Industry: LinkedIn (Fall)
-Title: Systems and Infrastructure Engineer Intern
-Location: Sunnyvale, CA
-Duration: 15.5(?) weeks (from beginning of September to end of December)
-Salary: $45 an hour
-Relocation/Housing Stipend: Free (shared) corporate housing, $500 relocation stipend
-Very excited about this, since it's my first internship at a big company and also systems/infra is an area I've wanted to work in for a while. Also honestly a little surprised because someone told me that LinkedIn only offers off-season internships to Waterloo students or something like that.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ## expedia
 
 ```
-Education: BA Computer Science - Decent State School
-Prior Experience: None
-Company/Industry: Expedia
-Title: Software Development Engineer II
-Tenure length: 1.5 years
-Location: Bellevue / Seattle, WA
-Salary: 115k
-Relocation/Signing Bonus: 10k + 10k (when I joined)
-Stock and/or recurring bonuses: 12k bonus + 12k RSUs
-Total comp: ~140k  
-I joined Expedia right out of college as an SDE I (93k salary) and was promoted after 1.5 years to SDE II
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```School/Year: McGill University, sophomore
@@ -9316,26 +8922,21 @@ Housing/Relocation: N/A
 ## hubspot
 
 ```
-School/Year: Junior, Top school
-Prior Experience: 1 prior internship
-VMware
-Title: Software Engineering Intern
-Location: Austin
-Duration: 12 Weeks
-Salary: ~35/hour or ~6100/month
-Relocation/Housing Stipend: 3.7k total or housing provided, paid airfare
-Hubspot
-Title: Software Engineering Intern
-Location: Boston
-Duration: 12 Weeks
-Salary: 35/hour
-Relocation/Housing Stipend: 3k total
-Uptake
-Title: Software Engineering Intern
-Location: Chicago
-Duration: 12 Weeks
-Salary: 25/hour
-Relocation/Housing Stipend: 750/month
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -9420,14 +9021,21 @@ Relocation/Housing Stipend: $4,000 for the whole summer
 ## workday
 
 ```
-School/Year: California Polytechnic State University, SLO / 3rd
-Prior Experience: IT internship at a small company
-Company/Industry: Workday
-Title: Software Application Development Intern
-Location: Pleasanton
-Duration: 12 wk
-Salary: $42/hr ($7280/mo)
-Relocation/Housing Stipend: Housing provided
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -9553,123 +9161,134 @@ Misc: Breakfast/lunch/dinner
 ## square
 
 ```School/Year: Junior
-Prior Experience: 4 small internships
-Company/Industry: Square
+Prior Experience: Two internships (one Big4)
+Company/Industry: GitHub
 Title: Software Engineering Intern
-Location: San Francisco
-Duration: 16 weeks
-Salary: $44/hour
-Relocation/Housing Stipend: $2000/month
+Location: San Francisco, CA
+Duration: 10 weeks
+Salary: $50/hr
+Relocation/Housing Stipend: Corporate housing (studio) in downtown SF, walking distance from office
+​
+Starting next week, super pumped!
 ```
 
 ## surveymonkey
 
 ```
-School/Year: Top 10 CS/Rising 5th year
-Prior Experience: 2F500 Internships
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: The Walt Disney Studios
-Title: Software Engineering Intern, Studios
-Location: Glendale, CA
-Duration: 12 Weeks
-Salary: $35/hour
-Relocation/Housing Stipend: $2,000 for relocation/housing
-
-Company/Industry: SurveyMonkey
-Title: Software Engineering Intern
-Location: San Mateo, CA
-Duration: 9 weeks
-Salary: $7,000/month
-Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrain pass.
-
-```
-
-```
-School/Year: Top 10 CS/Rising 5th year
-Prior Experience: 2F500 Internships
-
-Company/Industry: The Walt Disney Studios
-Title: Software Engineering Intern, Studios
-Location: Glendale, CA
-Duration: 12 Weeks
-Salary: $35/hour
-Relocation/Housing Stipend: $2,000 for relocation/housing
-
-Company/Industry: SurveyMonkey
-Title: Software Engineering Intern
-Location: San Mateo, CA
-Duration: 9 weeks
-Salary: $7,000/month
-Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrain pass.
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Top 10 CS
-Prior Experience: 2 F500 internships
-------------------------------------------------------------
-Company/Industry: Disney
-Title: Software Engineering Intern, Studios
-Location: Glendale, CA
-Duration: 12 weeks
-Salary: $35/hr
-Relocation/Housing Stipend: IIRC ~$2,000 for housing and paid relocation. Not 100% sure.
-------------------------------------------------------------
-Company/Industry: SurveyMonkey
-Title: Software Engineering Intern
-Location: San Mateo, CA
-Duration: 9 weeks
-Salary: $7,000/month
-Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrain pass.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Junior Top 20 CS
-Prior Experience: Global 2000 Company
-Company/Industry: SurveyMonkey
-Title: Software Engineer Intern
-Location: San Mateo, CA
-Duration: 9 weeks
-Salary: ~$7,000 / mo
-Housing Stipend/Misc: $3,500 housing (lump sum I think), $100 monthly for CalTrain
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## node
 
 ```
-Education: M.Eng CS (integrated masters), Ph.D CS (awaiting viva)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
-Internship 1: 3 months of working on an in-house Java wiki.
-Internship 2: 3 months of working on a customer-facing low-latency distributed system in Go.
-Internship 3: 3 months of working on a combination of customer-facing Ruby and Node applications.
-Company/Industry: Civil Service (Cabinet Office)
-Title: Developer
-Tenure length: 2-year fixed term contract, conditional on getting security clearance.
-Location: London
-Salary: £50,000
-Relocation/Signing Bonus: None
-Stock and/or recurring bonuses: None
-Total comp: £50,000
-There's a pension scheme with an average of 22% contribution from the Cabinet Office which I don't know the full details of yet.  I get 34 days holiday (8 of which are bank holidays and 1 of which is the Queen's official birthday).
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ## mozilla
 
 ```
-Education: Masters CS, top 20 (2015)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-Internships: 2 Tech Giants
-Real Job: Contracting work, 1 yr
-Company/Industry: Mozilla
-Title: Data Engineer
-Tenure length: 1 yr
-Location: Midwest
-Salary: $110,000
-Stock and/or recurring bonuses: $44,000
-Total comp: $154,000
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -9710,41 +9329,43 @@ Relocation/Housing Stipend: $1000 one-time stipend
 ## mongodb
 
 ```
-School/Year: Junior @ non target school
-Prior Experience: 3 internships
-​
-Foursquare
-Title: Software Engineering Intern
-Location: NYC
-Duration: 12 weeks
-Salary: $40/hr, 1.5x for overtime
-Relocation/Housing Stipend: $5000 sign-on
-​
-MongoDB
-Title: Software Engineering Intern
-Location: NYC
-Duration: 12 weeks
-Salary: $7600 monthly
-Relocation/Housing Stipend: Corporate Housing or stipend of $7000
-​
-​
-Never posted in this before. Happy to finally serve as a data point.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ## mediamath
 
 ```
-Education: BA Economics from UCLA
-Prior Experience: None in CS, 1 year in finance as a pseudo financial advisor
-Company/Industry: MediaMath
-Title: Software Engineer I
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
 Tenure length: 1 month
-Location: NYC
-Salary: 80k
-Relocation/Signing Bonus: none
-Stock and/or recurring bonuses: 8k bonus, ESOP
-Total comp: 88k
-Degree's in economics, went to AppAcademy bootcamp and got a job a couple months after. 2 years out of college but I guess it's also a nice reference point.
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ## visa
@@ -9769,49 +9390,34 @@ Pretty happy I finally got a job and can contribute here
 ## stripe
 
 ```
-Company/Industry: Stripe
-Title: SWE Intern
-Location: San Francisco
-Duration: 12 weeks
-Salary: $8646/month + $125/month for hobbies
-Relocation/Housing Stipend: Reimbursed moving expenses / corporate housing, 10 min walk to office
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ## bloomberg
 
 ```Education: BS in CS
-Prior Experience: One internship at decent company
-​
-Accepted offer:
-Company/Industry: Google
-Title: Software Engineer
-Tenure length: New Grad
-Location: MTV
-Salary: 120k
-Relocation/Signing Bonus: 10k relocation, 50k signing
-Stock and/or recurring bonuses: 165k stock vesting evenly over 4 years. 15% bonus
-Total comp: $240k first year, $180k after that. 
-Other offers:
-Company/Industry: Quant firm
-Title: Quant on the software side
-Tenure length: New Grad
-Location: Chicago
-Salary: 130k
-Relocation/Signing Bonus: 5k relocation, 50k signing
-Stock and/or recurring bonuses: $50k bonus guaranteed 1st year. 
-Total comp: $235k first year, $180k after that. 
-​
-Company/Industry: Bloomberg
-Title: Software engineer
-Tenure length: New Grad
-Location: NYC
-Salary: 135k
-Relocation/Signing Bonus: 40k signing
-Stock and/or recurring bonuses: $15k bonus
-Total comp: $190k first year, $150k after that. 
-​
-I wanted to make the switch into quant trading someday, but I heard some horror stories about the firm I got an offer from from an old intern that worked there, so I decided against taking the risk.
+Prior Experience: 2 SWE internships at a startup and a 3 person company
+Company: Microsoft
+Title: SWE
+Location: Redmond, WA
+Salary: 119k after raise/promotion last fall, started at 107k
+Tenure: 1.5 years
+Total Comp: ~155k if target bonus, includes ~23k of stock vest
 ```
 
 ```Education: MS CS at reputed state flagship, BS CS at unranked state university
@@ -10101,39 +9707,21 @@ These are the best offers. I had few other offers which were not worth mentionin
 ```
 
 ```
-School/Year: Junior, McGill University
-Prior experience: One internship at Fortune 500 company
-Pinterest
-Title: Software Engineer Intern
-Location: San Francisco, CA
-Duration: 16 weeks
-Salary: $8500/month
-Relocation: Corporate housing
-Google
-Title: Software Engineer Intern
-Location: Seattle, WA
-Duration: 14 weeks
-Salary: $7500/month
-Relocation: $9000 lump sum
-Facebook
-Title: Software Engineer Intern
-Location: New York, NY
-Duration: 12 weeks
-Salary: $8000/month
-Relocation: Corporate housing or $1600/month stipend
-Other perks: $350 to reimburse towards a bike
-Flatiron Health
-Title: Software Engineer Intern
-Location: New York, NY
-Duration: 12 weeks
-Salary: $7700/month
-Relocation: $1500/month stipend
-Bloomberg
-Title: Software Engineer Intern
-Location: New York, NY 
-Duration: 13 weeks
-Salary: $7680/month, $2000 signing bonus
-Relocation: Corporate housing or $5100 lump sum
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -10220,176 +9808,135 @@ Total comp: $255,000
 ```
 
 ```
-education : top 10 ish liberal arts college, CS major
-prior experience: one unpaid summer internship at a startup, one paid (but never paid) summer internship at an even smaller startup
-company: Bloomberg
-title: software engineer
-location: NYC
-salary: 130k
-relocation: 10k, signing: none
-stock: none
-bonus: 10k guaranteed first year, no guarantee following years
-total comp: 140k?
-I had no other offers so I didn't have any negotiation leverage. Lucky af to get this position imo
-```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-```
-Education: M.S. CS, from midwest flagship (its top 10 engineering school)
-Prior Experience: internships at couple of known companies
-Company/Industry: Bloomberg LP
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Tenure length: Starting next year after graduation
-Location: NYC
-Salary: $142k
-Relocation/Signing Bonus: $30k
-Stock and/or recurring bonuses: $18k target annual bonus, No stocks (Bloomberg being a private company)
-Total comp: $190k first year
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: No one cares
-Prior Experience: 10 years
-Company/Industry: Investment bank
-Location: NYC
-Tenure: 3 years
-Title: Vice President (a bullshit title that everyone with like 5+ years of experience has)
-Salary: $150k
-Stock and/or recurring bonuses: $50k
-Total comp: $200k
-I just finished a job search cycle so here are the offers I received, as I think it's indicative of the current job market.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Jet
-Location: NJ
-Salary: $185k
-Stock and/or recurring bonuses: $37k + 60k / year RSUs
-Total comp: $259.5k averaged over 4 years. Fully loaded is $282k but with a 4 year vesting cycle it feels disingenuous to say $282k because you don't make that until 4 years in. Cash flow for the first four years is $237k -> $252k -> $267k -> $282k
-
-Company/Industry: Bloomberg
-Location: NYC
-Salary: $210k
-Stock and/or recurring bonuses: $55k
-Total comp: $265k
-Notes: Nice thing about Bloomberg is that they tell you at the beginning of the year what your projected bonus is and guarantee 80% of that. At the bank I used to work at, it's super opaque and you could end up with zero.
-
-Company/Industry: Startup
-Location: NYC
-Salary: $160k
-Stock and/or recurring bonuses: Options I don't know how to value
-Total comp: $160k get out of here
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: No one cares
-Prior Experience: 10 years
-Company/Industry: Investment bank
-Location: NYC
-Tenure: 3 years
-Title: Vice President (a bullshit title that everyone with like 5+ years of experience has)
-Salary: $150k
-Stock and/or recurring bonuses: $50k
-Total comp: $200k
-I just finished a job search cycle so here are the offers I received, as I think it's indicative of the current job market.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Jet
-Location: NJ
-Salary: $185k
-Stock and/or recurring bonuses: $37k + 60k / year RSUs
-Total comp: $259.5k averaged over 4 years. Fully loaded is $282k but with a 4 year vesting cycle it feels disingenuous to say $282k because you don't make that until 4 years in. Cash flow for the first four years is $237k -> $252k -> $267k -> $282k
-
-Company/Industry: Bloomberg
-Location: NYC
-Salary: $210k
-Stock and/or recurring bonuses: $55k
-Total comp: $265k
-Notes: Nice thing about Bloomberg is that they tell you at the beginning of the year what your projected bonus is and guarantee 80% of that. At the bank I used to work at, it's super opaque and you could end up with zero.
-
-Company/Industry: Startup
-Location: NYC
-Salary: $160k
-Stock and/or recurring bonuses: Options I don't know how to value
-Total comp: $160k get out of here
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: No one cares
-Prior Experience: 10 years
-Company/Industry: Investment bank
-Location: NYC
-Tenure: 3 years
-Title: Vice President (a bullshit title that everyone with like 5+ years of experience has)
-Salary: $150k
-Stock and/or recurring bonuses: $50k
-Total comp: $200k
-I just finished a job search cycle so here are the offers I received, as I think it's indicative of the current job market.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Jet
-Location: NJ
-Salary: $185k
-Stock and/or recurring bonuses: $37k + 60k / year RSUs
-Total comp: $259.5k averaged over 4 years. Fully loaded is $282k but with a 4 year vesting cycle it feels disingenuous to say $282k because you don't make that until 4 years in. Cash flow for the first four years is $237k -> $252k -> $267k -> $282k
-
-Company/Industry: Bloomberg
-Location: NYC
-Salary: $210k
-Stock and/or recurring bonuses: $55k
-Total comp: $265k
-Notes: Nice thing about Bloomberg is that they tell you at the beginning of the year what your projected bonus is and guarantee 80% of that. At the bank I used to work at, it's super opaque and you could end up with zero.
-
-Company/Industry: Startup
-Location: NYC
-Salary: $160k
-Stock and/or recurring bonuses: Options I don't know how to value
-Total comp: $160k get out of here
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: No one cares
-Prior Experience: 10 years
-Company/Industry: Investment bank
-Location: NYC
-Tenure: 3 years
-Title: Vice President (a bullshit title that everyone with like 5+ years of experience has)
-Salary: $150k
-Stock and/or recurring bonuses: $50k
-Total comp: $200k
-I just finished a job search cycle so here are the offers I received, as I think it's indicative of the current job market.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Jet
-Location: NJ
-Salary: $185k
-Stock and/or recurring bonuses: $37k + 60k / year RSUs
-Total comp: $259.5k averaged over 4 years. Fully loaded is $282k but with a 4 year vesting cycle it feels disingenuous to say $282k because you don't make that until 4 years in. Cash flow for the first four years is $237k -> $252k -> $267k -> $282k
-
-Company/Industry: Bloomberg
-Location: NYC
-Salary: $210k
-Stock and/or recurring bonuses: $55k
-Total comp: $265k
-Notes: Nice thing about Bloomberg is that they tell you at the beginning of the year what your projected bonus is and guarantee 80% of that. At the bank I used to work at, it's super opaque and you could end up with zero.
-
-Company/Industry: Startup
-Location: NYC
-Salary: $160k
-Stock and/or recurring bonuses: Options I don't know how to value
-Total comp: $160k get out of here
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: BSEE
-Prior Experience: 14 years total engineering (4 years EE/embedded, 2 years SysE/algortihms, 3.5 years SysE/embedded, 4.5 years SwE/NLP
-Company/Industry: Bloomberg
-Title: Senior Software Engineer
-Tenure length: 1.5 years
-Location: NYC
-Salary: $166k
-Relocation/Signing Bonus: N/A
-Stock and/or recurring bonuses: $26k
-Total comp: $192k
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -10405,14 +9952,21 @@ Total comp: $145k
 ```
 
 ```
-   School/Year: Small Canadian university, 3rd year
-   Prior experience: Google and Bloomberg internships
-   Company: Microsoft
-   Position: Software Engineering Intern
-   Location: Redmond
-   Duration: 3 months
-   Salary: $7250/month
-   Benefits: corporate housing or $7000 stipend, rental car, bus passes, paid holidays, gym membership, software discounts, fully covered relocation
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -10500,14 +10054,21 @@ Relocation/Housing: Housing Covered, but I live a 5 minute drive away so won't b
 ## yelp
 
 ```
-School/Year: Rising senior @ Ivy league school
-Prior Experience: Teaching assistant, startup internship in Sweden
-Company/Industry: Yelp
-Title: Software Development Intern
-Location: San Francisco
-Duration: 12 weeks
-Salary: $45 / hour
-Relocation/Housing Stipend: $1500 / month
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -10535,23 +10096,21 @@ They had posted the internship on my school’s job board online. Usually our de
 ```
 
 ```
-School/Year: Freshman @ Puerto Rico
-Prior Experience: High school camp, built website for research program, undergrad research
-Company/Industry: MITRE / Federal Contractor
-Title: Cyber Intern
-Location: Tampa, FL
-Duration: 10 weeks
-Salary: $19.95/hr
-Relocation/Housing Stipend: Flight reimbursed, 3 nights paid at hotel for housing search (includes per diem)
-----------------
-School/Year: Sophomore @ Puerto Rico
-Prior Experience: MITRE (federal contractor), by then MIT Lincoln Labs
-Company/Industry: Rockwell Collins (now Collins Aerospace under United Technologies Corporation)
-Title: Software Engineering Intern
-Location: Cedar Rapids, IA
-Duration: 10 weeks
-Salary: $22.35/hr + health care benefits
-Relocation/Housing Stipend: $1800 total to cover transportation to and from workplace, housing fully paid by the company
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -10567,14 +10126,21 @@ These are all way more important to your career than salary. Yet still, I interv
 ```
 
 ```
-School/Year: sophomore @ Queen’s University, Canada.
-Prior Experience: software developer intern at BMO (canadian bank)
-Company: Microsoft 
-Position: Explore intern (4 weeks PM, 8 weeks software eng)
-Location: Redmond, WA
-Duration: 12 weeks
-Salary: 31/hr usd ~ 40 cad/hr
-Housing: corporate or $7000 to cover rent
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -10595,80 +10161,78 @@ Since this was a lateral hire from a Big 4 (~9 months of previous experience at 
 ```
 
 ```
-School: State School (Pitt)
-Year: Sophomore (Applied as Junior, except for Google)
-Prior Experience: Internship at JPMorgan, Web Developer job in High School
-JPMorgan (Return Offer)
-Title: SWE Intern
-Location: Wilmington, Delaware
-Duration: 10 weeks
-Salary: $34.86/hour
-Relocation/Housing Stipend: $1500
-Goldman Sachs
-Title: SWE Intern
-Location: NYC (Jersey City)
-Duration: 10 weeks
-Salary: $52/hour (100k prorated)
-Relocation/Housing Stipend: $1500 and up to $1000 to relocate
-Thumbtack
-Title: SWE Intern
-Location: San Francisco, California
-Duration: 10 weeks
-Salary: $37.50/hour ($6000/month)
-Relocation/Housing Stipend: $1,500/month and $3000 bonus (free food too)
-Google (Accepted - Summer)
-Title: SWE Intern
-Location: NYC
-Duration: 14 weeks
-Salary: $43ish/hour ($1730.77/week)
-Relocation/Housing Stipend: $12,000 (free food too)
-Stripe (Accepted - Fall)
-Title: SWE Intern
-Location: San Francisco, California
-Duration: 12 weeks
-Salary: $50/hour ($4000/bi-weekly)
-Relocation/Housing Stipend: Free corporate housing 20 min walk from  office, 125/month wellness, (free food is really good)
-​
-```
-
-```
-Education: Ivy League (Not Harvard/Princeton/Yale)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-<1 year fulltime at a Big 4 since graduating.
-3 internships at a different Big 4
-Company/Industry: Goldman Sachs
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Tenure length: < 6 months so far
-Location: NYC
-Salary: $117k
-Relocation/Signing Bonus: $10k relo, $30k signing
-Stock and/or recurring bonuses: $45k year-end bonus, $110k stock that vests over 4 years
-Total comp: Just over ~$200k per year for at least the next 3 years, not counting any raises.
-Notes: They made me a great offer so they could match the stock/bonuses I was getting at the Big 4, though the total overall compensation is much higher at Goldman.
-```
-
-```
-School/Year: top UK university, 2nd year
-Prior Experience: Not much
-Company/Industry: Goldman Sachs
-Title: summer analyst (technology)
-Location: London
-Duration: 10 weeks
-Salary: £3600/month
-Relocation/Housing Stipend: £1000
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: Rising Senior, Big 10 school
-Prior Experience: n/a
-Company/Industry: Goldman Sachs
-Title: Summer Analyst
-Location: NY
-Duration: 3 months
-Salary: $100,000 prorated to 3 months
-Relocation/Housing Stipend: $1500
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -10739,14 +10303,22 @@ Relocation/Housing Stipend: $715/month housing or company provided housing in BS
 ```
 
 ```
-School/Year:Top 5 UK University BSc CS
-Prior Experience: 2 Internships. Small Startup / Another Finance Company
-Company/Industry: Goldman Sachs
-Location: London
-Duration: 3 months
-Salary: £3.9k / month
-Relocation:Housing Stipend: £1000, no housing
-Non-negotiatable intern salary. However my recruiter said that new grad salaries are negotiable.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ## pennsylvania state university
@@ -10849,63 +10421,62 @@ Relocation/Housing Stipend: $550/week
 ## deutsche bank
 
 ```
-School/Year: Penultimate Year, "Oxbridge Reject" RG Uni
-Prior Experience: quant internship at a strategy consulting firm, entrepreneurship, side gigs/projects etc
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Expedia
-Title: Product Manager Intern
-Location: London
-Duration: 12 weeks
-Salary: £26k pro-rated, £500/week, £2.17k/month
-Relocation/Housing Stipend: £2k 
-
-Company/Industry: Deutsche Bank
-Title: Synthetic Equities Trading Strat Placement Analyst
-Location: London
-Duration: 11 months
-Salary: £32.5k pro-rated, £2.7k/month
-Relocation/Housing Stipend: £1k
-Other offers still pending - will update
-```
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
-School/Year: Penultimate Year, "Oxbridge Reject" RG Uni
-Prior Experience: quant internship at a strategy consulting firm, entrepreneurship, side gigs/projects etc
 
-Company/Industry: Expedia
-Title: Product Manager Intern
-Location: London
-Duration: 12 weeks
-Salary: £26k pro-rated, £500/week, £2.17k/month
-Relocation/Housing Stipend: £2k 
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Company/Industry: Deutsche Bank
-Title: Synthetic Equities Trading Strat Placement Analyst
-Location: London
-Duration: 11 months
-Salary: £32.5k pro-rated, £2.7k/month
-Relocation/Housing Stipend: £1k
-Other offers still pending - will update
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ## western digital
 
 ```
-Education: B.S. Mechanical Engineering, mid ranked public U in USA.
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
-$Internship
-1 year at a start-up in mid-west, 1 year at a digital agency in So-Cal, 2 years at a large tech company in Tokyo.
-Company/Industry: One of - LINE, Mercari, SmartNews, etc. (Big tech in Japan but not western G or A)
-Title: Software Engineer I
-Tenure length: 6 months so far
-Location: Tokyo, Japan
-Salary: $85,000 total compensation with a slight variable based on RSU change before vest.
-Relocation/Signing Bonus: For me $4000 + full relocation + multiple paid visits with family included for final interview, offer negotiation and finding an apartment
-Stock and/or recurring bonuses: Included in total comp
-Total comp: Included in total comp
-​
-COL is cheaper than LA or Chicago for apartment rent, but comparable to Arizona or cheaper for eating out/etc. "I really want to move to Tokyo" doesn't hold a lot of weight in interviews. Gotta be decent at what you do and fit culturally with the company. It's a big investment for them to bring you over, but worth it if you can pull it off.
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```School/Year: Rising senior at top 10 university (not known for CS though)
@@ -11313,71 +10884,97 @@ Total comp: $180k first year then $153k
 ```
 
 ```
-School/Year: 4th/5 years, RIT
-Prior Experience: 1x internship at finance firm
-Company/Industry: Microsoft
-Title: Software Engineer Intern
-Location: Redmond, WA
-Duration: 12 weeks
-Salary: $7300/month
-Relocation/Housing Stipend: Choice of corporate housing/$7000
-Company/Industry: JPMorgan Chase & Co
-Title: Software Engineer Intern
-Location: New York, NY
-Duration: 10 weeks
-Salary: $47.36/hour, $71.03/OT
-Relocation/Housing Stipend: $1500
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-School/Year: 5th year, Texas A&M University
-Prior Experience: 1x BigN, 1x F500, 3 x Startup/SB all internships 
-Company/Industry: Microsoft
-Title: Software Engineer Intern
-Location: Redmond, WA
-Duration: 12 weeks
-Salary: $7300/month
-Relocation/Housing Stipend: Choice of corporate housing/$7000
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: BS in CS at an okay school
-Prior Experience: 1x Microsoft Internship, 1x Unisys Co-op, 5 years of individual experience in random companies
-Company/Industry: Microsoft
-Title: Software Development Engineer (lvl 59)
-Location: Redmond, WA
-Salary: $109K (base)
-Relocation/Signing Bonus: Signing Bonus: $5000 - Starting Bonus: $25000
-Stock and/or recurring bonuses: $120K stock vests in 3.5 years - 25% .5 years - 25% 1.5 years etc. Yearly refresher stocks are available but not quite as large. Up to 20% of base salary as yearly bonus.
-Total Compensation: $109K + $30K (sign+start) + $30K (stock) + upto $20K (yearly bonus) = $170 - $190K
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: BSc in CS at US Top 100
-Prior experience: 2x MSFT, 2x Startups, 1x Unicorn
-Company/Industry: Microsoft
-Title: SDE
-Location: Redmond, WA
-Salary: $109k
-Relocation/Signing bonus: $5k signing + $70k joining and fully paid for relocation
-Stock and/or recurring bonuses: $175k over 3.5 years, 10~20% in annual bonus.
-Total Comp: $109k + $75k (sign & join) + $50k (RSU) = $235k + $16.5k (assuming 15% bonus).
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: BSCS & BS Comp Math from a school you've literally never heard of
-Prior Experience: 3 internships MS, 4 internships prior (some in mechanical engineering tho)
-Company/Industry: Microsoft
-Title: Software Engineer, L60
-Location: Redmond, WA
-Salary: 117,000
-Relocation/Signing Bonus: 5.5k relo lump sum (or all reasonable shit paid for), 35k signing bonus
-Stock and/or recurring bonuses: 130,000 in RSUs
-Total comp: idk you do the math
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -11425,43 +11022,59 @@ Got both of these offers in May. If you didn't land offers during the Fall hirin
 ```
 
 ```
-School/Year: Senior at top 100 CS School
-Prior Experience: 4 Internships (2 at unicorns in bay, 1 at MSFT, 1 at MIT CSAIL)
-Company/Industry: Microsoft
-Title: SWE Intern
-Location: Redmond, WA
-Duration: 13 weeks
-Salary: $7850/Month
-Relocation/Housing Stipend: $7,000 (post-tax) + $12,500 signup bonus (pre-tax)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
 ```
-Education: BS Computer Science, no-name Cal State University
-Prior Experience: 
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-Web Development experience at university's IT app and development department
-Also an internship at my citys local city hall IT department
-Company/Industry: Microsoft
-Title: Support Engineer
-Tenure length: 
-Location: Dallas Texas (more specifically las colinas)
-Salary: $83,000
-Relocation/Signing Bonus: $5000 relocation 
-Stock and/or recurring bonuses: NA
-Total comp: $83,000 plus stock
-I will be entering Microsoft's MACH program, iffy on doing support but it's the best offer I've got.   
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ```
-School/Year: Top 20 CS School, Junior
-Prior Experience: Research Intern @ NIH, 2 SWE internships (one at IB, another at Defense Contractor)
-Company/Industry: Microsoft
-Title: Software Engineer Intern
-Location: Seattle, WA
-Duration: 12 weeks
-Salary: 7300/month
-Relocation/Housing Stipend: Corporate Housing or $7K stipend. $1200 for commute allowance, or pay $375/mo for car rental
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -11554,29 +11167,40 @@ Relocation/Housing Stipend: $5k housing stipend, $1100 for relocation
 ```
 
 ```
-Education: PhD in CS
-Prior Experience: 3 years full time, 2 internships
-Company/Industry: Microsoft
-Title: SDE2
-Tenure length: 3 years
-Location: Redmond
-Salary: 124k
-Relocation/Signing Bonus: 5k cash signing bonus, 50k stock on-hire (3.5yr vest)
-Stock and/or recurring bonuses: ~15k cash/yr (depends on review, could be +/- 5k), $2k/yr stock, $14k stock from on-hire (one last vest coming up)
-Total comp: ~141k (not including 14k from on-hire stock, which runs out and isn't refreshed)
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
 
-```
-
-```
-Education: poli sci bachelors at state school, cis masters at Penn
-Prior Experience: 2 Defense contractor internships, 1 fed govt internship
-Company/Industry: Microsoft
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Location: Redmond
-Salary: 108k
-Relocation/Signing Bonus: 5k relocation, 50k signing
-Stock and/or recurring bonuses: 120k over 3.5 years, 25% special bonus, up to 20% regular performance bonus
-Total comp: first year 220k (108 * 1.25 + 50 + 30 + 5), after that 165k
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
+```
+
+```
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
+Title: Software Engineer
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
 
 ```
 
@@ -11591,16 +11215,22 @@ Stock and/or recurring bonuses: $130k / 3.5 years, 20% max performance bonus / y
 ```
 
 ```
-School/Year: Unranked State School
-Prior Experience: >1 internships at large non-tech companies, Microsoft Internship
-Company/Industry: Microsoft
+Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
+Prior Experience:
+
+3 semesters of internship with a large manufacturing company in test engineering, new development hardware design, and operations in a manufacturing plant
+6/14-6/15: Software Engineer with the same above company
+6/15-9/16: Software Engineer with a high-performance computer company working on storage
+9/16-2/19: Software Engineer working on back-end Java/Spring APIs at a large legal technology company
+Company/Industry: Fortune 50 retail company
 Title: Software Engineer
-Location: Redmond, WA
-Salary: $108,000
-Relocation/Signing Bonus: $40,000 
-Stock and/or recurring bonuses: $120,000/3.5 years, up 20% annual bonus
-Total comp: $182,000 in year one, but with other benefits (401k, healthcare, etc), probably around $200,000 total.  $142,000 to $175,000 recurring, depending on a number of factors.
-Edit: did have 2 other competing offers used to negotiate (one big N and one "finance")
+Tenure length: 1 month
+Location: Minneapolis, MN
+Salary: $90,000
+Relocation/Signing Bonus: $7,000 signing
+Stock and/or recurring bonuses: 3.5% annual bonus target
+Total comp: $93,150
+
 ```
 
 ## autogravity
