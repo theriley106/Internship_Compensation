@@ -1048,15 +1048,14 @@ Total comp: $93,150
 ```
 
 ```• Education: BS in CS at state school
-• ⁠Prior Experience: Amazon Subsidiary. Fin-Tech. Research.
-• ⁠Company/Industry: Fin-Tech
-• ⁠Title: Junior Software Developer
-• ⁠Location: Philadelphia, PA
-• ⁠Salary: $95,000 
-• ⁠Relocation/Signing Bonus: $7,000 Signing
-• ⁠Stock and/or recurring bonuses: $5,000 - $10,000 end of the year
-• ⁠Total comp: ~$109,000
-​
+• ⁠Prior Experience: Amazon internship
+• ⁠Company/Industry: Amazon
+• ⁠Title: Software Development Engineer
+• ⁠Location: Minneapolis, MN
+• ⁠Salary: $108,000
+• ⁠Relocation/Signing Bonus: $34,000 first year, $20,000 second year, $10,000 relocation
+• ⁠Stock and/or recurring bonuses: $70,000 in RSUs vesting over four years 5/15/40/40%
+• ⁠Total comp: ~$155,000 first year
 ```
 
 ```School: BS CS @ top 10 CS school
@@ -1510,27 +1509,25 @@ Total comp: $93,150
 ```
 
 ```• Education: BS in CS at state school
-• ⁠Prior Experience: Amazon Subsidiary. Fin-Tech. Research.
-• ⁠Company/Industry: Fin-Tech
-• ⁠Title: Junior Software Developer
-• ⁠Location: Philadelphia, PA
-• ⁠Salary: $95,000 
-• ⁠Relocation/Signing Bonus: $7,000 Signing
-• ⁠Stock and/or recurring bonuses: $5,000 - $10,000 end of the year
-• ⁠Total comp: ~$109,000
-​
+• ⁠Prior Experience: Amazon internship
+• ⁠Company/Industry: Amazon
+• ⁠Title: Software Development Engineer
+• ⁠Location: Minneapolis, MN
+• ⁠Salary: $108,000
+• ⁠Relocation/Signing Bonus: $34,000 first year, $20,000 second year, $10,000 relocation
+• ⁠Stock and/or recurring bonuses: $70,000 in RSUs vesting over four years 5/15/40/40%
+• ⁠Total comp: ~$155,000 first year
 ```
 
 ```• Education: BS in CS at state school
-• ⁠Prior Experience: Amazon Subsidiary. Fin-Tech. Research.
-• ⁠Company/Industry: Fin-Tech
-• ⁠Title: Junior Software Developer
-• ⁠Location: Philadelphia, PA
-• ⁠Salary: $95,000 
-• ⁠Relocation/Signing Bonus: $7,000 Signing
-• ⁠Stock and/or recurring bonuses: $5,000 - $10,000 end of the year
-• ⁠Total comp: ~$109,000
-​
+• ⁠Prior Experience: Amazon internship
+• ⁠Company/Industry: Amazon
+• ⁠Title: Software Development Engineer
+• ⁠Location: Minneapolis, MN
+• ⁠Salary: $108,000
+• ⁠Relocation/Signing Bonus: $34,000 first year, $20,000 second year, $10,000 relocation
+• ⁠Stock and/or recurring bonuses: $70,000 in RSUs vesting over four years 5/15/40/40%
+• ⁠Total comp: ~$155,000 first year
 ```
 
 ```Education: High-mid tier UC
@@ -1852,24 +1849,38 @@ Relocation/Housing Stipend: 6000 one time
 ```Accepted:
 School/Year: Decent Uni in Canada, Junior
 Prior Experience: Internships at local company and Amazon
-Company/Industry: Hedge Fund
+Company/Industry: Amazon (returning)
+Title: SDE Intern
+Location: Most likely seattle
+Duration: 12 weeks
+Salary: 7925 USD/month
+Relocation/Housing Stipend: 2500 USD/month
+Other offers:
+Company/Industry: LinkedIn
 Title: Software Engineering Intern
-Location: Chicago
-Duration: 4 months
-Salary: 70 USD/hr
-Relocation/Housing Stipend: Provided
+Location: Sunnyvale
+Duration: 12 weeks
+Salary: 7800 USD/month
+Relocation/Housing Stipend: Housing provided
 
 ```
 
 ```Accepted:
 School/Year: Decent Uni in Canada, Junior
 Prior Experience: Internships at local company and Amazon
-Company/Industry: Hedge Fund
+Company/Industry: Amazon (returning)
+Title: SDE Intern
+Location: Most likely seattle
+Duration: 12 weeks
+Salary: 7925 USD/month
+Relocation/Housing Stipend: 2500 USD/month
+Other offers:
+Company/Industry: LinkedIn
 Title: Software Engineering Intern
-Location: Chicago
-Duration: 4 months
-Salary: 70 USD/hr
-Relocation/Housing Stipend: Provided
+Location: Sunnyvale
+Duration: 12 weeks
+Salary: 7800 USD/month
+Relocation/Housing Stipend: Housing provided
 
 ```
 
@@ -3374,17 +3385,15 @@ Total comp: $93,150
 ```
 
 ```Education: BS CS
-Prior Experience: 10 years
---Internship 1 year
---RealJob 9 years
-Company/Industry: media
-Title: senior software engineer
-Tenure length: 10 months
-Location: DC
-Salary: $125,000
-Relocation/Signing Bonus: $10,000
-Stock and/or recurring bonuses: 0
-Total comp: $135,000
+Prior Exp: 3 summers at small financial service co.
+Industry: Life sciences software
+Title: Associate Software Engineer
+Tenure: 6 mo
+Location: East Bay
+Salary: 105k
+Signing: 5k
+RSU: ~100k over 4 years.
+Total Comp: 130k ish
 ```
 
 ```School: UCSD (top 10 ish CS school), BS/MS
@@ -4332,15 +4341,16 @@ The Robinhood offer was not negotiated (I'm not sure if they even allow for nego
 ```
 
 ```Education: Ivy League
-Prior Experience: 3 x Internships, interned at this company last summer
-Company: Finance
+Prior Experience: 5 internships, 1 at big 4, 2 at big names
+Company: PM me for it
 Title: SWE
-Start Date: Spring 2018
-Location: Chicago
-Salary: 135k
-Relocation/Signing Bonus: 75k + 10k relocation
-Stock/Bonuses: ~50k expected cash bonus
-Total Comp: ~270k
+Tenure/Length: 1 month
+Location: LA
+Salary: 130k
+Relocation/Signing Bonus: 20k
+Stock/Bonuses: $80k RSUs/year, ?% base salary/year performance bonus, annual equity refreshers
+Stock is backloaded so of $323k granted over 4 years I get 10% first year, 20% second year, 30% third and 40% fourth
+Total Comp: ~195k first year, average 240k following 3 years. Estimating 10% performance bonus. Very dependent on stock though.
 ```
 
 ```
@@ -6381,7 +6391,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing.
+Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing. Also, while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6420,6 +6430,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6444,6 +6455,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6495,6 +6507,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6518,7 +6531,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing.
+Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing. Also, while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6543,6 +6556,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6567,6 +6581,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6590,7 +6605,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing.
+Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing. Also, while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6634,6 +6649,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6657,7 +6673,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing.
+Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing. Also, while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6699,6 +6715,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6722,7 +6739,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing.
+Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing. Also, while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6757,6 +6774,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6792,6 +6810,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6827,6 +6846,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6952,7 +6972,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing.
+Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing. Also, while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -6989,6 +7009,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -7013,6 +7034,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -7036,7 +7058,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing.
+Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing. Also, while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -7092,6 +7114,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -7116,6 +7139,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -7171,6 +7195,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -7226,7 +7251,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
-Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing.
+Note that you only really need to include the relocation/signing bonus into the total comp if it was a recent thing. Also, while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -7266,6 +7291,7 @@ Salary:
 Relocation/Signing Bonus:
 Stock and/or recurring bonuses:
 Total comp:
+Note that while the primary purpose of these threads is obviously to share compensation info, discussion is also encouraged.
 The format here is slightly unusual, so please make sure to post under the appropriate top-level thread, which are: US [High/Medium/Low] CoL, Western Europe, Eastern Europe, Latin America, ANZC, Asia, or Other.
 If you don't work in the US, you can ignore the rest of this post. To determine cost of living buckets, I used this site: http://www.bestplaces.net/
 If the principal city of your metro is not in the reference list below, go to bestplaces, type in the name of the principal city (or city where you work in if there's no such thing), and then click "Cost of Living" in the left sidebar. The buckets are based on the Overall number: [Low: < 100], [Medium: >= 100, < 150], [High: >= 150].
@@ -7783,26 +7809,28 @@ Total comp: $93,150
 
 ```School: BS ChemE, CS Minor @ State school, probably top 25 engineering programs
 Prior Experience: 1 software engineering internhship, 3 co-ops as ChemE
-Small Software Company (Return offer from internship):
-Location: Philadelphia
-Salary: $83k
-Signing bonus: $5k
+Capital One (accepted):
+Location: McLean, VA
+Title: Capital One Developer Academy (CODA) Associate
+Salary: $82k
+Signing bonus: $9k
 Stock: none
-Relocation: none
-Total comp: $88k
-I accepted the Capital One offer I posted under High COL
+Relocation: $1.5k
+Total comp: 93.5k, after 6 months I convert to TDP and salary goes to 99k + some performance bonus
+
 ```
 
 ```School: BS ChemE, CS Minor @ State school, probably top 25 engineering programs
 Prior Experience: 1 software engineering internhship, 3 co-ops as ChemE
-Small Software Company (Return offer from internship):
-Location: Philadelphia
-Salary: $83k
-Signing bonus: $5k
+Capital One (accepted):
+Location: McLean, VA
+Title: Capital One Developer Academy (CODA) Associate
+Salary: $82k
+Signing bonus: $9k
 Stock: none
-Relocation: none
-Total comp: $88k
-I accepted the Capital One offer I posted under High COL
+Relocation: $1.5k
+Total comp: 93.5k, after 6 months I convert to TDP and salary goes to 99k + some performance bonus
+
 ```
 
 ```
@@ -7868,13 +7896,13 @@ I accepted offers with the F-500 Company (Spring 2019), Capital One (Summer 2019
 Prior Experience:
 $Internship: 2 internships
 Company/Industry: Capital One
-Title: Senior Associate Software Engineer 
-Tenure length: 2 yr
+Title: Principal Associate Software Engineer (Senior Software Engineer)
+Tenure length: 3yr
 Location: DC / McLean
-Salary: 109000
-Relocation/Signing Bonus: $0 (my first year it was ~15k gross)
-Stock and/or recurring bonuses: 16.75% match on 15% espp (~2700) , $5000-8400 target up to $13,400, 7.5% 401k match
-Total comp: $116,700 - $125,100 ; $125,000 - $135,000 w/ 401k
+Salary: $130,000
+Relocation/Signing Bonus: none this year
+Stock and/or recurring bonuses: 15% match on 15% espp (~$3,200) , $8,800 target with a max of $17,600, 7.5% 401k match on salary & bonus no limit except the legal one
+Total comp: $142,000 - $150,800 -- $147,000 - $161,870 w/ 401k match
 ```
 
 ```
@@ -8008,13 +8036,13 @@ Total comp: Up to $117K
 Prior Experience:
 $Internship: 2 internships
 Company/Industry: Capital One
-Title: Senior Associate Software Engineer 
-Tenure length: 2 yr
+Title: Principal Associate Software Engineer (Senior Software Engineer)
+Tenure length: 3yr
 Location: DC / McLean
-Salary: 109000
-Relocation/Signing Bonus: $0 (my first year it was ~15k gross)
-Stock and/or recurring bonuses: 16.75% match on 15% espp (~2700) , $5000-8400 target up to $13,400, 7.5% 401k match
-Total comp: $116,700 - $125,100 ; $125,000 - $135,000 w/ 401k
+Salary: $130,000
+Relocation/Signing Bonus: none this year
+Stock and/or recurring bonuses: 15% match on 15% espp (~$3,200) , $8,800 target with a max of $17,600, 7.5% 401k match on salary & bonus no limit except the legal one
+Total comp: $142,000 - $150,800 -- $147,000 - $161,870 w/ 401k match
 ```
 
 ```
@@ -8214,8 +8242,8 @@ Total comp: $93,150
 • ⁠Location: San Francisco, CA
 • ⁠Salary: $130k
 • ⁠Relocation/Signing Bonus: $25k signing bonus, ~$10k relocation
-• ⁠Stock and/or recurring bonuses: $85k in RSUs vesting evenly over four years ($21,250/yr). 10% bonus each year (based on base salary)
-• ⁠Total comp: ~$195k first year
+• ⁠Stock and/or recurring bonuses: $85k in RSUs vesting evenly over four years ($21,250/yr). 10% target bonus each year (based on base salary)
+• ⁠Total comp: ~$195k Year 1, ~165k Year 2-4, ~145k After Year 4 (assuming no raises or promotions)
 ```
 
 ```This is the internship I'm coming to the end of...
@@ -8251,8 +8279,8 @@ Total comp: 153k first year, 133k subsequent
 • ⁠Location: San Francisco, CA
 • ⁠Salary: $130k
 • ⁠Relocation/Signing Bonus: $25k signing bonus, ~$10k relocation
-• ⁠Stock and/or recurring bonuses: $85k in RSUs vesting evenly over four years ($21,250/yr). 10% bonus each year (based on base salary)
-• ⁠Total comp: ~$195k first year
+• ⁠Stock and/or recurring bonuses: $85k in RSUs vesting evenly over four years ($21,250/yr). 10% target bonus each year (based on base salary)
+• ⁠Total comp: ~$195k Year 1, ~165k Year 2-4, ~145k After Year 4 (assuming no raises or promotions)
 ```
 
 ```
