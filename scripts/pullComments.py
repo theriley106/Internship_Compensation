@@ -18,34 +18,49 @@ def extract_url(stringVal):
 	return stringVal.partition('href="')[2].partition('"')[0]
 
 if __name__ == '__main__':
-	url = "https://old.reddit.com/r/cscareerquestions/search?q=%5BOFFICIAL%5D+Salary+Sharing&restrict_sr=on&include_over_18=on&sort=relevance&t=all"
-	url = "https://old.reddit.com/r/cscareerquestions/comments/9cjd6n/official_salary_sharing_thread_for_interns/?limit=500"
+	url = "https://old.reddit.com/r/cscareerquestions/search?q=%5BOFFICIAL%5D+Salary+Sharing+author%3AAutoModerator&restrict_sr=on&include_over_18=on&sort=relevance&t=all"
+	
+	#url = "https://old.reddit.com/r/cscareerquestions/comments/9cjd6n/official_salary_sharing_thread_for_interns/?limit=500"
+	urls = []
 	res = grabSite(url)
 	page = bs4.BeautifulSoup(res.text, 'lxml')
-	for val in page.select(".md-container"):
-		for x in str(val.getText()).lower().split("\n\n\n"):
-			if 'salary' in x and ':' in x:
-				value = val.getText().replace("\n\n", "\n")
-				comment = val.getText().replace("\n\n", "\n")
-				companyName = "unknown"
-				for c in companies:
-					found = False
-					g = value.lower().split()
-					for part in c.split():
-						#print part
-						if part not in g:
+	options = page.select(".search-title")
+	for val in options:
+		#print val
+		g = extract_url(str(val))
+		#raw_input(g)
+		urls.append(g)
+	for url in urls:
+		print url
+		try:
+			res = grabSite(url)
+			page = bs4.BeautifulSoup(res.text, 'lxml')
+			for val in page.select(".md-container"):
+				for x in str(val.getText()).lower().split("\n\n\n"):
+					if 'salary' in x and ':' in x:
+						value = val.getText().replace("\n\n", "\n")
+						comment = val.getText().replace("\n\n", "\n")
+						companyName = "unknown"
+						for c in companies:
 							found = False
-							break
-						else:
-							found = True
-					if found == True:
-						companyName = c
-						break
-				if companyName not in DB:
-					DB[companyName] = []
-				DB[companyName].append(comment)
-				#print("Predicted company: {}".format(companyName))
+							g = value.lower().split()
+							for part in c.split():
+								#print part
+								if part not in g:
+									found = False
+									break
+								else:
+									found = True
+							if found == True:
+								companyName = c
+								break
+						if companyName not in DB:
+							DB[companyName] = []
+						DB[companyName].append(comment)
+						#print("Predicted company: {}".format(companyName))
 
-				#print("______________")
+						#print("______________")
+		except:
+			print("ERROR")
 	with open('data.json', 'w') as fp:
 		json.dump(DB, fp, indent=4)
