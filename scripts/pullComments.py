@@ -3,9 +3,13 @@ reload(sys)
 sys.setdefaultencoding("utf-8")
 import requests
 import bs4
+import json
 
 companies = [x.lower().split(",")[0] for x in open("companies.txt").read().split("\n")]
 #raw_input(companies)
+
+DB = {}
+
 def grabSite(url):
 	headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 	return requests.get(url, headers=headers)
@@ -22,8 +26,8 @@ if __name__ == '__main__':
 		for x in str(val.getText()).lower().split("\n\n\n"):
 			if 'salary' in x and ':' in x:
 				value = val.getText().replace("\n\n", "\n")
-				print val.getText().replace("\n\n", "\n")
-				companyName = ""
+				comment = val.getText().replace("\n\n", "\n")
+				companyName = "unknown"
 				for c in companies:
 					found = False
 					g = value.lower().split()
@@ -37,6 +41,11 @@ if __name__ == '__main__':
 					if found == True:
 						companyName = c
 						break
-				print("Predicted company: {}".format(companyName))
+				if companyName not in DB:
+					DB[companyName] = []
+				DB[companyName].append(comment)
+				#print("Predicted company: {}".format(companyName))
 
-				print("______________")
+				#print("______________")
+	with open('data.json', 'w') as fp:
+		json.dump(DB, fp, indent=4)
