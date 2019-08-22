@@ -1,5 +1,4 @@
-```
-School/Year: Sophomore, University of Michigan
+```School/Year: Sophomore, University of Michigan
 Prior Experience: 1 year as engineer before starting undergrad, only 1 cs class at Michigan
 Company/Industry: Somewhat well-known space company doing satellite imagery
 Title: my title is meaningless and company specific, basically I'm doing deep learning/machine vision R&D stuff
@@ -7,11 +6,9 @@ Location: Denver/Boulder area
 Duration: 9 weeks
 Salary: $20.50/hr
 Relocation/Housing Stipend: None
-
 ```
 
 ```
-
 Education: BS in Network Computing
 Prior Experience: 2 years of Help Desk internship (not super relevant)
 Company/Industry: University Marketing Department
@@ -23,11 +20,9 @@ Relocation/Signing Bonus: none
 Stock and/or recurring bonuses: none
 Total comp: 42K
 
-
 ```
 
-```
-Education: BSE in Computer Science, cum laude, University of Michigan
+```Education: BSE in Computer Science, cum laude, University of Michigan
 Prior Experience: 1 internship
 Company/Industry: Hardware/software company for telecommunication industry
 Title: Software Engineer
@@ -38,11 +33,9 @@ Relocation/Signing Bonus: n/a
 Stock and/or recurring bonuses: n/a
 Total comp: $55,000  
 Also take note that I took two years off after graduating to pursue something outside of tech (ministry), which I'm still doing. This is my first programming job after graduation though.
-
 ```
 
-```
-• ⁠Education: BA Computer Science @ Top 30 University
+```• ⁠Education: BA Computer Science @ Top 30 University
 • ⁠Prior Experience: Military Experience, FinTech Intern, Data Science Research (Paper Publication In-Progress)
 • ⁠Company/Industry: Department of Defense Research Lab
 • ⁠Title: Computer Scientist (Software Developer for Satellites)
@@ -54,11 +47,9 @@ Also take note that I took two years off after graduating to pursue something ou
 • ⁠Total comp: $78k
 After looking at these new grad salaries I want someone to fucking shoot me
 Edit:Formatting/Clarification
-
 ```
 
-```
-I have been looking for a new job since past few months and have 3 offers right now. An interview with AWS is on its way.
+```I have been looking for a new job since past few months and have 3 offers right now. An interview with AWS is on its way.
 ​
 Education: MS in CS from a decent university in Washington DC. Locally it holds a high value bc there are no high profile universities in this area.
 Prior Experience:
@@ -98,11 +89,9 @@ Redditors, please advice me if that salary is good enough and justified:
 To live in MPLS
 For a person with 5 years of experience in the field
 I am still on the fence. I feel lowballed by Offers # 2 and 3. But that is the best I could extract from them.
-
 ```
 
-```
-School/Year: University of Washington Senior (doing fifth year)
+```School/Year: University of Washington Senior (doing fifth year)
 • Prior Experience: Product Manager Intern at SaaS company that went public last month.
 • Company/Industry: Very very large coffee company
 • Title: Product Manager Intern
@@ -110,11 +99,9 @@ School/Year: University of Washington Senior (doing fifth year)
 • Duration: 10 weeks
 • Salary: $24/hr
 • Relocation/Housing Stipend: N/A, unlimited bus pass given
-
 ```
 
-```
-Education: BcS CS.     
+```Education: BcS CS.     
 Prior experience: 3.5 years.     
 Industry: fintech.    
 Title: full stack developer.    
@@ -122,11 +109,9 @@ Tenure: 14 months.
 Location: Calgary, Canada (mid COL).     
 Salary: $75k per annum.    
 Other compensation: about $10k stock over next 3 years
-
 ```
 
-```
-School/Year: Junior @ Temple University
+```School/Year: Junior @ Temple University
 Prior Experience: None (But I have side projects and a high GPA)
 Company/Industry: Lockheed Martin
 Title: Tech Spec Intern (I think this is just a general title they give to interns)
@@ -140,11 +125,9 @@ Location: Greater Philadelphia Area
 Duration: 8-12 Weeks
 Salary: ~$27/hour
 Relocation/Housing Stipend: $1100/month
-
 ```
 
-```
-School/Year: Rising Junior at a Top 40 School
+```School/Year: Rising Junior at a Top 40 School
 Prior Experience: 3 Internships: 2 start ups, 1 F300, also a research assistant
 Company: JP Morgan Chase
 Title: Software Engineering Intern
@@ -152,11 +135,9 @@ Location: Columbus, OH
 Duration: 10 Weeks
 Salary: $29/hr
 Signing Bonus: 1.5k
-
 ```
 
 ```
-
 School/Year: Non-target Florida school. Junior  
 Prior Experience: 1 internship at local startup  
 Company/Industry: JP Morgan Chase  
@@ -168,11 +149,9 @@ Relocation/Housing Stipend: 1500 one time bonus
 ​
 I had interviewed with lots of big companies but need to sharpen up my skills for next recruiting season
 ​
-
 ```
 
-```
-School/Year: Sophomore @ Top 40 Private University 
+```School/Year: Sophomore @ Top 40 Private University 
 Prior Experience: 3 Internships, 2 @ startups during summer 18, 1 @ F300 Energy company during Fall 18 semester
 Company: JP Morgan Chase
 Title: Software Engineering Intern
@@ -180,11 +159,9 @@ Location: Columbus, OH
 Duration: 10 Weeks
 Salary: $28.75/hour, Overtime: $43/Hour 
 Signing Bonus: 1.5k one-time payment
-
 ```
 
 ```
-
 School/Year: Top 10 CS/Rising 5th year
 Prior Experience: 2 F500 Internships
 
@@ -202,11 +179,9 @@ Duration: 11 weeks
 Salary: $75,000 prorated ~$37/hour
 Relocation/Housing Stipend: $5k for housing
 
-
 ```
 
 ```
-
 School/Year: Top 10 CS/Rising 5th year
 Prior Experience: 2 F500 Internships
 
@@ -224,11 +199,9 @@ Duration: 11 weeks
 Salary: $75,000 prorated ~$37/hour
 Relocation/Housing Stipend: $5k for housing
 
-
 ```
 
-```
-Education: Public Target
+```Education: Public Target
 Prior Experience: Big N Internship, <1 year at a mid/small size relatively unknown tech company
 ——
 Company: Google 
@@ -245,11 +218,9 @@ Annual Bonus: 31k, all or nothing depending on average performance or better
 Stock: 125k / 4 years
 Signing: 10k
 Total: 198k cash + 31k illiquid RSUs + 10k signing
-
 ```
 
-```
-About Me:
+```About Me:
 School/Year: Top 10 Tech University / Sophomore
 Prior Experience: 2 Internships at startups
 Citadel:
@@ -283,11 +254,9 @@ Duration: 12 Weeks
 Salary: $8000 / mo
 Relocation/Housing Stipend/Misc: $2500/month housing stipend, paid relocation, free lunch
 
-
 ```
 
 ```
-
 School/Year: San Diego State University/Junior
 Prior Experience: None in tech/CS Tutor
 Company/Industry: ViaSat
@@ -297,11 +266,9 @@ Duration: 10 Weeks
 Salary: $32/hour Full-time
 Relocation/Housing Stipend: Shared Furnished Apartment or $25/day Stipend (prorated lump sum payment 1st or 2nd check)
 
-
 ```
 
-```
-Education: BS in CS from the University of Florida, currently working on my MS online through the same school
+```Education: BS in CS from the University of Florida, currently working on my MS online through the same school
 Prior Experience:
 $Internship: Nordstrom (Seattle, WA)
 $RealJob: Nothing really tech-related, small college jobs
@@ -314,11 +281,9 @@ Relocation/Signing Bonus: $8,000 signing bonus, didn't need to relocate as I was
 Stock and/or recurring bonuses: 401(k) match up to 6%, don't know too many of the details beyond that
 Total comp: ~$90,000
 The position has its ups and downs. I'm passively looking around.
-
 ```
 
-```
-​
+```​
 School/Year: UT Austin/Senior
 Prior Experience: SW Intern at startup, SW research assistant at university
 Company/Industry: HomeAway
@@ -328,11 +293,9 @@ Duration: 11 weeks
 Salary: $40/hr (40 hour work week, so $17600 + $2500 bonus = $20,100 total)
 Relocation/Housing Stipend: None, but there is a $2500 signing bonus
 
-
 ```
 
-```
-School/Year: Rising Senior Top 10 CS (Public)
+```School/Year: Rising Senior Top 10 CS (Public)
 Prio Experience: internship at mid-size company and internship at a little well known Saas company in Bay Area
 ​
 Lime:
@@ -359,11 +322,9 @@ Confluent:
 + Duration: 12 weeks
 + Salary: 8500/month and 6k relocation total.
 ​
-
 ```
 
 ```
-
 School/Year: Junior Top 10 CS
 Prior Experience: Startup + Unicorn
 Company/Industry: Snap Inc. (Snapchat)
@@ -373,11 +334,9 @@ Duration: 12 weeks
 Salary: $9k/mo + $225/mo commuting benefit + healthcare benefits
 Housing Stipend/Misc: Corp Housing or $2.5k/mo
 
-
 ```
 
-```
-College/Year:
+```College/Year:
 Small State College / 2nd year of a 2 year Software Programming program (not traditional college courses). I will have an Associate's of Applied Science when finished.
 Relevant experience:
 Self taught basic web technology (no frameworks)
@@ -397,11 +356,9 @@ $1,000/mo equals about $5.77/hr
 Relocation/Housing Stipend:
 None
 
-
 ```
 
 ```
-
 Education: BA - Computer Science (public state university)
 Prior Experience: 
 University (netops, help desk, programmign research assistant) 
@@ -416,11 +373,9 @@ Relocation/Signing Bonus: None
 Stock and/or recurring bonuses: None
 Total comp: $65k/year
 
-
 ```
 
 ```
-
 Education: M.S Comp Sci  
 Prior Experience: ~ 3.5 yrs, 1.5 at a DoD contractor, 2 at a consulting company  
 Company/Industry: NASA contractor, space  
@@ -432,11 +387,9 @@ Relocation/Signing Bonus: N/A
 Stock and/or recurring bonuses: None  
 Total comp: $96,000
 
-
 ```
 
-```
-​
+```​
 School/Year: Top 5 California University - Junior 
 Prior Experience: 1 SWE internship @ big memory company, Current NASA SWE internship 
 Company/Industry: Foursquare
@@ -446,11 +399,9 @@ Duration: Summer 2019
 Salary: $40/hour ($6933/Month) + $5000 signing bonus
 Relocation/Housing Stipend: No housing/travel assistance.
 
-
 ```
 
 ```
-
 School/Year: Waterloo, 3rd Year
 Prior Experience: 12 months of previous internships, average companies.
 Company/Industry: NASA
@@ -460,11 +411,9 @@ Duration: 16 weeks
 Salary: $9800 stipend for the whole 4 months (not taxed)
 Relocation/Housing Stipend: Hah, I wish.
 
-
 ```
 
-```
-Education: BS Computer Science at mid-tier Cal State
+```Education: BS Computer Science at mid-tier Cal State
 Prior Experience: 3 internships
 Company/Industry: Nokia
 Title: Software Developer
@@ -473,11 +422,9 @@ Salary: 90k base
 Relocation/Signing Bonus: 5k relo
 Stock and/or recurring bonuses: 5% base salary, up to 150% attainment
 Total comp: 95 ~ 101k (depending on performance)
-
 ```
 
-```
-School/Year: Midsize public school in Michigan/ Senior
+```School/Year: Midsize public school in Michigan/ Senior
 Prior Experience: No prior internship experience. Tutored C.S. undergraduate couses for a year
 Company/Industry: Siemens
 Title: Product Software Engineer Intern
@@ -485,11 +432,9 @@ Location: Detroit, MI
 Duration: 12 weeks
 Salary: $21/hr
 Relocation/Housing Stipend: None, live in the area
-
 ```
 
-```
-• Education: BS in Computer science from a state school. 2.7 GPA
+```• Education: BS in Computer science from a state school. 2.7 GPA
  • Prior Experience: 8.5 years professional experience as an SE + 2.5 years research in college
  ◦ $Internship: HPC research oriented 
  ◦ $RealJob: Amazon
@@ -501,11 +446,9 @@ Relocation/Housing Stipend: None, live in the area
  • Relocation/Signing Bonus: $60k + 40k
  • Stock and/or recurring bonuses: 70 shares
  • Total comp: 210k first year
-
 ```
 
-```
-• Education: BS Computer Science, UC San Diego
+```• Education: BS Computer Science, UC San Diego
 • Prior Experience: 1 internship. 2 YOE at a large tech company, 2.5 YOE at a tech startup
 • Company/Industry: Amazon
 • Title: Senior Software Engineer (L6)
@@ -515,11 +458,9 @@ Relocation/Housing Stipend: None, live in the area
 • Relocation/Signing Bonus: Don’t remember
 • Stock and/or recurring bonuses: 135k
 • Total comp: 305K
-
 ```
 
 ```
-
 Education: BS in Computer Science
 Prior Experience: 1 year working part time as an intern while during senior year of college, 1 year FT after graduating at the company I interned with, been at current company for 2 years, so 3 years total experience FT 
 Company/Industry: Amazon
@@ -530,11 +471,9 @@ Salary: $135k
 Stock and/or recurring bonuses: $80k at current valuation
 Total comp: $215k
 
-
 ```
 
-```
-Offer 1
+```Offer 1
 Education: No name university in Canada
 Company/Industry: Amazon
 Title: Software Engineer L4
@@ -553,11 +492,9 @@ Relocation/Signing Bonus: 10k reloc
 Stock and/or recurring bonuses: 392 stock units over 4 years (25% vest per yr)
 Total comp: ~135k
 
-
 ```
 
-```
-Education: Bachelor's in Computational Data Sciences at Penn State
+```Education: Bachelor's in Computational Data Sciences at Penn State
 Prior Experience: 1 summer internship at Amazon in Seattle
 Company/Industry: SAP SuccessFactors
 Title: Developer
@@ -566,11 +503,9 @@ Salary: $110,000
 Relocation/Signing Bonus: 0
 Stock and/or recurring bonuses: $10,000 annual bonus
 Total comp: $120,000
-
 ```
 
 ```
-
 Education: Bachelor's in CS from liberal arts college, 2018 grad
 Prior Experience: ~8 months at a small software startup full-time, 1 on-campus internship, some side projects
 Company/Industry: Amazon
@@ -582,11 +517,9 @@ Relocation/Signing Bonus: 7k relocation (tax already withheld), 40k first year s
 Stock and/or recurring bonuses: 50 RSUs vesting at standard 5/15/40/40.
 Total comp: ~165k year 1
 
-
 ```
 
 ```
-
 Education: BA / MA in unrelated field. Bootcamp after.
 Prior Experience: 1 year at small company doing web dev
 Company/Industry: Amazon
@@ -597,11 +530,9 @@ Relocation/Signing Bonus: ~80k
 Stock and/or recurring bonuses: Something, idk. Amazon stock has paltry vest amounts until year 3 so I don't think much of it.
 Total comp: ~230k - 240k
 
-
 ```
 
-```
-• ⁠Education: BS Computer Science @ average state university (top 250 school)
+```• ⁠Education: BS Computer Science @ average state university (top 250 school)
 • ⁠Prior Experience: Two internships (one @ insurance company and one @ AT&T)
 • ⁠Company/Industry: Google
 • ⁠Title: SWE-SRE
@@ -643,11 +574,9 @@ Total comp: ~230k - 240k
 • ⁠Relocation/Signing Bonus: $6k signing bonus
 • ⁠Stock and/or recurring bonuses: Bonuses based on company and team performance
 • ⁠Total comp: ~$89k Year 1 then $83k
-
 ```
 
-```
-• Education: MS CS Private University LA
+```• Education: MS CS Private University LA
 • Prior Experience: 2 internships in home country, 1 internship in the Bay Area in a small quant investing company
 • Company: Amazon Robotics
 • Title: Software Development Engineer
@@ -658,11 +587,9 @@ Total comp: ~230k - 240k
 • Signing Bonus: $24,000 + $20,000 (2 years)
 • Stock: $70,000 vested over 4 years
 • Total Comp: ~ $145k Year 1, ~ $138k Year 2, ~ $164k Year 4
-
 ```
 
 ```
-
 Education: BS in CS, low GPA at local state college
 Prior Experience: no SWE experience, IT part time job
 Company/Industry: Amazon
@@ -679,11 +606,9 @@ Year 2: $123,800 (+15% RSUs earned)
 Year 3: $124,200 (+40% RSUs earned)
 Year 4: $124,200 (+40% RSUs earned)
 
-
 ```
 
 ```
-
 Education: BSCS @ Top 15 University
 Prior Experience: None
 Company/Industry: Amazon
@@ -694,11 +619,9 @@ Relocation/Signing Bonus: 10k relocation, 25k signing year 1, 22k year 2
 Stock and/or recurring bonuses: 75k over 4 years
 Total comp: 150k+
 
-
 ```
 
 ```
-
 Education: BS Computer Science @ well-known state school
 Prior Experience:
 
@@ -713,11 +636,9 @@ Relocation/Signing Bonus: 10,500/15k
 Stock and/or recurring bonuses: 100k / 15% target bonus
 Total comp: ~170-188k
 
-
 ```
 
 ```
-
 Education: B.S. Computer Science from low-tier UC
 Prior Experience: 1 internship (small company)
 Company/Industry: Amazon
@@ -728,11 +649,9 @@ Relocation/Signing Bonus: $7k relocation, ~40k split over 2 years
 Stock and/or recurring bonuses: Don’t remember
 Total comp: ~$135k 1st year
 
-
 ```
 
 ```
-
 Education: Top 10 UK CS degree
 Prior Experience (all internships):
 
@@ -760,11 +679,9 @@ Stock and/or recurring bonuses: none that I was told about and didn't ask but I 
 Total comp: 60k first year, 55k onwards, again, assuming no performance bonuses
 ​
 Note, Amazon refused to negociate, I didn't try with MS
-
 ```
 
-```
-School/Year: Junior
+```School/Year: Junior
 Prior Experience: 1 internship
 Company/Industry: Amazon
 Title: SDE Intern
@@ -772,11 +689,9 @@ Location: NYC
 Duration: 12 weeks
 Salary: $8500 / month
 Relocation/Housing Stipend: ~$1700 / month (post tax)
-
 ```
 
-```
-School / year: Midwest state school. Decent CS and know in the Rocky Mountain area. Rising Junior. 
+```School / year: Midwest state school. Decent CS and know in the Rocky Mountain area. Rising Junior. 
 Prior experience: Research assistant and part time for a year with the IT division at the uni. 
 Company: Amazon
 Title: SDE intern
@@ -784,11 +699,9 @@ Location: Seattle
 Duration: 12 weeks 
 Salary: $7650 per month 
 Relocation: $1950 stipend a month. Corporate housing not offered.
-
 ```
 
 ```
-
 School/Year:    PhD Student  
 Prior Experience:    1 x SDE Internship @ Amazon WS   
 Company/Industry:    Amazon Web Services  
@@ -798,11 +711,9 @@ Duration:    12 Weeks
 Salary:    9400 $ / mo  
 Relocation/Housing Stipend:   Corporate Housing  OR   Monthly Net Stipend 1925$
 
-
 ```
 
-```
-Here again to post some of the salaries I've seen advertised. These all had salaries included in the ads so it isn't guesswork.
+```Here again to post some of the salaries I've seen advertised. These all had salaries included in the ads so it isn't guesswork.
 School/Year: 4th year/5 non-Go8
 Prior Experience: internship @ locally known utility company, see earlier post
 Company/Industry: Tiny manufacturing shop (<10 employees)
@@ -819,18 +730,14 @@ Duration: 10-12 weeks
 Salary: 29/hour 
 Relocation/Housing Stipend: None
 Sidenote, this is the first year Amazon has advertised internships afaik. I'm applying so if I hit the hail mary then I might have numbers for them for the next thread. Since both Google and Expedia haven't gotten back to me (ever) though I somehow doubt Amazon would
-
 ```
 
-```
-Amazon has advertised internships since 2017. Intern salary is $47 per hour but no relocation/housing - good luck it's extremely competitive! 
+```Amazon has advertised internships since 2017. Intern salary is $47 per hour but no relocation/housing - good luck it's extremely competitive! 
 Google's intern salary is a bit less at around $35-40 per hour, but housing is provided if you need it and there's free meals in the office :)
 PM if you want more info
-
 ```
 
-```
-Education: UC Berkeley CS
+```Education: UC Berkeley CS
 Prior Experience: Internships at OpenTable and a few other places.
 Amazon (Chosen)
 Title: Software Development Engineer I
@@ -848,11 +755,9 @@ Stock and/or recurring bonuses: 30k over 3 years, 10% target end of year bonus.
 Total comp: 147.5k per year.
 Negotiated 10k signing bonus to be converted to base salary from OpenTable. Didn't negotiate Amazon.
 Overall, I didn't apply to too many places, only those I could see myself possibly choosing over OpenTable. 40ish applications, 25ish Hackerranks, 7 onsites.
-
 ```
 
-```
-Education:  BA in CS @ Top 30 School
+```Education:  BA in CS @ Top 30 School
 Prior Experience: Two internships @ smaller companies, TA at university 
 1 (Accepted)
 Company/Industry: Apple
@@ -875,11 +780,9 @@ Location: Seattle, WA
 Salary: $108,000
 Relocation/Signing Bonus: $24,000 signing first year, 20,000 signing second year
 Stock and/or recurring bonuses: $70,000 over 3.5 years
-
 ```
 
-```
-Education: BS Comp Sci at well known public school
+```Education: BS Comp Sci at well known public school
 Prior Experience: 2 SWE, 1 data science internship
 Microsoft (Seattle):
 Salary: 109k
@@ -904,11 +807,9 @@ Stock: N/A
 Relocation: 1.5k
 TC: 142.5k year 1, 113k all years after
 ​
-
 ```
 
-```
-Education: BS CS at mid tier UC
+```Education: BS CS at mid tier UC
 Prior experience: 3 internships, including big N
 Company: Microsoft
 Title: Software Engineer 
@@ -937,11 +838,9 @@ Stock: 70k over 4 years backloaded
 TC: ~137k
 —-
 I chose Microsoft
-
 ```
 
 ```
-
 Education: Solid state school with not-so-solid CS program
 Prior Experience: one internship at a no-name startup, two internships at Amazon, significant (revenue generating) side projects
 Company/Industry: Amazon
@@ -988,11 +887,9 @@ Stock and/or recurring bonuses: 80k/4 years, 10% target bonus in years 1-2, 20% 
 Total comp: 190/150/150/150 + target bonus of 13k, 13k, 26k, 26k, plus standard unicorn perks like catered meals, free snacks, gym/gym reimbursement, transportation subsidy, personal development budget, etc.
 I feel pretty lucky to get the offers I did. A few years ago I really struggled, but through hard work, learning the system, and some luck, things eventually got better, and negotiating helps too. Good luck everyone!
 
-
 ```
 
-```
-Education: MS CS, top-4 university
+```Education: MS CS, top-4 university
 Prior Experience: Publication, mid-tier software engineering internship, research experience in job-related area
 ​
 Series-A Startup (accepted):
@@ -1022,11 +919,9 @@ Salary: $130k
 Relocation: $5k
 Stock: $70k/ 4 years (based on current valuation)
 
-
 ```
 
-```
-Education: MS CS, top-4 university
+```Education: MS CS, top-4 university
 Prior Experience: Publication, mid-tier software engineering internship, research experience in job-related area
 ​
 Series-A Startup (accepted):
@@ -1056,11 +951,9 @@ Salary: $130k
 Relocation: $5k
 Stock: $70k/ 4 years (based on current valuation)
 
-
 ```
 
-```
-Education: BEng in Mech Eng from small school, MS in CS from a shit school, but got scholarships for both
+```Education: BEng in Mech Eng from small school, MS in CS from a shit school, but got scholarships for both
 Prior Experience: One summer internship at a small company
 Company/Industry: Google
 Title: Software Developer
@@ -1077,11 +970,9 @@ Relocation/Signing Bonus: 10,000 relocation, signing bonus 24,000 first year, 20
 Stock and/or recurring bonuses: 70,000 vested over 4 years, 5/15/40/40
 Total comp: 135,500 first year, 138,500 second, 136,000 third and fourth
 Got interviews through referrals because my resume sucked. Failed Microsoft first round, Bloomberg and Facebook onsites. Google knew I had the standard Amazon offer. Amazon refused to negotiate. Still really happy, it's an absurd amount of money. Going to make sure my parents retire in comfort.
-
 ```
 
 ```
-
 Education: MA in unrelated field - went to bootcamp
 Prior Experience: 1 year at small company
 Company/Industry: Amazon
@@ -1092,11 +983,9 @@ Relocation/Signing Bonus: ~80k / ~60k
 Stock and/or recurring bonuses: 85 shares @ 5/15/40/40
 Total comp: ~240k + whatever shares end up being
 
-
 ```
 
-```
-• Education: BS in CS at state school
+```• Education: BS in CS at state school
 • ⁠Prior Experience: Amazon internship
 • ⁠Company/Industry: Amazon
 • ⁠Title: Software Development Engineer
@@ -1105,11 +994,9 @@ Total comp: ~240k + whatever shares end up being
 • ⁠Relocation/Signing Bonus: $34,000 first year, $20,000 second year, $10,000 relocation
 • ⁠Stock and/or recurring bonuses: $70,000 in RSUs vesting over four years 5/15/40/40%
 • ⁠Total comp: ~$155,000 first year
-
 ```
 
-```
-School: BS CS @ top 10 CS school
+```School: BS CS @ top 10 CS school
 Prior Experience: 2 internships - large non-tech company, unknown unicorn
 Amazon (accepted):
 Location: Seattle (Probably)
@@ -1137,11 +1024,9 @@ Relocation: $1.5k
 Target Bonus: $3.8k
 Total Comp: $114k year 1, then $103k
 
-
 ```
 
 ```
-
 Education: BS CSE UMich
 Prior Internships: Security Unicorn,
 Company/Industry: Amazon
@@ -1152,11 +1037,9 @@ Relocation/Signing Bonus: $24,000 / $20,000 signing (first year and second year)
 Stock and/or recurring bonuses: $70,000 over 4 years, standard Amazon vesting schedule
 Total comp: ~$145,000 first year
 
-
 ```
 
-```
-School: BS CS @ state school that just won NCAA soccer championship
+```School: BS CS @ state school that just won NCAA soccer championship
 Prior Experience: 2 internships - Amazon, no-name local company
 Facebook (Accepted):
 Location: Menlo Park, CA
@@ -1180,11 +1063,9 @@ RSUs: $3.5k / $10.5k / $28k / $28k ($70k total)
 Signing Bonus: $34k / $22k
 Total Comp: $145.5k / $140.5k / $136k / $136k
 
-
 ```
 
-```
-Posting under low CoL but bestplaces lists Phoenix as MCoL by OP criteria.
+```Posting under low CoL but bestplaces lists Phoenix as MCoL by OP criteria.
 ​
 Education: ASU #1 in InNoVaTiOn
 Prior Experience: 2 Internships, one at midwest based F500 Company, one at Amazon
@@ -1197,11 +1078,9 @@ Stock and/or recurring bonuses: 70k over 4 years
 Total comp: ~146k
 ​
 Accepted return internship offer. Didn't apply elsewhere.
-
 ```
 
 ```
-
 School/Year: I don't even know at this point, man   
 Prior Experience: 2x SWE Internships at Amazon and smaller company   
     
@@ -1220,11 +1099,9 @@ Salary: 7.3k/month
 Relocation/Housing Stipend: 1k/month   
     
 Had to work my way down the coast but this summer is finally in the place I wanted.  Can't wait to be back home in SoCal/OC 😄🏝️   
-
 ```
 
-```
-School/Year: Senior at Top 15/20 school, graduating Fall 2019
+```School/Year: Senior at Top 15/20 school, graduating Fall 2019
 Prior Experience: Internship at very small company
  
 Amazon (Accepted):
@@ -1245,11 +1122,9 @@ Location: San Francisco, CA
 Salary: $53/hr
 Relocation/Housing Stipend: N/A
 
-
 ```
 
 ```
-
 School/Year: top 5-8 for cs as a Junior
 Prior Experience: None
 Company/Industry: Amazon / Business Development Organization whatever that means
@@ -1262,11 +1137,9 @@ Relocation/Housing Stipend: $1,925 post tax per month + plane ticket to and from
 Also got a TCP Intern offer from a Optum in their New Jersey office for $24 an hour and housing provided. Just thought I would mention it here even though I declined it.
 ​
 Happy to say that seeing the previous internship salary thread motivated me to work harder on Leetcode and try to be able to post in the next one that happens. Sure enough, I got Amazon (which isn't the best but fuck it I'll take it). Good luck to those looking around and still trying to find an internship!
-
 ```
 
 ```
-
 School/Year: Some Canadian University
 Prior Experience: 4 internships
 ​
@@ -1308,11 +1181,9 @@ Duration: 15/16 weeks
 Salary: $47/hour (don't know why their pay isn't consistent across the board). barely willing to negotiate.
 Relocation: Corporate housing or $5100 lump sum + $2000 relocation bonus (idk why people keep calling this a signing bonus)
 
-
 ```
 
 ```
-
 School/Year: Regional Midwest State School / Junior
 Prior Experience: Software Development Intern at a Local Insurance Company 
 Company/Industry: Amazon
@@ -1322,11 +1193,9 @@ Duration: 12 weeks in the summer
 Salary: $7650/month
 Relocation/Housing Stipend: $1375 post taxes/month + travel
 
-
 ```
 
-```
-School/Year: junior at Ivy League university
+```School/Year: junior at Ivy League university
 Prior Experience: interned at Amazon my sophomore year
 ​
 Company/Industry: Amazon
@@ -1336,11 +1205,9 @@ Duration: 12 weeks
 Salary: $8,700 per month
 Relocation/Housing Stipend: $3,500 per month housing stipend, or corporate housing (last year it was luxury apartments in midtown Manhattan, like the Instratta Nomad and The Olivia). Also free plane tickets of course
 
-
 ```
 
-```
-School/Year: Junior at top 30 CS school
+```School/Year: Junior at top 30 CS school
 Previous Experience: F50 Internship
 Company/Industry: One of {Asana, Plaid, Slack}
 Title: Software Engineering Intern
@@ -1349,11 +1216,9 @@ Duration: 12 weeks
 Salary: $55/hour (~$9,500/mo)
 Relocation/Housing Stipend: Nothing
 Also had the amazon offer, but I turned it down so idk the numbers 
-
 ```
 
 ```
-
 School/Year: Top 4 CS in US (yay?), junior
 Prior Experience: semi-coding internship, side projects
 ​
@@ -1376,11 +1241,9 @@ Location: Sunnyvale, CA
 Duration: 12 weeks
 Salary: $8500/month
 
-
 ```
 
-```
-​
+```​
 School/Year: Junior, no name midwest university
 Prior Experience: 1 Internship, 3 years web dev at university
 ​
@@ -1415,11 +1278,9 @@ Duration: 12 weeks
 Salary: 23 / hr
 Relocation/Housing Stipend: none
 
-
 ```
 
-```
-​
+```​
 School/Year: Junior, no name midwest university
 Prior Experience: 1 Internship, 3 years web dev at university
 ​
@@ -1454,11 +1315,9 @@ Duration: 12 weeks
 Salary: 23 / hr
 Relocation/Housing Stipend: none
 
-
 ```
 
-```
-​
+```​
 School/Year: Junior, no name midwest university
 Prior Experience: 1 Internship, 3 years web dev at university
 ​
@@ -1493,11 +1352,9 @@ Duration: 12 weeks
 Salary: 23 / hr
 Relocation/Housing Stipend: none
 
-
 ```
 
-```
-​
+```​
 School/Year: Junior, no name midwest university
 Prior Experience: 1 Internship, 3 years web dev at university
 ​
@@ -1532,11 +1389,9 @@ Duration: 12 weeks
 Salary: 23 / hr
 Relocation/Housing Stipend: none
 
-
 ```
 
-```
-Still waiting on one more offer, but here's this summer's offers:
+```Still waiting on one more offer, but here's this summer's offers:
 School/Year: Sophomore at RG uni in the UK
 Prior Experience: Three internships and one relevant part-time job
 Company/Industry: Small startup in EU
@@ -1551,11 +1406,9 @@ Location: London
 Duration: 3 months
 Salary: €25k EUR pro-rata (= £2.1k per month)
 Relocation/Housing Stipend: None
-
 ```
 
-```
-Since internship season has ended in AU I'm just here to give some data points on the openings that I've seen on job boards for internships next summer (2019-2020 here). Link to my post in the last thread for those interested: https://www.reddit.com/r/cscareerquestions/comments/a2mafb/official_salary_sharing_thread_for_interns/eazmi0h/
+```Since internship season has ended in AU I'm just here to give some data points on the openings that I've seen on job boards for internships next summer (2019-2020 here). Link to my post in the last thread for those interested: https://www.reddit.com/r/cscareerquestions/comments/a2mafb/official_salary_sharing_thread_for_interns/eazmi0h/
 Again I haven't actually gotten offers for the jobs below, just saw the postings (these are ones with salaries)
 Company/Industry: Optiver
 Title: Software Developer Intern
@@ -1572,22 +1425,18 @@ Salary: 22.50/hour
 Relocation/Housing Stipend: None
 As a side note, I've been talking to a lot of people I know from uni about their internships/work this last summer and the general figure of $30/hour seems very standard, at least for good engineering companies in Brisbane. Only notable exception I know of is a particularly large defence contractor (you can probably guess which), virtually every mining company, and if Amazon takes interns I would assume they pay a little higher as well. 
 The company I was at had plenty of unpaid interns actually, which is unfortunately pretty common here because of the 30 day supervised work requirement for engineering students. It seems to be that a lot of the work is geared towards them, and the paid stuff (while good) is just a little less common.
-
 ```
 
-```
-• School/Year: Unknown Canadian School, Junior
+```• School/Year: Unknown Canadian School, Junior
 • Company/Industry: Amazon
 • Title: SDE Intern
 • Location: Toronto
 • Duration: 12 weeks
 • Salary: $7000 CAD/month
 • Relocation/Housing Stipend: ~$5000-5500 one time
-
 ```
 
-```
-​
+```​
 School/Year: Well known Public University in SC / Junior
 Prior Experience: Previous small internship/ on-campus Web Intern
 Company/Industry:  Amazon (AWS)
@@ -1597,11 +1446,9 @@ Duration: Summer
 Salary: $7850 a month so ~$50 an hour
 Relocation/Housing Stipend:  housing costs $300-$500 a month depending on what you pick or around a $2500 stipend to find your own housing.
 
-
 ```
 
-```
-Current:
+```Current:
 —
 * Education: BS CS
 * Prior Experience: Startup, ~1.5 years. Various internships.
@@ -1640,11 +1487,9 @@ Offer 3:
 * Total comp: $234,000
 Notes: I omitted signing bonuses and relo and perks and the like because they’re relatively token amounts and I’m not a new grad who pads/inflates the numbers. These are real, recurring amounts (see above what I had to say about Snap above).
 Also, what really sets the tier 1 companies (FB/Google et al) from tier 1.5/2 companies (Microsoft/Amazon) apart is their RSU refresher policy. Amazon notoriously denies refresher grants prior to year 5 if the stock appreciates more than 15%, and Microsoft has long been known to give out terrible refreshers in general (e.g. tiny amounts like $10k vesting over 5 years), whereas at FB (and Snap, if you trust them), your annual TC will grow by $100k+ over four years due to refresh grants stacking.
-
 ```
 
 ```
-
 Education: BS CS from state school satellite campus
 Prior Experience: summer internship in same company/team
 Company/Industry: Amazon 
@@ -1656,11 +1501,9 @@ Relocation/Signing Bonus: not relevant anymore
 Stock and/or recurring bonuses: at current value and vesting schedule, 54k this year, 60k next year, and 50k the following year. 
 Total comp: averaging those out, 185k
 
-
 ```
 
-```
-E: Throwaway account bc my main is easily traceable to me
+```E: Throwaway account bc my main is easily traceable to me
 Education: BA in CS from small liberal arts college
 Prior Experience: Summer REU, interned at Chicago startup
 Company/Industry: Amazon
@@ -1673,11 +1516,9 @@ Stock and/or recurring bonuses: this year got my 15%, get 20% (17 shares) in Dec
 Total comp: ~200k this year
 Kinda wanna move back to the midwest (ORD-IND-CVG), but I don't know if it makes sense financially.  In SEA, I've got a great apt for $1100/mo withing walking distance of work/nightlife/everything, and I've got plenty of fun money while still maxing HSA/401k/savings/etc (and saving stock for a down payment somewhere someday).  Everywhere in the midwest, I'd be taking a big salary cut, would start paying state income taxes, and might need a car if it's not Chicago.  Like, yeah, a dozen eggs are $1 cheaper, but that doesn't make up for a base salary that is $20-40k lower and probably not getting $70k of stock per year~
 Gonna wait and see where HQ2 shakes out and will go from there.
-
 ```
 
-```
-I'm at a small office so being vague.
+```I'm at a small office so being vague.
 Company: Amazon
 Title: SDEIII
 Education: MS in Computer Science
@@ -1688,11 +1529,9 @@ RSUs: $100k-150k depending on stock price
 Ongoing Bonus: N/A
 Relocation: Available
 Total Comp: $250-300k Target is about $275k
-
 ```
 
-```
-• ⁠Education: BS in CS at large SEC school
+```• ⁠Education: BS in CS at large SEC school
 • ⁠Prior Experience: 1x Amazon internship, 1x Defense contracting/consulting firm internship 
 • ⁠Company/Industry: Amazon
 • ⁠Title: Software Development Engineer
@@ -1701,11 +1540,9 @@ Total Comp: $250-300k Target is about $275k
 • ⁠Relocation/Signing Bonus: $34k first year, $20k second year, ~$10k relocation
 • ⁠Stock and/or recurring bonuses: $70k in RSUs vesting over four years (backloaded)
 • ⁠Total comp: ~$155k first year
-
 ```
 
 ```
-
 Education: Top 20 USWNR School
 Prior Internships: Large database company, medium sized fitness-tech company
 Company/Industry: Amazon
@@ -1716,11 +1553,9 @@ Relocation/Signing Bonus: $24,000 / $20,000 signing (first year and second year)
 Stock and/or recurring bonuses: $70,000 over 4 years, standard Amazon vesting schedule
 Total comp: ~$145,000 first year
 
-
 ```
 
 ```
-
 Education: BS in CS at a low tier UC
 Prior Experience:
 
@@ -1733,11 +1568,9 @@ Relocation/Signing Bonus: $5.5K Relocation / $15K SB
 Stock and/or recurring bonuses: $70K (3.5 years) / annual bonus 0-20%; 10% target
 Total comp: $109K (base) + 15K (SB) + $5.5K (Relocation) + $20K (Stock) + 21K (Up to Performance Bonus) => 170,500. 
 I feel like I got low balled with the Signing Bonus. The RSU looks good, but I've heard people getting 120K. Should I negotiate and if so, how much? 
-
 ```
 
-```
-• Education: BS in CS at state school
+```• Education: BS in CS at state school
 • ⁠Prior Experience: Amazon internship; 2 internships at small company
 • ⁠Company/Industry: Amazon
 • ⁠Title: Software Development Engineer
@@ -1746,11 +1579,9 @@ I feel like I got low balled with the Signing Bonus. The RSU looks good, but I'v
 • ⁠Relocation/Signing Bonus: $34,000 first year, $20,000 second year, $10,000 relocation
 • ⁠Stock and/or recurring bonuses: $70,000 in RSUs vesting over four years 5/15/40/40%
 • ⁠Total comp: ~$155,000 first year
-
 ```
 
-```
-• Education: BS in CS at state school
+```• Education: BS in CS at state school
 • ⁠Prior Experience: Amazon Subsidiary. Fin-Tech. Research.
 • ⁠Company/Industry: Fin-Tech
 • ⁠Title: Junior Software Developer
@@ -1760,11 +1591,9 @@ I feel like I got low balled with the Signing Bonus. The RSU looks good, but I'v
 • ⁠Stock and/or recurring bonuses: $5,000 - $10,000 end of the year
 • ⁠Total comp: ~$109,000
 ​
-
 ```
 
-```
-Education: High-mid tier UC
+```Education: High-mid tier UC
 Prior Experience: 1 internship w/ Amazon
 Company/Industry: Amazon
 Title: SDE I
@@ -1773,11 +1602,9 @@ Salary: 106k
 Relocation/Signing Bonus: 35.5k/30.5k first/second year signing bonus, 10k relocation
 Stock and/or recurring bonuses: 60k over 4 years split 5/15/40/40%
 Total comp: ~154.5k first year, 145.5k second year, 130k after
-
 ```
 
-```
-I've already posted in the last thread but I'm posting again now that my numbers are updated since I'm in one of the San Francisco offices which is a "premium" office (All Bay Area and NYC offices are to my knowledge). Hope this is helpful/informative!     
+```I've already posted in the last thread but I'm posting again now that my numbers are updated since I'm in one of the San Francisco offices which is a "premium" office (All Bay Area and NYC offices are to my knowledge). Hope this is helpful/informative!     
 School/Year: Junior @ state school satellite campus
 Prior Experience: One software development internship at a large non Big N
 Company/Industry: Amazon
@@ -1787,11 +1614,9 @@ Duration: 12 weeks
 Salary: $8475/month
 Relocation/Housing Stipend: $3500/month stipend or corporate housing for $500/month deducted from salary (100% worth it, Amazon is paying as much as my salary for my apartment every month)
 Cheers all, have a great week   
-
 ```
 
-```
-You're dramatically overestimating the taxes involved. Actual taxes for this (assuming 3 months of salary + stipend):
+```You're dramatically overestimating the taxes involved. Actual taxes for this (assuming 3 months of salary + stipend):
 Total Income: $35,925
 Federal: $2421.84
 CA State: $645.30
@@ -1799,11 +1624,9 @@ FICA/Medicare: $2,748.26
 This doesn't include their home state rate, but CA has one of the highest state income tax rates in the union, and states generally credit you for taxes paid in other states, so this is going to be within a few hundred dollars of the correct number.
 Total combined tax rate is ~16%, meaning $3500 becomes ~$2940. If OP pays their tuition with that money and provides more than 50% of their own total support this calendar year they can take their own education tax credit, which means they will only pay FICA/Medicare, for a total tax burden of 7.65%, or a take home of $3232.25 of each $3500.
 tl:dr - Amazon convenience housing costs OP $3440-3732 post-tax each month.
-
 ```
 
 ```
-
 School/Year: Ivy League, sophomore
 Prior Experience: interned part time during the school year as a full stack dev at a startup
 Company/Industry: Amazon
@@ -1813,11 +1636,9 @@ Duration: 12 weeks
 Salary: $7.7k/month
 Relocation/Housing Stipend: $2.5k/month
 
-
 ```
 
 ```
-
 School/Year: Penn State / Senior
 Prior Experience: No internships, lot of club activity + worked in on-campus IT
 Company/Industry: Amazon
@@ -1827,11 +1648,9 @@ Duration: 12 weeks
 Salary: $7.7k/mo
 Relocation/Housing Stipend: Relocation up to price from your home location / school location to internship location. $6.7k housing stipend (pretax)
 
-
 ```
 
-```
-Education: BS/MS in CS, top tier non-cs undergrad, major research university grad (not top 5)
+```Education: BS/MS in CS, top tier non-cs undergrad, major research university grad (not top 5)
 Prior Experience: hired out of grad school, no internships
 Company/Industry: Amazon
 Title: SDE3
@@ -1843,11 +1662,9 @@ Stock and/or recurring bonuses: 2018 ~115k, 2019 ~125k at current AMZN, have not
 Total Comp: $270kish
 Other: 6 public holidays + 26 days off at year 6 (20 vacation, 6 personal), considering taking 10-12 weeks off unpaid this year or next through the leave/sabbatical program.
 Went SDE1->2->3 in Seattle then transferred w/relocation. There are two US pay bands, one is SF+NYC (slightly higher), the other is everywhere else (including Seattle), so no comp adjustment on the move. Path to Principal/L7 will be harder away from Seattle.
-
 ```
 
-```
-Education: B/S in MS, state school
+```Education: B/S in MS, state school
 Prior Experience: 4 years before current role
 $Internship: 6 mo.
 $RealJob: 3 yr 6 mo.
@@ -1859,11 +1676,9 @@ Salary: $125,000
 Relocation/Signing Bonus: N/A
 Stock and/or recurring bonuses: Standard SDE package (5/15/40/40 stock over 4 years), $45k cash over the first 2 years
 Total comp: Roughly $150k
-
 ```
 
 ```
-
 Education: B.S. Computer Science, Michigan State University
 Prior Experience: Summer SDE Internship at Amazon
 Company: Amazon
@@ -1877,11 +1692,9 @@ Relocation:  $10k
 Stock/Bonuses: $65k RSUs over 4 years (back-loaded, 20% vests over first 2 years)
 Total Comp: ~$130k/year + $10k relocation
 
-
 ```
 
-```
-This is the standard Amazon (first time/non-return) intern offer in the US for anyone ctrl-f'ing  
+```This is the standard Amazon (first time/non-return) intern offer in the US for anyone ctrl-f'ing  
 School/Year: Junior @ state school satellite campus
 Prior Experience: One software development internship at a large non Big N
 Company/Industry: Amazon
@@ -1891,11 +1704,9 @@ Duration: 12 weeks
 Salary: $7725/month
 Relocation/Housing Stipend: $2500/month housing stipend, upped to $3500/month for interns in the Bay Area and NYC (And also decreased to $1500/month for interns in Phoenix)  OR you can choose to have $500/month deducted from your paycheck and live in corporate housing.
 
-
 ```
 
 ```
-
 School/Year: State school in SC (top 4 in football tho), Junior
 Prior Experience: 1 on campus, 1 at financial firm in Charlotte
 Company/Industry: Amazon
@@ -1905,11 +1716,9 @@ Duration: 12 weeks
 Salary: $7725/month
 Relocation/Housing Stipend: $2500/mo stipend or corp housing (lose $500/mo from salary)
 
-
 ```
 
 ```
-
 School/Year: Somewhere in top 50 CS school (lol)
 Prior Experience: 2 research, 1 internship at med-size company
 Company/Industry: Facebook
@@ -1961,11 +1770,9 @@ Duration: 10 weeks I think it was?
 Salary: ~$45 per hr 
 Relocation/Housing Stipend: corp housing or $5000 I think it was
 
-
 ```
 
 ```
-
 School/Year: Somewhere in top 50 CS school (lol)
 Prior Experience: 2 research, 1 internship at med-size company
 Company/Industry: Facebook
@@ -2017,11 +1824,9 @@ Duration: 10 weeks I think it was?
 Salary: ~$45 per hr 
 Relocation/Housing Stipend: corp housing or $5000 I think it was
 
-
 ```
 
 ```
-
 School/Year: Somewhere in top 50 CS school (lol)
 Prior Experience: 2 research, 1 internship at med-size company
 Company/Industry: Facebook
@@ -2073,11 +1878,9 @@ Duration: 10 weeks I think it was?
 Salary: ~$45 per hr 
 Relocation/Housing Stipend: corp housing or $5000 I think it was
 
-
 ```
 
 ```
-
 School/Year: Somewhere in top 50 CS school (lol)
 Prior Experience: 2 research, 1 internship at med-size company
 Company/Industry: Facebook
@@ -2129,11 +1932,9 @@ Duration: 10 weeks I think it was?
 Salary: ~$45 per hr 
 Relocation/Housing Stipend: corp housing or $5000 I think it was
 
-
 ```
 
 ```
-
 School/Year: Somewhere in top 50 CS school (lol)
 Prior Experience: 2 research, 1 internship at med-size company
 Company/Industry: Facebook
@@ -2185,11 +1986,9 @@ Duration: 10 weeks I think it was?
 Salary: ~$45 per hr 
 Relocation/Housing Stipend: corp housing or $5000 I think it was
 
-
 ```
 
 ```
-
 School/Year: Somewhere in top 50 CS school (lol)
 Prior Experience: 2 research, 1 internship at med-size company
 Company/Industry: Facebook
@@ -2241,11 +2040,9 @@ Duration: 10 weeks I think it was?
 Salary: ~$45 per hr 
 Relocation/Housing Stipend: corp housing or $5000 I think it was
 
-
 ```
 
 ```
-
 School/Year: Somewhere in top 50 CS school (lol)
 Prior Experience: 2 research, 1 internship at med-size company
 Company/Industry: Facebook
@@ -2297,11 +2094,9 @@ Duration: 10 weeks I think it was?
 Salary: ~$45 per hr 
 Relocation/Housing Stipend: corp housing or $5000 I think it was
 
-
 ```
 
-```
-School/Year: University of Maryland College Park, Sophomore
+```School/Year: University of Maryland College Park, Sophomore
 Prior Experience: 1x PM internship, 2x SWE internship  
 Company/Industry: Google
 Title: Software Engineering Intern
@@ -2333,11 +2128,9 @@ Location: San Jose, CA
 Duration: 12 weeks
 Salary: 43/hr
 Relocation/Housing Stipend: 6000 one time
-
 ```
 
-```
-Accepted:
+```Accepted:
 School/Year: Decent Uni in Canada, Junior
 Prior Experience: Internships at local company and Amazon
 Company/Industry: Amazon (returning)
@@ -2354,11 +2147,9 @@ Duration: 12 weeks
 Salary: 7800 USD/month
 Relocation/Housing Stipend: Housing provided
 
-
 ```
 
-```
-Accepted:
+```Accepted:
 School/Year: Decent Uni in Canada, Junior
 Prior Experience: Internships at local company and Amazon
 Company/Industry: Hedge Fund
@@ -2368,11 +2159,9 @@ Duration: 4 months
 Salary: 70 USD/hr
 Relocation/Housing Stipend: Provided
 
-
 ```
 
-```
-School/Year: No Name State School / Post-bacc Sophomore
+```School/Year: No Name State School / Post-bacc Sophomore
 Prior Experience: Cofounded Startup / Research Assistant
 Company/Industry: Amazon
 Title: SDE Intern
@@ -2380,11 +2169,9 @@ Location: Boston
 Duration: 12 weeks
 Salary: $7,725
 Relocation/Housing Stipend: -300/-500 for corporate, $2500/month for stipend. 
-
 ```
 
-```
-School/Year: Top 50 school, decent CS program but not super prestigious 
+```School/Year: Top 50 school, decent CS program but not super prestigious 
 Prior Experience: 2 internships, 1 small start-up 1 medium-small. Non-negligible open source work
 Company: HubSpot
 Title: Software Engineering Co-op
@@ -2398,11 +2185,9 @@ Duration: 12 weeks
 Salary: $7750/month
 Location: TBD
 Relocation/Housing: Relocation covered, $2500-3500/month housing stipend, depending on location
-
 ```
 
-```
-Offers to date:
+```Offers to date:
 School/Year: Top CS State School / Sophomore
 Prior Experience: 2 previous average internships
 Company/Industry: Amazon (Accepted for Fall '18)
@@ -2424,11 +2209,9 @@ Duration: 12 weeks
 Salary: $43/hour + OT at $65/hour, 10 hours per week of OT without manager approval allowed
 Relocation/Housing Stipend: 1000/month stipend + $300 Uber/UberEats credit per month 
 
-
 ```
 
-```
-School/Year: State School/Sophomore
+```School/Year: State School/Sophomore
 Prior Experience: Not much
 Company/Industry: Amazon
 Title: Software Development Engineer Intern
@@ -2448,11 +2231,9 @@ Location: Beaverton OR
 Duration: 12 weeks
 Salary: $23/hr
 Relocation/Housing Stipend: $4500 1 time 
-
 ```
 
-```
-School/Year: Junior, top state school
+```School/Year: Junior, top state school
 Prior Experience: Amazon and prop trading firm
 Company 1 (Accepted): 
 Company/Industry: A different prop trading firm 
@@ -2476,16 +2257,12 @@ Duration: 12 weeks
 Salary: $7925 (or $8675 for premium location) a month
 Relocation/Housing Stipend: Corporate housing or stipend, relocation covered
 
-
 ```
 
-```
-Since you mentioned a return offer: Do you know which locations Amazon considers "premium" in the salary/housing? My recruiter hasn't responded
-
+```Since you mentioned a return offer: Do you know which locations Amazon considers "premium" in the salary/housing? My recruiter hasn't responded
 ```
 
-```
-Should accept offer today - 
+```Should accept offer today - 
 School/Year: UMD / senior (graduating in 5 years)
 Prior Experience: 1 defense contractor internship
 Company/Industry: Microsoft (Azure)
@@ -2499,11 +2276,9 @@ Amazon (7725 / month)
 PayPal (31 / hour)
 Fannie Mae (20 / hour)
 Google host matching (ugh)
-
 ```
 
 ```
-
 School/Year: Little Ivy / Junior
 Prior Experience: One Fortune 500 internship, contracted to do mobile dev work for a non-profit, teaching assistant at college
  
@@ -2528,11 +2303,9 @@ Duration: 10 weeks
 Salary: $4,100 biweekly
 Relocation/Housing: $6,000 one-time housing stipend
 
-
 ```
 
-```
-School/Year: football school/junior
+```School/Year: football school/junior
 Prior Experience: Big 4, Bank
 Company 1 (Accepted)
 Company/Industry: Google
@@ -2549,11 +2322,9 @@ Duration: 12 weeks
 Salary: $8,100/month ($8,1xx/mo)
 Relocation/Housing Stipend: Corporate housing (-$500/mo) or $2,500/mo + flights
 EDIT: Amazon offer is for returning+MS intern. That's Google's 2018 intern salary too.
-
 ```
 
 ```
-
  School/Year: Top State School, Junior
  Prior Experience: Two internships, one at Amazon
 [Accepted]  Company/Industry: Amazon
@@ -2569,11 +2340,9 @@ Company/Industry: Microsoft
  Salary: $7250/mo
  Relocation/Housing Stipend: $4000 one-time lump sum
 
-
 ```
 
 ```
-
  School/Year: Top State School, Junior
  Prior Experience: Two internships, one at Amazon
  Company/Industry: Amazon
@@ -2583,11 +2352,9 @@ Company/Industry: Microsoft
  Salary: $8000/mo
  Relocation/Housing Stipend: $2500/mo
 
-
 ```
 
 ```
-
 School/Year: Top 3 CS school in Canada, 3rd year
 Prior Experience: None
 Company/Industry: Amazon
@@ -2597,11 +2364,9 @@ Duration: 12 weeks
 Salary: 6975 CAD
 Relocation/Housing Stipend: 2500 USD or Corporate housing (-500 USD)
 
-
 ```
 
-```
-Since last time this was posted, Uber did a salary-equalizing thing which translated to a 5% raise for me after only a couple months of starting there, so that was nice.
+```Since last time this was posted, Uber did a salary-equalizing thing which translated to a 5% raise for me after only a couple months of starting there, so that was nice.
 Education: BS, Computer Science, state school
 Prior Experience:
 
@@ -2616,11 +2381,9 @@ Relocation/Signing Bonus: none :(
 Stock and/or recurring bonuses: $250k in pre-IPO RSU's over 4 years + "target" bonus of $40k per year (20% cash/80% RSU)
 Total comp: hard to say with non-liquid RSU's and high variance bonuses, but my recruiter pegged it at $195k for the first year. Guess we'll see.
 
-
 ```
 
-```
-Since last time this was posted, Uber did a salary-equalizing thing which translated to a 5% raise for me after only a couple months of starting there, so that was nice.
+```Since last time this was posted, Uber did a salary-equalizing thing which translated to a 5% raise for me after only a couple months of starting there, so that was nice.
 Education: BS, Computer Science, state school
 Prior Experience:
 
@@ -2635,11 +2398,9 @@ Relocation/Signing Bonus: none :(
 Stock and/or recurring bonuses: $250k in pre-IPO RSU's over 4 years + "target" bonus of $40k per year (20% cash/80% RSU)
 Total comp: hard to say with non-liquid RSU's and high variance bonuses, but my recruiter pegged it at $195k for the first year. Guess we'll see.
 
-
 ```
 
 ```
-
 Education: Top 5
 Prior Experience: hired out of college
 Company/Industry: Amazon
@@ -2651,11 +2412,9 @@ Relocation/Signing Bonus: n/a
 Stock and/or recurring bonuses: 110k
 Total comp: 245k
 
-
 ```
 
-```
-Education: BA, MS
+```Education: BA, MS
 Company: Amazon
 Title: Software Development Engineer
 Tenure length: 4+ years
@@ -2665,11 +2424,9 @@ Relocation: Available for new hires
 Stock: right now, ~150 RSU vesting between today and end of 2019. I expect a refresh to put this at about 80-100 units a year.
 Total comp: ~£140k depending on stock
 Cambridge is probably one of the nicest places to live in the world.
-
 ```
 
 ```
-
 Education: Target school
 Prior Experience: multiple internships. 
 Company/Industry: Amazon
@@ -2681,11 +2438,9 @@ Relocation/Signing Bonus: 35.5k Year 1, 30.5k Year 2
 Stock and/or recurring bonuses: 65k over 4 years, backloaded 5%, 15%, 40%, 40%
 Total comp: ~ 145k for first 2 years
 
-
 ```
 
 ```
-
 Education: Big 10 public university
 Prior Experience: 1 internship
 Company/Industry: Amazon
@@ -2697,11 +2452,9 @@ Relocation/Signing Bonus: 35.5k Year 1, 30.5k Year 2
 Stock and/or recurring bonuses: 65k over 4 years, backloaded 5%, 15%, 20%, 20%
 Total comp: $145,000
 
-
 ```
 
-```
-• School/Year: UMD College Park
+```• School/Year: UMD College Park
 • Prior Experience: Personal projects
 • Company/Industry: Higher Logic
 • Title: Development Intern
@@ -2709,11 +2462,9 @@ Total comp: $145,000
 • Duration: 10 weeks
 • Salary: $25/hour
 • Relocation/Housing Stipend: None
-
 ```
 
 ```
-
 Education: Bachelors, foreign
 Prior Experience: 3 years
 Company/Industry: facebook
@@ -2725,11 +2476,9 @@ Stock and/or recurring bonuses: ~750k
 Total comp: ~1.05 M
 ​
 edit: fixed years of experience (prior not total)
-
 ```
 
-```
-Education: BCS @ UWaterloo
+```Education: BCS @ UWaterloo
 Prior Experience:
 - Intern at Facebook
 - Intern at 3 other places in the bay area
@@ -2741,22 +2490,18 @@ Salary: 110k
 Relocation/Signing Bonus: 10k + 100k
 Stock and recurring bonuses: 220k over 4 years, 10% target bonus per year, 30-50k stock refreshers per year
 Total comp: 275k first year, 165k after. Excludes yearly bonus, refreshers, and promotions.
-
 ```
 
-```
-School/Year: Senior at Top 15/20 school, graduating Fall 2019
+```School/Year: Senior at Top 15/20 school, graduating Fall 2019
 Prior Experience: Internship at very small company
 Company/Industry: Facebook
 Title: Solutions Engineering Intern
 Location: Austin, TX
 Salary: $6100/mo
 Relocation/Housing Stipend: Free corporate housing
-
 ```
 
-```
-1.5 years update
+```1.5 years update
 Education: UC San Diego
 Prior Experience: internships not at Facebook
 Company/Industry: Facebook
@@ -2766,11 +2511,9 @@ Location: Menlo Park
 Salary: 112k, soon to be 148k
 Stock and/or recurring bonuses: 40k stock and 10% of salary bonus (11k), soon to be 55k and 15k
 Total comp: 163k, soon to be 218k
-
 ```
 
 ```
-
 Education: Top-1 CS Institvte
 Prior Experience: Unicorn, HFT
 Years of Experience: 7
@@ -2783,11 +2526,9 @@ Relocation/Signing Bonus: N/A
 Stock and/or recurring bonuses: In 2019, I will vest $565k in RSUs; 20% annual bonus; significant one-time performance, spot, and discretionary bonuses so far in 2019
 Total comp: $887k
 
-
 ```
 
-```
-All for new grad SWE.
+```All for new grad SWE.
 School: BS CS @ top 25 CS school
 Prior experience: 1 startup, 1 Facebook (internships)
 Google
@@ -2809,11 +2550,9 @@ Stock and/or recurring bonuses: 165k/4
 Total comp: 237k year 1; 162k after
 Picked Google! Excited for it, it's in a product area I use and am quite excited about. Doing the finance route in NY would have been interesting, but as an international student with visa struggles I decided to play it a bit more conservatively at the start, and get a good network going before risking the hire/fire culture of big-risk, big-reward firms which would tend to put visa holders in more jeopardy. It's a field I'd love to at least experience some day.
 Started with a FB return offer from the summer, and only interviewed at places which I thought I might take over it. These were Google, some financial firms (other than the one above, about 50% rejected/50% I ended process early after accepting Google), and a couple of unicorns (1 rejected, 1 I ended process early after accepting Google.)
-
 ```
 
 ```
-
 Education: BS in CS and Physics, university not special
 Prior Experience:
 
@@ -2827,11 +2566,9 @@ Relocation/Signing Bonus: 10k relocation, 25k signing
 Stock and/or recurring bonuses: 150k over 4 years
 Total comp: ~160k
 
-
 ```
 
 ```
-
 School/Year: Sophomore, Top 10 CS school
 Prior Experience: A few graphic design internships
 ​
@@ -2842,11 +2579,9 @@ Duration: 12 weeks
 Salary: $8000/month
 Relocation/Housing Stipend: Corporate housing (or stipend), paid relocation (+$300 for shipping things)
 
-
 ```
 
 ```
-
 School/Year: Junior at Top 15/20 school
 Prior Experience: Not great Internship after Freshman Year in home country, decent internship after Sophomore Year at a small-medium company
  
@@ -2871,21 +2606,17 @@ Duration: 12 weeks
 Salary: $8000/month
 Relocation/Housing Stipend: Corporate Housing or variable stipend 
 
-
 ```
 
-```
-School: Top 500 CS (lol)
+```School: Top 500 CS (lol)
 Company: Facebook
 Title: SWE Intern
 Location: London
 Salary: 4200£ + 1000£ or corporate housing
 It's standart as far as I know.
-
 ```
 
 ```
-
 Education: BS CS from state school (not super high ranked)  
 Prior Experience: first job  
 Company/Industry: Facebook  
@@ -2896,11 +2627,9 @@ Salary: ~$250k
 Stock and/or recurring bonuses: ~$400k stock (at grant time, so excluding growth), ~$80k bonus last year  
 Total comp: ~$730k (W2 is higher because of growth in stock price but I don't count that as "comp" since it's variable)
 ​
-
 ```
 
-```
-• Education: BS in CS from a top 20 university for CS 
+```• Education: BS in CS from a top 20 university for CS 
 • Prior Experience: 4 internships including 2 Big 4's 
 • Company/Industry: Facebook 
 • Title: Software Engineer 
@@ -2910,11 +2639,9 @@ Total comp: ~$730k (W2 is higher because of growth in stock price but I don't co
 • Relocation/Signing Bonus: 75k signing bonus + 10k relocation bonus + 15k in bonuses 
 • Stock and/or recurring bonuses: 10% target bonus. 160k initial grant + 10k refresher in stock over 4 years 
 • Total comp: 250k for the past year, slightly over 200k for next year
-
 ```
 
 ```
-
 Education: MS in CS
 Prior Experience: 13 years
 Company: Google
@@ -2927,11 +2654,9 @@ Bonus target: 15% ( = $25,500)
 Stock: $100K/year (4 year grant, monthly vesting)
 Total comp: $295.5K
 I also had an offer from Facebook that was nearly identical; the only difference was that it lacked a signing bonus. I picked Google for two reasons: first, the commute is significantly easier for me; second, I got to pick a team to work on before signing the offer. Facebook does this boot camp thing where you spend your first few weeks finding a team to join. I'm sure it works out well for lots of people, but the risk of getting stuck on something boring was too much for me.
-
 ```
 
-```
-Education: BS in NanoEngineering
+```Education: BS in NanoEngineering
 Prior Experience: 3.5 years
 Company/Industry: Facebook
 Title: Software Engineer/E4
@@ -2941,11 +2666,9 @@ Salary: 160k
 Relocation/Signing Bonus: 100k signing bonus, 10K extra relocation for moving within 10mi
 Stock and/or recurring bonuses: 10% target bonus, 300k in stock
 Total comp: 351k first year, 251k recurring
-
 ```
 
 ```
-
 School/Year: Junior, no-name state school in the southern US.
 Prior Experience: 2 prior internships.
 Facebook
@@ -2979,11 +2702,9 @@ Duration: 14 weeks
 Salary: $6400/month
 Relocation/Housing Stipend: Corporate Intern Housing or $1600/month housing stipend.
 
-
 ```
 
-```
-School/Year: Rutgers, Sophomore
+```School/Year: Rutgers, Sophomore
 Prior Experience: None SWE-specific, lots of competitive programming
 Company/Industry: Facebook
 Title: Software Engineering Intern
@@ -2991,11 +2712,9 @@ Location: Menlo Park
 Duration: 12 weeks
 Salary: $8000 per month
 Relocation/Housing Stipend: Corporate housing :)
-
 ```
 
-```
-Education: None/self-taught
+```Education: None/self-taught
 Prior Experience: 2 years of web development
 Company/Industry: Facebook
 Title: Front End Engineer
@@ -3005,11 +2724,9 @@ Salary: 140k
 Relocation/Signing Bonus: N/A
 Stock and/or recurring bonuses: 7k+ bonus twice a year, 210k in RSUs vesting over 4 years
 Total comp: ~206k
-
 ```
 
-```
-Education: BS in Computer Engineering at no-name university outside the US
+```Education: BS in Computer Engineering at no-name university outside the US
 Prior Experience: 1 year and 3 months at a unicorn outside the US
 Company/Industry: Facebook
 Title: Enterprise Engineer
@@ -3024,11 +2741,9 @@ Facebook rejected me at first saying that while I did excellent on the coding in
 That made me a solid E3-level hire but not quite E4 material. They were looking for E4s and had no room for E3s so they rejected me.
 Later they reached out and said that another team in enterprise engineering was interested in me. I got the offer, negotiated a bit and accepted it.
 From what I understand the difference in compensation between enterprise engineers and other software engineers is that enterprise engineers get less RSUs. Moving from EE to SE also requires 1 year tenure and another interview loop.
-
 ```
 
-```
-School/Year: Going into last year of college
+```School/Year: Going into last year of college
 Prior Experience: 4 internships at smaller startups and a couple contracts.
 Company/Industry: Facebook
 Title: SWE Intern
@@ -3036,11 +2751,9 @@ Location:  Menlo Park
 Duration: 12 weeks
 Salary: $8000 per month
 Relocation/Housing Stipend: Provided housing (with additional perks of working at a large tech company in the Bay Area)
-
 ```
 
 ```
-
 Education: Top 20 CS University in the US
 Prior Experience: SWE Internships at Google, Quora, Facebook (+ a cloud backup company no one has heard of)
 Facebook (Accepted)
@@ -3058,11 +2771,9 @@ Relocation/Signing Bonus: $25k signing
 Stock: $175k/4 years (Options, after strike price)
 Total comp: $194k year one + $170k/year after or ~$176k/year amortized over 4 years
 
-
 ```
 
-```
-Education: BS CS from target school
+```Education: BS CS from target school
 Prior Experience: multiple internships
 Company/Industry: Facebook
 Title: Software Engineer
@@ -3079,11 +2790,9 @@ Relocation/Signing Bonus: $10k / $50k
 Stock and/or recurring bonuses: $275k / 4 years
 Total comp: $253k first year, ~$194k after
 
-
 ```
 
-```
-School/Year: Ivy League, Junior
+```School/Year: Ivy League, Junior
 Prior Experience: Facebook (returning intern)
 Company/Industry: Facebook
 Title: Software Engineer Intern
@@ -3093,11 +2802,9 @@ Salary: 8000/month
 Relocation/Housing Stipend: Corporate Housing or 1k/month stipend
 ​
 Nothing surprising, but just a general heads up that FB's intern offer isn't changing for 2019
-
 ```
 
 ```
-
 Education: dropout unranked state school
 Prior Experience: SWE intern @ FB
 Company/Industry: Facebook
@@ -3108,11 +2815,9 @@ Relocation/Signing Bonus: $10k/$75k
 Stock and/or recurring bonuses: $150k over 4 years. 10% bonus. 
 Total Comp: $232k first year. $144k after that.
 
-
 ```
 
-```
-Company 1 (Accepted)
+```Company 1 (Accepted)
 School/Year: Top 10 CS School/Sophomore
 Prior Experience: SWE Intern at a company out of the Big N
 Company/Industry: Microsoft
@@ -3131,11 +2836,9 @@ Duration: 12 weeks
 Salary: 8000$/month
 Relocation/Housing Stipend: Corporate housing or 1000$/month
 
-
 ```
 
 ```
-
 School/Year: MSc CS, 1 year before graduation, German technical university, Top4 in the country
 Prior Experience: 1 year at CERN as technical student (something in between an intern and a first job, fulltime)
 Company/Industry: Facebook
@@ -3145,11 +2848,9 @@ Duration: 12 weeks
 Salary: £4,400/month (pre-taxes)
 Relocation/Housing Stipend: £700 housing stipend or corporate housing (everyone chooses corp.), relocation with a company, all expenses (flight, transport, etc) paid, nothing else
 
-
 ```
 
 ```
-
 Education: Cornell
 Prior Experience:
 
@@ -3163,11 +2864,9 @@ Relocation/Signing Bonus: $75k (new grad, returning internship)
 Stock and/or recurring bonuses: ~$400k unvested stock, ~$30k bonus
 Total comp: ~$330k
 
-
 ```
 
-```
-Education: Self taught
+```Education: Self taught
 Prior Experience: None
 Company: Facebook
 Title: Software Engineer
@@ -3198,11 +2897,9 @@ Relocation/Signing Bonus: 15k
 Stock: 105k over 4 years
 Total comp: 146k
 I got one interview at Google and then it snowballed into a bunch of other offers. Excited to say I took Lyft!
-
 ```
 
-```
-Education: BS CS from unknown school
+```Education: BS CS from unknown school
 Prior Experience: Big 4 internships
 Company/Industry: Facebook
 Title: Software Engineer
@@ -3226,11 +2923,9 @@ Relocation/Signing Bonus: 25k signing + 5k relocation
 Stock and/or recurring bonuses: 120k over 4 years, 10% target bonus
 Total comp: 180k first year, 154k after
 
-
 ```
 
-```
-Education: B.S. in Computer Science, target school
+```Education: B.S. in Computer Science, target school
 Part-time/Internship: Small branch of an overseas software company
 Internship: Facebook
 Company/Industry: Facebook
@@ -3252,11 +2947,9 @@ Total comp: 260K first yr, 207K
 Interview Date: Fall 2017
 Start Date: Set own date (Summer 2018)
 Negotiated both offers, both increased signing bonuses (75K -> 100K, 0 -> 25K -> 50K)
-
 ```
 
 ```
-
 Education: BSc, shitty university from the third-world country named Kyrgyzstan, low GPA
 Prior Experience: 1 year
 Company/Industry: Facebook
@@ -3267,11 +2960,9 @@ Relocation/Signing Bonus: 10,000 GBP signup + 10,000 GBP relocation
 Stock and/or recurring bonuses: 10% target bonus, 80,000 USD RSUs (4 years, 1 year cliff)
 Total comp: 95,000 GBP (first year) + relocation + target
 
-
 ```
 
-```
-* Education: BSc, Top 10 Uni world-wide, high GPA
+```* Education: BSc, Top 10 Uni world-wide, high GPA
 * Prior Experience: Big IB internship, Big N internship
 * Company/Industry: Facebook
 * Title: Software Engineer
@@ -3281,11 +2972,9 @@ Total comp: 95,000 GBP (first year) + relocation + target
 * Stock and/or recurring bonuses: 10% target bonus, 175,000 USD RSUs (over 4 years, 1 year cliff)
 * Total comp: 117,000 GBP (first year) + relocation + target
 
-
 ```
 
 ```
-
 School/Year: Top 10 EE School
 Company/Industry: Riot Games
 Title: SWE Intern
@@ -3294,11 +2983,9 @@ Duration: 12 Weeks
 Salary: $9000/month
 Relocation/Housing Stipend: Company housing, free meals, etc. 
 
-
 ```
 
 ```
-
 Education: BS CS at UCLA
 Prior Experience: 1 semester internship at a WordPress web dev shop. 1 summer internship at DirecTV. 1 yr at mid sized marketing company. 2 years at MVNO start up. 1.5 years at Sony Interactive.
 Company/Industry: Sony Interactive Entertainment
@@ -3310,11 +2997,9 @@ Relocation/Signing Bonus: None
 Stock and/or recurring bonuses: 10%+ annual bonus
 Total comp: 140k plus good benefits
 
-
 ```
 
 ```
-
 School/Year: University of Waterloo (4th year CS)
 Prior Experience: 2 startups, Bay Area tech
 
@@ -3339,11 +3024,9 @@ Duration: 15 weeks
 Salary: $44.15/hr or $7.7k/month
 Relocation/Housing Stipend: $1000/month
 ​
-
 ```
 
 ```
-
 School/Year: University of Waterloo (4th year CS)
 Prior Experience: 2 startups, Bay Area tech
 
@@ -3368,11 +3051,9 @@ Duration: 15 weeks
 Salary: $44.15/hr or $7.7k/month
 Relocation/Housing Stipend: $1000/month
 ​
-
 ```
 
 ```
-
 School/Year: Rising Senior, target Canadian School
 Prior Experience: 5 coops, 2 times in Canada, 1 time in Boston, 2 times in the bay area
 Company 1
@@ -3397,11 +3078,9 @@ Duration: 16 weeks
 Salary: 45/hr
 Relocation/Housing Stipend: none
 
-
 ```
 
 ```
-
 Education: Bachelors in Computer Science, state uni, a GPA I don't put on resumes.
 Prior Experience: 19 years
 
@@ -3420,11 +3099,9 @@ Total comp: ~600k
 levels.fyi is generally pretty accurate, much better then glassdoor.
 ​
 Career progression is inconsistent with bursts followed by slack - I kept expecting to cap out, but there was always something more to do. Kept doing it. Gonna keep doing it, and buy a nicer car.
-
 ```
 
 ```
-
 School/Year: Top public school, Junior
 Prior Experience: Low-key unicorn
 Company/Industry: Slack
@@ -3434,11 +3111,9 @@ Duration: 12 weeks
 Salary: 50/hr (~8.5k/mo)
 Relocation/Housing Stipend: 2k/mo + flights/commute
 
-
 ```
 
 ```
-
 School/Year: East coast public university, Junior
 Prior Experience: 1 internship at fortune 500 company
 Company/Industry: Slack
@@ -3448,11 +3123,9 @@ Duration: 12 weeks
 Salary: $50/hr
 Relocation/Housing Stipend: $2000/ month
 
-
 ```
 
 ```
-
 School/Year: Sophomore @ Puerto Rico
 Prior Experience: MITRE (federal contractor), by then MIT Lincoln Labs and Rockwell Collins (now Collins Aerospace)
 Company/Industry: Leidos
@@ -3462,11 +3135,9 @@ Duration: 6 months
 Salary: $26/hr
 Relocation/Housing Stipend: salary was bumped up a little to help with housing costs, but besides that none.
 
-
 ```
 
-```
-School/Year: Target Canadian school
+```School/Year: Target Canadian school
 Prior Experience: 3 internships
 Company 1:
 Company/Industry: Shopify
@@ -3483,11 +3154,9 @@ Duration: 16 weeks
 Salary: $6250/month
 Relocation/Housing Stipend: N/A
 
-
 ```
 
-```
-I start in April but I'll post here now since I'm unsure that I'll remember next month. 
+```I start in April but I'll post here now since I'm unsure that I'll remember next month. 
 Education: BS Computer Science, in-state big uni 
 Prior Experience: Internship @ company the previous summer, Internship for schools networking research group the summer before that 
 Company/Industry: Intel
@@ -3498,11 +3167,9 @@ Relocation/Signing Bonus: 7k Hiring Bonus negotiated, no relocation
 recurring bonuses: ~7k a year
 Total comp: 100k first year, ~93k from then on.
 
-
 ```
 
 ```
-
 School/Year: Community College, Freshman
 Prior Experience: Web Development
 Internship 1
@@ -3518,11 +3185,9 @@ Location: Folsom
 Duration: 8 months
 Salary: 31/hour
 Currently working in the first position. Begin the 2nd in February.
-
 ```
 
-```
-Education: BS in CS
+```Education: BS in CS
 Prior Experience: 25+ years
 Company/Industry: AWS
 Title: Principal (L7)
@@ -3533,11 +3198,9 @@ Relocation/Signing Bonus: N/A
 Stock and/or recurring bonuses: $1.5M
 Total comp:$1.7M
 Initial offer in 2015 was $500K TC when the stock price was 370ish. My comp will drop down to somewhere around there when the initial 4 year RSUs run out.
-
 ```
 
-```
-Education: none/college drop out/self taught
+```Education: none/college drop out/self taught
 Prior Experience: ~6 years working in various other SE jobs
 Company: Fortune 100 non software
 Title: Lead Engineer
@@ -3547,11 +3210,9 @@ Salary: 143k
 Signing Bonus: 5k
 Recurring bonuses: supposedly ~10% we'll see next year
 Pretty sure I'm maxxed out here as a IC.  Frankly took the job because I didn't think they could match the number I threw at them.  They did.
-
 ```
 
-```
-Education: BSc physics from no-name university. Grad school drop out. 
+```Education: BSc physics from no-name university. Grad school drop out. 
 Prior Experience: 1 year as a computer vision engineer on a DARPA project.
 Company/Industry: Unicorn.
 Title: SWE
@@ -3561,11 +3222,9 @@ Salary: $126k base.
 Relocation/Signing Bonus: $10k relocation
 Stock and/or recurring bonuses: 15% bonus. 6% 401k match. $1.2k HSA contribution. Free family health insurance. 
 Total comp: Bit over $150k without options. With options, anywhere between a bit over $150k and ???.
-
 ```
 
-```
-School/Year: Georgia State University
+```School/Year: Georgia State University
 Prior Experience: IT Internship
 Company: "Eat more chicken" company
 Title: Software Development Intern
@@ -3573,11 +3232,9 @@ Location: Atlanta, GA
 Duration: 10 weeks
 Salary: $20/hour
 Relocation/Housing Stipend: $1,500/mo, but I live too close to qualify
-
 ```
 
 ```
-
 Education: MS in CS from a state school
 Prior Experience: 3 internships with Midwestern tech companies, 3 school internships
 Company/Industry: Big Data
@@ -3589,11 +3246,9 @@ Relocation/Signing Bonus: $10,000
 Stock and/or recurring bonuses: 500 RSUs, performance bonus 10% of salary
 Total comp: 194k / 4 years
 I did not go to a highly prestigious school, but employers don't care about that if you have experience. Internships get you the practical knowledge that schools don't cover, so try to grab as many as you can.
-
 ```
 
 ```
-
 Education: CS dropout from a community college
 Prior Experience:
 6 Month internship at a valve and gate manufacturing company.
@@ -3608,22 +3263,18 @@ Relocation/Signing Bonus: 7k
 Stock and/or recurring bonuses: 10k stock, 12k bonus
 Total comp: 149k, I feel like I'm massively underpaid for 4 years industry experience.
 
-
 ```
 
-```
-School/Year: Incoming 4th year, Virginia Tech
+```School/Year: Incoming 4th year, Virginia Tech
 Prior Experience: None programming, 1 year IT
 Company/Industry: Parsons/Defense Contracting
 Title: Junior Computer Engineer Intern
 Location: Northern Virginia
 Duration: 3 months
 Salary: $28/hour
-
 ```
 
 ```
-
 Education: BIG TEN school
 Prior Experience: 2 internships and a couple of part time developer jobs
 Company/Industry: GE Healthcare
@@ -3634,11 +3285,9 @@ Relocation/Signing Bonus: 4k
 Stock and/or recurring bonuses: I have no idea, didn't look closely
 Total comp: 85k
 
-
 ```
 
-```
-I'll chime in here. I took a contract role which gives me a bit higher salary but less benefits, but this was the offer.
+```I'll chime in here. I took a contract role which gives me a bit higher salary but less benefits, but this was the offer.
 School: Local State School
 PlayStation (accepted):
 Location: San Diego
@@ -3647,11 +3296,9 @@ Signing bonus: $10k (for FTE)
 Relocation: None (Live in city
 Total comp: 100k
 
-
 ```
 
-```
-I will  be joining a company soon and will meet the following conditions.
+```I will  be joining a company soon and will meet the following conditions.
  Education: MSc in Software Engineering
 Prior Experience:
 
@@ -3665,11 +3312,9 @@ Salary: 37800 (gross)
 Relocation/Signing Bonus: 0
 Stock and/or recurring bonuses: 5.30/day * 22 days (net, meal allowance) + 500 euros for a cellphone + 1000€/year for whatever I want + performance bonus (i will be joinning the company , so I dont know how much will be) + pluralsight license
 
-
 ```
 
-```
-I have a <2.2GPA so there's hope for fuckups out there.
+```I have a <2.2GPA so there's hope for fuckups out there.
 School/Year: 4th year (out of 5), Cal Poly
 Prior Experience: None
 Company/Industry: Google
@@ -3678,11 +3323,9 @@ Location: Bay Area
 Duration: 12 weeks
 Salary: $6,920/month
 Relocation/Housing Stipend: $9000 one time
-
 ```
 
 ```
-
 School/Year: Georgia Tech / Rising 2nd year
 Prior Experience: Founded tiny SaaS startup with a friend
 Company/Industry: Google
@@ -3692,21 +3335,17 @@ Duration: 14 Weeks
 Salary: $7500/mo
 Relocation/Housing Stipend: $9000
 
-
 ```
 
-```
-School/Year: bad state school, Junior
+```School/Year: bad state school, Junior
 Prior experience: 2 internships (1 big N)
 Company: Google
 Title: SWE Intern
 Salary: $7,500/mo
 Relocation: $9k one-time (minus taxes, so more like 4.5-5k)
-
 ```
 
 ```
-
 Education: A state school in California  
 Prior Experience: Internship at a media company  
 Company/Industry: Google  
@@ -3718,11 +3357,9 @@ Relocation/Signing Bonus: 10,500 / 15,000
 Stock and/or recurring bonuses: N/A  
 Total comp: 137,500
 EDIT: 15,000 is a completion bonus after one year, not quite a signing bonus
-
 ```
 
-```
-Education: Graduated UC Santa Cruz last June with double major Math and Computer Science. 3.91 GPA. 
+```Education: Graduated UC Santa Cruz last June with double major Math and Computer Science. 3.91 GPA. 
 Prior Experience: No industry or internship experience
 Company: Google
 Title: Engineering Resident
@@ -3746,11 +3383,9 @@ Relocation: N/A
 Signing Bonus: 10k
 Stock: None
 Got into amazon, waiting to hear the offer on friday
-
 ```
 
-```
-Education: BS CS @ top 10 CS school
+```Education: BS CS @ top 10 CS school
 Prior Experience: Internships at Google + 2 other mid-tier companies
 Sumo Logic:
 Title: SWE
@@ -3781,11 +3416,9 @@ Relocation/Signing Bonus: 10k
 Stock and/or recurring bonuses: 4-6k depending on performance
 Total comp: ~105k
 Unfortunately didn't get an offer from Google, but I'll be returning as an intern this summer, and we'll see if I can return full time after.
-
 ```
 
-```
-This was from back in December but the thread got deleted so reposting it here incase anyone finds it helpful:
+```This was from back in December but the thread got deleted so reposting it here incase anyone finds it helpful:
 Education: BS Computer Science (Top 5? Canadian School)
 Prior Experience: 0
 Internship: 4 Internships - 2 Small startups, 1 Amazon, 1 Google
@@ -3820,11 +3453,9 @@ Total comp: Year 1: 164,456, Year 2: 159,956, Year 3: 170,456, Year 4: 180,956
 This was negotiated from 110/87/15 
 Worth noting that Uber doesn't scale offers for COL. 
 Happy to say I accepted Google! I was really impressed with Pinterest, but in the end wanted to go to LA which made it an easier choice. Let me know if you have any questions about the process! 
-
 ```
 
-```
-Throwaway account
+```Throwaway account
 Education: ChemE, CS minor from a state school
 Prior experience: 3 internships in ChemE (oil related), 1 internship at no-name software company last summer
 Company: Google
@@ -3835,11 +3466,9 @@ Relocation: 10.5k
 Signing Bonus: 15k bonus upon completion of 1 year
 Stock: none :/ until I matriculate to L3
 Total comp: 137.5k
-
 ```
 
-```
-Just hit 2 years, so here goes nothing.
+```Just hit 2 years, so here goes nothing.
 ​
 Education: Top 10 CS school
 Prior Experience: 2 internships, 1 at a no-name company, 1 at Google
@@ -3852,11 +3481,9 @@ Relocation/Signing Bonus: -- (it was a long time ago)
 Stock and/or recurring bonuses: this year my cash bonus was 28K, and I've gotten other bonuses pushing that close to 30K total. My stock refresh was 73K
 Total comp: 245K + 401k, perks, etc.
 
-
 ```
 
-```
-• Education: boot camp 
+```• Education: boot camp 
 • Prior Experience: no name startup
 • Years of experience: 3
 • Company/Industry: Google
@@ -3867,11 +3494,9 @@ Total comp: 245K + 401k, perks, etc.
 • Relocation/Signing Bonus: 20k
 • Stock and/or recurring bonuses: 85k
 • Total comp: 230k first year - 210k after 
-
 ```
 
-```
-Education: most of college degree, but no paper
+```Education: most of college degree, but no paper
 • Prior Experience: 2 years as student dev, 3 professionally at startups
 • Company/Industry: Google
 • Title: Software Engineer (L3)
@@ -3881,11 +3506,9 @@ Education: most of college degree, but no paper
 • Relocation/Signing Bonus: 25k
 • Stock and/or recurring bonuses: 135k/4 years in stock, 15% Bonus
 • Total comp: 185k first year, 160k in future years
-
 ```
 
 ```
-
 Education: BSCS from a state school in the southeast
 Prior Experience: 2 semesters of a co-op, 6 months of full-time experience before this new job
 Company/Industry: Small enterprise software company 
@@ -3897,11 +3520,9 @@ Relocation/Signing Bonus: $3k relocation
 Stock and/or recurring bonuses: 5-10% annual cash bonus, performance based, 3% 401k match 
 Total comp: $85-90k, depending on bonus 
 There's definitely a lot of room for growth in the next few years with a bigger company in Colorado, but coming from the middle of nowhere I'm just really pleased to be in an area that has a presence from companies like Google or Uber or VMWare after going to a terrible school really far from any major tech hub. Taking this new job was probably the single biggest step I'll make in my career, since I expect I'll only want to job hop within the Denver/Boulder area for the rest of my career. 
-
 ```
 
-```
-Education: BS CS
+```Education: BS CS
 Prior Experience: Google, Unicorn, Hedge Fund
 Did a lot of recruiting and negotiation. Got some very strong offers from financial firms which then other companies matched. These were the most notable offers, though received some from startups as well.
 Small HFT Firm (accepted):
@@ -3927,11 +3548,9 @@ Stock: $300k/4 years
 Recurring Bonus: 15% target bonus
 Total comp: $283k first year, then 208k after
 
-
 ```
 
-```
-School: UCSD (top 10 ish CS school), BS/MS
+```School: UCSD (top 10 ish CS school), BS/MS
 Prior Experience: 5 internships - a small startup in high school, SAP, Google, Snap Inc., Quora
 Quora (return offer, accepted):
 Location: Mountain View
@@ -3993,11 +3612,9 @@ Relocation: 10k
 Total Comp: ~180k with equity year 1, 120k + equity after (again depends on equity)
 ​
 didn't really negotiate cuz Google discounts startup equity by 25%, and also was being very strict on deadlines, and cuz I was pretty set on returning / going to a smaller company and many companies don't negotiate offers these days esp at the unicorn level
-
 ```
 
-```
-School: BS Math and CS from large state university in the Midwest
+```School: BS Math and CS from large state university in the Midwest
 Prior Experience: Internship at local research startup, Internship at large healthcare IT company
 Google (accepted):
 Location: Mountain View, CA
@@ -4009,11 +3626,9 @@ Stock: $100,000 over 4 years
 Bonus: 15% ($18,000/yr)
 Total Compensation: $188,500 year one, then $163,000
 I also had a return offer from the health care company, but as it was in Kansas City, it's not very comparable
-
 ```
 
-```
-School: Top 20 MSCS, before Top 50 BS
+```School: Top 20 MSCS, before Top 50 BS
 Prior Experience: 1 internship at unprestigious bank
 Google
 * Location: MTV
@@ -4023,11 +3638,9 @@ Google
 * Relocation: $10.5k
 * Total comp: $199.5k year 1, then $169k
 Had an offer coming from Atlassian, but they basically said they couldn't match. Also was considering an interesting local startup opportunity, but we all knew where I was going to go. Three other offers ~100k TC range that I am not listing.
-
 ```
 
 ```
-
 Education: /r/RPI, BS CSCI, 7 semesters total
 Prior Experience:
 Assorted open source work
@@ -4054,11 +3667,9 @@ Stock and/or recurring bonuses: 70k stocks (vests over 4 years), 10% target bonu
 Total Comp: 137k/yr + 32k signing/relocation
 I've been aiming for Google for a while, mostly since I'm trans and they have the best trans benefits in the industry - that'll be worth about another 10k/year or so alone.
 Didn't really negotiate with Google since I graduate in a couple weeks and don't have the time for the back-and-forth.
-
 ```
 
 ```
-
 Education:  BS CS @ Top 10 US CS University
 Prior Experience: 
 1st internship: small company, doing full stack web/mobile development
@@ -4072,11 +3683,9 @@ Stock: $90k over 4 years
 Signing: $0
 
 
-
 ```
 
 ```
-
 Education: University of California
 Prior Experience: Internship at Big 4, 2 more internships
 Company/Industry: Google
@@ -4088,11 +3697,9 @@ Relocation/Signing Bonus: No signing bonus, No relocation bonus bc i live close 
 Stock and/or recurring bonuses: 15k upon completion OR converting to FT after 6 mos.
 Total comp: 127,000
 
-
 ```
 
-```
-Education: BS in CS @ Boring State School (non-target)
+```Education: BS in CS @ Boring State School (non-target)
 Prior Experience: Internships at small/medium sized tech companies
 Google
 Title: Software Engineer  
@@ -4103,11 +3710,9 @@ Stock: $200,000 RSU over 4 years, vesting monthly, no cliff
 Recurring Bonus: 15% Target Bonus ($15,300)
 Total comp: $187,300 first year, $167,300 recurring
 
-
 ```
 
 ```
-
 Education: BA in CS @ Ivy
 Prior Experience: 1 year @ other Big 4
 Company/Industry: Google
@@ -4119,11 +3724,9 @@ Relocation/Signing Bonus: $20k
 Stock and/or recurring bonuses: $198k RSUs over 4 years, 15% target bonus
 Total comp: $183k + $20k signing bonus
 Not technically a new grad (1 YoE), but I fall under the criteria. No competing offers. Signing bonus was negotiated up from $10k, and I think I could've squeezed in another $5 - 10k, cuz the negotiation process was pretty painless.
-
 ```
 
-```
-Education: BS Software Engineering (target school I guess? Google and MS recruit there)
+```Education: BS Software Engineering (target school I guess? Google and MS recruit there)
 Prior Experience: 3 Years hardware technician at same company
 Company/Industry: Defense
 Title: Embedded Engineer 2
@@ -4133,11 +3736,9 @@ Relocation/Signing Bonus: NA
 Stock and/or recurring bonuses: NA
 Total comp: 70K
 Same company paid the bulk of my tuition, so if left I would have to repay ~30K.
-
 ```
 
 ```
-
 School/Year: Freshman, T5
 Prior Experience: 2 startups, gov internships
 ***
@@ -4155,11 +3756,9 @@ Duration: 14 weeks
 Salary:  $7000/month
 Relocation/Housing Stipend: $9000 total
 
-
 ```
 
 ```
-
 School/Year: Large, well-known private university, junior  
 Prior Experience: Lots of nonprofits, mid-sized company last summer
 ​
@@ -4178,11 +3777,9 @@ Salary: $4000/mo
 Relocation/Housing Stipend: none
 The Google offer was a huge surprise to me. Never thought I'd actually be able to score an internship (yay imposter syndrome!)
 ​
-
 ```
 
 ```
-
 School/Year: Northeastern University, Sophomore
 Prior Experience: 2 bay area internships, one start up, one 170~ person fitness company. 5 years Android dev experience.
 Company/Industry: Google (ACCEPTED)
@@ -4198,11 +3795,9 @@ Duration: 11 Weeks
 Salary: $45/hr
 Relocation/Housing Stipend: Either cooperate housing in Brooklyn or 1.5k/month.
 TBH I really wanted to go with Squarespace due to a much more personalized interview process. I connected more with them, people were friendlier, had my own say what I wanted to focus on. But Google sets me up for life and had better dates for me so I went with that.
-
 ```
 
-```
-School: Freshman at Morehouse College
+```School: Freshman at Morehouse College
 Prior Experience: Data Science research at University of Mississippi
 Company: Google
 Title: EP Intern
@@ -4210,22 +3805,18 @@ Location: Pittsburgh
 Duration: 12 weeks
 Salary: $33.65
 Relocation/Housing Stipend: around $5500 after taxes
-
 ```
 
-```
-School: Edinburgh University
+```School: Edinburgh University
 Prior Experience: Couple of internships at financial companies.
 Company: Google
 Location: Zurich, Switzerland
 Duration: 4 months
 Salary: 6933 CHF per month
 Relocation / Housing Stipend: 7200 CHF 
-
 ```
 
 ```
-
 Education: BS in Physics
 Prior Experience: 5 years
 Company/Industry: Google
@@ -4237,11 +3828,9 @@ Relocation/Signing Bonus: 30k signing bonus
 Stock and/or recurring bonuses: 15% target bonus, 260k in stock
 Total comp: 256k first year, 226k recurring
 
-
 ```
 
 ```
-
 Education: BEng, PhD
 Prior Experience: 2 Years SWE, 2 Years CTO @ startup + many years of open source contributions and side projects.
 Company/Industry: Google
@@ -4252,11 +3841,9 @@ Salary: $175k
 Stock and/or recurring bonuses: 15% target (~$26k), ~$200k GOOG vesting per year.
 Total comp: $406k this year ($340k last year, promoted to L+1 start of this year).
 
-
 ```
 
 ```
-
 Education: BS in Biomedical Engineering
 Prior Experience: 2 years in a small ad-tech company in NYC
 Company/Industry: Google
@@ -4268,11 +3855,9 @@ Relocation/Signing bonus: 10k/20k
 Stock: 15% target bonus, 160k stock vesting over 4 years
 Total comp: ~190k/year (accounting for growth in stock price)
 
-
 ```
 
 ```
-
 Education: BS EE + CS (double major)
 Prior Experience: 5yrs at a microscopic-sized company
 Company/Industry: BigN
@@ -4284,11 +3869,9 @@ Relocation/Signing Bonus: $50K
 Stock and/or recurring bonuses: $360K
 Total comp: $298K (+ $50K signing bonus)
 
-
 ```
 
 ```
-
 Education: BS in CS from top 10 public university 
 Prior Experience:
 
@@ -4301,19 +3884,15 @@ Relocation/Signing Bonus: 10k relo 15k signing
 Stock and/or recurring bonuses: 100k RSU over 4 years (25k/y). Yearly refresh. 15% target bonus 
 Total comp: ~159,000
 
-
 ```
 
 ```
-
 Google Tokyo pays around $75,000 USD starting and only about $40k per year in stock on a two or three year vest depending on internships. Their salary in Tokyo is definitely lower. Not sure about experienced.
 Still at the very top of the local market.. 
 For comparison, Google London starting salary is ~£50-55k base, ~£20k vesting stock and ~15% bonus for a TC of: ~£80k. The average grad in London makes £25-45k starting at normal to above average companies.
-
 ```
 
-```
-Education: B.S. in Computer Science at no-name private University in the midwest
+```Education: B.S. in Computer Science at no-name private University in the midwest
 Prior Experience:
 Internship during school year, sophomore through senior year: Company that does car dealership management software
 Summer internship after sophomore year: Defense Contractor
@@ -4326,11 +3905,9 @@ Signing Bonus: $10K
 Stock and/or recurring bonuses: 15% target bonus, $110K in RSUs vested over 4 years
 Total comp: ~$150K including full 401k match
 I also got an offer from the options prop trading firm for about 115K total comp, but went with the Google offer.
-
 ```
 
 ```
-
 Education: Comp Sci B.S. from average/below-avg uc
 Prior Experience: Two internships
 Company/Industry: Google
@@ -4341,11 +3918,9 @@ Relocation/Signing Bonus: 15,000
 Stock and/or recurring bonuses: 100k/4yr @ 25%
 Total comp: 172k first year, 156.4k recurring.
 
-
 ```
 
 ```
-
 Education: BA Computer Science  
 Prior Experience: A known Open Source Software Project  
 Company/Industry: Google  
@@ -4356,11 +3931,9 @@ Relocation/Signing Bonus: 0 (I'm from NYC, so if I was from outside the city I w
 Stock and/or recurring bonuses:15k  
 Total comp:123k
 
-
 ```
 
-```
-School: first-year math PhD in Amsterdam
+```School: first-year math PhD in Amsterdam
 Prior experience: big-4 internship in USA
 Company: Google
 Title: L4 SWE intern
@@ -4368,11 +3941,9 @@ Location: London
 Duration: 13 weeks
 Salary: 1000 pounds per week
 Relocation: 7200 pounds
-
 ```
 
 ```
-
 School/Year: PhD student
 Prior Experience: 0
 Company/Industry: Google
@@ -4382,11 +3953,9 @@ Duration: 14 weeks
 Salary: $2000 / week
 Relocation/Housing Stipend: $10000
 
-
 ```
 
-```
-Education: College of San Mateo
+```Education: College of San Mateo
 Prior Experience: 3 month summer job at community college IT department maintaining servers
 Company: Google
 Title: Software Engineer
@@ -4396,11 +3965,9 @@ Signing Bonus: $15,000
 Stock: $196,000 / 4 years
 Total comp: $169,000
 Just started last week. It's been quite a ride! My only other offer was from IBM so it was an easy decision to make.
-
 ```
 
-```
-Education: Dual BSE Computer Science, Mechanical Engineering.
+```Education: Dual BSE Computer Science, Mechanical Engineering.
 Prior Experience:
 2 summer research positions
 1 internship at start up
@@ -4421,11 +3988,9 @@ Relocation/Signing Bonus: 35k
 Stock and/or recurring bonuses: 120k over 3.5 years
 Total comp (guaranteed): 168k, 148k, 138k
 
-
 ```
 
-```
-Education: BA in CS from small LAC w/ shitty CS program
+```Education: BA in CS from small LAC w/ shitty CS program
 Prior Experience: 1 summer research, 1 summer MSFT, 1 summer mid-sized startup
 Company/Industry: Google
 Title: Engineering Resident
@@ -4435,11 +4000,9 @@ Salary: 96k (46.15$/hr)
 Relocation/Signing Bonus: 10.5k relo, no signing
 Stock and/or recurring bonuses: 6mo 5k bonus
 Total comp: 111.5k first yr, we'll see if I get a return offer after that
-
 ```
 
-```
-Note: ~1 year exp
+```Note: ~1 year exp
 Education: Target (top 10) school
 Prior Experience: 2 internships, 1 @ Google
 Company/Industry: Google
@@ -4450,11 +4013,9 @@ Salary: 120K
 Stock and/or recurring bonuses: 18K target bonus, higher in practice, ~50K stock annually, increasing each year
 Total comp: 190K on paper, 
 In reality my compensation this year will be closer to 250K, and likely approaching that next year as well, stock vest timing and promotions do wonders.
-
 ```
 
 ```
-
 School/Year: incoming 3rd year, Midwestern flagship state school (not known for CS)
 Prior Experience: internship at oil company, 1 year research, TAing 
 Company/Industry: Google
@@ -4464,11 +4025,9 @@ Duration: 13 weeks
 Salary: 43/hr
 Relocation/Housing Stipend: lump sum of 9000 pretax (45% initially withheld)
 edit: This is for fall 2018
-
 ```
 
-```
-School/Year: no name State school
+```School/Year: no name State school
 Prior Experience: one internship in similar position, TA, research work
 Company/Industry: Google
 Title: SRE intern
@@ -4476,11 +4035,9 @@ Location: redacted for privacy
 Duration: 12 weeks
 Salary: 90k/year or ~43/hour
 Relocation/Housing Stipend: 9k
-
 ```
 
-```
-Me:
+```Me:
 School/Year: Small public tech school in NJ, second year
 Hometown: Central NJ, mid COL suburb
 Prior experience: Local tech startup
@@ -4499,11 +4056,9 @@ Duration: 10 Weeks
 Salary: $22.50/hr
 Relocation: None, local employer
 
-
 ```
 
 ```
-
 School/Year: Drexel University, Sophomore
 Prior Experience: 1 startup, research 
 Company: Google 
@@ -4520,11 +4075,9 @@ Duration: 2.5 months
 Salary: $23.65/hr 
 Relocation: $250 for traveling stipend
 
-
 ```
 
 ```
-
 School/Year: UK polytechnic for BSc CS, currently on placement year
 Prior Experience: Halfway through 1 year software dev placement with government science research institute (salary: ~£18,000/year)
 Company/Industry: Google
@@ -4534,11 +4087,9 @@ Duration: 3 months
 Salary: 3000 euro/month
 Relocation/Housing Stipend: 5400 euro relocation, no housing
 
-
 ```
 
-```
-Education: Top 30 school  
+```Education: Top 30 school  
  
 Prior Experience: Summer research and TA in non-CS fields  
  
@@ -4556,11 +4107,9 @@ Salary: 95k
 Signing Bonus: 5k
 Stock: 50k vested over 4 years
 
-
 ```
 
-```
-Education: BS CS from top 3 CS school
+```Education: BS CS from top 3 CS school
 Prior Experience: Internships: Small startup, 2x at same Big N, trading firm
 Company/Industry: Google
 Title: Software Engineer
@@ -4569,11 +4118,9 @@ Salary: $98,500
 Relocation/Signing Bonus: $100,000 signing, $11,000 relocation
 Stock and/or recurring bonuses: $195,000/4 years, no vesting cliff. 15% target bonus
 Total comp: $273,000 first year, $162,000 per year after
-
 ```
 
 ```
-
 Education: Ivy
 Company/Industry: Google
 Title: Software Engineer
@@ -4597,11 +4144,9 @@ Relocation/Signing Bonus: 50
 Stock and/or recurring bonuses: 50
 
 Also had a couple of startups (and FB) that were much lower. They didn't negotiate so I dropped them.
-
 ```
 
 ```
-
 Education: Ivy
 Company/Industry: Google
 Title: Software Engineer
@@ -4625,11 +4170,9 @@ Relocation/Signing Bonus: 50
 Stock and/or recurring bonuses: 50
 
 Also had a couple of startups (and FB) that were much lower. They didn't negotiate so I dropped them.
-
 ```
 
 ```
-
 Education: Ivy
 Company/Industry: Google
 Title: Software Engineer
@@ -4653,11 +4196,9 @@ Relocation/Signing Bonus: 50
 Stock and/or recurring bonuses: 50
 
 Also had a couple of startups (and FB) that were much lower. They didn't negotiate so I dropped them.
-
 ```
 
 ```
-
 Education: B.S. in CS from a top 5 uni, but not a top CS program. 3.0 GPA.
 Prior Experience:
 
@@ -4672,11 +4213,9 @@ Relocation/Signing Bonus: $4,000
 Stock and/or recurring bonuses: 60 units/year. I think the bonus is 7.5%
 Total comp: I'd estimate $120-130k
 
-
 ```
 
-```
-School/Year: Top 10 CS, Rising Sr.
+```School/Year: Top 10 CS, Rising Sr.
 Prior Experience: 1 internship
 -----------------------
 Company/Industry: Equifax
@@ -4685,11 +4224,9 @@ Location: Santiago, Chile
 Duration: 12.5 weeks
 Salary: US$1,600/month
 Relocation/Housing Stipend: None. The pay is more than enough for COL.
-
 ```
 
-```
-Hope this doesn't get buried. I feel like I struck gold with this one. 
+```Hope this doesn't get buried. I feel like I struck gold with this one. 
 School/Year: BS in CS from Georgia Tech, Jr.
 Prior Experience: 1 internship, large group project 
 Company/Industry: Equifax
@@ -4699,11 +4236,9 @@ Duration: 11 1/2 weeks
 Salary $1,600/month, after tax
 Relocation/Housing: None. The salary is more than enough for COL. Fortunately I have $$$ for the flight.
 Screw the Big N and Silicon Sillycon Valley. I'm going to Chile!!
-
 ```
 
-```
-*School/Year: UC Berkeley
+```*School/Year: UC Berkeley
 *Prior Experience: SWE internship at Forbes 100 company, Basketball analytics internship for professional team (Got this internship before though)
 *Company/Industry: OpenTable
 *Title: SWE Intern
@@ -4711,11 +4246,9 @@ Screw the Big N and Silicon Sillycon Valley. I'm going to Chile!!
 *Duration: 10 weeks
 *Salary: 43/hr
 *Relocation/Housing Stipend: 2500 for summer
-
 ```
 
-```
-Education: CS bachelor's at top school in the Northeast
+```Education: CS bachelor's at top school in the Northeast
 Prior Experience: 2 internships, govt and e-commerce.
 Company/Industry:  VMware
 Title: Software Engineer III
@@ -4725,11 +4258,9 @@ Salary: 135,000
 Relocation/Signing Bonus: 15,000
 Stock and/or recurring bonuses: 37,000 RSU + 20,000
 Total comp: 207k (192k w/o sign)
-
 ```
 
-```
-School/Year: University of New South Wales
+```School/Year: University of New South Wales
 Prior Experience: A year of part time work at local computer shop, made an in store program to manage inventory/invoices etc.
 Company/Industry: VMware
 Title: Software Developer Intern
@@ -4737,11 +4268,9 @@ Location: Sydney, Australia
 Duration: 8 months (Feb- end of September. I got this extended, the original end date with mid August)
 Salary: $3200 a month
 Nearing the end of this internship and have had a great time. 
-
 ```
 
-```
-School/Year: Small university in SF (not well known), Incoming 3rd year undergrad
+```School/Year: Small university in SF (not well known), Incoming 3rd year undergrad
 Prior Experience: Internship at a small startup VR company, TAing
 Company/Industry: VMware
 Title: Product Development Intern
@@ -4749,11 +4278,9 @@ Location: Mountain View, CA
 Duration: 12 weeks
 Salary: $35.50/hr
 Relocation/Housing Stipend: Housing included
-
 ```
 
 ```
-
 Education:
 
 None
@@ -4772,11 +4299,9 @@ Total comp: $80,000 CAD
 ​
 Always, always, always negotiate for more whenever you can. I regret letting my boss at the internship + full-time have at it for so long without a substantial pay bump, and even at my new place it's definitely been a let down compared to other salaries I've seen at the same level of responsibility.
 Salaries are slowly rising to levels comparable to other areas in the US, but definitely still far behind. I suggest anyone who can who's still young enough without as much ties or dependents in Canada to take a leap to the US for a good 2-3 years and save up. Even at some of the higher COLs you're going to be taking home way more than you would in Toronto on top of having a much more competent environment to learn and work in, too.
-
 ```
 
-```
-~United Kingdom~
+```~United Kingdom~
 Education: CS MEng at low level Russel Group uni
 Prior experience: 
 
@@ -4791,22 +4316,18 @@ Relocation/signing bonus: £3k
 Stock and/or recurring bonuses: yearly bonuses and bonuses for security clearance levels
 Total comp: £33k
 The whole brexit uncertainty has ruined the value of £, so even though 30k is a good starting salary for my location, it really limits spending power.
-
 ```
 
-```
-• ⁠Education: Software Development Bootcamp (pursuing CS degree part time)
+```• ⁠Education: Software Development Bootcamp (pursuing CS degree part time)
 • ⁠Prior Experience: A few projects and websites during the bootcamp and Highschool.
 • ⁠Company/Industry: JP Morgan Chase
 • ⁠Title: Software Engineer
 • ⁠Location: Northern Delaware
 • ⁠Salary: 75k
 I'm 19 years old and I still live with my parents right now, so my COL is even lower than most people, and my company is partially paying for my education.
-
 ```
 
-```
-Education: MS CpE
+```Education: MS CpE
 Prior Experience: 5 years
 Company/Industry: Health insurance
 Title: Lead Software Engineer
@@ -4817,11 +4338,9 @@ Relocation/Signing Bonus: N/A
 Stock and/or recurring bonuses: 8.5% annual bonus (~9k)
 Total comp: $115k
 I got a promotion and a 7% raise from the last time I posted, which I'm happy about. But I'm starting to look for new positions in DC / NoVa. There's just more money to be made down there in general, even after adjusting for CoL.
-
 ```
 
-```
-Education: BS CS, unremarkable school
+```Education: BS CS, unremarkable school
 Prior Experience: No internships, ~1 year of undergrad research
 Company/Industry: Defense
 Title: Scientist
@@ -4832,11 +4351,9 @@ Stock and/or recurring bonuses: $0
 Total comp: $62k
 Other comments in this thread got me like "ouch." I honestly never even thought about a sign-on bonus, but salary was non-negotiable for this company anyway. I think I'm gonna keep applying, since this job won't start until May...  
 Edit: Like that other guy in this thread, I get 36 vacation/sick days, though.
-
 ```
 
 ```
-
 Education: BA CS, Okay school not known for CS
 Prior Experience:
 
@@ -4850,11 +4367,9 @@ Stock bonuses: $50k RSUs
 Extras: $2k for conferences/learning, $2k for meals
 Total comp: $117k
 Originally I didn't feel the need to post, but most of the comments here are for super huge companies, and I wanted to even things out a little bit.
-
 ```
 
-```
-Education: MS CS
+```Education: MS CS
 Experience: Some competitive programming
 SDC Unicorn? (Kind of obscure company; valued at exactly 1 billion from what I found scouring the web)
 
@@ -4878,11 +4393,9 @@ Signing: $50k
 
 I took a massive gamble and accepted the sdc company. The higher ups must be ridiculously confident in the company from the offer. I was very impressed by the employees and HR was very kind.
 The Robinhood offer was not negotiated (I'm not sure if they even allow for negotiation considering their sketchy offer tactics). I left out other offers because they were already listed above.
-
 ```
 
-```
-Education: MS CS
+```Education: MS CS
 Experience: Some competitive programming
 SDC Unicorn? (Kind of obscure company; valued at exactly 1 billion from what I found scouring the web)
 
@@ -4906,11 +4419,9 @@ Signing: $50k
 
 I took a massive gamble and accepted the sdc company. The higher ups must be ridiculously confident in the company from the offer. I was very impressed by the employees and HR was very kind.
 The Robinhood offer was not negotiated (I'm not sure if they even allow for negotiation considering their sketchy offer tactics). I left out other offers because they were already listed above.
-
 ```
 
-```
-Education: Ivy League
+```Education: Ivy League
 BA in CS-Math May 2019
 MS in CS December 2019 (same school)
 Experience:
@@ -4935,11 +4446,9 @@ TC: $243.25 first year, $167.75k following
 Notes:
 I demonstrated plenty of interest in NYC office for Google but even when I secured the location for FB they were still unable to give me a spot there.  The pre-negotiation G LA offer was far, far lower than the final offer shown above (20k less salary, little to no signing bonus, half as much stock).  Went back to FB with the Google offer shown above and they bumped my signing from 65 to 100, which essentially pays for my MS.  They said they couldn't bump RSUs (even though GE interns got a 220k grant this year). Very happy with how things went overall, obviously!
 ​
-
 ```
 
 ```
-
 Education: BS CS, top public university
 Prior Experience:
 
@@ -4975,11 +4484,9 @@ Total comp: $192.5k year 1, then 167.5k after, if you take the current value of 
 ​
 negotiated hard with both FB & Goog, others were unwilling to negotiate. The initial google offer was about 80ish k lower for the first year (mostly in the signing bonus), so negotiation can definitely pay.
 ended up picking FB even though Google's offer was higher, especially after 1st year, and it's probably the more "safe" company between the two (i.e. $GOOG is probably a safer bet than $FB but I hope I'm wrong). The main reasons I picked FB was because I really enjoyed my internship there, and I think I'll be able to move up faster there than at Google.
-
 ```
 
 ```
-
 Education: BA in Computer Science from a no name small private school
 Prior Experience: 3 years at my current job, new job starting in a couple weeks. 
 Industry: don't want to be specific, since that would give away the company
@@ -4991,11 +4498,9 @@ Other Compensation: 401lk match, moving expenses paid, 3 weeks vacation instead 
 I'm excited to be finally making the average comp for the Midwest/Ohio, since I was underpaid at my current position(making about $50k right now). My experience with my first job caused to realize that I'm worth a lot more than I think I am, even if I'm not a leetcode/algorithms genius. 
 The main thing that excites me about this job is I'll be working for a company that actually sells software products, instead of a consulting agency. 
 
-
 ```
 
 ```
-
 Education: MS CpE
 Prior Experience: 3 yrs at a military contractor
 Company/Industry: Health insurance
@@ -5007,11 +4512,9 @@ Relocation/Signing Bonus: $3k
 Stock and/or recurring bonuses: 7% annual bonus
 Total comp: about $105k
 Sigh... definitely feel underpaid after seeing some of the salaries in here. Will be asking for a raise some time this month so hopefully it works out. I'd also like to add that even though Baltimore is listed as LCoL, if you want to live anywhere safe / desirable, it's at least MCoL, and the closer you get to DC, rent / house prices get bananas. So it might be more accurate to list this under MCoL.
-
 ```
 
-```
-I guess I'll update this yet again. Still looking for work, still none to be had (or at least only really low wages) for programmers in Windsor, ON so I'm still at the same place.
+```I guess I'll update this yet again. Still looking for work, still none to be had (or at least only really low wages) for programmers in Windsor, ON so I'm still at the same place.
 Education: Two bachelor's degrees in CS and Business Administration (University of Windsor), two Associates degrees in Programmer Analyst and Network Services Technologist (St. Clair College), and a trade certificate in Tech Support (also St. Clair College)
 Prior Experience:
 
@@ -5029,11 +4532,9 @@ Relocation/Signing Bonus: none
 Stock and/or recurring bonuses: $1000
 Total comp: $62K
 
-
 ```
 
 ```
-
 Education: BSCS from a no name school
 Prior Experience: Mediocre internship where I did not really do anything
 Company/Industry: Infosys
@@ -5045,11 +4546,9 @@ Relocation/Signing Bonus: $4,000, have to pay it back if you leave within a year
 Stock and/or recurring bonuses: None
 Think I am the lowest paid software engineer in the entire bay area. I had a sliver of hope that one day I would be able to make it into a good tech company but that hope is lost. 
 It is tough knowing that there are fellow new grads out there making 2-3 times as much; I would be ecstatic if I ever even reached 6 figures at this point. 
-
 ```
 
 ```
-
 Education: BS in Mechanical Engineering (ME), North Carolina State, 88% through this program
 Prior Experience: 2 yrs ME ft at big car company (no CS exp)
 
@@ -5066,17 +4565,13 @@ Company has not even had a seed round valuation yet, so really Monopoly money th
 Edit: I'm not really sure what to call the program I went through but you can see for yourself the classes involved. I would say it's probably equivalent to having a minor in CS. I was doing it initially to qualify for the MS program. Before the program I had about 6 months of self taught experience but really the only thing I learned from that was syntax. I didn't learn a whole lot from my self studying which is why I moved towards this route. I started learning about CS in Dec 2015 and landed the job in July of 2017.
 Sorry, I did not mean to mislead that I was self-taught. I just completely forgot to mention it.
 Also, I'm curious, but how is NCSU viewed as a school in this sub? They're rank like 80ish  overall but 25 for engineering. Is it a mid tier school? Do people outside of NC even know about it?
-
 ```
 
-```
-Honestly I applied anywhere and everywhere when I graduated. I moved to Wisconsin for my first job just because it was the only place that would accept me. I've moved to WI, NC, and NYC for jobs before CA. I just moved where I could until I became more desirable for companies I wanted to work at.
+```Honestly I applied anywhere and everywhere when I graduated. I moved to Wisconsin for my first job just because it was the only place that would accept me. I've moved to WI, NC, and NYC for jobs before CA. I just moved where I could until I became more desirable for companies I wanted to work at.
 Not everyone gets interviews with FB/G out of college or even pass them. There's nothing wrong starting at low salary places and moving up :)
-
 ```
 
 ```
-
 Education:
 
 B.Sc in Computer Science (small local uni)
@@ -5099,11 +4594,9 @@ Relocation/Signing Bonus: none
 Stock and/or recurring bonuses: ~$2K
 Total comp: ~$62K + health benefits + 3% matching contributions to retirement
 
-
 ```
 
-```
-replying here even though my country is within Asia geographically but MiddleEast rates are really different so it doesn't count as Asia
+```replying here even though my country is within Asia geographically but MiddleEast rates are really different so it doesn't count as Asia
 Education: Bachelor of Sc from the public university.
 Prior Experience: 1 month internship in an ISP
 2 month as a junior soft. eng. (left during probation period)
@@ -5115,11 +4608,9 @@ Salary: 13k.
 Relocation/Signing Bonus: 0
 Stock/Bonuses: all hidden
 Total Comp: 13k
-
 ```
 
-```
-Education: BS from top-ranked institute of science and tech that is less good in CS and didn't offer it as an official major at the time. My degree is officially in engineering. I took mostly CS courses but didn't complete the CS concentration I could have gotten on my transcript. 
+```Education: BS from top-ranked institute of science and tech that is less good in CS and didn't offer it as an official major at the time. My degree is officially in engineering. I took mostly CS courses but didn't complete the CS concentration I could have gotten on my transcript. 
 Prior experience: Summer internship in Silicon Valley startup, on-campus job doing LaTeX typesetting, 2 years trying to start my own business.
 Company/industry: University
 Title: Went from programmer/systems administrator to just systems administrator, although I still maintain software projects.
@@ -5127,11 +4618,9 @@ Tenure length: 12 years
 Location: LA
 Salary: $72k. Started at $45k. With small annual raises and one bigger raise, I ended up at $56k in 10 years. Two years ago, I got a big raise to $72k. My position was upgraded from the most junior level, and the "programmer" part of my job title was dropped. The latter is a problem because I'm afraid of being expected to take more ownership of hardware, which I hate doing, and ending up even less employable.
 Total comp: I'm not sure how much my benefits are worth. Benefits are good overall, but no bonuses.
-
 ```
 
-```
-Education: Top 10
+```Education: Top 10
 Prior Experience: 8yrs and internships at Big4 
 Company/Industry: Pre-IPO Major Unicorn
 Title: Sr. Software Engineer
@@ -5142,11 +4631,9 @@ Relocation/Signing Bonus: 22k reloc / 20k signing (all cash)
 Stock and/or recurring bonuses: 600k/4yrs in RSUs, 160k/4yrs target refresher
 Total comp: At current valuation, Year 1 is 345k.  Year 4 would be 465k if the base and valuation remained constant, and I got an average rating each year.
 I know people that have been around for a few more years and are making 800k+ or even 1M yearly at the same level due to the growth in equity value though.
-
 ```
 
-```
-Education: Masters
+```Education: Masters
 Prior Experience: SWE @ a finance firm, Big 4 internship
 Company/Industry: Finance
 Title: Software Developer
@@ -5156,11 +4643,9 @@ Relocation/Signing Bonus: 75K + total relocation reimbursement
 Stock and/or recurring bonuses: 50K target bonus for meets expectation
 Total comp: 300K first year, 225K recurring
 I negotiated with competing offers from Big 4. All companies are considering me as a new grad, even though I was working as SWE for 3 years prior to my masters.
-
 ```
 
-```
-Education: Currently a 4th year CS and Math dual major at UC Davis (3.86 GPA)
+```Education: Currently a 4th year CS and Math dual major at UC Davis (3.86 GPA)
 Prior Experience: One internship (this past summer) as a SDET at a small IT/networking company in the San Jose, CA
 Company/Industry: Large, well-known hardware company
 Title: Associate Product Manager (Entry level)
@@ -5182,11 +4667,9 @@ Relocation/Signing Bonus: $35k signing bonus, no relocation
 Stock and/or recurring bonuses: None
 What I did: To be completely honest with you guys, I don't contribute at all to open source projects or anything like that in my spare time. I don't even have a GitHub account. However, I practice algorithm problems a lot. I usually spend 2-3 hours per day (since freshman year of college) working on algorithm problems during the week and 3-5 hours per day on the weekend. I've completed around 250 problems on LeetCode as well as many problems in various books and other online sites. 
 As a result, I am extremely good at algorithm problems, but I don't know much about software engineering fundamentals like networks, databases, web development, and that kind of thing. I am just really good at solving algorithm problems in C#, C++, Java, and Python. That is what companies want to see most, from my time spent interviewing. Although I did fail several interviews because I didn't know basic web dev concepts (don't know anything about JavaScript or HTML/CSS), but most companies just cared about the algorithm problems in interviews and not much about anything else.
-
 ```
 
-```
-Education: Masters at a target public school
+```Education: Masters at a target public school
 Prior Experience: Research, TAing, 3 internships (Amazon, medium sized company, small company).
 Average GPA, no side projects.
 
@@ -5219,11 +4702,9 @@ Overall Notes:
 I suuuuuuper suck at interviewing :/ not much to say there. 
 SF salaries end up getting a huge chunk taken out of them for COL/income taxes, especially since California also has a 8.5% sales tax. My take-home is going to be about 100k and I'll probably end up spending 2700/month on rent + utilities (really hoping to find a studio). So if you live in a different part of the country, keep that in mind before you start comparing salaries. 
 I was looking at staying in my current state and even with a 35k+ paycut, I would have ended up ahead just because of the rent and tax differences. I'll probably move back here after a few years, but I really like SF and am willing to take the overall cut in salary for now.
-
 ```
 
-```
-Education: Masters at a target public school
+```Education: Masters at a target public school
 Prior Experience: Research, TAing, 3 internships (Amazon, medium sized company, small company).
 Average GPA, no side projects.
 
@@ -5256,11 +4737,9 @@ Overall Notes:
 I suuuuuuper suck at interviewing :/ not much to say there. 
 SF salaries end up getting a huge chunk taken out of them for COL/income taxes, especially since California also has a 8.5% sales tax. My take-home is going to be about 100k and I'll probably end up spending 2700/month on rent + utilities (really hoping to find a studio). So if you live in a different part of the country, keep that in mind before you start comparing salaries. 
 I was looking at staying in my current state and even with a 35k+ paycut, I would have ended up ahead just because of the rent and tax differences. I'll probably move back here after a few years, but I really like SF and am willing to take the overall cut in salary for now.
-
 ```
 
-```
-​
+```​
 School/Year: Final co-op at a relatively unknown Canadian school.
 Prior Experience: 4 SWE internships
 Company/Industry: Datadog
@@ -5270,22 +4749,18 @@ Duration: 16 weeks
 Salary: ~$50/hr
 Relocation/Housing Stipend: Relocation reimbursed
 
-
 ```
 
-```
-School/Year: uWaterloo, equivalent to rising Junior 
+```School/Year: uWaterloo, equivalent to rising Junior 
 Prior Experience: 3 internships 
 Company/Industry: Datadog 
 Title: Software Engineer Intern 
 Location: NYC 
 Duration: 4 months Salary: ~7.3k/mo 
 Relocation/Housing Stipend: 1.2k/mo
-
 ```
 
-```
-School/Year: Senior at a PNW state school
+```School/Year: Senior at a PNW state school
 Prior Experience: Retail & Hotel jobs
 Company/Industry: Healthcare
 Title: Software Development Internet
@@ -5294,11 +4769,9 @@ Duration: Currently until graduation, could extend into full position
 Salary: $20/hr
 Relocation/Housing Stipend: N/A
 I started this internship back in june at $15/hr, and have been granted a raise as well as an extension of the internship beyond the summer. I like in the northwest, but not in Seattle/Portland. You can definitely find tech jobs in my city, but they aren't nearly as numerous or well paying as the ones in the cities I mentioned.
-
 ```
 
-```
-Education: University of Maryland
+```Education: University of Maryland
 Prior Experience: 2 time intern at Big 4
 Company/Industry: Big 4
 Title: Software Developer
@@ -5307,11 +4780,9 @@ Salary: $108k
 Relocation/Signing Bonus: $5k/$25k
 Stock and/or recurring bonuses: $70k over 3.5 years, bonuses likely per year
 Total Comp: ~$150k depending on bonuses
-
 ```
 
-```
-School/Year: Junior, University of Maryland
+```School/Year: Junior, University of Maryland
 Prior Experience: A few bigger side projects, on-campus work as a web developer, previous internship at a brokerage firm last summer
 Company/Industry: Prop shop trading firm
 Title: Software Development Intern
@@ -5319,11 +4790,9 @@ Location: Philadelphia, PA
 Duration: 10 weeks
 Salary: $40/hr, $60/hr overtime (45 hour weeks)
 Relocation/Housing Stipend: Relocation costs are reimbursed, housing provided in the city
-
 ```
 
-```
-Education: Top CS School
+```Education: Top CS School
 Experience: 2 Microsoft internships
 Microsoft
 Title: SWE 59
@@ -5338,11 +4807,9 @@ Salary: 135k
 Signing Bonus: 55k
 Stock and/or recurring bonuses: Target is 55k/yr, but upwards to 110k/yr
 Decided to do BW bc I kind of wanted to explore out the tech scene (plus I really loved every single person I met at BW), but did love my time at MSFT
-
 ```
 
 ```
-
 Education: BS and MS from one of: MIT, Stanford, CMU, Berkeley
 Prior Experience (Internships):
 No-name financial company
@@ -5360,11 +4827,9 @@ If you believe the 409A, a bit over $80,000/year
 Bonus targeted at 10%
 Total comp: ~$245,000/yr (assumes full bonus, 409A comparable to IPO price, excludes signing bonus)
 
-
 ```
 
 ```
-
 Education: BS from non target school
 Prior Experience: few internships and full time at NY company
 Company/Industry: Airbnb
@@ -5376,11 +4841,9 @@ Relocation/Signing Bonus: 11k relocation + 40k signing
 Stock and/or recurring bonuses: 210k / 4 years + potential 15% cash bonus
 Total comp: ~233k first year, 182k next year
 
-
 ```
 
-```
-School: BS CS @ Top 50 US University w/ solid CS program
+```School: BS CS @ Top 50 US University w/ solid CS program
 Prior Experience: 3 co-ops, 1 Big N internship, TA position, open source work
 All job titles were basically “Software Engineer”
 Side note: Airbnb was basically the only company I negotiated with since I knew they were who I’d accept, that’s the main reason their offer is the highest. Starting offer was ~$50k lower total comp year 1
@@ -5433,11 +4896,9 @@ Signing bonus: $10k
 Stock: $10k over 4 years
 Total comp: $127k year 1, then $117k
 
-
 ```
 
-```
-I didn't interview this cycle - these were both return intern offers:
+```I didn't interview this cycle - these were both return intern offers:
 Airbnb (accepted):
 Location: SF
 Salary: $130k
@@ -5453,11 +4914,9 @@ Stock: ~$180k over 4 years
 Relocation: $11k
 TC: 266k year 1, then 155k 
 
-
 ```
 
 ```
-
 School/Year: Junior Top 10 CS
 Prior Experience: Big 4 
 Airbnb:  
@@ -5473,11 +4932,9 @@ Duration: 12 Weeks
 Salary: $52 / hr ($9000 / mo) + $78 / hr overtime
 Relocation/Housing Stipend/Misc.: $1500 post-tax monthly, ride discount, free meals, etc.
 
-
 ```
 
-```
-School/Year: Junior Top 10 CSE
+```School/Year: Junior Top 10 CSE
 Prior Experience: Freshman internship (smaller company), Big 4
 Airbnb:
 Title: SWE Intern
@@ -5500,11 +4957,9 @@ Duration: 12 Weeks
 Salary: $8000/mo
 Relocation/Housing: Corporate housing or ~$1600/mo
 Edit 3: Removed Microsoft as I declined before receiving their offer details.
-
 ```
 
-```
-- School/Year: Junior, top 40 CS in Midwest
+```- School/Year: Junior, top 40 CS in Midwest
 - Prior Experience: Google EP
 Airbnb:
 Title: SWE Intern
@@ -5532,11 +4987,9 @@ Salary: ~$7000/month
 Relocation/Housing Stipend: $9k stipend
 ​
 ​
-
 ```
 
 ```
-
 Education: Bachelors from school in the top 20-30
 Prior Experience: 1 internship at Airbnb, 1 at Google
 Company/Industry: Google
@@ -5556,11 +5009,9 @@ Relocation/Signing Bonus: 25k signing, ~13k relocation
 Stock and/or recurring bonuses: 240k/4 years
 Total comp: ~185k without signing/relocation
 I negotiated hard with both Airbnb and Google, and got some amazing offers because I was a returning intern who performed well. I ended up choosing Google.
-
 ```
 
-```
-Education: BS and MS in CS from one of [CMU, MIT, Berkeley, Stanford]
+```Education: BS and MS in CS from one of [CMU, MIT, Berkeley, Stanford]
 Prior Experience: Internships at 2 different Big N companies, internship at medium-size no-name financial company
 Offer 1
 Company/Industry: Airbnb
@@ -5582,11 +5033,9 @@ Relocation/Signing Bonus: $75,000
 Stock and/or recurring bonuses: $150,000 over 4 years, vesting quarterly with a 1 year cliff.
 Total comp: ~$251,500
 Other info: Good perks/other.  401k, excellent health plan, shuttles, breakfast/lunch/dinner, onsite gyms, etc.  I think there's also a $15,000 bonus for living within a few miles of the office.
-
 ```
 
-```
-School/Year: top state school/junior
+```School/Year: top state school/junior
 Prior Experience: research + travel reimbursement company
 Company 1 (Accepted)
 Company/Industry: Airbnb
@@ -5624,11 +5073,9 @@ Duration: 10 weeks
 Salary: $35/hour
 Relocation/Housing Stipend: $1000/month
 
-
 ```
 
 ```
-
 School/Year: Top 40 School/Junior
 Prior Experience: Big4s + Unicorns
 
@@ -5681,11 +5128,9 @@ Duration: 12 weeks
 Salary: $48.5/hr
 Relocation/Housing Stipend: Housing
 
-
 ```
 
 ```
-
 School/Year: Top 40 School/Junior
 Prior Experience: Big4s + Unicorns
 
@@ -5738,11 +5183,9 @@ Duration: 12 weeks
 Salary: $48.5/hr
 Relocation/Housing Stipend: Housing
 
-
 ```
 
 ```
-
 School/Year: Top 40 School/Junior
 Prior Experience: Big4s + Unicorns
 
@@ -5795,11 +5238,9 @@ Duration: 12 weeks
 Salary: $48.5/hr
 Relocation/Housing Stipend: Housing
 
-
 ```
 
 ```
-
 School/Year: Top 40 School/Junior
 Prior Experience: Big4s + Unicorns
 
@@ -5852,11 +5293,9 @@ Duration: 12 weeks
 Salary: $48.5/hr
 Relocation/Housing Stipend: Housing
 
-
 ```
 
 ```
-
 School/Year: Top 40 School/Junior
 Prior Experience: Big4s + Unicorns
 
@@ -5909,11 +5348,9 @@ Duration: 12 weeks
 Salary: $48.5/hr
 Relocation/Housing Stipend: Housing
 
-
 ```
 
 ```
-
 School/Year: Top 40 School/Junior
 Prior Experience: Big4s + Unicorns
 
@@ -5966,11 +5403,9 @@ Duration: 12 weeks
 Salary: $48.5/hr
 Relocation/Housing Stipend: Housing
 
-
 ```
 
 ```
-
 School/Year: Top 40 School/Junior
 Prior Experience: Big4s + Unicorns
 
@@ -6023,11 +5458,9 @@ Duration: 12 weeks
 Salary: $48.5/hr
 Relocation/Housing Stipend: Housing
 
-
 ```
 
-```
-School / Year: Top 4, Junior 
+```School / Year: Top 4, Junior 
 Prior Experience: Big SF unicorn
 Company/Industry: HFT in NY 
 Title: Software Engineering Intern
@@ -6060,11 +5493,9 @@ Duration: 12 weeks
 Salary: $45 / hr
 Relocation/Housing Stipend: Housing (or $5100) and flights provided. 
 
-
 ```
 
-```
-School/Year: Top State School/Junior
+```School/Year: Top State School/Junior
 Prior Experience: Small SF startup + Uber
 Company 1 (Accepted)
 Company: Airbnb
@@ -6088,11 +5519,9 @@ Duration: 12 Weeks
 Salary: $43.26/h + overtime, $225 Uber credit per month
 Relocation/Housing Stipend: $1000/month
 
-
 ```
 
-```
-School/Year: Top 10 CS School/Junior
+```School/Year: Top 10 CS School/Junior
 Prior Experience: 2 Internships at Big Company and Unicorn  
 Company 1 (Accepted)  
 Company/Industry: Lyft
@@ -6123,11 +5552,9 @@ Duration: 12 weeks
 Salary: $43/hour
 Relocation/Housing Stipend: $1000/month
 
-
 ```
 
-```
-Education: Top 10 University
+```Education: Top 10 University
 Prior Experience: Google internship
 Company/Industry: Amazon
 Title: SWE
@@ -6160,11 +5587,9 @@ Salary: 125k
 Signing Bonus: 25k
 Stock and/or recurring bonuses: "220k"/4 years, 25% equity bonus
 All relocation bonuses were 5-10k
-
 ```
 
-```
-I'm going to give both the job I just left,  and the job I just accepted. Old one is in a Low CoL area, new one in a high CoL
+```I'm going to give both the job I just left,  and the job I just accepted. Old one is in a Low CoL area, new one in a high CoL
 Education: BS Computer Science from a Florida University
 Prior Experience: No internships, no tech jobs, decade of retail. High school had some vocational program for ITish work that I took (PC repair and Networking, I put together and pulled apart 500+ computers in 4 years, fun times)
 Job I'm leaving:
@@ -6186,11 +5611,9 @@ Stock and/or recurring bonuses: None, will/may be granted ~$200k RSU with 4 year
 Total comp: Lets go with $180k, salary + start bonus + 401k
 Other: 21 days PTO, low deductible health plan with no premium. Free meals onsite.
 Hopefully this formats ok since I have to post from mobile.
-
 ```
 
-```
-School/Year: 6/ University of South Florida, transferring to University of florida
+```School/Year: 6/ University of South Florida, transferring to University of florida
 Prior Experience: been pworkinv professionally since I was 16
 Company/Industry: citigroup/financial
 Title: data scientist intern
@@ -6198,11 +5621,9 @@ Location: tampa
 Duration: no end date
 Salary: $28/hr
 Relocation/Housing Stipend:n/a
-
 ```
 
 ```
-
 Education: Masters in CS (lower ranked UC)  
 Prior Experience:1 Internship at NVIDIA  
 Company/Industry: Deloitte  
@@ -6214,11 +5635,9 @@ Relocation/Signing Bonus: 5k/15k
 Stock and/or recurring bonuses:no stocks/ annual performance bonus ranging from 0 to 10% of base  
 Total comp: 105k
 
-
 ```
 
-```
-School/Year: Rising junior at large state school
+```School/Year: Rising junior at large state school
 Prior Experience: Interned at medium sized cybersecurity company and a small startup
 Company/Industry: ExxonMobil
 Title: Software Engineering Intern
@@ -6226,11 +5645,9 @@ Location: Houston, TX area
 Duration: 12 weeks
 Salary: $30/hour
 Relocation/Housing Stipend: $1500 at the beginning of the internship
-
 ```
 
-```
-Education: You’ve never heard of it, Canada
+```Education: You’ve never heard of it, Canada
 Prior Experience: Nada
 $Internship: 2 years at a well known gaming company (at their lesser known mobile branch), 1 semester at current company
 Company/Industry: Well known bird company
@@ -6240,11 +5657,9 @@ Salary: $115000
 Relocation/Signing Bonus: $7500/$15000
 Stock and/or recurring bonuses: $80000 vesting over 4 years/$11500
 Total comp: $169,000
-
 ```
 
 ```
-
 Education: Non-technical BA from liberal arts University on the East Coast, Online MS in Computer Science from Midwest State University.
 Prior Experience: 1 year full time Software Engineer role at Bay Area fintech startup, Big 4 Summer internship, couple other Software Engineer internships.
 Company: Blue Bird Social Media Company.
@@ -6256,11 +5671,9 @@ Relocation/Signing Bonus: 20k
 Stock/Bonuses: 50k RSUs/year, 5% base salary/year.
 Total Comp: 180k + 6.5k bonus and one time 20k signing bonus
 
-
 ```
 
-```
-Education: BS in Econ and CS @ top 5 liberal arts college
+```Education: BS in Econ and CS @ top 5 liberal arts college
 Prior Experience: finance internships (only one has somewhat of a tech/PM twist) + started tech startup (failed)
 Company/Industry: Reddit
 Title: SWE
@@ -6276,11 +5689,9 @@ good healthcare, dental and vision plan
 Total comp: 107.5k (I don't expect anything on the options, and the stipend is only for IRS deductable expenses.)
 I have better offers in the same city, but I love this site.  
 *this is a throwaway acct. 
-
 ```
 
-```
-School/Year: Senior at one of [CMU, Cornell, Princeton, Duke]
+```School/Year: Senior at one of [CMU, Cornell, Princeton, Duke]
 Prior Experience: Two internships at small local companies
 Company/Industry: Yext
 Title: Software Engineering Intern
@@ -6288,11 +5699,9 @@ Location: New York City
 Duration: 10 weeks
 Salary: $7700/month ($48.13/hour)
 Relocation/Housing Stipend: $10,000 signing bonus
-
 ```
 
 ```
-
 Education: BS in CS at Arizona State University
 Prior Experience:
 
@@ -6313,11 +5722,9 @@ Total comp:
 
 €62.5k + profit sharing
 
-
 ```
 
-```
-• ⁠Education: BS in CS at large SEC school
+```• ⁠Education: BS in CS at large SEC school
 • ⁠Prior Experience: 1x internship at a small company, 1x large top 10 company
  
 • ⁠Company/Industry: NCR
@@ -6334,11 +5741,9 @@ Total comp:
 • ⁠Title: Software Engineer
 • ⁠Location: Atlanta, GA
 • ⁠Salary: $83k w/ $3k signing
-
 ```
 
 ```
-
 School/Year: Senior, Midwest state school
 Prior Experience: back-to-back internships at AT&T
 AT&T: (return offer)
@@ -6348,11 +5753,9 @@ Duration: 10 weeks
 Salary: $26.91/hour
 Relocation/housing: $1500 stipend
 
-
 ```
 
 ```
-
 School/Year: Senior, Midwest state school
 Prior Experience: back-to-back internships at AT&T
 Target: 
@@ -6362,11 +5765,9 @@ Duration: 10 weeks
 Salary: $28/hour
 Relocation/housing: partially paid for intern housing, 10% discount at Target stores
 
-
 ```
 
-```
-Education: CS Major at Big Ten Public University
+```Education: CS Major at Big Ten Public University
 Prior Experience: 2 Internships with the same Fortune 10 Company
 Company/Industry: United Healthcare / Optum
 Title: Technology Development Program Associate
@@ -6396,11 +5797,9 @@ Relocation/Signing Bonus: $5,000
 Stock and/or recurring bonuses: $5,000 year end raise
 Total comp: $70,000
 
-
 ```
 
 ```
-
 Education: Bachelor's of Science, Computer Science from Kennesaw State University
 Prior Experience: 
 Internship: 4 months total.
@@ -6420,11 +5819,9 @@ Relocation/Signing Bonus: $3k
 Stock and/or recurring bonuses: 8% bonus dependent on company performance
 Total comp: 74k
 
-
 ```
 
 ```
-
 Education: BS in Computer Science
 Prior Experience: 3.5 Years Software Eng, 1.5 year DBA
 Company/Industry: Large University IT
@@ -6437,11 +5834,9 @@ Stock and/or Recurring Bonuses: Yearly bonus ~3%
 Total Comp: ~$73,000 without taking classes
 Other: 5 hours free tuition per semester (undergrad and graduate level), 50% tuition discount for immediate family and dependents. Alabama Teacher's pension retirement. Half of Thanksgiving week and two weeks at Christmas off without using PTO.
 
-
 ```
 
-```
-School/Year:  Junior @ State School in Illinois
+```School/Year:  Junior @ State School in Illinois
 Prior Experience:  Management experience at a big box retailer, currently working IT support at my school (student position)
 Company/Industry:  Enterprise Holdings
 Title:  Software Engineering Intern
@@ -6449,11 +5844,9 @@ Location:  St. Louis
 Duration:  10 weeks
 Salary:  $18.50/hour
 Relocation/Housing Stipend:  None that I'm aware of, it's pretty close for me anyway
-
 ```
 
-```
-School/Year: East Coast, decent but not a target school/Junior
+```School/Year: East Coast, decent but not a target school/Junior
 Prior Experience: 1 internship at small tech company, research internship at school
  
 Company/Industry: Facebook
@@ -6485,11 +5878,9 @@ Salary: $7360/month
 Relocation/Housing Stipend: $1500 per month, airfare
  
 EDIT: Decided to choose FB!
-
 ```
 
-```
-*Education: MS in CS
+```*Education: MS in CS
 *Prior Experience: 3 years
 *Years of Experience: 11
 *Company/Industry: MSP
@@ -6501,11 +5892,9 @@ EDIT: Decided to choose FB!
 *Stock and/or recurring bonuses: N/A
 *Total comp: $120K
 *Other: My job is a remote on-demand weekend shift job where I work 7AM-7PM Fri-Sun and I get the other 4 days off. In addition, I get 7 weekends off for vacation which amounts to more than 2 months of holidays if I take them separately.
-
 ```
 
-```
-*Education: MS in CS
+```*Education: MS in CS
 *Prior Experience: 3 years
 *Years of Experience: 11
 *Company/Industry: MSP
@@ -6517,11 +5906,9 @@ EDIT: Decided to choose FB!
 *Stock and/or recurring bonuses: N/A
 *Total comp: $120K
 *Other: My job is a remote on-demand weekend shift job where I work 7AM-7PM Fri-Sun and I get the other 4 days off. In addition, I get 7 weekends off for vacation which amounts to more than 2 months of holidays if I take them separately.
-
 ```
 
 ```
-
 Education: MS in CS
 Prior experience: ~3 years
 Industry: MSP
@@ -6531,11 +5918,9 @@ Location: Remote, but currently residing in a MCoL area.
 Salary: $120k
 Other Benefits: My job is a weekend shift job where I work Fri-Sun 7am-7pm and I get 4 days off. It's an on-demand job. I get vacation equivalent of 7 weeks or 7 weekends off.
 
-
 ```
 
 ```
-
 Education: MS in CS
 Prior experience: ~3 years
 Industry: MSP
@@ -6545,11 +5930,9 @@ Location: Remote, but currently residing in a very borderline MCoL area. For ref
 Salary: $120k
 Other Benefits: My job is a weekend shift job where I work Fri-Sun 7am-7pm and I get 4 days off. It's an on-demand job. I get vacation equivalent of 7 weeks or 7 weekends off, with my shift scheme, it's almost 3 months. 
 
-
 ```
 
 ```
-
 School/Year: sophomore @ college in New York
 Prior Experience: internship at small startup
 Company/Industry: Bank of America
@@ -6559,11 +5942,9 @@ Duration: ~3 months
 Salary: 35/hr
 Relocation/Housing Stipend: 2.5k for housing
 
-
 ```
 
-```
-• Education: Regis University
+```• Education: Regis University
 • Prior Experience: 
 • 4 months doing web-dev work for a private university
 • $Coop- N/a
@@ -6575,11 +5956,9 @@ Relocation/Housing Stipend: 2.5k for housing
 • Relocation/Signing Bonus: none
 • Stock and/or recurring bonuses: none
 • Total comp:64k
-
 ```
 
-```
-Education: Bachelors, Computer Engineering, The Ohio State University
+```Education: Bachelors, Computer Engineering, The Ohio State University
 Prior Experience: Two internships, return offer from my 2nd internship
 Company/Industry: Retail
 Title: Software Engineer I
@@ -6588,11 +5967,9 @@ Location: Columbus, Ohio
 Salary: $90,000 / year
 Relocation/Signing Bonus: $0, since I lived in the city
 Stock and/or recurring bonuses: Just an ESPP
-
 ```
 
 ```
-
 School/Year: one of MIT/Stanford/CMU/UCB, junior
 Prior Experience: G,F, 2 sig
 Jane Street:
@@ -6626,11 +6003,9 @@ Duration: 10 weeks
 Salary: $14000/month
 Relocation/Housing Stipend: free housing
 having a competing offer from rival firms is ridiculously strong for negotiation
-
 ```
 
-```
-School/Year: Top 10 CS / Junior 
+```School/Year: Top 10 CS / Junior 
 Prior Experience: 2 x Big N Intern  
 Company/Industry: Akuna Capital / Prop Trading
 Title: Software Development Intern
@@ -6639,11 +6014,9 @@ Duration: 10-11weeks
 Salary: $11,500 / month
 Relocation/Housing Stipend: corporate housing and flight
 I thought I'd post this because the Glassdoor numbers seem to be misleading. 
-
 ```
 
 ```
-
  School/Year: Incoming 3rd year at UC Irvine
 Prior Experience: 2 SWE internships and 1 research position
  
@@ -6668,11 +6041,9 @@ Duration: 12 weeks
 Salary: $20 / hour
 Relocation/Housing Stipend: None
 
-
 ```
 
-```
-School/Year: Just finished my fourth school term, out of six, at a university in Montreal
+```School/Year: Just finished my fourth school term, out of six, at a university in Montreal
 Prior Experience: Two internships at Genetec
 Company/Industry: Ubisoft
 Title: Software Developer Intern
@@ -6680,11 +6051,9 @@ Location: Montreal, Canada
 Duration: 15-16 weeks
 Salary: 21$/hour
 Relocation/Housing Stipend: 0
-
 ```
 
-```
-Education: Double BS in Electrical Computer Engineering and Math at non-target state school
+```Education: Double BS in Electrical Computer Engineering and Math at non-target state school
 Prior Experience: Software validation engineer intern at small scientific R&D company
 Qualtrics (return offer, accepted):
 Location: Seattle
@@ -6695,11 +6064,9 @@ Stock: ~$130k
 Relocation: $2.5k
 Total Comp: $157k
 
-
 ```
 
-```
-Can’t sleep so I thought I’d make a post since I’ve lurked on these salary sharing threads for a while. Sorry for bad formatting I’m on mobile. 
+```Can’t sleep so I thought I’d make a post since I’ve lurked on these salary sharing threads for a while. Sorry for bad formatting I’m on mobile. 
 School/Year: Junior at top 15 CS school
 Prior Experience: no prior internship experience but a student development job on campus 
 Company/Industry: Apple (summer)
@@ -6714,11 +6081,9 @@ Location: Pleasanton
 Duration: 12 weeks
 Salary: $42/hr
 Relocation/housing stipend: there is a relocation option but not sure how much because I didn’t use it and one lump sum of $3750 before taxes for housing and there is also a corporate housing option
-
 ```
 
-```
-School/Year: Sophomore 
+```School/Year: Sophomore 
 Prior Experience: Internship at open-source project, contract web development for several startups
 Company/Industry: Apple
 Title: Software engineering Intern
@@ -6726,11 +6091,9 @@ Location: Cupertino, CA
 Duration: 13 weeks
 Salary: $40/hr
 Relocation/Housing Stipend: Corporate housing, $1000 relocation one-time sum
-
 ```
 
-```
-Top 2 Canadian CS School, just finished 1st year, heading to second. Mediocre GPA & flopped discrete math, so there's hope for anyone lol.
+```Top 2 Canadian CS School, just finished 1st year, heading to second. Mediocre GPA & flopped discrete math, so there's hope for anyone lol.
 School/Year: Rising Sophomore
 Prior Experience: 2x SWE Internships at Shopify, Apple WWDC Scholar (1 of 350)
 Company/Industry: Microsoft
@@ -6740,11 +6103,9 @@ Duration: 12 Weeks
 Salary: $7300 USD / Month
 Relocation/Housing Stipend: Corporate housing & they paid for relocation.
 If it's worth mentioning, before choosing MS also got competing offers from Google & Facebook.
-
 ```
 
-```
-Education: BS CS, BS Stats mid-tier UC school
+```Education: BS CS, BS Stats mid-tier UC school
 Prior experience: Data science internship at local company, SWE internship on a big data team at non Big N Bay Area company
 Apple (accepted)
 Title: Machine Learning Engineer (ICT3)
@@ -6771,11 +6132,9 @@ Signing Bonus: $12k
 Stock: $57k over 4 years
 TC: $131.5k
 
-
 ```
 
 ```
-
 School/Year: Junior, ivy
 Prior Experience: 1 internship @ large non-tech company
 Company/Industry: Apple
@@ -6785,11 +6144,9 @@ Duration: 13 weeks
 Salary: 7700/month
 Relocation/Housing Stipend: Corporate housing or 1k/month
 
-
 ```
 
-```
-* Education: BS in CS
+```* Education: BS in CS
 * Prior Experience: 3 Summer Internships at large tech companies
 * Company/Industry: Apple
 * Title: ICT4
@@ -6799,11 +6156,9 @@ Relocation/Housing Stipend: Corporate housing or 1k/month
 * Relocation/Signing Bonus: 30k when I joined
 * Stock and/or recurring bonuses: $25k cash bonus, $136k in RSUs vesting next year based on the current price
 * Total comp: $315k
-
 ```
 
 ```
-
 Education: BS in CS  
 Prior Experience: 3 internships at big tech companies  
 Company/Industry: Apple  
@@ -6815,11 +6170,9 @@ Relocation/Signing Bonus: 30k when I joined
 Stock and/or recurring bonuses: 20k cash bonus, ~100k stock vesting this year at current stock price  
 Total comp: 260k
 
-
 ```
 
-```
-School/Year: Top 10 CS
+```School/Year: Top 10 CS
 Prior Experience: 3 internships including Apple
 Company/Industry: Southwest Airlines (Highly Recommend SWA. Amazing company.)
 Title: Software Engineer Intern
@@ -6827,11 +6180,9 @@ Location: Dallas TX
 Duration: 12 weeks
 Salary: $18/hr + Unlimited Free Flights :)
 ​
-
 ```
 
-```
-Education: BS CS at California Target School
+```Education: BS CS at California Target School
 Prior Experience: 3 internships
 Lyft (accepted):
 Location: San Francisco
@@ -6841,11 +6192,9 @@ Stock: ~$280k over 4 years, based on current valuation
 Relocation: $10k
 Total comp: $270k year 1, $200k thereafter
 This was an intern return offer – I really enjoyed my time there :)
-
 ```
 
 ```
-
 School/Year: Junior, top 15 CS school
 Prior Experience: 2 internships, one of them fortune 500
 Lyft (accepted!):
@@ -6873,11 +6222,9 @@ Duration: 12 weeks
 Salary: 50/hr
 Relocation/Housing Stipend: None
 Got rejection after rejection for a few months until I magically got all of these offers within days of each other. You really do get better with every interview (good or bad), stick with it guys!
-
 ```
 
 ```
-
 School/Year: US top 100 CS school (not known for CS)
 Prior Experience: 4 Internships, 1 in machine learning, currently in grad school
 Company/Industry: Lyft Level 5 Self Driving Group, Autonomy Team
@@ -6887,11 +6234,9 @@ Duration: 13 weeks
 Salary: $58 / hr ~ $9.2k / month
 Relocation/Housing Stipend: Full comp relocation, $1500/month housing
 
-
 ```
 
-```
-School/Year: Somewhat well known tech school in the US / 3rd year
+```School/Year: Somewhat well known tech school in the US / 3rd year
 Prior Experience: Unicorn company first year program and big N first/second year program
 Company/Industry: Lyft
 Title: SWE intern
@@ -6907,11 +6252,9 @@ Location: Seattle
 Duration: 12 weeks
 Salary: $7,300/month + $5,000 return bonus (one time)
 Relocation/housing stipend: $7,000 for the 12 weeks plus all flights paid for
-
 ```
 
 ```
-
 School/Year: Top 10 CS school in California, Junior
 Company: Lyft
 Position: Software Engineering Intern
@@ -6921,11 +6264,9 @@ Salary: $54/hr (~9k a month)
 Housing Stipend: 9k
 ~$375-400 in perks a month (ride share credits, phone bill, etc.) and catered meals
 
-
 ```
 
-```
-I’m currently on a September comp cycle, so these numbers are brand new and reflect my raise for the year.
+```I’m currently on a September comp cycle, so these numbers are brand new and reflect my raise for the year.
 Note there’s a lot of variance in my yearly "income" since more than half my comp is RSUs alone now, and changes to stock price will significantly affect both my assets and my W2 income.
 Education: MS CS at Cornell, BS CSE from a state school
 Prior Experience: 17 years in operating systems and file systems
@@ -6951,11 +6292,9 @@ My number one value I bring to an organization is problem solving, whether it's 
 Yes, I can get quite wordy.  Like Pascal, I lack the time to make this a shorter letter.
 Yes, when I added it up, I said "holy f*ck".  I never expected to be making this much money, in my wildest dreams.
 
-
 ```
 
-```
-Education: Dev Bootcamp Chicago, 2014
+```Education: Dev Bootcamp Chicago, 2014
 Prior Experience:
 Small consulting shop directly out of DBC - $61k salary, no other comp
 Edtech startup - $82,500, jumped to $90k after six months, no other comp
@@ -6968,11 +6307,9 @@ Relocation/Signing Bonus: N/A
 Stock and/or recurring bonuses: Yearly bonus up to 10%; paid out at 10% prorated in December (~$2,500)
 Total comp: $113,850-$125,235 in 2018
 Other: we just moved from a PTO system to a discretionary (theoretically infinite :eyeroll:) time off.
-
 ```
 
-```
-Education: B.S. ECE
+```Education: B.S. ECE
 Prior Experience: 1 internship at a medical company
 Company/Industry: Cisco
 Title: SWE
@@ -6981,11 +6318,9 @@ Salary: 117k
 Relocation/Signing Bonus: 20k
 Stock and/or recurring bonuses: 25k over 4 yrs + 8% annual (9k)
 Total comp: 152k 1st year, 132k after
-
 ```
 
-```
-Education: BSCS @ a CSU
+```Education: BSCS @ a CSU
 Prior Experience: 1 internship (not @ BigN)
 Company/Industry: Cisco
 Title: G6 SWE
@@ -6995,11 +6330,9 @@ Relocation/Signing Bonus: $7k
 Stock and/or recurring bonuses: 5% annual
 Total comp: $114k (Y1)
 I'm actually an '18 grad but had some trouble breaking into the market as a "new grad". Happy I got a G6 (SWE2 at most companies) offer though; hoping to use that to make up for lost time.
-
 ```
 
-```
-School/Year: Senior, Top ~300 CS
+```School/Year: Senior, Top ~300 CS
 Prior Experience: Large but mostly unheard of Food Co.
 Cisco Meraki
 Title: SRE Intern
@@ -7008,11 +6341,9 @@ Duration: 12 Weeks
 Salary: $46/hr
 Relocation/Housing Stipend/Misc: Paid housing, $100 lyft credits/month, subsidized public transpo. pass
 
-
 ```
 
-```
-Education: MS in ECE from top state school
+```Education: MS in ECE from top state school
 Prior Experience: None
 Company/Industry: Cisco
 Title: Software Engineer II
@@ -7021,11 +6352,9 @@ Salary: 95k
 Relocation/Signing Bonus: 7.5k/7k
 Stock and/or recurring bonuses: 8% company-wide bonus
 Total comp: ~117k
-
 ```
 
-```
-School/Year: Senior, Top 50 State School
+```School/Year: Senior, Top 50 State School
 Prior Experience: J.P. Morgan
 Company: Cisco
 Title: Software Engineer Intern
@@ -7033,11 +6362,9 @@ Location: San Jose
 Duration: 10-12 weeks (May - Aug)
 Salary: 33/hr
 Relocation/Housing Stipend: $6k
-
 ```
 
-```
-School/Year: Decent CSU (California State University), Sophomore
+```School/Year: Decent CSU (California State University), Sophomore
 Prior Experience: None related, just regular school jobs
 Company/Industry: Cisco
 Title: Software Engineering Intern 
@@ -7045,11 +6372,9 @@ Location: San Jose, CA
 Duration: 12 Weeks
 Salary: $28/hour
 Relocation/Housing Stipend: $6,000 relocation bonus or corporate housing 
-
 ```
 
 ```
-
 School/Year: Carleton U 2nd Year
 Prior Experience: 1 term at an antivirus company
 Company/Industry: Shopify
@@ -7059,11 +6384,9 @@ Duration: 4 months
 Salary: $30 / hr (CAD)
 Relocation/Housing Stipend: not applicable to me
 
-
 ```
 
-```
-School: BS CS / Finance Minor from Top 25 CS University (Top 50 US University)
+```School: BS CS / Finance Minor from Top 25 CS University (Top 50 US University)
 Prior Experience: 1 Fortune 50 Insurance Company, 1 Large Bank
 Capital One:
 Location: New York City
@@ -7075,11 +6398,9 @@ Relocation: $1500
 Total Comp: $127,000K year 1, then $110,400K
 It's really god damn frustrating* to see how low this is compared to other offers, especially after failing onsites with Google, Amazon, and a couple others that are giving nearly if not legitimately twice what I'm making now. And I'll be damned if I mention my frustration to anyone, because then I'd be complaining about a $127K salary out of college and am entitled.
 The grind continues until I'm in the upper echelon, not stuck at a second rate company, salary, etc. These threads are always a great way to keep my mindset in check. 
-
 ```
 
-```
-Year: 3rd Year/Junior
+```Year: 3rd Year/Junior
 School: New York University
 Prev Experience: SWE Intern at small company, Uni TA
 Company/Industry: Tencent
@@ -7090,11 +6411,9 @@ Salary: USD $1000/month
 Relocation/Housing Stipend: USD $300/month transportation fee, campus housing provided
 ​
 The monthly expense was like USD $150/month since lunch and dinner were provided at their dining hall lol, so not as bad as it seems on paper.
-
 ```
 
-```
-Education: 4 year B.S. in Computer Science
+```Education: 4 year B.S. in Computer Science
 Prior Experience: - One internship my senior year - 11 years and about as many prior jobs ranging from support to developer (the recession was a bitch)
 Industry: Insurance
 Title: Software Engineer
@@ -7104,11 +6423,9 @@ Salary: $100k
 Relo/signing: Not needed on relo, not offered on signing.
 Stock/Recurring: Stock options vesting over a standard period.
 Total comp/perks: We get free lunch every day, paid parking, $600/year for a new phone, bus pass (through program with the city), no cap on PTO (just don't abuse it). Benefits also kick in day one including generous maternity/paternity leave, which saved my bacon because my last job laid me off two months to the day my wife was due with our first kid.
-
 ```
 
 ```
-
 Education:
 
 B.Sc Comp Sci, B.Comm Honours Business Adminstration (grad 2013)
@@ -7129,11 +6446,9 @@ Relocation/Signing Bonus: N/A
 Stock and/or recurring bonuses: Approx. $1000
 Total comp: $66K
 
-
 ```
 
 ```
-
 Education: BS in CS from Florida state school
 Prior Experience: Internship in summer of 2015
 Company/Industry: Media research
@@ -7145,11 +6460,9 @@ Relocation/Signing Bonus: There was a relocation bonus but as I grew up nearby, 
 Stock and/or recurring bonuses: There's an AIP worth up to $10k a year. They also do have a stock plan as part of the 401(k) but I dumped it a while ago because we were trending poorly.
 Total comp: $92k
 
-
 ```
 
-```
-Education:  BS in Computer Science and Simulation/Game Engineering, minor in Business.  AS's in Interactive Technology and Web Programming, AA in Computer Graphics.  
+```Education:  BS in Computer Science and Simulation/Game Engineering, minor in Business.  AS's in Interactive Technology and Web Programming, AA in Computer Graphics.  
 Prior Experience:  Some freelancing (website development, databases, etc), some teaching of intro to programming classes, some 3d modeling.  
 Company/Industry: Fortune 500, we build scientific and medical hardware.  
 Title:  Company is weird about titles, my title actually has nothing to do with software.  In terms of job duties it would be most analogous to lead software engineer of a small team.  My actual role is doing VR/AR development.
@@ -7159,11 +6472,9 @@ Salary: 85k
 Relocation: None  
 Stock:  None.  There is however an annual christmas bonus equal to 4% of salary and sometimes another performance based bonus equal to 5%.  Additionally there's 401k matching.  All of this is equal to about 13k at my current salary.  
 Total comp: 98k.
-
 ```
 
 ```
-
 Education: BS CS, public state university
 Prior Experience:
 
@@ -7183,11 +6494,9 @@ Total comp: ~ 65k / year
 Had 3 offers, one for the same amount (minus the student loan program) and one for 65k salary alone.
 This requires commute for a bit but I'm relocating closer in July. Larger salary one would have been a farther relocation immediately, not worth the money.
 Very new here still but loving it so far. It hasn't been easy, but challenging work is interesting work. It's a unique situation where I'm the primary IT guy but also a developer. I have a lot of IT experience but obviously went to school for development. Very IT heavy to start as we're changing the name of the company and moving away from a contracted IT company onto me and hopefully an intern or something soon. Management has been very clear about wanting to expand the tech division here and me being on top of that when it happens, so hopefully a CTO type position within the next few years if we prove we can make it work. Definitely not your typical first job.
-
 ```
 
-```
-School/Year: No name state school in CA/Junior
+```School/Year: No name state school in CA/Junior
 Prior Experience: None. No side projects either
 Company/Industry: Industry typically known for paying less
 Title: Programmer intern
@@ -7197,11 +6506,9 @@ Salary: $14/hour
 Relocation/Housing Stipend: None. I am a local so none needed either.
 Sucks but it gets worse. I know a few people that got $12.75/hour in SF. This was at a rather small tech company owned by a much larger corporation. We all took these offers because when you have no experience, you take what you can get and then hope to build off it. It's obviously a terrible feeling knowing everyone else out here is making at minimum 2x as much and you're the lowest paid, but oh well. 
 If i could do it again, i would do a ton of side projects to put on my resume that would make it much more attractive. This would give me a chance at getting interviews for actual better internships. Then it is a matter of studying CTCI to pass the interview.
-
 ```
 
-```
-Posting this under Low CoL as stated in OP, but apparently Philly is considered Medium CoL from most places I've heard. May be wrong though.
+```Posting this under Low CoL as stated in OP, but apparently Philly is considered Medium CoL from most places I've heard. May be wrong though.
 Education: Non-target Top 100ish School  
 Prior Experience: 1 SWE internship  
 Company/Industry: Comcast  
@@ -7215,11 +6522,9 @@ Total comp: ~81k
 Did not negotiate offer. Only negotiated things like extending deadlines and start date. They were pretty flexible with that.
 Couldn't get a sexy big tech company offer like those at the top of the thread, but glad to provide a data point.
 ​
-
 ```
 
 ```
-
 School/Year: rising senior/unnamed tiny college
 • Prior Experience: internship after freshman year with the same company
 • Company/Industry: Comcast Corp
@@ -7229,11 +6534,9 @@ School/Year: rising senior/unnamed tiny college
 • Salary: 28/hour
 • Relocation/Housing Stipend: no but got 1500 sign on bonus for 1 hr commute.
 
-
 ```
 
 ```
-
 Education: CS and Math major from non-Ivy
 Prior Experience: Interned at start-up, SWE intern at a trading firm.
 Company/Industry: Citadel
@@ -7244,11 +6547,9 @@ Relocation/Signing Bonus: $150k signing bonus. $10k one-time relocation bonus.
 Stock and/or recurring bonuses: $100k expected first year bonus.
 Total comp: ~$400k first year
 
-
 ```
 
 ```
-
 School/Year: Large, well-known state school, Junior
 Prior Experience: Startup, School Website, Juniper Networks
 Company/Industry - Citadel
@@ -7258,11 +6559,9 @@ Duration: 12 weeks
 Salary: 2800/wk (11,200/month)
 Relocation/Housing Stipend: Corporate Housing/all meals provided
 
-
 ```
 
-```
-• ⁠School/Year: Senior (MEng), Stanford/MIT
+```• ⁠School/Year: Senior (MEng), Stanford/MIT
 • ⁠Prior Experience: Big 4
 Citadel
 • ⁠Title: SWE Intern
@@ -7276,11 +6575,9 @@ Facebook
 • ⁠Duration: 12 weeks
 • ⁠Salary: $8,000/month
 • ⁠Relocation/Housing Stipend: corporate housing 
-
 ```
 
 ```
-
 School/Year: top 10 CS School, Sophomore
 Prior Experience: Oracle SWE Intern
 Company/Industry: Citadel
@@ -7290,11 +6587,9 @@ Duration: 11 weeks
 Salary: $2800/week
 Relocation/Housing Stipend: Corporate housing + flights provided
 
-
 ```
 
-```
-School/Year: Junior
+```School/Year: Junior
 Prior Experience: Academic Research
 Company/Industry: Citadel LLC
 Title: Quantitative Research/Analyst Intern
@@ -7302,11 +6597,9 @@ Location: Chicago
 Duration: 10 weeks
 Salary: $10,000/month
 Relocation/Housing Stipend: Housing covered in a very nice place. 
-
 ```
 
-```
-The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
+```The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Biotech company" or "Hideously Overvalued Unicorn"), or add fields if you feel something is particularly relevant.
 Education:
 Prior Experience:
@@ -7328,11 +6621,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-• Education: 4 year Computer Science degree from top-50 university
+```• Education: 4 year Computer Science degree from top-50 university
 • Prior Experience: 10 years at very large media company, 3 years at medium (200-500 employees) game studio
 • Company/Industry: well known big-tech company, HCI R&D
 • Title: Senior Software Engineer
@@ -7344,11 +6635,9 @@ Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Ch
 • stock bonus: ~$180k/year
 • Total comp: ~$450k
 My first job started at ~$50k/year in '06, when I left that company in 2016 I was at $120k/year. Second job started at $150k and left at 185k. Decided to take a fast-track to early retirement and sell-out to one of the big tech firms you know. I'll ride this out for the next few years until my house and vacation property are paid off then I'm fucking done with this shit and I'm going off the grid forever.
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
 Education:
@@ -7371,11 +6660,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
 School/Year:
 Prior Experience:
@@ -7392,11 +6679,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-Already had my internship this year (mine are from Jan to April) but so far I do have one return offer for 2020 which stands as such:
+```Already had my internship this year (mine are from Jan to April) but so far I do have one return offer for 2020 which stands as such:
 School: UWaterloo, will be in 4th year
 Prior experience: 3 internships (1 year total, all software dev)
 Company/Industry: top 5 bank
@@ -7407,11 +6692,9 @@ Salary: $33.30CAD/hour (for those wondering, they paid $30.75 this year that I w
 Relocation/Housing: none
 Other benefits: 4 paid days off, employee banking benefits like market exchange rates (useful for traveling and investing in foreign assets)
 Fairly good offer for Ontario, haven't been able to land any better ones. I haven't accepted it yet, I'm still applying to some places in the States (mainly interested in medium CoL cities like Chicago and Austin), but I'm open to live anywhere if the work is interesting and pays well. If anyone has any advice for landing a FinTech job in the States (e.g. at a bank, hedge fund, etc), I'd love to hear it!
-
 ```
 
-```
-Here you go
+```Here you go
 ​
 School/Year: 3rd year at a top national cs univ
 Prior Experience: Three months of SE internship @ medium sized national company
@@ -7423,11 +6706,9 @@ Salary: ~422$/month
 Relocation/Housing Stipend: -
 ​
 Reading others answer (especially the one from US High CoL) makes me kinda depressed lol
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
 Education:
@@ -7450,11 +6731,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
+```The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Biotech company" or "Hideously Overvalued Unicorn"), or add fields if you feel something is particularly relevant.
 Education:
 Prior Experience:
@@ -7476,11 +6755,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
 Education:
@@ -7503,11 +6780,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
 School/Year:
 Prior Experience:
@@ -7524,11 +6799,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
+```The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Biotech company" or "Hideously Overvalued Unicorn"), or add fields if you feel something is particularly relevant.
 Education:
 Prior Experience:
@@ -7550,11 +6823,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
 ```
-
 Education: Associates in computer programming
 Prior experience: none
 Company/Industry: State Government
@@ -7564,11 +6835,9 @@ Location: Medium COL city in pacific northwest
 Salary: ~$52k
 Other compensation: 5% retirement match, 25 days vacation and 12 days sick leave annually. 
 I'm working on getting a bachelor's in CS while working full time, I'm stuck between not being sure if it's worth it or not as by the time I'd get it I feel like it'd be 6 years, by then I'll have 8 years of experience. I would appreciate any advice someone could offer. 
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
 School/Year:
 Prior Experience:
@@ -7585,11 +6854,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
+```The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Biotech company" or "Hideously Overvalued Unicorn"), or add fields if you feel something is particularly relevant.
 Education:
 Prior Experience:
@@ -7611,11 +6878,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-I feel like Baltimore should be in the Medium CoL group, but since it was specifically listed in Low CoL:
+```I feel like Baltimore should be in the Medium CoL group, but since it was specifically listed in Low CoL:
 Education:  MS and BS in CS
 Prior Experience:
 
@@ -7630,11 +6895,9 @@ Relocation/Signing Bonus: 0
 Stock and/or recurring bonuses: 0 
 Total comp: $75k
 
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
 Education:
@@ -7657,11 +6920,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
+```The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Biotech company" or "Hideously Overvalued Unicorn"), or add fields if you feel something is particularly relevant.
 Education:
 Prior Experience:
@@ -7683,11 +6944,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-Education: BS in CS
+```Education: BS in CS
 Prior Experience: Backend Webdev - 3 years
 Company/Industry: Auto Dealership Software
 Title: Software Programmer
@@ -7698,11 +6957,9 @@ Relocation/Signing Bonus: none
 Stock and/or recurring bonuses: quarterly performance based bonuses (Have already received one in my 6 months here for 2.5% of my salary though that number will change) and end of year profit sharing into 401(k) of 5% they also match contributions to 401(k) up to 4%.
 Total comp: 80k+
 My city is in the very low end of the Medium CoL range.
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
 Education:
@@ -7725,11 +6982,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-Education: BA in slightly related field at nicer state school. MS in slightly related field from target school. 
+```Education: BA in slightly related field at nicer state school. MS in slightly related field from target school. 
 Prior Experience: Web Dev, but not much programming. TA-ing. 
 Company/Industry: Medium sized company, events
 Title: Software Engineer I
@@ -7738,11 +6993,9 @@ Salary: 100k
 Relocation/Signing Bonus: 5k
 Stock and/or recurring bonuses: Stocks after a year
 Total comp: 100k
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
 School/Year:
 Prior Experience:
@@ -7759,11 +7012,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-School/Year:  Rising Juniorish @ Top 10 CS School
+```School/Year:  Rising Juniorish @ Top 10 CS School
 Prior Experience: None
 -----------------------
 Company/Industry: Medium Insurance Software Company
@@ -7772,11 +7023,9 @@ Location: Atlanta, GA
 Duration: 12 weeks
 Salary: $17/hour
 Relocation/Housing Stipend : None, I live in ATL.
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
 Education:
@@ -7798,11 +7047,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
 ```
-
 Education: BS CS, no-name private iniversity
 Prior Experience: 
 
@@ -7817,11 +7064,9 @@ Stock and/or recurring bonuses: NA
 Total comp: $74,000 (first year)
 This is a current offer, being debated against my Medium CoL offer.
 Edit: added signing bonus, and accepted the offer.
-
 ```
 
-```
-I ran some very basic and rudimentary calculations using SmartAsset.com's paycheck calculator comparing a high COL city (SF) to a low COL city (PHX), assuming a few things: a 5% 401k contribution each paycheck, rent for a 1 bedroom apartment (maybe...it could be like $10,000 in SF for all I know. Probably low balled it a bit there), $70 for internet, and $80 for combined utils, along with a 1.8% tax withholding in PHX.
+```I ran some very basic and rudimentary calculations using SmartAsset.com's paycheck calculator comparing a high COL city (SF) to a low COL city (PHX), assuming a few things: a 5% 401k contribution each paycheck, rent for a 1 bedroom apartment (maybe...it could be like $10,000 in SF for all I know. Probably low balled it a bit there), $70 for internet, and $80 for combined utils, along with a 1.8% tax withholding in PHX.
 EDIT: For clarification, the rent price I listed is rent + utils + internet. It also is considering high quality, luxury style apartments. After looking more on the SF side of things, I think the average cost would probably be closer to 3200. In that case, the total housing costs per year would be closer to $38,400, and the take home would be $56,110. ~ish.
 SF
 Salary: $150,000
@@ -7838,11 +7083,9 @@ Post-tax annual take home: $58,864
 Rent: $1650 ( + internet and utils) / month = $19,800
 Take home minus rent = $39,064
 Again, don't take these numbers as gospel, but just as a quick, rough comparison, a $70,000 difference translates to about $20,000 in take home dollars between these two cities...although, I would argue Phoenix should be considered Medium COL, but eh. Every city will be different anyway.
-
 ```
 
-```
-Education: Bachelor of Science: Computing Science. Non-target school that isn't well known
+```Education: Bachelor of Science: Computing Science. Non-target school that isn't well known
 Prior Experience:
           3 internships at medium sized software company
           1 internship at Microsoft
@@ -7866,11 +7109,9 @@ Other info: I know that many interns receive full time job offers from Microsoft
 Editing: Adding some more details
 My interviews went really well which helped me get a good offer. 
 By the time the 3rd interview endd, Microsoft usually knows if they are going to hire you or not. If they decide to hire you, your 4th interview will be "as-necessary" which is basically someone trying to convince you to join them. They asked about my interests, the team I wanted to join, and if I had any doubts about working at Microsoft. 
-
 ```
 
 ```
-
 Education: Software Engineering Bachelor
 Prior Experience: Two internships
 Company/Industry: Medium Software Consulting Firm
@@ -7887,11 +7128,9 @@ Yearly bonus around €1000
 €400 health-bonus if you have no sick days in a year.
 Total comp: €36.000 (estimate)
 Also pension scheme included based on gross income. Any questions, feel free to ask!
-
 ```
 
 ```
-
 Education: Some College (BS Computer Engineering at top tier tech school)
 Prior Experience: Internships
 Company/Industry: Medium size software company
@@ -7902,11 +7141,9 @@ Relocaction/Signing Bonus: $2.5k
 Stock and/or recurring bonus: 5k - 10k depending on performance
 Total comp: $80-85k
 
-
 ```
 
-```
-The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
+```The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Biotech company" or "Hideously Overvalued Unicorn"), or add fields if you feel something is particularly relevant.
 Education:
 Prior Experience:
@@ -7928,11 +7165,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-Education:  B.A. CS and Math, M.S. in CS, both from top-10 state U.
+```Education:  B.A. CS and Math, M.S. in CS, both from top-10 state U.
 Prior Experience: ~18 years in software
 Company/Industry:  Fin Tech / Banking (not trading)
 Title: Site Reliability Lead / DBA-lite
@@ -7942,11 +7177,9 @@ Salary:  $137k
 Relocation/Signing Bonus: no idea; I didn't relocate
 Stock and/or recurring bonuses:  stock options the first 3 years but none after that.  May not ever be worth anything.  No 401k match or performance based bonuses.
 Total comp:  $137k
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
 School/Year:
 Prior Experience:
@@ -7963,11 +7196,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
 Education:
@@ -7989,11 +7220,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
+```The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Biotech company" or "Hideously Overvalued Unicorn"), or add fields if you feel something is particularly relevant.
 Education:
 Prior Experience:
@@ -8015,11 +7244,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-Education: None
+```Education: None
 Prior Experience: No Internships. Small Agency -> Larger agency -> medium startup
 Company/Industry: Communications Software
 Title: Senior Front End Engineer
@@ -8029,11 +7256,9 @@ Salary: $110k
 Relocation/Signing Bonus: none
 Stock and/or recurring bonuses: n/a
 Total comp: $110k + random bonuses
-
 ```
 
 ```
-
 Education:
 
 B.S. Computer Science
@@ -8050,11 +7275,9 @@ Salary: $85,000
 Relocation/Signing Bonus: N/A
 Stock and/or recurring bonuses: N/A
 
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
 School/Year:
 Prior Experience:
@@ -8070,11 +7293,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
 School/Year:
 Prior Experience:
@@ -8090,11 +7311,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-No big-N or anything here but was grateful to receive a couple offers from more local companies.
+```No big-N or anything here but was grateful to receive a couple offers from more local companies.
 The offer I took is Medium CoL (Lower than Seattle, Higher than Chicago) and another in high COL but the rest of my offers are from low CoL.
 School/Year: Top 100 College/Junior
 Prior Experience: 1 Software Quality Assurance Intern
@@ -8123,11 +7342,9 @@ Location: Virginia, NOVA area
 Duration: 6 months
 Salary: $20/hr
 Relocation/Housing Stipend: None
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent internship offers you've gotten, new grad and experienced dev threads will be on Wednesday and Friday, respectively. Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Top 20 CS school" or "Regional Midwest state school").
 School/Year:
 Prior Experience:
@@ -8143,11 +7360,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-Company 1.    
+```Company 1.    
 School/Year: California State University. Junior. 
 Prior Experience: No CS experience.
 Company/Industry: Verizon
@@ -8166,11 +7381,9 @@ Duration: 10 weeks
 Salary: $20/hr
 Relocation/Housing Stipend: Flight + Housing paid
 I think they're both medium CoL. Added Kohls offer. 
-
 ```
 
-```
-School/Year: Average State School. I graduate Dec 2018
+```School/Year: Average State School. I graduate Dec 2018
 Prior Experience: 2 year IT Support internship
 Company/Industry: Tech Company
 Title: SWE Intern
@@ -8179,11 +7392,9 @@ Duration: Spring - Summer. Potential for Fulltime.
 Salary: 18hr 
 Relocation/Housing Stipend: N/A
 How is Raleigh Medium COL but Charlotte low? Makes no sense.
-
 ```
 
-```
-The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
+```The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Biotech company" or "Hideously Overvalued Unicorn"), or add fields if you feel something is particularly relevant.
 Education:
 Prior Experience:
@@ -8205,11 +7416,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-Don't want to be doxxed, so keeping it vague. Just want to share what's possible out there.
+```Don't want to be doxxed, so keeping it vague. Just want to share what's possible out there.
 Education: BS in unrelated engineering, bootcamp
 Prior Experience: 1.5 years at no name comp; 1 year well-known comp
 Company/Industry: Pre IPO Unicorn
@@ -8222,11 +7431,9 @@ Stock and/or recurring bonuses: Bonus based on revenue, anywhere from $50k - $10
 Total comp: $170k-$220k cash. If you count RSUs, range is $220k - $270k.
 I'm an outlier for sure. This is semi-remote also.
 I stand to make a decent amount of money if the IPO goes well ... whenever that is.
-
 ```
 
-```
-MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
+```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Adtech company" or "Finance startup"), or add fields if you feel something is particularly relevant.
 Education:
@@ -8248,11 +7455,9 @@ If the principal city of your metro is not in the reference list below, go to be
 High CoL: NYC, LA, DC, SF Bay Area, Seattle, Boston, San Diego
 Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Portland, Sacramento, Las Vegas, Austin, Raleigh
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
-
 ```
 
-```
-Education: UC Irvine (2.6 GPA)
+```Education: UC Irvine (2.6 GPA)
 Prior Experience: summer internship and well-known electronics company. No major side projects. 
 Company/Industry: medium sized software company 
 Title: SWE
@@ -8262,11 +7467,9 @@ Relocation/Signing Bonus: n/a
 Stock and/or recurring bonuses: n/a
 Total comp: 85k
 Hope someone finds this helpful! 
-
 ```
 
-```
-Education: Full sail University 2012-BS in game design
+```Education: Full sail University 2012-BS in game design
 Prior experience: 6 years total. freelance web dev in college, Application Developer for printing/translation company,  Application developer for financial company
 Company/industry: insurance
 Title: Senior Application Developer
@@ -8275,11 +7478,9 @@ Location: North West corner of new Jersey
 Salary: 93k, annual 2% raise
 Relocation/signing: 0
 Today comp: 100k with Usually a 6k bonus. Bonus is based on ACIP goals set by company. Manager determines how much bonus we get
-
 ```
 
-```
-Currently been in my internship for 8 months.
+```Currently been in my internship for 8 months.
 School/Year: Missouri Western State University, Senior
 Prior Experience: None
 Company/Industry: Manufacturing/Fabrication Automotive
@@ -8290,11 +7491,9 @@ Salary: $18.50/hr
 Relocation/Housing Stipend: N/A
 ​
 Interviewed with Cerner but was turned down as they had filled all positions for summer internships. Encouraged me to apply again for the next round of internships.
-
 ```
 
-```
-Education: BS in CS from State School
+```Education: BS in CS from State School
 Prior Experience: Internship with F500
 Years of Experience: 1 (if you include internship experience) 
 Company/Industry: Telecommunications/ Manufacturing
@@ -8305,11 +7504,9 @@ Salary: $74k
 Relocation/Signing Bonus: None 
 Stock and/or recurring bonuses: 8% annual bonus target
 Total comp: $80k or so
-
 ```
 
-```
-Education: bsc cs
+```Education: bsc cs
 Prior experience: 5 years 
 Industry : retail 
 Title: front end architect 
@@ -8318,11 +7515,9 @@ Salary: 120k base
 Stock and bonus : 10% bonus + discount on company stock = 20k 
 Total comp: 140k
 Other: I only work 30 hour weeks as we’re severely underpaid in Toronto 
-
 ```
 
-```
-Education: BS in CpSc
+```Education: BS in CpSc
 Prior Experience: 2.5 years at a competitor
 Company/Industry: Data center operating systems
 Title: Software Engineer 4
@@ -8332,11 +7527,9 @@ Salary: 150k
 Relocation/Signing Bonus: 0
 Stock and/or recurring bonuses: ~85k/year in RSUs
 Total comp: 235k  
-
 ```
 
 ```
-
 School/Year: Top 10 CS/Rising 5th year
 Prior Experience: 2 F500 Internships
 
@@ -8354,11 +7547,9 @@ Duration: 11 weeks
 Salary: $7,493/month
 Relocation/Housing Stipend: Paid relocation
 
-
 ```
 
 ```
-
 School/Year: Top 10 CS/Rising 5th year
 Prior Experience: 2 F500 Internships
 
@@ -8376,11 +7567,9 @@ Duration: 11 weeks
 Salary: $7,493/month
 Relocation/Housing Stipend: Paid relocation
 
-
 ```
 
 ```
-
 School/Year: top 10 CS school, Sophomore
 Prior Experience: nothing CS related
 Square - Accepted
@@ -8405,11 +7594,9 @@ Duration: 12wks
 Salary: 26/hr
 Relocation/Housing Stipend:  1000/mo
 
-
 ```
 
 ```
-
 School/Year: Rising Super Senior @ Top 10 CS
 Prior Experience: 2 F500 Internships, PT work for school
 ------------------------------------------------------
@@ -8427,11 +7614,9 @@ Duration: 11 weeks
 Salary: $7,493/month
 Relocation/Housing Stipend: Paid relocation. No housing. 
 
-
 ```
 
 ```
-
 School/Year: San Jose State University, Master's Student
 Prior Experience: SWE Intern (7mo)
 Company/Industry: PayPal
@@ -8441,11 +7626,9 @@ Duration: 12 weeks
 Salary: 49$/hr
 Relocation/Housing Stipend: Housing + return flight paid for
 
-
 ```
 
-```
-Education: Undergraduate Computer Science at Go8, Australia
+```Education: Undergraduate Computer Science at Go8, Australia
 Prior Experience: 2 internships at Big 4 tech firms 
 Company/Industry: Proprietary trading
 Title: Software Engineer
@@ -8477,11 +7660,9 @@ Relocation/Signing Bonus: $18k signing, $5k relocation
 Stock and/or recurring bonuses: $20k RSUs per year
 Total comp: $148k
 Atlassian and the Big4 were unwilling to negotiate compensation as it was fixed for all grads, even though I had higher offers from elsewhere.
-
 ```
 
 ```
-
 Education: Bach. Software Engineering (RMIT Melbourne)
 Prior Experience: 1yr Interning @ Zendesk, 3 months @ Atlassian
 The above is obviously common to all the following.
@@ -8512,11 +7693,9 @@ Relocation/Signing Bonus: $0
 Stock and/or recurring bonuses: $100K USD (1 yr cliff, 4 year vesting) + $8000AUD Super-annuation
 Total comp:  ~$128,000 AUD
 Joining Aus Unicorn. Got a good vibe at onsite, and feel it is best for technical and career growth.
-
 ```
 
 ```
-
 Education: Bach. Software Engineering (RMIT Melbourne)
 Prior Experience: 1yr Interning @ Zendesk, 3 months @ Atlassian
 The above is obviously common to all the following.
@@ -8547,11 +7726,9 @@ Relocation/Signing Bonus: $0
 Stock and/or recurring bonuses: $100K USD (1 yr cliff, 4 year vesting) + $8000AUD Super-annuation
 Total comp:  ~$128,000 AUD
 Joining Aus Unicorn. Got a good vibe at onsite, and feel it is best for technical and career growth.
-
 ```
 
 ```
-
 Education: Bach. Software Engineering (RMIT Melbourne)
 Prior Experience: 1yr Interning @ Zendesk, 3 months @ Atlassian
 The above is obviously common to all the following.
@@ -8582,11 +7759,9 @@ Relocation/Signing Bonus: $0
 Stock and/or recurring bonuses: $100K USD (1 yr cliff, 4 year vesting) + $8000AUD Super-annuation
 Total comp:  ~$128,000 AUD
 Joining Aus Unicorn. Got a good vibe at onsite, and feel it is best for technical and career growth.
-
 ```
 
 ```
-
 Prior Experience:
 
 B.S. at top CS school
@@ -8614,11 +7789,9 @@ Salary: $116,000 + 10% annual bonus
 Stock: $100,000 / 4 years
 Bonus: $30,000
 
-
 ```
 
 ```
-
 School/Year: RMIT University 
 Prior Experience: 1 year internship @ Zendesk
 Company/Industry: Atlassian
@@ -8628,11 +7801,9 @@ Duration: 3 months (Dec-Feb)
 Salary: $75,000AUD per/annum (paid hourly)
 Relocation/Housing Stipend: $2000AUD lump sum
 (Have posted this before, but feel like it's worth re-posting as Aus is sometimes bare)
-
 ```
 
-```
-School/Year: Top/big Australian university, 2nd year undergraduate
+```School/Year: Top/big Australian university, 2nd year undergraduate
 Prior Experience: Started programming since middle school, had an internship at Atlassian previously
 Company: Microsoft
 Title: Software Engineer Intern
@@ -8640,11 +7811,9 @@ Location: Seattle
 Duration: 12 working weeks (November - January)
 Salary: ~$22,000 USD for the 12 weeks
 Relocation/Housing Stipend: Corporate housing included
-
 ```
 
 ```
-
 School/Year: NYU/Junior
 Prior Experience: Personal projects (Android, Unity)
 Company/Industry: Atlassian 
@@ -8654,11 +7823,9 @@ Duration: 12 weeks
 Salary: $41/hr
 Relocation/Housing Stipend: None
 I had no idea Atlassian could pay like a Big-N company could.
-
 ```
 
 ```
-
 Education: dropped out of college, completed ~2 years of BSEE
 Location: Indianapolis metro area (col: 87.9)
 Experience: ~17 years total professional experience in IT, of that (overlapping) ~15 total with SQL/RDBMS/PLSQL/TSQL/reporting, ~7 as a properly titled software engineer, ~7 in industry, ~2 in cloud, ~3 in consulting
@@ -8670,11 +7837,9 @@ Salary:  $125k (full time W2)
 other compensation: standard benefits, up to ~$4.5k in 401k matching, pretty good healthcare coverage/costs, 21 days total PTO
 (prior position ~118k with bonus, mediocre benefits in consulting, had to pay own downtown parking ~1200/yr)
 Worth noting I know a few people in the $170k-180k range in my market (Indianapolis).  Senior engineers in the $110-130k range is now fairly normal.  I know many mid-level engineers in the $80-100k range, and new grads around $55k-60k.  I've had a lot of open conversations with coworkers, people seem to be less shy these days.  I've literally doubled my salary in the past ~7 years since I was first given a software engineering titled role. 
-
 ```
 
-```
-Education: Top 10/15 CS Schools
+```Education: Top 10/15 CS Schools
 Prior Experience: Internships at Google and two other mid-tier companies
 Accepted the first offer, and didn't list a few others.
 I did a lot of negotiating, but more importantly, I feel like I got really lucky with interviews. Throughout the process, I got rejected from a lot of other companies as well.
@@ -8724,11 +7889,9 @@ Salary: 99,000
 Relocation/Signing Bonus: 11,500 (10 sign on + 1.5 relocation)
 Stock and/or recurring bonuses: 5,000-10,000 performance bonus per year
 Total comp: 110,000 first year. 105,000 after
-
 ```
 
-```
-Education: BS in Computer Science @ state school
+```Education: BS in Computer Science @ state school
 Prior Experience: Two summer internships at large financial services company in NYC
 Company/Industry: TDP, Capital One
 Title: Associate Software Engineer
@@ -8738,11 +7901,9 @@ Salary: 90k base
 Relocation/Signing Bonus: 10k signing, 1.5k relocation
 Stock and/or recurring bonuses: 0-6k depending on performance
 Total comp: 101.5k + performance (Y1 only).
-
 ```
 
 ```
-
 Education: Boring State School
 Prior Experience: 1 internship + part time development at school
 Company/Industry: Capital One
@@ -8755,11 +7916,9 @@ Total comp:
 
 First Year: 100k
 
-
 ```
 
 ```
-
 Education: BA Math + CS Minor, state U
 Prior Experience: 2 yr internship + ~ > half a year FT for Gov agency
  
@@ -8781,11 +7940,9 @@ Relocation/Signing Bonus: 10k / 10k
 Stock and/or recurring bonuses: 20k / 4 yrs stock, ~ 20-30% cash bonus / yr
 Total comp: Anywhere from 150k - 190k average per year, amortized over 4 years, depending on performance 
 
-
 ```
 
 ```
-
 Education: BS/MS at a no name School
 Prior Experience:
 
@@ -8808,11 +7965,9 @@ Relocation/Signing Bonus: 5.5k / 15k
 Stock and/or recurring bonuses: 120k/3.5years   and 20% performance bonus
 Total comp: 166k Year 1, 151k after not counting performance
 ​
-
 ```
 
-```
-Education: Bachelors in Computer Science Graduating Spring 2019 - Top Public University
+```Education: Bachelors in Computer Science Graduating Spring 2019 - Top Public University
 Prior Experience: 1 Internship at a small company (< 200 employees)
 Company/Industry: Capital One
 Title: Associate Software Engineer
@@ -8821,11 +7976,9 @@ Salary: $90,000
 Relocation/Signing Bonus: $10,000 Signing + $1,500 Relocation
 Stock and/or recurring bonuses: ~$2,400 - $4,800 Target Bonus
 Total comp: ~$104,000 first year, ~$93,000 after
-
 ```
 
 ```
-
 Education: Top 5 Public University
 Prior Experience: 1 Internship at a small local company
 Company/Industry: Capital One
@@ -8836,11 +7989,9 @@ Relocation/Signing Bonus: $10,000 Signing + $1,500 Relocation
 Target Bonus: $3,800
 Total Comp: $105,300
 
-
 ```
 
-```
-School: BS ChemE, CS Minor @ State school, probably top 25 engineering programs
+```School: BS ChemE, CS Minor @ State school, probably top 25 engineering programs
 Prior Experience: 1 software engineering internhship, 3 co-ops as ChemE
 Capital One (accepted):
 Location: McLean, VA
@@ -8851,11 +8002,9 @@ Stock: none
 Relocation: $1.5k
 Total comp: 93.5k, after 6 months I convert to TDP and salary goes to 99k + some performance bonus
 
-
 ```
 
-```
-School: BS ChemE, CS Minor @ State school, probably top 25 engineering programs
+```School: BS ChemE, CS Minor @ State school, probably top 25 engineering programs
 Prior Experience: 1 software engineering internhship, 3 co-ops as ChemE
 Small Software Company (Return offer from internship):
 Location: Philadelphia
@@ -8865,11 +8014,9 @@ Stock: none
 Relocation: none
 Total comp: $88k
 I accepted the Capital One offer I posted under High COL
-
 ```
 
 ```
-
 Education: BS in CS at Large State School
 Prior Experience:  1 previous internship
 Company/Industry: Goldman Sachs
@@ -8891,11 +8038,9 @@ Relocation/Signing Bonus: 1500/10,000 post tax.
 Stock and/or recurring bonuses: 0-6000 performance based.
 Total comp: ~100,000
 
-
 ```
 
-```
-School/Year: Sophomore / Rank ~50 Engineering School
+```School/Year: Sophomore / Rank ~50 Engineering School
 Prior Experience: Fintech Company, Tesla
 Capital One:  
 Title: SWE Intern
@@ -8933,11 +8078,9 @@ Duration: 10 Weeks
 Salary: $18/Hour
 Relocation/Housing Stipend/Misc: n/a
 I accepted offers with the F-500 Company (Spring 2019), Capital One (Summer 2019), and Tesla (Fall 2019)
-
 ```
 
-```
-Education: BS CS/CE
+```Education: BS CS/CE
 Prior Experience:
 $Internship: 2 internships
 Company/Industry: Capital One
@@ -8948,11 +8091,9 @@ Salary: $130,000
 Relocation/Signing Bonus: none this year
 Stock and/or recurring bonuses: 15% match on 15% espp (~$3,200) , $8,800 target with a max of $17,600, 7.5% 401k match on salary & bonus no limit except the legal one
 Total comp: $142,000 - $150,800 -- $147,000 - $161,870 w/ 401k match
-
 ```
 
 ```
-
 School/Year: non-target state school on the east coast  
 Prior Experience: Internship at generic finance company
 ​
@@ -8978,11 +8119,9 @@ Salary: 7600/m ($47.5/hour)
 Relocation/Housing Stipend: Corp Housing or ~1500/month
 ​
 Taking offers in the Winter/Summer. Hype to have these opportunities :) (although I still get jealous when I see these unicorn/trading comps)
-
 ```
 
-```
-School/Year: HYP/Junior
+```School/Year: HYP/Junior
 Prior Experience: Two SWE internships at relatively unknown places
 ​
 Company: Palantir
@@ -9027,11 +8166,9 @@ Location: NYC
 Duration: 12 weeks
 Salary: $5000/month
 Relocation/Housing Stipend: None
-
 ```
 
-```
-​
+```​
 School/Year: Northwestern University / Junior
 Prior Experience: Startup Internship + NASA Internship
 ​
@@ -9098,11 +8235,9 @@ Duration: 12 weeks
 Salary: ~$8000/month
 Relocation/Housing Stipend: 3000 lump sum
 
-
 ```
 
 ```
-
 Company/Industry: Capital One
 Title: Associate Software Engineer (Technology Development Program)
 Location: Richmond VA
@@ -9111,11 +8246,9 @@ Relocation/Signing Bonus: $10,000 signing, $1,500 relocation
 Stock and/or recurring bonuses: $0
 Total comp: ~$110,000
 
-
 ```
 
 ```
-
 Education: BS in CS at Midwest flagship (you've heard of us). 
 Prior Experience: Capital One and 1 small company doing full stack web dev
 Company: Capital One
@@ -9126,11 +8259,9 @@ Relocation/Signing Bonus: $15k net signing + $1.5 net relocation ('net' means th
 Stock and/or recurring bonuses: An annual 'Meets expectations' rating has a bonus range of $2.5k-4.1k. The overall total possible range is $0-6.6k
 Total comp: $99k + ~$3k recurring bonus = $102k recurring; first year is $102k + $27k = $129k
 Note: this is the offer that all returning interns get. Non-interns get the same deal, except the signing bonus is $10k net rather than $15k net. 
-
 ```
 
-```
-Education: Top 15 in USNWR, BS + 1-Year MS
+```Education: Top 15 in USNWR, BS + 1-Year MS
 Prior Experience: Large software company known for databases and medium-sized tech company in navigation (internships the past two summers)
 Company/Industry: Capital One
 Title: Technology Development Program Software Engineer Associate
@@ -9139,11 +8270,9 @@ Salary: $98,000
 Relocation/Signing Bonus: Relocation $2K, Signing $10K
 Stock and/or recurring bonuses: Up to $7K performance bonus
 Total comp: Up to $117K
-
 ```
 
-```
-Education: BS CS/CE
+```Education: BS CS/CE
 Prior Experience:
 $Internship: 2 internships
 Company/Industry: Capital One
@@ -9154,11 +8283,9 @@ Salary: 109000
 Relocation/Signing Bonus: $0 (my first year it was ~15k gross)
 Stock and/or recurring bonuses: 16.75% match on 15% espp (~2700) , $5000-8400 target up to $13,400, 7.5% 401k match
 Total comp: $116,700 - $125,100 ; $125,000 - $135,000 w/ 401k
-
 ```
 
 ```
-
 School/Year: State School / Junior
 Prior Experience: 3 previous internships
 
@@ -9178,11 +8305,9 @@ Salary: $42/hour
 Relocation/Housing Stipend: Free Corporate housing or Housing stipend ($7000 lump sum)
 Transportation Stipend: Rental car ($375/month) or $1200 stipend
 
-
 ```
 
 ```
-
 School/Year: State School / Junior
 Prior Experience: 3 previous internships
 
@@ -9202,11 +8327,9 @@ Salary: $42/hour
 Relocation/Housing Stipend: Free Corporate housing or Housing stipend ($7000 lump sum)
 Transportation Stipend: Rental car ($375/month) or $1200 stipend
 
-
 ```
 
-```
-School/Year: University of Wisconsin - Madison. Junior
+```School/Year: University of Wisconsin - Madison. Junior
 Prior Experience: Fortune 50 Insurance company, small health care company
 Company 1 (Accepted)
 Company/Industry: Capital One
@@ -9223,11 +8346,9 @@ Duration: 10 weeks
 Salary $22/hr, 37.5 hours a week
 Relocation/Housing Stipend: $2000 relocation and housing stipend
 
-
 ```
 
-```
-School/Year: University of Maryland, College Park. Junior.
+```School/Year: University of Maryland, College Park. Junior.
 Prior Experience: Nordstrom, email infra, gov't contractor
 Company/Industry: Facebook (Accepted)
 Title: Software Engineering Intern
@@ -9272,11 +8393,9 @@ Duration: 10 weeks
 Salary: ~7.1k/mo
 Relocation/Housing Stipend: corp housing
 
-
 ```
 
-```
-School/Year: Top 50 CS Schools Junior 
+```School/Year: Top 50 CS Schools Junior 
 Prior Experience: 1 internship as Tech Analyst at medium bank in NYC, 1 internship as web developer at small nonprofit in Boston
 Company/Industry: Capital One
 Title: Software Engineer Intern
@@ -9284,11 +8403,9 @@ Location: Richmond
 Duration: 10 Weeks
 Salary: 45/hr
 Relocation/Housing Stipend: $3000 lump
-
 ```
 
-```
-Education: Top 5 UK uni for CS, BSc,  graduating with a 'First' June 2018
+```Education: Top 5 UK uni for CS, BSc,  graduating with a 'First' June 2018
 Prior Experience: 2 internships in finance/fintech
 Company/Industry: Capital One
 Title: Software Development Engineer 1
@@ -9298,11 +8415,9 @@ Relocation/Signing Bonus: 5,000 GBP
 Stock and/or recurring bonuses: "Performance Related Bonus" - no range indicated
 Total comp: 40,000 GBP + x
 Looking at all the other London offers I didn't realise how much this was at the lower end for international companies. Also looking at salaries from the US by Capital One feels strange.
-
 ```
 
 ```
-
 School/Year: UC Berkeley, Sophomore
 Prior Experience: 2 summer internships at Canadian companies
 Company: Quantcast
@@ -9312,11 +8427,9 @@ Duration: 11 weeks
 Salary: $7.4k / month
 Housing Stipend: $3k
 
-
 ```
 
 ```
-
 Education: Public Ivy UC  
 Prior Experience: No Internships, Startup for a couple of months  
 Company/Industry: Zillow Group  
@@ -9327,11 +8440,9 @@ Relocation/Signing Bonus: 10k over 2 years
 Stock and/or recurring bonuses: 135k RSU over 4 years  
 Total comp: Around 190k for the first two years.
 
-
 ```
 
 ```
-
 Education: BS in Computer Science, large state school
 Prior Experience:
 
@@ -9345,11 +8456,9 @@ Relocation/Signing Bonus: 11k, 25k
 Stock and/or recurring bonuses: ~30k RSU/yr, at least 10% target bonus
 Total comp: ~185k
 
-
 ```
 
-```
-• ⁠Education: BS Computer Science @ Big10 School
+```• ⁠Education: BS Computer Science @ Big10 School
 • ⁠Prior Experience: Previous internship at Salesforce 
 • ⁠Company/Industry: Salesforce 
 • ⁠Title: AMTS - Software Engineer
@@ -9359,11 +8468,9 @@ Total comp: ~185k
 • ⁠Relocation/Signing Bonus: $25k signing bonus, ~$10k relocation
 • ⁠Stock and/or recurring bonuses: $85k in RSUs vesting evenly over four years ($21,250/yr). 10% target bonus each year (based on base salary)
 • ⁠Total comp: ~$195k Year 1, ~165k Year 2-4, ~145k After Year 4 (assuming no raises or promotions)
-
 ```
 
-```
-This is the internship I'm coming to the end of...
+```This is the internship I'm coming to the end of...
 School: Aberystwyth University,  Business IT, 3rd year
 Prior Experience: just uni
 Company: General Electric
@@ -9372,11 +8479,9 @@ Location: Cheltenham, UK
 Duration: 1 year
 Salary: £18.5k 
 Other benefits: So many, it's a great company and it treats it's employees amazingly
-
 ```
 
-```
-Education: BS in computer science at college well known regionally
+```Education: BS in computer science at college well known regionally
 Prior Experience:
 $Internship:
 $1 at Salesforce for 8  months, one at DELL EMC for 4 months
@@ -9388,11 +8493,9 @@ Salary: 110,000
 Relocation/Signing Bonus: 15,000 + 5k (post tax) relocation
 Stock and/or recurring bonuses: 48k RSU/4 years, 10% target bonus
 Total comp: 153k first year, 133k subsequent
-
 ```
 
-```
-• ⁠Education: BS Computer Science @ Big10 School
+```• ⁠Education: BS Computer Science @ Big10 School
 • ⁠Prior Experience: Previous internship at Salesforce 
 • ⁠Company/Industry: Salesforce 
 • ⁠Title: AMTS - Software Engineer
@@ -9402,11 +8505,9 @@ Total comp: 153k first year, 133k subsequent
 • ⁠Relocation/Signing Bonus: $25k signing bonus, ~$10k relocation
 • ⁠Stock and/or recurring bonuses: $85k in RSUs vesting evenly over four years ($21,250/yr). 10% bonus each year (based on base salary)
 • ⁠Total comp: ~$195k first year
-
 ```
 
 ```
-
 Education: BS in Computer Science
 Prior Experience: 3 years of Help Desk, ~3 years of Salesforce Development
 Company/Industry: Private Business
@@ -9418,11 +8519,9 @@ Relocation/Signing Bonus: none
 Stock and/or recurring bonuses: none
 Total comp: 130K
 
-
 ```
 
 ```
-
 Education:
 
 BS Software Development
@@ -9444,11 +8543,9 @@ Relocation/Signing Bonus: 0
 Stock and/or recurring bonuses: ~$100k bonus, ~$50k stock
 Total comp: ~$330k
 I'm probably on the upper end at my employer, but I know there are folks here with Top Secret clearance who make more than I do. Also, I'm pretty sure some of the people who joined earlier than me have enough stock that they don't need to work, but they still do. It's is a cool company.
-
 ```
 
 ```
-
 Education: State School
 Prior Experience:
 Internship at fortune <100 and fortune <200
@@ -9462,11 +8559,9 @@ Relocation/Signing Bonus: relo 3k / sign on 10k
 Stock and/or recurring bonuses: N/A
 Total comp: ~101k
 
-
 ```
 
 ```
-
 School/Year: 3rd-year software engineering at the middle of the pack Scandinavian school
 Prior Experience:  none
 Company/Industry: IBM
@@ -9475,11 +8570,9 @@ Location: Scandinavia
 Duration: Summer
 Salary: 24$/hr
 
-
 ```
 
-```
-Education: Bachelors in Compute Science, state school, graduated in Fall 2018
+```Education: Bachelors in Compute Science, state school, graduated in Fall 2018
 Prior experience: none
 Company/industry: IBM
 Title: Entry Level Full-Stack Developer
@@ -9488,11 +8581,9 @@ Salary: $88,000
 Relocation/Signing bonus: $10,000 signing
 Stock and/or recurring bonuses: none
 Total comp: $98,000 first year, $88,000 after
-
 ```
 
 ```
-
 Education: BS in CS at Tech school in NY, MS in CS at UC school
 Prior Experience:
    Internships: 1 internship at Boeing, 2 for IBM
@@ -9506,11 +8597,9 @@ Relocation/Signing Bonus: Relo of about 25k, 30k Sign on bonus
 Stock and/or recurring bonuses: 40k first year, 50k second year. Both vest over about 4 years.
 Total comp: ~200k for this year.
 
-
 ```
 
 ```
-
 School/Year: Freshman/rising sophomore @ a big 4 school
 Prior Experience: IBM
 Company/Industry: Fintech startup
@@ -9520,11 +8609,9 @@ Duration: 14 weeks
 Salary: $33 / hour
 Relocation/Housing Stipend: $0
 
-
 ```
 
-```
-Education: BS\MS in CS
+```Education: BS\MS in CS
 Prior Experience: ~2 years each at Boeing and IBM
 Company/Industry: MS
 Title: SE2
@@ -9534,11 +8621,9 @@ Salary: $130k
 Relocation/Signing Bonus: Full relo, $20k signing bonus with $40k stock over 4 years
 Stock and/or recurring bonuses: ~15% salary in cash bonus and another ~15% salary in stock
 Total comp: $156k
-
 ```
 
 ```
-
 Education: CS undergrad
 Prior Experience: one 4-month internship
 Company/Industry: IBM
@@ -9549,11 +8634,9 @@ Relocation/Signing Bonus: 0
 Stock and/or recurring bonuses: 4% retirement matching
 Total comp: 77480
 C'est la vie in Canada lol.
-
 ```
 
 ```
-
 Education: Local State School, Masters 
 Prior Experience: 1 internship at IBM 
 Company/Industry: IBM 
@@ -9565,11 +8648,9 @@ Relocation/Signing Bonus: $11,600
 Stock and/or recurring bonuses: None 
 Total comp: $131,600
 
-
 ```
 
-```
-Education: Little 40,000 private university
+```Education: Little 40,000 private university
 Prior Experience: 3 internships
 Company/Industry: IBM
 Title: Software Entry Level Software Developer
@@ -9579,11 +8660,9 @@ Salary: $85,000
 Relocation/Signing Bonus: 6.5k
 Stock and/or recurring bonuses: None lol
 Total comp: $91,500
-
 ```
 
 ```
-
 School/Year: top 4 university for cs, Junior
 Prior Experience: TA-ing, unicorn internship
 ​
@@ -9615,11 +8694,9 @@ Duration: 12 weeks
 Salary:8k/month
 Relocation/Housing Stipend: 4k/summer
 ​
-
 ```
 
 ```
-
 School/Year: Junior, State School (UIUC)
 Prior Experience: Amazon
 Affirm
@@ -9647,11 +8724,9 @@ Duration: 12 weeks
 Salary: $8k/month
 Relocation/Housing Stipend: $7.6k 1-time
 
-
 ```
 
 ```
-
 Education: CS undergrad at a target
 Prior Experience: Research, 3 big 4 internships
  
@@ -9700,11 +8775,9 @@ Stock and/or recurring bonuses: 25k/4 stock, 10% target bonus.
  
 Accepted Lyft last week after reviewing my offers, really excited to start there next Fall :)
 
-
 ```
 
 ```
-
 Education: Football state
 Prior Experience: 1 Internship
 Company/Industry: Qualcomm
@@ -9716,11 +8789,9 @@ Relocation/Signing Bonus: $20k (signing & relo)
 Stock and/or recurring bonuses: $21k (stocks, bonus, 401k match)
 Total comp: $135k first year
 Love San Diego, don't love Qualcomm. Looking to move to a FAANG soon.
-
 ```
 
-```
-School/Year: Top 10 CS, Rising Sr.
+```School/Year: Top 10 CS, Rising Sr.
 Prior Experience: 1 internship, large group project, PT Back End work for my school
 -----------------------
 Company/Industry: Qualcomm
@@ -9738,11 +8809,9 @@ Salary: $24/hour
 Relocation/Housing Stipend: I´m in Atlanta so no relocation or housing.
 -----------------------
 Didn´t take either of these.
-
 ```
 
-```
-Education: CS BA
+```Education: CS BA
 Prior Experience: 1 internship, and some experience with an incubator
 $Internship: $15 an hour. 
 $Coop
@@ -9754,11 +8823,9 @@ Salary: 100k
 Relocation/Signing Bonus: 5k relocation, 15k sign on bonus. 
 Stock and/or recurring bonuses: around 24k in RSUs. Vests over 3 years.
 Total comp: for first year i expect it will come to about 127k
-
 ```
 
-```
-Education: B.S. Computer Science from Texas A&M - Corpus Christi
+```Education: B.S. Computer Science from Texas A&M - Corpus Christi
 Prior Experience: Internship at start up
 Company/Industry: Qualcomm
 Title: Platform Engineer 5G
@@ -9767,11 +8834,9 @@ Salary: 100,000
 Relocation/Signing Bonus: 15k sign on / 8k relocation
 Stock and/or recurring bonuses: 25k RSU
 Total comp: ~140k
-
 ```
 
 ```
-
 School/Year: Upcoming Senior @ non-target state school
 Prior Experience: N/A
 Company/Industry: Qualcomm
@@ -9781,11 +8846,9 @@ Duration: 14 weeks
 Salary: $38 hr
 Relocation/Housing Stipend: Relocation package + corporate housing
 
-
 ```
 
 ```
-
 Education: College Dropout
 Prior Experience: 6 years
 Company/Industry: Mobile App Development -- I'm working 2 jobs at the same time right now and putting in 60-80 hour weeks. 
@@ -9802,19 +8865,15 @@ I too, never thought I'd be in this situation, financially. To be frank, I was a
 Juggling 2 jobs is really hard. I don't recommend it for everyone, but my big carrot on my own stick is that, at 30, if I live within my means, I'll theoretically never have to work another day again in my life. 
 My life breakdown is generally like so -- there are 168 hours in a week, so 60-80 of those are already syphoned off to working, leaving me 88-108 hours. I usually sleep 6-8 hours total within a day, bringing me down to 32-66 hours of free time to eat food, mess around, or whatever. I allocate and plan accordingly.
 
-
 ```
 
-```
-Obviously this is not the norm. But such salary do exist for foreigners. I had alternate offers (in other countries) so maybe that played some part as well.
+```Obviously this is not the norm. But such salary do exist for foreigners. I had alternate offers (in other countries) so maybe that played some part as well.
 Cost of living is really cheap...
 Not really but yeah I agree it's cheaper if you compared to US high COL. The housing is provided so it definitely boosts the saving a lot :) 
 PS: sites like glassdoor don't have reliable figures when it comes to job outside US.
-
 ```
 
-```
-School/Year: Carleton University, Junior
+```School/Year: Carleton University, Junior
 Prior Experience: One 4 month government internship
 Offer 1 (Accepted):
 Company: Electronic Arts
@@ -9838,11 +8897,9 @@ Location: Ottawa
 Duration: 16 weeks
 Salary: $19/hour
 Relocation/Housing Stipend: None
-
 ```
 
-```
-School/Year: Junior at University of Toronto
+```School/Year: Junior at University of Toronto
 Prior Experience: Toronto small tech startup x2, Research Assistantship, Big N SF Tech company
 Company/Industry: Riot Games
 Title: Software Engineering Intern
@@ -9856,11 +8913,9 @@ Location: Redwood City, CA
 Duration: 3 months summer
 Salary: $8000/mo
 Relocation/Housing Stipend: Paid intern housing + transportation pass
-
 ```
 
 ```
-
 School/Year: Second-Year, Top 20 CS
 ⁠Prior Experience: School Projects
 Company/Industry: Uber
@@ -9871,11 +8926,9 @@ Salary: $44.15 per hour
 Relocation/Housing Stipend: $1500 per month (taxable)
 Perks: 1.5x Overtime Pay ($66.22 per hour, 5 hours a week), 17% Off Uber Rides & Eats, ~$200 Uber Cash, 3 Meals, Unlimited Drinks & Snacks
 At orientation, they claimed that their internship acceptance rate is 0.1%. Looking forward to a great summer!
-
 ```
 
 ```
-
 School/Year: Top
 Prior Experience: 3 SWE internships
 Company/Industry: Uber
@@ -9885,11 +8938,9 @@ Duration: 12+ weeks
 Salary: $46.15/hr
 Relocation/Housing Stipend: $1500/month, $200/month credits, flights covered
 
-
 ```
 
-```
-reposting from last thread
+```reposting from last thread
 About Me:
 School/Year: Junior at a higher ranked (lol) UC
 Prior Experience: 3 Internships ( 1 small startup, 1 big company, 1 big-N )
@@ -9906,11 +8957,9 @@ Duration: 12 Weeks
 Salary: $8000 / mo
 Relocation/Housing Stipend/Misc: $1300 monthly, free meals
 
-
 ```
 
-```
-About Me:
+```About Me:
 School/Year: Junior at a higher ranked (lol) UC
 Prior Experience: 3 Internships ( 1 small startup, 1 big company, 1 big-N )
 Uber:
@@ -9926,11 +8975,9 @@ Duration: 12 Weeks
 Salary: $8000 / mo
 Relocation/Housing Stipend/Misc: $1000 monthly, free meals
 
-
 ```
 
-```
-School/Year: Target
+```School/Year: Target
 Prior Experience: SWE internship
 Company/Industry: Trading firm 1
 Title: Quant Trading Intern
@@ -9945,11 +8992,9 @@ Location: Chicago
 Duration: 10-12 weeks (don't remember)
 Salary: 6400/mo
 Relocation/Housing Stipend: Included
-
 ```
 
-```
-​
+```​
 School/Year: Top 50 school, Masters
 Prior Experience: 3 years 3 months
 Company/Industry - Autodesk
@@ -9959,11 +9004,9 @@ Duration: 12 weeks
 Salary: 42$/hour
 Relocation/Housing Stipend: 1200$/month
 
-
 ```
 
 ```
-
 Education: BS Computer Science '16, MS Computer Science '18 Stanford  
 Prior Experience:  
 - Web startup, Software, Summer 2014  
@@ -9978,11 +9021,9 @@ Relocation/Signing Bonus: N/A because I didn't move
 Stock and/or recurring bonuses: 1% of company, stock options vesting over four years  
 Total comp: ??? totally depends on how the startup does
 
-
 ```
 
-```
-School/Year: Freshman @ a CC (Transferring to top-20 Engineering school in the Fall)
+```School/Year: Freshman @ a CC (Transferring to top-20 Engineering school in the Fall)
 Prior Experience: Tesla
 Company/Industry: Fintech
 Title: Software Engineering Intern 
@@ -9990,11 +9031,9 @@ Location: San Francisco, CA
 Duration: 9 weeks 
 Salary: $29 / hour
 Relocation/Housing Stipend: None
-
 ```
 
 ```
-
 School/Year: Purdue, Sophomore
 Prior Experience: ML startup, Pinterest, Qualcomm, On Campus infra job
 Company/Industry: Tesla
@@ -10004,11 +9043,9 @@ Duration: 14 weeks
 Salary: 28/hr
 Relocation/Housing Stipend: $500 relocation because I drove. $3000 one time housing stipend.
 
-
 ```
 
-```
-School/Year: Top 30 School for CS, Junior
+```School/Year: Top 30 School for CS, Junior
 Prior Experience: ETL engineer on campus
 Company/Industry: Tesla, Inc
 Title: Software Engineer Intern
@@ -10017,11 +9054,9 @@ Duration: 10 Weeks
 Salary: $28/Hour + OT
 Relocation/Housing Stipend: 3K Lump Sum
 Super excited to have an internship this summer, work is going to be long but still super hyped! Hope this gives a good idea of Tesla
-
 ```
 
-```
-School/Year: T100/Junior
+```School/Year: T100/Junior
 Prior Experience: Various student activities
 Company/Industry: Linkedin
 Title: Associate Product Management Intern
@@ -10029,11 +9064,9 @@ Location: Bay Area
 Duration: 12 weeks
 Salary: $45
 Relocation/Housing Stipend: $6000 or company housing
-
 ```
 
 ```
-
 School/Year: Rising senior at UC Santa Cruz (not gonna bother hiding it, since this is my main account anyways.) - low/mid tier UC, prob top 50 CS
 Prior Experience: 1 year internship/software dev position at a consulting firm, SWE internship at Quicken Loans (I put this as incoming SWE intern on my resume since I don't start for another two weeks)
 Company/Industry: LinkedIn (Fall)
@@ -10043,11 +9076,9 @@ Duration: 15.5(?) weeks (from beginning of September to end of December)
 Salary: $45 an hour
 Relocation/Housing Stipend: Free (shared) corporate housing, $500 relocation stipend
 Very excited about this, since it's my first internship at a big company and also systems/infra is an area I've wanted to work in for a while. Also honestly a little surprised because someone told me that LinkedIn only offers off-season internships to Waterloo students or something like that.
-
 ```
 
 ```
-
 Education: BA Computer Science - Decent State School
 Prior Experience: None
 Company/Industry: Expedia
@@ -10059,11 +9090,9 @@ Relocation/Signing Bonus: 10k + 10k (when I joined)
 Stock and/or recurring bonuses: 12k bonus + 12k RSUs
 Total comp: ~140k  
 I joined Expedia right out of college as an SDE I (93k salary) and was promoted after 1.5 years to SDE II
-
 ```
 
-```
-School/Year: McGill University, sophomore
+```School/Year: McGill University, sophomore
 Prior Experience: None
 Company: Expedia
 Title: Software Engineering Development Intern
@@ -10071,11 +9100,9 @@ Location: Montreal
 Duration: 12 weeks
 Salary: $32/hour
 Relocation/Housing Stipend: None
-
 ```
 
-```
-School/Year: Senior, Unaccredited new state school
+```School/Year: Senior, Unaccredited new state school
 Prior Experience: None in tech. Two serving jobs totaling 3 years experience total.
 Company/Industry: Software company responsible for SDK's and SaS products
 Title: Intern
@@ -10083,22 +9110,18 @@ Location: Tampa, FL
 Duration: Was just the summer, then asked to come back for winter
 Salary: 12/hr 8hrs/day MWF(I feel like a dweeb looking at what other people get..)
 Relocation/Housing Stipend: None. I live 45 mins away.
-
 ```
 
-```
-School/Year: Top 5 CS School , Junior 
+```School/Year: Top 5 CS School , Junior 
 Prior Experience: 1 small internship 
 Company/Industry: Blackrock
 Title: SWE Intern 
 Location: Princeton, Nj 
 Salary: $100,000 prorated
 Housing/Relocation: N/A
-
 ```
 
 ```
-
 School/Year: Junior, Top school
 Prior Experience: 1 prior internship
 VMware
@@ -10120,11 +9143,9 @@ Duration: 12 Weeks
 Salary: 25/hour
 Relocation/Housing Stipend: 750/month
 
-
 ```
 
-```
-School/Year: Target Canadian school
+```School/Year: Target Canadian school
 Prior Experience: 3 internships
 Company 1:
 Company/Industry: Uber
@@ -10155,11 +9176,9 @@ Duration: 16 weeks
 Salary: $7700/month
 Relocation/Housing Stipend: $10,000 one-time bonus
 
-
 ```
 
-```
-School: UCSB, 2.5 year BS CS
+```School: UCSB, 2.5 year BS CS
 Prior Experience: 3 internships - small startup near my school (Freshman Winter + Spring), AppFolio (Freshman summer), and Facebook (sophomore summer)
 I had some other offers, but they didn't pay as much as the others. I debated going for a MS and returning to FB the next summer for an internship (so I can attempt at the GE offer), but I concluded that going full time was the best option for me at the moment. Feel free to PM if you have any questions!
 Facebook (return offer, accepted):
@@ -10179,11 +9198,9 @@ Relocation: 0
 End of Year bonus: 0
 Total Comp: $234k year 1, then $184k
 
-
 ```
 
-```
-School/Year: Junior at top 10 CS school in the US
+```School/Year: Junior at top 10 CS school in the US
 Prior Experience: 1 internship mid-sized software company, 1 internship at large banking institution
 Company/Industry: Yext
 Title: SWE Intern
@@ -10198,11 +9215,9 @@ Location: Seattle
 Duration: 12 weeks
 Salary: 40/hr
 Relocation/Housing Stipend: $4,000 for the whole summer
-
 ```
 
 ```
-
 School/Year: California Polytechnic State University, SLO / 3rd
 Prior Experience: IT internship at a small company
 Company/Industry: Workday
@@ -10212,11 +9227,9 @@ Duration: 12 wk
 Salary: $42/hr ($7280/mo)
 Relocation/Housing Stipend: Housing provided
 
-
 ```
 
-```
-Education: Top university in Canada
+```Education: Top university in Canada
 Prior Experience: 2.5 years fulltime, 20 months of internships at 3 different companies 
 $Internship: consulting company in Toronto, 2 fortune 10 companies.
 $RealJob: Consulting
@@ -10228,11 +9241,9 @@ Salary: Quit a job that was paying $90k and stocks ($5k per year USD) and 6% max
 Relocation/Signing Bonus: Fancy dinner at Jacob’s steakhouse. Got a $400 steak. 3/10 would not do that on my own expense.
 Stock and/or recurring bonuses: nah
 Total comp: $111k
-
 ```
 
-```
-School/Year: Rising junior @ University of Toronto
+```School/Year: Rising junior @ University of Toronto
 Prior Experience: Internships at startups 
 Company/Industry: Cloud Computing Big N
 Title: SWE Intern
@@ -10240,11 +9251,9 @@ Location: SF
 Duration: 14 weeks
 Salary: $47/hour
 Relocation/Housing Stipend: 11.5k stipend 
-
 ```
 
-```
-(apologies for the awful formatting.)
+```(apologies for the awful formatting.)
 Education:
 University of Toronto, Computer Engineering
 Prior Experience:
@@ -10269,11 +9278,9 @@ Benefits:
 Sweet health and dental benefits, snacks around the office, games etc. 5 weeks of total vacation + sick days.
 Total comp:
 $85,000
-
 ```
 
-```
-School/Year: Incoming 4th year, mid-sized uni in Ireland
+```School/Year: Incoming 4th year, mid-sized uni in Ireland
 Prior Experience: 1 Google internship (3mo) and 1 Arista Networks internship (11mo)
 Company/Industry: Google
 Title: Software (Site Reliability) Engineering Intern
@@ -10281,11 +9288,9 @@ Location: Venice, CA
 Duration: 14 weeks
 Salary: $7,500/m
 Relocation: $10,000
-
 ```
 
-```
-Current Place: 
+```Current Place: 
 School/Year: Decent Irish university, 2nd year
 Prior Experience: 3 months as Google intern
 Company/Industry: Arista Networks
@@ -10317,11 +9322,9 @@ Location: Dublin
 Duration: 12 - 15 months
 Salary: €2,400/m
 
-
 ```
 
-```
-School/Year: Waterloo
+```School/Year: Waterloo
 Prior Experience: 2 Internships (1 startup, 1 large company not in tech)  
 Yext
 Title: SWE Intern
@@ -10337,11 +9340,9 @@ Duration: 16 Weeks
 Salary: 9.6k / month
 Misc: Breakfast/lunch/dinner
 
-
 ```
 
-```
-School/Year: Junior
+```School/Year: Junior
 Prior Experience: 4 small internships
 Company/Industry: Square
 Title: Software Engineering Intern
@@ -10349,11 +9350,9 @@ Location: San Francisco
 Duration: 16 weeks
 Salary: $44/hour
 Relocation/Housing Stipend: $2000/month
-
 ```
 
 ```
-
 School/Year: Top 10 CS/Rising 5th year
 Prior Experience: 2F500 Internships
 
@@ -10371,11 +9370,9 @@ Duration: 9 weeks
 Salary: $7,000/month
 Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrain pass.
 
-
 ```
 
 ```
-
 School/Year: Top 10 CS/Rising 5th year
 Prior Experience: 2F500 Internships
 
@@ -10393,11 +9390,9 @@ Duration: 9 weeks
 Salary: $7,000/month
 Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrain pass.
 
-
 ```
 
 ```
-
 School/Year: Top 10 CS
 Prior Experience: 2 F500 internships
 ------------------------------------------------------------
@@ -10415,11 +9410,9 @@ Duration: 9 weeks
 Salary: $7,000/month
 Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrain pass.
 
-
 ```
 
 ```
-
 School/Year: Junior Top 20 CS
 Prior Experience: Global 2000 Company
 Company/Industry: SurveyMonkey
@@ -10429,11 +9422,9 @@ Duration: 9 weeks
 Salary: ~$7,000 / mo
 Housing Stipend/Misc: $3,500 housing (lump sum I think), $100 monthly for CalTrain
 
-
 ```
 
 ```
-
 Education: M.Eng CS (integrated masters), Ph.D CS (awaiting viva)
 Prior Experience:
 Internship 1: 3 months of working on an in-house Java wiki.
@@ -10448,11 +9439,9 @@ Relocation/Signing Bonus: None
 Stock and/or recurring bonuses: None
 Total comp: £50,000
 There's a pension scheme with an average of 22% contribution from the Cabinet Office which I don't know the full details of yet.  I get 34 days holiday (8 of which are bank holidays and 1 of which is the Queen's official birthday).
-
 ```
 
 ```
-
 Education: Masters CS, top 20 (2015)
 Prior Experience:
 
@@ -10466,11 +9455,9 @@ Salary: $110,000
 Stock and/or recurring bonuses: $44,000
 Total comp: $154,000
 
-
 ```
 
-```
-Education: BS Comp. Sci. from University of Houston
+```Education: BS Comp. Sci. from University of Houston
 Prior Experience: None related
 Company/Industry: IT Consulting
 Title: Associate Consultant
@@ -10479,11 +9466,9 @@ Salary: $65k
 Relocation/Signing Bonus: No
 Stock and/or recurring bonuses: Up to $24k annual
 Total comp: min $65k, max $89k
-
 ```
 
-```
-Oracle (Construction and Engineering Industry)
+```Oracle (Construction and Engineering Industry)
 School/Year: 4th year @ RIT
 Prior Experience: Local summer internship and six month co-op with top defense contractor
 Title: Applications Engineering Intern
@@ -10500,11 +9485,9 @@ Duration: 12 weeks
 Salary: $30/hr
 Relocation/Housing Stipend: $1000 one-time stipend
 
-
 ```
 
 ```
-
 School/Year: Junior @ non target school
 Prior Experience: 3 internships
 ​
@@ -10524,11 +9507,9 @@ Relocation/Housing Stipend: Corporate Housing or stipend of $7000
 ​
 ​
 Never posted in this before. Happy to finally serve as a data point.
-
 ```
 
 ```
-
 Education: BA Economics from UCLA
 Prior Experience: None in CS, 1 year in finance as a pseudo financial advisor
 Company/Industry: MediaMath
@@ -10540,11 +9521,9 @@ Relocation/Signing Bonus: none
 Stock and/or recurring bonuses: 8k bonus, ESOP
 Total comp: 88k
 Degree's in economics, went to AppAcademy bootcamp and got a job a couple months after. 2 years out of college but I guess it's also a nice reference point.
-
 ```
 
-```
-School/Year: UC Berkeley, Junior
+```School/Year: UC Berkeley, Junior
 Prior Experience: some projects, 1 semester of research, no internships
 Company/Industry: small tech startup
 Title: Full Stack Intern
@@ -10559,11 +9538,9 @@ Duration: 12 weeks
 Salary: $31/hr
 Relocation/Housing Stipend: $4k, plus pays for public transportation/food
 Pretty happy I finally got a job and can contribute here
-
 ```
 
 ```
-
 Company/Industry: Stripe
 Title: SWE Intern
 Location: San Francisco
@@ -10571,11 +9548,9 @@ Duration: 12 weeks
 Salary: $8646/month + $125/month for hobbies
 Relocation/Housing Stipend: Reimbursed moving expenses / corporate housing, 10 min walk to office
 
-
 ```
 
-```
-Education: BS in CS
+```Education: BS in CS
 Prior Experience: One internship at decent company
 ​
 Accepted offer:
@@ -10607,11 +9582,9 @@ Stock and/or recurring bonuses: $15k bonus
 Total comp: $190k first year, $150k after that. 
 ​
 I wanted to make the switch into quant trading someday, but I heard some horror stories about the firm I got an offer from from an old intern that worked there, so I decided against taking the risk.
-
 ```
 
-```
-Education: MS CS at reputed state flagship, BS CS at unranked state university
+```Education: MS CS at reputed state flagship, BS CS at unranked state university
 Prior Experience: 1 internship, some undergrad research
 Bloomberg (accepted):
 Location: NYC
@@ -10629,11 +9602,9 @@ Stock: Options worth $30k over 4 years
 Relocation: $10k
 Total comp: $150k year 1, then $140k
 
-
 ```
 
-```
-Education: Bsc CS at top 3 Canadian Uni
+```Education: Bsc CS at top 3 Canadian Uni
 Prior Experience:
 Microsoft Internship
 Bloomberg internship
@@ -10663,11 +9634,9 @@ Total comp (Assuming bonus):
 recurring 150K
 
 I negotiated with MS twice
-
 ```
 
-```
-Education: Bsc CS at top 3 Canadian Uni
+```Education: Bsc CS at top 3 Canadian Uni
 Prior Experience:
 Microsoft Internship
 Bloomberg internship
@@ -10697,11 +9666,9 @@ Total comp (Assuming bonus):
 recurring 150K
 
 I negotiated with MS twice
-
 ```
 
-```
-Education: BS CS in top 15 CS school
+```Education: BS CS in top 15 CS school
 Prior Experience: 2 prior - internship at Fortune 500 insurance company and small video hosting company
  
 Company/Industry: Bloomberg
@@ -10719,11 +9686,9 @@ Salary: $110k
 Relocation/Signing Bonus: $5k
 Stock and/or recurring bonuses: 1000 SARs + 5% performance bonus
 Total comp: $115.5k (including bonus) + 1000 SARs
-
 ```
 
-```
-School: BS Applied Math @ Mediocre school in Ohio
+```School: BS Applied Math @ Mediocre school in Ohio
 Prior Experience: Internship, REU
 Pinterest (accepted):
 Location: SF
@@ -10761,11 +9726,9 @@ Stock: $120k over 4 years
 Signing bonus: $10k? (Don't really remember. Might've been $15k)
 
 Yelp and Pinterest offers are for ML-focused positions, whereas Google and Bloomberg would be more general Software Engineering.
-
 ```
 
-```
-School: BS Applied Math @ Mediocre school in Ohio
+```School: BS Applied Math @ Mediocre school in Ohio
 Prior Experience: Internship, REU
 Pinterest (accepted):
 Location: SF
@@ -10803,11 +9766,9 @@ Stock: $120k over 4 years
 Signing bonus: $10k? (Don't really remember. Might've been $15k)
 
 Yelp and Pinterest offers are for ML-focused positions, whereas Google and Bloomberg would be more general Software Engineering.
-
 ```
 
-```
-School: BS Applied Math @ Mediocre school in Ohio
+```School: BS Applied Math @ Mediocre school in Ohio
 Prior Experience: Internship, REU
 Pinterest (accepted):
 Location: SF
@@ -10845,11 +9806,9 @@ Stock: $120k over 4 years
 Signing bonus: $10k? (Don't really remember. Might've been $15k)
 
 Yelp and Pinterest offers are for ML-focused positions, whereas Google and Bloomberg would be more general Software Engineering.
-
 ```
 
-```
-School: BS Applied Math @ Mediocre school in Ohio
+```School: BS Applied Math @ Mediocre school in Ohio
 Prior Experience: Internship, REU
 Pinterest (accepted):
 Location: SF
@@ -10887,11 +9846,9 @@ Stock: $120k over 4 years
 Signing bonus: $10k? (Don't really remember. Might've been $15k)
 
 Yelp and Pinterest offers are for ML-focused positions, whereas Google and Bloomberg would be more general Software Engineering.
-
 ```
 
-```
-Education: MS CS from a top 20 Midwest Flagship School.
+```Education: MS CS from a top 20 Midwest Flagship School.
 Prior Experience: Internships at couple of known companies. One of them was FAANG.
 Bloomberg (accepted):
 Location: NYC
@@ -10911,11 +9868,9 @@ Relocation: 7.5k
 End of Year bonus: 10%
 Total Comp: $220k year 1, then $165k
 These are the best offers. I had few other offers which were not worth mentioning..:)
-
 ```
 
 ```
-
 School/Year: Junior, McGill University
 Prior experience: One internship at Fortune 500 company
 Pinterest
@@ -10950,11 +9905,9 @@ Duration: 13 weeks
 Salary: $7680/month, $2000 signing bonus
 Relocation: Corporate housing or $5100 lump sum
 
-
 ```
 
-```
-School/Year: 4th Year, small Canadian university
+```School/Year: 4th Year, small Canadian university
 Prior Experience: Google, Bloomberg, and Microsoft internships
 Offer 1 - Google (Accepted)
 Title: Software Engineering Intern
@@ -10980,11 +9933,9 @@ Location: San Francisco
 Duration: 12 weeks
 Salary: $8000/mo
 Relocation/Housing Stipend: corporate housing
-
 ```
 
-```
-I have posted here in multiple previous threads, so those who feel like spelunking can build a time series.
+```I have posted here in multiple previous threads, so those who feel like spelunking can build a time series.
 Education: Bachelor's of Science in Electrical Engineering
 Prior Experience: (16 years total as of this week)
 
@@ -11001,11 +9952,9 @@ Relocation/Signing Bonus: $25,000
 Stock and/or recurring bonuses:  20% target cash bonus (could be as high as 35%) + $15k stock (first year) rising to $60k stock (fourth year)
 Total comp: $231,000 - $258,000 (first year, not counting signing bonus)
 
-
 ```
 
-```
-- School/Year: Top 5 School in UK
+```- School/Year: Top 5 School in UK
 - Prior Experience: A couple of internships at other big companies
 - Company/Industry: Bloomberg
 - Title: Software Engineer Intern
@@ -11013,11 +9962,9 @@ Total comp: $231,000 - $258,000 (first year, not counting signing bonus)
 - Duration: 3 months
 - Salary: £42000
 - Relocation/Housing Stipend: £5000
-
 ```
 
-```
-Current:
+```Current:
 Education: BSEE from a Florida state school
 Prior Experience:
 
@@ -11040,11 +9987,9 @@ Relocation/Signing Bonus: $20,000
 Stock and/or recurring bonuses: 15% cash + $292,000/4 years stock
 Total comp: $255,000
 
-
 ```
 
 ```
-
 education : top 10 ish liberal arts college, CS major
 prior experience: one unpaid summer internship at a startup, one paid (but never paid) summer internship at an even smaller startup
 company: Bloomberg
@@ -11056,11 +10001,9 @@ stock: none
 bonus: 10k guaranteed first year, no guarantee following years
 total comp: 140k?
 I had no other offers so I didn't have any negotiation leverage. Lucky af to get this position imo
-
 ```
 
 ```
-
 Education: M.S. CS, from midwest flagship (its top 10 engineering school)
 Prior Experience: internships at couple of known companies
 Company/Industry: Bloomberg LP
@@ -11072,11 +10015,9 @@ Relocation/Signing Bonus: $30k
 Stock and/or recurring bonuses: $18k target annual bonus, No stocks (Bloomberg being a private company)
 Total comp: $190k first year
 
-
 ```
 
 ```
-
 Education: No one cares
 Prior Experience: 10 years
 Company/Industry: Investment bank
@@ -11107,11 +10048,9 @@ Salary: $160k
 Stock and/or recurring bonuses: Options I don't know how to value
 Total comp: $160k get out of here
 
-
 ```
 
 ```
-
 Education: No one cares
 Prior Experience: 10 years
 Company/Industry: Investment bank
@@ -11142,11 +10081,9 @@ Salary: $160k
 Stock and/or recurring bonuses: Options I don't know how to value
 Total comp: $160k get out of here
 
-
 ```
 
 ```
-
 Education: No one cares
 Prior Experience: 10 years
 Company/Industry: Investment bank
@@ -11177,11 +10114,9 @@ Salary: $160k
 Stock and/or recurring bonuses: Options I don't know how to value
 Total comp: $160k get out of here
 
-
 ```
 
 ```
-
 Education: No one cares
 Prior Experience: 10 years
 Company/Industry: Investment bank
@@ -11212,11 +10147,9 @@ Salary: $160k
 Stock and/or recurring bonuses: Options I don't know how to value
 Total comp: $160k get out of here
 
-
 ```
 
 ```
-
 Education: BSEE
 Prior Experience: 14 years total engineering (4 years EE/embedded, 2 years SysE/algortihms, 3.5 years SysE/embedded, 4.5 years SwE/NLP
 Company/Industry: Bloomberg
@@ -11228,11 +10161,9 @@ Relocation/Signing Bonus: N/A
 Stock and/or recurring bonuses: $26k
 Total comp: $192k
 
-
 ```
 
-```
-Education: BS CS from a low-tier state school
+```Education: BS CS from a low-tier state school
 Prior Experience: 2 internships at small company, Bloomberg, Big4
 Company: Bloomberg
 Title: Software Engineer
@@ -11241,11 +10172,9 @@ Salary: $131,500
 Relocation: $10k
 Recurring bonus: $13.5k guaranteed first year 
 Total comp: $145k
-
 ```
 
 ```
-
    School/Year: Small Canadian university, 3rd year
    Prior experience: Google and Bloomberg internships
    Company: Microsoft
@@ -11255,11 +10184,9 @@ Total comp: $145k
    Salary: $7250/month
    Benefits: corporate housing or $7000 stipend, rental car, bus passes, paid holidays, gym membership, software discounts, fully covered relocation
 
-
 ```
 
-```
-Education: CS Masters Degree, some side projects (academic + personal)
+```Education: CS Masters Degree, some side projects (academic + personal)
 Prior Experience: Unrelated, was in a consultancy.
     Internship: Worked on a research project in the summer involving MPI, CUDA.
     Coop: None
@@ -11271,19 +10198,15 @@ Relocation/Signing Bonus: $10k
 Stock and/or recurring bonuses: Not known yet
 Total comp: 131500 + ($10k over 1 year)
 
-
 ```
 
-```
-You should be able to EASILY get 120k / 3.5 years with Microsoft. They give that to people from no-name school who just negotiate a bit without any competing offers. With 2 Big 4 internships and a Dropbox competing offer, it should be pretty easy.
+```You should be able to EASILY get 120k / 3.5 years with Microsoft. They give that to people from no-name school who just negotiate a bit without any competing offers. With 2 Big 4 internships and a Dropbox competing offer, it should be pretty easy.
 With the 120k / 3.5 years, the Microsoft offer might be better. I think Dropbox just filed for IPO about 2 weeks ago, so it's still paper money, and you won't get to cash out like the people who are there since many years. If it's anything like the Snapchat IPO, it might be worth a lot less in the nest few months.
 For the experience, Dropbox might be better, but if your decision is based solely on compensation, get that 120k stock and MSFT is definitely better. Or try and negotiate with Dropbox, but I don't they will without a competing offer from a better Big 4.
 EDIT: MSFT also has a target bonus of 10%, with a max of 20%. So you can add around 10.8k to that base salary if you're just an average new grad.
-
 ```
 
-```
-Education: CS Bachelor @ Top UC
+```Education: CS Bachelor @ Top UC
 Prior Experience: Internship at Yahoo, 2 other internships.
  
 Company/Industry: Dropbox
@@ -11303,11 +10226,9 @@ Stock and/or recurring bonuses: 150k RSUs, 10% target bonus
 Total comp: ~190k first year, ~160k after
  
 Finished an onsite with G also, but their recruitment process is soooo slow. My other offers expired even with extensions so I just canceled the process.
-
 ```
 
-```
-Education: Purdue University
+```Education: Purdue University
 Prior Experience: Internships at Mid size company in Bay Area (SmugMug) and MSFT
 Company/Industry: DoorDash
 Title: Software Engineer (iOS)
@@ -11316,11 +10237,9 @@ Salary: $130k (Bonuses would be discussed with manager)
 Relocation/Signing Bonus: $15k
 Stock and/or recurring bonuses: 750 RSUs (~$150k)
 Total comp: $145k guaranteed first year (not counting RSUs since their value will likely change)
-
 ```
 
-```
-School/Year: Junior
+```School/Year: Junior
 Prior Experience: Two internships (one Big4)
 Company/Industry: GitHub
 Title: Software Engineering Intern
@@ -11330,11 +10249,9 @@ Salary: $50/hr
 Relocation/Housing Stipend: Corporate housing (studio) in downtown SF, walking distance from office
 ​
 Starting next week, super pumped!
-
 ```
 
-```
-School/Year: Freshman @ Small State School
+```School/Year: Freshman @ Small State School
 Prior Experience: Few small projects on Github
 Company: Optum/UnitedHealthGroup
 Title: Technology Development Program Intern (SWE Role)
@@ -11342,11 +10259,9 @@ Location: Suburb of Chicago
 Duration: 10 Weeks, 40 hour work weeks
 Salary: $24/hour, $36/hour Overtime
 Relocation/Housing: Housing Covered, but I live a 5 minute drive away so won't be using it
-
 ```
 
 ```
-
 School/Year: Rising senior @ Ivy league school
 Prior Experience: Teaching assistant, startup internship in Sweden
 Company/Industry: Yelp
@@ -11356,11 +10271,9 @@ Duration: 12 weeks
 Salary: $45 / hour
 Relocation/Housing Stipend: $1500 / month
 
-
 ```
 
-```
-School/Year: Top Canadian University, junior
+```School/Year: Top Canadian University, junior
 Prior Experience: One internship at Fortune 500 company
 Company/Industry: Yelp
 Title: Software Engineering Intern
@@ -11368,11 +10281,9 @@ Location: San Francisco
 Duration: 16 weeks
 Salary: $7500/month
 Relocation/Housing Stipend: $1500/month
-
 ```
 
-```
-School/Year:  Junior @ State School you’ve heard of but not super well known for CS
+```School/Year:  Junior @ State School you’ve heard of but not super well known for CS
 Prior Experience: Previous degree and nearly a decade in a non tech role. Was told after they hired me that they liked my having a degree and work experience. The other intern with me is also a guy my age. 
 Company/Industry:  Defense Contractor. 
 Title:  Software Engineering Intern
@@ -11381,11 +10292,9 @@ Duration:  Indefinite
 Salary:  $15.00/hr
 Relocation/Housing Stipend:  None. 
 They had posted the internship on my school’s job board online. Usually our department chair will email out internships like this but they never did. I got lucky in seeing it and sent in my resume and cover letter. Got an interview a week or so later and was offered the position on the spot. No coding challenges although they did ask about my projects and the stuff i learned in school. I was a little bummed when i started because it seemed less technical than i was expecting but we pivoted a week in and I’m now working on a super cool project in Unity and my friends all lament that i got the perfect opportunity lol. 
-
 ```
 
 ```
-
 School/Year: Freshman @ Puerto Rico
 Prior Experience: High school camp, built website for research program, undergrad research
 Company/Industry: MITRE / Federal Contractor
@@ -11404,11 +10313,9 @@ Duration: 10 weeks
 Salary: $22.35/hr + health care benefits
 Relocation/Housing Stipend: $1800 total to cover transportation to and from workplace, housing fully paid by the company
 
-
 ```
 
-```
-I read the mod note and am not trying to troll. If people find this useful by all means I won't stand in the way.
+```I read the mod note and am not trying to troll. If people find this useful by all means I won't stand in the way.
 That being said, I feel like an intern's primary goal should be to make sure they're working somewhere that provides valuable experience. That being said, I also think interns should be paid well, but it should take a back seat to how it the experience will position you in the future.
 I was an intern for three years, and now interview intern candidates each year. When I looked for internships for myself, I looked for things like:
 Are interns embedded with the other software engineers (preferred), or working on another project on the side?
@@ -11417,11 +10324,9 @@ Will I get strong mentorship from an experienced engineer?
 Will the work be interesting, enjoyable, and challenging?
 Is there an opportunity to work part time after going back to school?
 These are all way more important to your career than salary. Yet still, I interview some interns who will have multiple offers that will compare them more or less based on the salary. Like, $company is paying me $x, can you match that? Nothing terribly wrong with asking that question, but for many of them it's clear that the answer is a strong determinant of where they will chose to work, which I think is wrong. 
-
 ```
 
 ```
-
 School/Year: sophomore @ Queen’s University, Canada.
 Prior Experience: software developer intern at BMO (canadian bank)
 Company: Microsoft 
@@ -11431,11 +10336,9 @@ Duration: 12 weeks
 Salary: 31/hr usd ~ 40 cad/hr
 Housing: corporate or $7000 to cover rent
 
-
 ```
 
-```
-Education: Ivy
+```Education: Ivy
 Prior Experience: ~9 months at a Big 4.
 $Internship: 3 internships at other big 4s.
 Company/Industry: Goldman Sachs
@@ -11447,11 +10350,9 @@ Stock and/or recurring bonuses: $115k/4 years, $50k year-end bonus
 Total comp: $213k Year 1, $208k Year 2, $214k Year 3, $192k Year 4
 ​
 Since this was a lateral hire from a Big 4 (~9 months of previous experience at the Big 4), the offer was very compelling to pull you away from the Big 4, matching or exceeding the stocks/bonuses that you were giving up by leaving. I've seen lower offers from Goldman Sachs, but I think those offers are forgetting to include the year-end bonus, which is a huge component compared to most other companies (~$50k y-e bonus/year).
-
 ```
 
 ```
-
 School: State School (Pitt)
 Year: Sophomore (Applied as Junior, except for Google)
 Prior Experience: Internship at JPMorgan, Web Developer job in High School
@@ -11486,11 +10387,9 @@ Duration: 12 weeks
 Salary: $50/hour ($4000/bi-weekly)
 Relocation/Housing Stipend: Free corporate housing 20 min walk from  office, 125/month wellness, (free food is really good)
 ​
-
 ```
 
 ```
-
 Education: Ivy League (Not Harvard/Princeton/Yale)
 Prior Experience:
 
@@ -11505,11 +10404,9 @@ Relocation/Signing Bonus: $10k relo, $30k signing
 Stock and/or recurring bonuses: $45k year-end bonus, $110k stock that vests over 4 years
 Total comp: Just over ~$200k per year for at least the next 3 years, not counting any raises.
 Notes: They made me a great offer so they could match the stock/bonuses I was getting at the Big 4, though the total overall compensation is much higher at Goldman.
-
 ```
 
 ```
-
 School/Year: top UK university, 2nd year
 Prior Experience: Not much
 Company/Industry: Goldman Sachs
@@ -11519,11 +10416,9 @@ Duration: 10 weeks
 Salary: £3600/month
 Relocation/Housing Stipend: £1000
 
-
 ```
 
 ```
-
 School/Year: Rising Senior, Big 10 school
 Prior Experience: n/a
 Company/Industry: Goldman Sachs
@@ -11533,11 +10428,9 @@ Duration: 3 months
 Salary: $100,000 prorated to 3 months
 Relocation/Housing Stipend: $1500
 
-
 ```
 
-```
-Copy and pasted from another thread :)
+```Copy and pasted from another thread :)
 School/Year:Top 5 UK University BSc CS
 Prior Experience: 2 Internships. Small Startup / Another Finance Company
 Company/Industry: Goldman Sachs
@@ -11546,11 +10439,9 @@ Duration: 3 months
 Salary: £3.9k / month
 Relocation:Housing Stipend: £1000, no housing
 Non-negotiatable intern salary. However my recruiter said that new grad salaries are negotiable.
-
 ```
 
-```
-Offers to date:
+```Offers to date:
 School/Year: small school in the middle of nowhere, 3/5
 Prior Experience: 2 internships
 Company/Industry: Finance
@@ -11579,11 +10470,9 @@ Duration: summer
 Salary: 9500/mo
 Relocation/Housing Stipend: provided housing
 
-
 ```
 
-```
-School/Year: Junior, No name state school from Western U.S.
+```School/Year: Junior, No name state school from Western U.S.
 Prior Experience: QA/Testing
 Goldman Sachs
 Title: Summer Tech Analyst
@@ -11605,11 +10494,9 @@ Duration: 12 weeks
 Salary: $24/hr
 Relocation/Housing Stipend: $715/month housing or company provided housing in BSU dorms. Relocation covered plus a "check out Boise" trip in January to explore the city and meet other interns.
 
-
 ```
 
 ```
-
 School/Year:Top 5 UK University BSc CS
 Prior Experience: 2 Internships. Small Startup / Another Finance Company
 Company/Industry: Goldman Sachs
@@ -11618,11 +10505,9 @@ Duration: 3 months
 Salary: £3.9k / month
 Relocation:Housing Stipend: £1000, no housing
 Non-negotiatable intern salary. However my recruiter said that new grad salaries are negotiable.
-
 ```
 
-```
-Education: State University in Pennsylvania
+```Education: State University in Pennsylvania
 Prior Experience: 1 Software Developer internship
 Company/Industry: Logistics
 Title: Software Developer I
@@ -11631,11 +10516,9 @@ Salary: $60,000
 Relocation/Signing Bonus: $5,000 relocation $5,000 signing bonus
 Stock and/or recurring bonuses: 4% Annual Bonus
 Total comp: ~$72,500
-
 ```
 
-```
-Education: BS CS, fairly known and respected state university
+```Education: BS CS, fairly known and respected state university
 Prior Experience: None
 Company/Industry: Very large aerospace/defense contractor
 Title: Associate Software Engineer
@@ -11643,11 +10526,9 @@ Location: King of Prussia, Pennsylvania
 Salary: $73k
 Relocation/Signing Bonus: $3k
 Stock and/or recurring bonuses: TBD  
-
 ```
 
-```
-Education: BS from large university in Canada 
+```Education: BS from large university in Canada 
 Prior Experience: 3 summer internships (1 large healthcare company, 2 startups)
 Company/Industry: Gambling
 Title: Software Engineer
@@ -11657,11 +10538,9 @@ Salary: 105k
 Relocation/Signing Bonus: 5k
 Stock and/or recurring bonuses: 10k bonus per year
 Total comp: ~110k 1st year
-
 ```
 
-```
-• ⁠Education: BS in CS at large private University in Boston
+```• ⁠Education: BS in CS at large private University in Boston
 • ⁠Prior Experience: 1 Defense Internship, 1 eCommerce Internship
 • ⁠Company/Industry: VMware
 • ⁠Title: MTS II (Software Engineering)
@@ -11672,11 +10551,9 @@ Total comp: ~110k 1st year
 • ⁠Stock and/or recurring bonuses: $80k in RSUs vesting over four years (1 year cliff then 6 month vest schedule)
 • ⁠Total comp: ~$158k, 168k with sign
 Edit: disambiguated TC
-
 ```
 
-```
-School/Year: University of Waterloo, 4th year
+```School/Year: University of Waterloo, 4th year
 Prior Experience: 4 internships at various companies in Canada
 Industry: startup, restaurant management app
 Title: software engineer intern
@@ -11684,11 +10561,9 @@ Location: Boston
 Duration: 8 months
 Salary: $6000/month
 Relocation/Housing Stipend: free flight, transit
-
 ```
 
-```
-* School/Year: small LAC in the south, Junior
+```* School/Year: small LAC in the south, Junior
 * Prior Experience: internship teaching web development to kids
 * Company/Industry: Wayfair
 * Title: Software Engineer Intern
@@ -11697,11 +10572,9 @@ Relocation/Housing Stipend: free flight, transit
 * Salary: $34/hr
 * Relocation/Housing Stipend: Housing in local university
 
-
 ```
 
-```
-Education: M.Sc. Mathematics, University of Toronto
+```Education: M.Sc. Mathematics, University of Toronto
 Prior Experience: None
 Company/Industry: Big 4
 Title: Software Engineer
@@ -11711,11 +10584,9 @@ Relocation/Signing Bonus: 20k sign-on + ~12k relocation
 Stock and/or recurring bonuses: 100k GSUs over 4 years, 15% bonus
 Total comp: 200k first year, 170k recurring
 
-
 ```
 
-```
-School/Year: Top 10 CS School , Masters [1st year]
+```School/Year: Top 10 CS School , Masters [1st year]
 Prior Experience:  3 small internships , 1 research internship at University 
 Company/Industry: NVIDIA
 Title: Deep Learning Intern
@@ -11723,11 +10594,9 @@ Location: Santa Clara
 Duration: 12 weeks
 Salary: $50.25/hour 
 Relocation/Housing Stipend: $550/week
-
 ```
 
 ```
-
 School/Year: Penultimate Year, "Oxbridge Reject" RG Uni
 Prior Experience: quant internship at a strategy consulting firm, entrepreneurship, side gigs/projects etc
 
@@ -11745,11 +10614,9 @@ Duration: 11 months
 Salary: £32.5k pro-rated, £2.7k/month
 Relocation/Housing Stipend: £1k
 Other offers still pending - will update
-
 ```
 
 ```
-
 School/Year: Penultimate Year, "Oxbridge Reject" RG Uni
 Prior Experience: quant internship at a strategy consulting firm, entrepreneurship, side gigs/projects etc
 
@@ -11767,11 +10634,9 @@ Duration: 11 months
 Salary: £32.5k pro-rated, £2.7k/month
 Relocation/Housing Stipend: £1k
 Other offers still pending - will update
-
 ```
 
 ```
-
 Education: B.S. Mechanical Engineering, mid ranked public U in USA.
 Prior Experience:
 
@@ -11787,11 +10652,9 @@ Stock and/or recurring bonuses: Included in total comp
 Total comp: Included in total comp
 ​
 COL is cheaper than LA or Chicago for apartment rent, but comparable to Arizona or cheaper for eating out/etc. "I really want to move to Tokyo" doesn't hold a lot of weight in interviews. Gotta be decent at what you do and fit culturally with the company. It's a big investment for them to bring you over, but worth it if you can pull it off.
-
 ```
 
-```
-School/Year: Rising senior at top 10 university (not known for CS though)
+```School/Year: Rising senior at top 10 university (not known for CS though)
 Prior Experience: 2 Meh internships (writing tests & command line monkey)
 Company/Industry: Western Digital
 Title: RAMP Software Engineer Intern
@@ -11799,11 +10662,9 @@ Location: Bay Area
 Duration: 12 Weeks
 Salary: $27/hr
 Relocation/Housing Stipend: Free housing for the duration of the program
-
 ```
 
-```
-Education: Dartmouth College
+```Education: Dartmouth College
  • Prior Experience: Research Labs, Retail & Media Industry SWE Experience (Internships; not Big 4): Microsoft, Capital One, Blend (all internships)
  • Company/Industry: Blend
  • Title: Associate Software Engineer
@@ -11815,11 +10676,9 @@ Education: Dartmouth College
  • Total comp:
  ◦ First Year: $145K
  ◦ The potential for raises seems quite high, they do reviews quarterly and if you do well you may get 4 raises in a year (one of my friends there did so, so ended up at $150k base after year 1)
-
 ```
 
-```
-Blend Labs:
+```Blend Labs:
 Salary: $125k base
 Signing bonus: $5k 
 Options: 55000 shares vested on a 2/3/4 schedule
@@ -11828,11 +10687,9 @@ Total comp: really depends on how much the shares end up being valued at
 Tenure: none, this is a starting offer
 Location: San Francisco
 Education: Ivy
-
 ```
 
-```
-School/Year: Northeastern University, Junior (Year 4 of 5)
+```School/Year: Northeastern University, Junior (Year 4 of 5)
 Prior Experience: one 2 month SWE Internship, two 6+ month SWE co-ops (one at a well-known SV company, not a "big 4")
 Managed to do pretty well 
 Company: Blend Labs
@@ -11883,11 +10740,9 @@ Salary: $8320/month, ($52/hr)
 Relocation/Housing: $9000 housing stipend (edit: It covers housing for 12-16 week internships, and scales up/down for longer/shorter ones)
 Other notable perks: $175 Lyft credit per month, $130/month towards transit/parking, $130 towards monthly phone bill, health insurance
 
-
 ```
 
-```
-School/Year: Northeastern University, Junior (Year 4 of 5)
+```School/Year: Northeastern University, Junior (Year 4 of 5)
 Prior Experience: one 2 month SWE Internship, two 6+ month SWE co-ops (one at a well-known SV company, not a "big 4")
 Managed to do pretty well 
 Company: Blend Labs
@@ -11938,11 +10793,9 @@ Salary: $8320/month, ($52/hr)
 Relocation/Housing: $9000 housing stipend (edit: It covers housing for 12-16 week internships, and scales up/down for longer/shorter ones)
 Other notable perks: $175 Lyft credit per month, $130/month towards transit/parking, $130 towards monthly phone bill, health insurance
 
-
 ```
 
-```
-School/Year: Northeastern University, Junior (Year 4 of 5)
+```School/Year: Northeastern University, Junior (Year 4 of 5)
 Prior Experience: one 2 month SWE Internship, two 6+ month SWE co-ops (one at a well-known SV company, not a "big 4")
 Managed to do pretty well 
 Company: Blend Labs
@@ -11993,11 +10846,9 @@ Salary: $8320/month, ($52/hr)
 Relocation/Housing: $9000 housing stipend (edit: It covers housing for 12-16 week internships, and scales up/down for longer/shorter ones)
 Other notable perks: $175 Lyft credit per month, $130/month towards transit/parking, $130 towards monthly phone bill, health insurance
 
-
 ```
 
-```
-School/Year: Northeastern University, Junior (Year 4 of 5)
+```School/Year: Northeastern University, Junior (Year 4 of 5)
 Prior Experience: one 2 month SWE Internship, two 6+ month SWE co-ops (one at a well-known SV company, not a "big 4")
 Managed to do pretty well 
 Company: Blend Labs
@@ -12048,11 +10899,9 @@ Salary: $8320/month, ($52/hr)
 Relocation/Housing: $9000 housing stipend (edit: It covers housing for 12-16 week internships, and scales up/down for longer/shorter ones)
 Other notable perks: $175 Lyft credit per month, $130/month towards transit/parking, $130 towards monthly phone bill, health insurance
 
-
 ```
 
-```
-School/Year: Northeastern University, Junior (Year 4 of 5)
+```School/Year: Northeastern University, Junior (Year 4 of 5)
 Prior Experience: one 2 month SWE Internship, two 6+ month SWE co-ops (one at a well-known SV company, not a "big 4")
 Managed to do pretty well 
 Company: Blend Labs
@@ -12103,11 +10952,9 @@ Salary: $8320/month, ($52/hr)
 Relocation/Housing: $9000 housing stipend (edit: It covers housing for 12-16 week internships, and scales up/down for longer/shorter ones)
 Other notable perks: $175 Lyft credit per month, $130/month towards transit/parking, $130 towards monthly phone bill, health insurance
 
-
 ```
 
-```
-School/Year: Northeastern University, Junior (Year 4 of 5)
+```School/Year: Northeastern University, Junior (Year 4 of 5)
 Prior Experience: one 2 month SWE Internship, two 6+ month SWE co-ops (one at a well-known SV company, not a "big 4")
 Managed to do pretty well 
 Company: Blend Labs
@@ -12158,11 +11005,9 @@ Salary: $8320/month, ($52/hr)
 Relocation/Housing: $9000 housing stipend (edit: It covers housing for 12-16 week internships, and scales up/down for longer/shorter ones)
 Other notable perks: $175 Lyft credit per month, $130/month towards transit/parking, $130 towards monthly phone bill, health insurance
 
-
 ```
 
-```
-Education: BSCS Top 10 CS school
+```Education: BSCS Top 10 CS school
 Prior Experience: 1 year SWE at a small company
 Company/Industry: Microsoft
 Title: Software Engineer
@@ -12173,11 +11018,9 @@ Relocation/Signing Bonus: 13k / 0k
 Stock and/or recurring bonuses: 10k over 5 years / 10% target performance bonus
 Total comp: Total comp: 135k first year / 122k
 
-
 ```
 
-```
-Education: BS in CS
+```Education: BS in CS
 Prior Experience: 2 SWE internships at a startup and a 3 person company
 Company: Microsoft
 Title: SWE
@@ -12185,11 +11028,9 @@ Location: Redmond, WA
 Salary: 119k after raise/promotion last fall, started at 107k
 Tenure: 1.5 years
 Total Comp: ~155k if target bonus, includes ~23k of stock vest
-
 ```
 
-```
-when stating university rank, is the default assuming world top or US top? anyways, I'm assuming world.
+```when stating university rank, is the default assuming world top or US top? anyways, I'm assuming world.
 Education: BS CS at non-US top 25 uni
 Prior Experience: 4 internships (Big4, start-up, small data science company, academia)
 Microsoft
@@ -12201,11 +11042,9 @@ Stock:  $120k / 3.5 years (negociated up from $70k with Big4 and investment bank
 Recurring bonuses (Target): $10k
 Total comp: $180k first year then $153k
 
-
 ```
 
-```
-• School/Year: Unknown Canadian School, Sophomore
+```• School/Year: Unknown Canadian School, Sophomore
 • Prior Experience: Startup, Microsoft
 • Company/Industry: Midsized startup 
 • Title: SWE Intern
@@ -12213,11 +11052,9 @@ Total comp: $180k first year then $153k
 • Duration: 12 weeks
 • Salary: $7000/month
 • Relocation/Housing Stipend: $5000 one time housing
-
 ```
 
 ```
-
 School/Year: 4th/5 years, RIT
 Prior Experience: 1x internship at finance firm
 Company/Industry: Microsoft
@@ -12233,11 +11070,9 @@ Duration: 10 weeks
 Salary: $47.36/hour, $71.03/OT
 Relocation/Housing Stipend: $1500
 
-
 ```
 
 ```
-
 School/Year: 5th year, Texas A&M University
 Prior Experience: 1x BigN, 1x F500, 3 x Startup/SB all internships 
 Company/Industry: Microsoft
@@ -12247,11 +11082,9 @@ Duration: 12 weeks
 Salary: $7300/month
 Relocation/Housing Stipend: Choice of corporate housing/$7000
 
-
 ```
 
 ```
-
 Education: BS in CS at an okay school
 Prior Experience: 1x Microsoft Internship, 1x Unisys Co-op, 5 years of individual experience in random companies
 Company/Industry: Microsoft
@@ -12262,11 +11095,9 @@ Relocation/Signing Bonus: Signing Bonus: $5000 - Starting Bonus: $25000
 Stock and/or recurring bonuses: $120K stock vests in 3.5 years - 25% .5 years - 25% 1.5 years etc. Yearly refresher stocks are available but not quite as large. Up to 20% of base salary as yearly bonus.
 Total Compensation: $109K + $30K (sign+start) + $30K (stock) + upto $20K (yearly bonus) = $170 - $190K
 
-
 ```
 
 ```
-
 Education: BSc in CS at US Top 100
 Prior experience: 2x MSFT, 2x Startups, 1x Unicorn
 Company/Industry: Microsoft
@@ -12277,11 +11108,9 @@ Relocation/Signing bonus: $5k signing + $70k joining and fully paid for relocati
 Stock and/or recurring bonuses: $175k over 3.5 years, 10~20% in annual bonus.
 Total Comp: $109k + $75k (sign & join) + $50k (RSU) = $235k + $16.5k (assuming 15% bonus).
 
-
 ```
 
 ```
-
 Education: BSCS & BS Comp Math from a school you've literally never heard of
 Prior Experience: 3 internships MS, 4 internships prior (some in mechanical engineering tho)
 Company/Industry: Microsoft
@@ -12292,11 +11121,9 @@ Relocation/Signing Bonus: 5.5k relo lump sum (or all reasonable shit paid for), 
 Stock and/or recurring bonuses: 130,000 in RSUs
 Total comp: idk you do the math
 
-
 ```
 
-```
-Education: BS in CS, state school
+```Education: BS in CS, state school
 Prior Experience: 1 year fortune 100 non-tech, 3 years Amazon, 1 year Unicorn
 Company/Industry: Microsoft
 Title: SDE II
@@ -12306,11 +11133,9 @@ Salary: $140k
 Relocation/Signing Bonus: $30k up front, $10k 1st anniversary
 Stock and/or recurring bonuses: $50k RSU's over 4 years, $26k max cash bonus, $13k max equity bonus
 Total comp: ~$220k first year
-
 ```
 
-```
-Education: BS in Psychology
+```Education: BS in Psychology
 Prior Experience: 3 years, mix of small shops with bad pay, mid sized shops with bad tech, and now a small shop with good tech, good pay. No big tech companies. No internships. 
 Company/Industry: Microsoft
 Title: Software Developer II
@@ -12320,11 +11145,9 @@ Salary: 130k
 Relocation/Signing Bonus: 12.5k Relocation, 15k signing, both require 1 year of tenure.
 Stock and/or recurring bonuses: 20k Stock vested equally over next 4 years. Possibilities for both cash and stock bonuses. 
 Total comp: 162.5k First year
-
 ```
 
-```
-Education: BA Cogsci
+```Education: BA Cogsci
 Prior Experience: 4 internships, 2xBigN
 Company/Industry: Microsoft
 Title: Software Engineer
@@ -12341,11 +11164,9 @@ Relocation/Signing Bonus: 0
 Stock and/or recurring bonuses: small % equity in the company in options
 Total comp: 110k
 Got both of these offers in May. If you didn't land offers during the Fall hiring season, don't give up! You can still get strong new grad offers late in the school year. 
-
 ```
 
 ```
-
 School/Year: Senior at top 100 CS School
 Prior Experience: 4 Internships (2 at unicorns in bay, 1 at MSFT, 1 at MIT CSAIL)
 Company/Industry: Microsoft
@@ -12355,11 +11176,9 @@ Duration: 13 weeks
 Salary: $7850/Month
 Relocation/Housing Stipend: $7,000 (post-tax) + $12,500 signup bonus (pre-tax)
 
-
 ```
 
 ```
-
 Education: BS Computer Science, no-name Cal State University
 Prior Experience: 
 
@@ -12374,11 +11193,9 @@ Relocation/Signing Bonus: $5000 relocation
 Stock and/or recurring bonuses: NA
 Total comp: $83,000 plus stock
 I will be entering Microsoft's MACH program, iffy on doing support but it's the best offer I've got.   
-
 ```
 
 ```
-
 School/Year: Top 20 CS School, Junior
 Prior Experience: Research Intern @ NIH, 2 SWE internships (one at IB, another at Defense Contractor)
 Company/Industry: Microsoft
@@ -12388,11 +11205,9 @@ Duration: 12 weeks
 Salary: 7300/month
 Relocation/Housing Stipend: Corporate Housing or $7K stipend. $1200 for commute allowance, or pay $375/mo for car rental
 
-
 ```
 
-```
-EDIT: NOT A FRESH GRAD
+```EDIT: NOT A FRESH GRAD
 Education: Bachelors in Electrical Engineering, CSE minor
 Prior Experience: 1 and a half year at Tier 2 company straight out of college. 
 $Internship: porch startup, a little over min wage compensation. 
@@ -12406,11 +11221,9 @@ Relocation/Signing Bonus: $7,500
 Stock and/or recurring bonuses:$15,000, $20,000 annual performance bonus 
 Total comp: $170,000
 AMA
-
 ```
 
-```
-School/Year: unknown Canadian school, incoming junior
+```School/Year: unknown Canadian school, incoming junior
 Prior Experience: 2 internships (one at MS), research experience, freelance
 Company/Industry: Microsoft
 Title: Software Engineering Intern
@@ -12419,11 +11232,9 @@ Duration: 12 weeks
 Salary: $7250/month + $5000 signing bonus
 Relocation/Housing Stipend: $4k or free corporate housing, free transportation to and from internship with $1500 for travel expenses.
 Total comp per month: ~$10,750 USD or ~ $13,062 CAD
-
 ```
 
-```
-School/Year: Top 20 CS School (December 2018 grad)
+```School/Year: Top 20 CS School (December 2018 grad)
 Prior Experience: Microsoft, and defense contractor
 Company/Industry: Microsoft (return offer)
 Title: Software Engineering intern
@@ -12431,11 +11242,9 @@ Location: Redmond, WA
 Duration: 12 weeks
 Salary: $7,650/month + $5,000 signing bonus
 Relocation/Housing Stipend: Corporate housing or $4,000 stipend + $1,500 traveling bonus during internship
-
 ```
 
-```
-School/Year: 3rd year, small Canadian uni
+```School/Year: 3rd year, small Canadian uni
 Prior Experience: research exp, freelance, 2 past internships
 Company/Industry:  Microsoft
 Title: Software Engineering Intern
@@ -12443,11 +11252,9 @@ Location: Bellevue, WA
 Duration: 12 weeks
 Salary: 7250/month USD
 Relocation/Housing Stipend: 5k signing bonus, 7k stipend for housing or free corporate, free flights to and from, 1.5k travel stipend, free gym + bus pass
-
 ```
 
-```
-School/Year: Purdue University - Junior in CS
+```School/Year: Purdue University - Junior in CS
 Prior Experience: Internship at SmugMug - Summer 2017
 Company/Industry: Microsoft
 Title: SWE Intern
@@ -12455,11 +11262,9 @@ Location: Redmond, WA
 Duration: end of May to mid-August
 Salary: $7250/mo
 Relocation/Housing Stipend: $7000 stipend full (taxes already accounted for), $1200 full for transportation, $300 extra "Internship Allowance".
-
 ```
 
-```
-School/Year: Top Ivy, Sophomore (2nd year)
+```School/Year: Top Ivy, Sophomore (2nd year)
 Prior Experience: research, then small startup
 Company 1 (Accepted)
 Company/Industry: Microsoft
@@ -12478,11 +11283,9 @@ Salary: $30/hr
 Relocation/Housing Stipend: none
 Transportation Stipend: none
 Definitely would not recommend BNY Mellon if you have other options. The superday was very unorganized, and IMO the whole "innovation center" concept is a sham. Also, they don't give full-time return offers to interns (you would have to reapply and enter the same application pipeline as external applicants).
-
 ```
 
-```
-School/Year: Top 5 Uni in Canada, 3rd year
+```School/Year: Top 5 Uni in Canada, 3rd year
 Prior Experience: 1.5 years at a startup, 1 internship at an aviation company
 Company/Industry: Microsoft
 Title: Software Developer Intern
@@ -12490,11 +11293,9 @@ Location: Vancouver, BC, Canada
 Duration: 4 months
 Salary: $4200 / month
 Relocation/Housing Stipend: $5k housing stipend, $1100 for relocation
-
 ```
 
 ```
-
 Education: PhD in CS
 Prior Experience: 3 years full time, 2 internships
 Company/Industry: Microsoft
@@ -12506,11 +11307,9 @@ Relocation/Signing Bonus: 5k cash signing bonus, 50k stock on-hire (3.5yr vest)
 Stock and/or recurring bonuses: ~15k cash/yr (depends on review, could be +/- 5k), $2k/yr stock, $14k stock from on-hire (one last vest coming up)
 Total comp: ~141k (not including 14k from on-hire stock, which runs out and isn't refreshed)
 
-
 ```
 
 ```
-
 Education: poli sci bachelors at state school, cis masters at Penn
 Prior Experience: 2 Defense contractor internships, 1 fed govt internship
 Company/Industry: Microsoft
@@ -12521,11 +11320,9 @@ Relocation/Signing Bonus: 5k relocation, 50k signing
 Stock and/or recurring bonuses: 120k over 3.5 years, 25% special bonus, up to 20% regular performance bonus
 Total comp: first year 220k (108 * 1.25 + 50 + 30 + 5), after that 165k
 
-
 ```
 
-```
-Education: CS, target school
+```Education: CS, target school
 Prior Experience: Microsoft, non tech company dev internship
 Company/Industry: Microsoft
 Title: Software Dev
@@ -12533,11 +11330,9 @@ Location: Seattle
 Salary: $116k
 Relocation/Signing Bonus: $5k relocation, $50k / 2 years
 Stock and/or recurring bonuses: $130k / 3.5 years, 20% max performance bonus / year
-
 ```
 
 ```
-
 School/Year: Unranked State School
 Prior Experience: >1 internships at large non-tech companies, Microsoft Internship
 Company/Industry: Microsoft
@@ -12548,11 +11343,9 @@ Relocation/Signing Bonus: $40,000
 Stock and/or recurring bonuses: $120,000/3.5 years, up 20% annual bonus
 Total comp: $182,000 in year one, but with other benefits (401k, healthcare, etc), probably around $200,000 total.  $142,000 to $175,000 recurring, depending on a number of factors.
 Edit: did have 2 other competing offers used to negotiate (one big N and one "finance")
-
 ```
 
-```
-Education: CS Degree at University of Oregon
+```Education: CS Degree at University of Oregon
 Prior Experience: Part-time job, Internship at LAIKA, and a contract gig with Charter (Spectrum).
 Company/Industry: AutoGravity
 Title: Software Engineer (Web)
@@ -12561,11 +11354,9 @@ Salary: $90k
 Relocation/Signing Bonus: $10k
 Stock and/or recurring bonuses: 15% target annual bonus
 Total comp: $100k first year + $13.5k bonus
-
 ```
 
 ```
-
 Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
 Prior Experience:
 
@@ -12581,7 +11372,6 @@ Salary: $90,000
 Relocation/Signing Bonus: $7,000 signing
 Stock and/or recurring bonuses: 3.5% annual bonus target
 Total comp: $93,150
-
 
 ```
 
