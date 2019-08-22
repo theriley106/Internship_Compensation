@@ -18,7 +18,7 @@ if __name__ == '__main__':
 	res = grabSite(url)
 	page = bs4.BeautifulSoup(res.text, 'lxml')
 	for val in page.select(".md-container"):
-		x = str(val.getText()).lower()
-		if 'salary' in x and ':' in x:
-			print val.getText().replace("\n\n", "\n")
-			print("______________")
+		for x in str(val.getText()).lower().split("\n\n\n"):
+			if 'salary' in x and ':' in x:
+				print val.getText().replace("\n\n", "\n")
+				print("______________")
