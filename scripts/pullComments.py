@@ -56,7 +56,8 @@ if __name__ == '__main__':
 								break
 						if companyName not in DB:
 							DB[companyName] = []
-						DB[companyName].append(comment)
+						information = {"thread": page.title.string, "comment": comment}
+						DB[companyName].append(information)
 						#print("Predicted company: {}".format(companyName))
 
 						#print("______________")
