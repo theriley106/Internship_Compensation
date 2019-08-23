@@ -39,7 +39,7 @@ if __name__ == '__main__':
 				for x in str(val.getText()).lower().split("\n\n\n"):
 					if 'salary' in x and ':' in x:
 						value = val.getText().replace("\n\n", "\n")
-						comment = val.getText().replace("\n\n", "\n")
+						comment = val.getText()
 						companyName = "unknown"
 						for c in companies:
 							found = False
@@ -63,5 +63,5 @@ if __name__ == '__main__':
 						#print("______________")
 		except:
 			print("ERROR")
-	with open('data.json', 'w') as fp:
+	with open('data2.json', 'w') as fp:
 		json.dump(DB, fp, indent=4)
