@@ -1,4 +1,148 @@
-## university of michigan
+
+
+Company Table of Contents
+=================
+
+<!--ts-->
+
+- [Scratch Off Statistics](#scratch-off-statistics)
++ [University Of Michigan](#university-of-michigan)
++ [University Of Washington](#university-of-washington)
++ [Next Canada](#next-canada)
++ [Lockheed Martin](#lockheed-martin)
++ [Jp Morgan Chase](#jp-morgan-chase)
++ [Cruise](#cruise)
++ [Viasat](#viasat)
++ [Nordstrom](#nordstrom)
++ [Homeaway](#homeaway)
++ [Okta](#okta)
++ [Snap](#snap)
++ [Upwork](#upwork)
++ [Nasa](#nasa)
++ [Nokia](#nokia)
++ [Siemens](#siemens)
++ [Amazon](#amazon)
++ [Higher Logic](#higher-logic)
++ [Facebook](#facebook)
++ [Riot Games](#riot-games)
++ [Sony](#sony)
++ [Credit Karma](#credit-karma)
++ [Slack](#slack)
++ [Little Labs](#little-labs)
++ [Pagerduty](#pagerduty)
++ [Intel](#intel)
++ [Drop](#drop)
++ [Georgia State University](#georgia-state-university)
++ [Grab](#grab)
++ [Braintree](#braintree)
++ [Virginia Tech](#virginia-tech)
++ [Ge Healthcare](#ge-healthcare)
++ [Playstation](#playstation)
++ [Pluralsight](#pluralsight)
++ [Google](#google)
++ [Adobe](#adobe)
++ [Equifax](#equifax)
++ [Opentable](#opentable)
++ [Vmware](#vmware)
++ [Even](#even)
++ [Datadog](#datadog)
++ [Extend](#extend)
++ [University Of Maryland](#university-of-maryland)
++ [Bridgewater](#bridgewater)
++ [Airbnb](#airbnb)
++ [University Of Florida](#university-of-florida)
++ [Deloitte](#deloitte)
++ [Exxonmobil](#exxonmobil)
++ [Bird](#bird)
++ [Reddit](#reddit)
++ [Yext](#yext)
++ [Arizona State University](#arizona-state-university)
++ [At&T](#at&t)
++ [University Of Alabama](#university-of-alabama)
++ [Box](#box)
++ [Shift](#shift)
++ [Bank Of America](#bank-of-america)
++ [Ohio University](#ohio-university)
++ [Drw](#drw)
++ [Akuna Capital](#akuna-capital)
++ [Twitch](#twitch)
++ [Ubisoft](#ubisoft)
++ [Qualtrics](#qualtrics)
++ [Apple](#apple)
++ [Lyft](#lyft)
++ [Directly](#directly)
++ [Cisco](#cisco)
++ [Shopify](#shopify)
++ [New York University](#new-york-university)
++ [Unknown](#unknown)
++ [The We Company](#the-we-company)
++ [Comcast](#comcast)
++ [Citadel](#citadel)
++ [Medium](#medium)
++ [North](#north)
++ [Ncr](#ncr)
++ [Paypal](#paypal)
++ [Atlassian](#atlassian)
++ [Properly](#properly)
++ [Capital One](#capital-one)
++ [Quantcast](#quantcast)
++ [Zillow](#zillow)
++ [Salesforce](#salesforce)
++ [Ibm](#ibm)
++ [Affirm](#affirm)
++ [Ebay](#ebay)
++ [Qualcomm](#qualcomm)
++ [Carrot](#carrot)
++ [Glassdoor](#glassdoor)
++ [Electronic Arts](#electronic-arts)
++ [Chan Zuckerberg Initiative](#chan-zuckerberg-initiative)
++ [Uber](#uber)
++ [Autodesk](#autodesk)
++ [Tesla](#tesla)
++ [Linkedin](#linkedin)
++ [Expedia](#expedia)
++ [Sas](#sas)
++ [Blackrock](#blackrock)
++ [Hubspot](#hubspot)
++ [Redfin](#redfin)
++ [Appfolio](#appfolio)
++ [Tableau](#tableau)
++ [Workday](#workday)
++ [University Of Toronto](#university-of-toronto)
++ [Arista Networks](#arista-networks)
++ [Asana](#asana)
++ [Square](#square)
++ [Surveymonkey](#surveymonkey)
++ [Node](#node)
++ [Mozilla](#mozilla)
++ [University Of Houston](#university-of-houston)
++ [United Technologies](#united-technologies)
++ [Mongodb](#mongodb)
++ [Mediamath](#mediamath)
++ [Visa](#visa)
++ [Stripe](#stripe)
++ [Bloomberg](#bloomberg)
++ [Dropbox](#dropbox)
++ [Doordash](#doordash)
++ [Github](#github)
++ [Yelp](#yelp)
++ [Cover](#cover)
++ [Goldman Sachs](#goldman-sachs)
++ [Pennsylvania State University](#pennsylvania-state-university)
++ [Boston University](#boston-university)
++ [University Of California](#university-of-california)
++ [Nvidia](#nvidia)
++ [Deutsche Bank](#deutsche-bank)
++ [Western Digital](#western-digital)
++ [Blend](#blend)
++ [Microsoft](#microsoft)
++ [Autogravity](#autogravity)
++ [University Of Pittsburgh](#university-of-pittsburgh)
+
+<!--te-->
+
+# Salary By Company
+## University Of Michigan
 
 ```School/Year: Sophomore, University of Michigan
 Prior Experience: 1 year as engineer before starting undergrad, only 1 cs class at Michigan
@@ -37,7 +181,7 @@ Total comp: $55,000
 Also take note that I took two years off after graduating to pursue something outside of tech (ministry), which I'm still doing. This is my first programming job after graduation though.
 ```
 
-## university of washington
+## University Of Washington
 
 ```• ⁠Education: BA Computer Science @ Top 30 University
 • ⁠Prior Experience: Military Experience, FinTech Intern, Data Science Research (Paper Publication In-Progress)
@@ -105,7 +249,7 @@ I am still on the fence. I feel lowballed by Offers # 2 and 3. But that is the b
 • Relocation/Housing Stipend: N/A, unlimited bus pass given
 ```
 
-## next canada
+## Next Canada
 
 ```Education: BcS CS.     
 Prior experience: 3.5 years.     
@@ -117,7 +261,7 @@ Salary: $75k per annum.
 Other compensation: about $10k stock over next 3 years
 ```
 
-## lockheed martin
+## Lockheed Martin
 
 ```School/Year: Junior @ Temple University
 Prior Experience: None (But I have side projects and a high GPA)
@@ -135,7 +279,7 @@ Salary: ~$27/hour
 Relocation/Housing Stipend: $1100/month
 ```
 
-## jp morgan chase
+## Jp Morgan Chase
 
 ```School/Year: Rising Junior at a Top 40 School
 Prior Experience: 3 Internships: 2 start ups, 1 F300, also a research assistant
@@ -171,7 +315,7 @@ Salary: $28.75/hour, Overtime: $43/Hour
 Signing Bonus: 1.5k one-time payment
 ```
 
-## cruise
+## Cruise
 
 ```
 School/Year: Top 10 CS/Rising 5th year
@@ -250,7 +394,7 @@ Relocation/Housing Stipend/Misc: $1000 monthly, free meals
 
 ```
 
-## viasat
+## Viasat
 
 ```
 School/Year: San Diego State University/Junior
@@ -264,7 +408,7 @@ Relocation/Housing Stipend: Shared Furnished Apartment or $25/day Stipend (prora
 
 ```
 
-## nordstrom
+## Nordstrom
 
 ```Education: BS in CS from the University of Florida, currently working on my MS online through the same school
 Prior Experience:
@@ -281,7 +425,7 @@ Total comp: ~$90,000
 The position has its ups and downs. I'm passively looking around.
 ```
 
-## homeaway
+## Homeaway
 
 ```​
 School/Year: Top 50 school, Masters
@@ -295,7 +439,7 @@ Relocation/Housing Stipend: 1200$/month
 
 ```
 
-## okta
+## Okta
 
 ```School/Year: Rising Senior Top 10 CS (Public)
 Prio Experience: internship at mid-size company and internship at a little well known Saas company in Bay Area
@@ -326,7 +470,7 @@ Confluent:
 ​
 ```
 
-## snap
+## Snap
 
 ```
 School/Year: Junior Top 10 CS
@@ -362,7 +506,7 @@ Salary: $45/hr + ~3k stipend
 
 ```
 
-## upwork
+## Upwork
 
 ```College/Year:
 Small State College / 2nd year of a 2 year Software Programming program (not traditional college courses). I will have an Associate's of Applied Science when finished.
@@ -386,7 +530,7 @@ None
 
 ```
 
-## nasa
+## Nasa
 
 ```
 Education: BA - Computer Science (public state university)
@@ -443,7 +587,7 @@ Relocation/Housing Stipend: Hah, I wish.
 
 ```
 
-## nokia
+## Nokia
 
 ```Education: BS Computer Science at mid-tier Cal State
 Prior Experience: 3 internships
@@ -456,7 +600,7 @@ Stock and/or recurring bonuses: 5% base salary, up to 150% attainment
 Total comp: 95 ~ 101k (depending on performance)
 ```
 
-## siemens
+## Siemens
 
 ```School/Year: Midsize public school in Michigan/ Senior
 Prior Experience: No prior internship experience. Tutored C.S. undergraduate couses for a year
@@ -468,7 +612,7 @@ Salary: $21/hr
 Relocation/Housing Stipend: None, live in the area
 ```
 
-## amazon
+## Amazon
 
 ```• Education: BS in Computer science from a state school. 2.7 GPA
  • Prior Experience: 8.5 years professional experience as an SE + 2.5 years research in college
@@ -2396,7 +2540,7 @@ Total comp: $145,000
 
 ```
 
-## higher logic
+## Higher Logic
 
 ```• School/Year: UMD College Park
 • Prior Experience: Personal projects
@@ -2408,7 +2552,7 @@ Total comp: $145,000
 • Relocation/Housing Stipend: None
 ```
 
-## facebook
+## Facebook
 
 ```
 Education: Bachelors, foreign
@@ -2929,7 +3073,7 @@ Total comp: 95,000 GBP (first year) + relocation + target
 
 ```
 
-## riot games
+## Riot Games
 
 ```
 School/Year: Top 10 EE School
@@ -2942,7 +3086,7 @@ Relocation/Housing Stipend: Company housing, free meals, etc.
 
 ```
 
-## sony
+## Sony
 
 ```
 Education: BS CS at UCLA
@@ -2958,7 +3102,7 @@ Total comp: 140k plus good benefits
 
 ```
 
-## credit karma
+## Credit Karma
 
 ```
 School/Year: University of Waterloo (4th year CS)
@@ -3041,7 +3185,7 @@ Relocation/Housing Stipend: none
 
 ```
 
-## slack
+## Slack
 
 ```
 Education: Bachelors in Computer Science, state uni, a GPA I don't put on resumes.
@@ -3088,7 +3232,7 @@ Relocation/Housing Stipend: $2000/ month
 
 ```
 
-## little labs
+## Little Labs
 
 ```
 School/Year: Sophomore @ Puerto Rico
@@ -3102,7 +3246,7 @@ Relocation/Housing Stipend: 1 house hunting trip paid fully (about 2 days with h
 
 ```
 
-## pagerduty
+## Pagerduty
 
 ```School/Year: Target Canadian school
 Prior Experience: 3 internships
@@ -3137,7 +3281,7 @@ Relocation/Housing Stipend: $10,000 one-time bonus
 
 ```
 
-## intel
+## Intel
 
 ```I start in April but I'll post here now since I'm unsure that I'll remember next month. 
 Education: BS Computer Science, in-state big uni 
@@ -3170,7 +3314,7 @@ Salary: 31/hour
 Currently working in the first position. Begin the 2nd in February.
 ```
 
-## drop
+## Drop
 
 ```Education: BS in CS
 Prior Experience: 2 SWE internships at a startup and a 3 person company
@@ -3206,7 +3350,7 @@ Stock and/or recurring bonuses: 15% bonus. 6% 401k match. $1.2k HSA contribution
 Total comp: Bit over $150k without options. With options, anywhere between a bit over $150k and ???.
 ```
 
-## georgia state university
+## Georgia State University
 
 ```School/Year: Georgia State University
 Prior Experience: IT Internship
@@ -3218,7 +3362,7 @@ Salary: $20/hour
 Relocation/Housing Stipend: $1,500/mo, but I live too close to qualify
 ```
 
-## grab
+## Grab
 
 ```
 Education: MS in CS from a state school
@@ -3234,7 +3378,7 @@ Total comp: 194k / 4 years
 I did not go to a highly prestigious school, but employers don't care about that if you have experience. Internships get you the practical knowledge that schools don't cover, so try to grab as many as you can.
 ```
 
-## braintree
+## Braintree
 
 ```
 Education: CS dropout from a community college
@@ -3253,7 +3397,7 @@ Total comp: 149k, I feel like I'm massively underpaid for 4 years industry exper
 
 ```
 
-## virginia tech
+## Virginia Tech
 
 ```School/Year: Incoming 4th year, Virginia Tech
 Prior Experience: None programming, 1 year IT
@@ -3264,7 +3408,7 @@ Duration: 3 months
 Salary: $28/hour
 ```
 
-## ge healthcare
+## Ge Healthcare
 
 ```
 Education: BIG TEN school
@@ -3279,7 +3423,7 @@ Total comp: 85k
 
 ```
 
-## playstation
+## Playstation
 
 ```I'll chime in here. I took a contract role which gives me a bit higher salary but less benefits, but this was the offer.
 School: Local State School
@@ -3292,7 +3436,7 @@ Total comp: 100k
 
 ```
 
-## pluralsight
+## Pluralsight
 
 ```I will  be joining a company soon and will meet the following conditions.
  Education: MSc in Software Engineering
@@ -3310,7 +3454,7 @@ Stock and/or recurring bonuses: 5.30/day * 22 days (net, meal allowance) + 500 e
 
 ```
 
-## google
+## Google
 
 ```I have a <2.2GPA so there's hope for fuckups out there.
 School/Year: 4th year (out of 5), Cal Poly
@@ -4146,7 +4290,7 @@ Total comp: $213k Year 1, $208k Year 2, $214k Year 3, $192k Year 4
 Since this was a lateral hire from a Big 4 (~9 months of previous experience at the Big 4), the offer was very compelling to pull you away from the Big 4, matching or exceeding the stocks/bonuses that you were giving up by leaving. I've seen lower offers from Goldman Sachs, but I think those offers are forgetting to include the year-end bonus, which is a huge component compared to most other companies (~$50k y-e bonus/year).
 ```
 
-## adobe
+## Adobe
 
 ```
 Education: B.S. in CS from a top 5 uni, but not a top CS program. 3.0 GPA.
@@ -4165,7 +4309,7 @@ Total comp: I'd estimate $120-130k
 
 ```
 
-## equifax
+## Equifax
 
 ```School/Year: Top 10 CS, Rising Sr.
 Prior Experience: 1 internship, large group project, PT Back End work for my school
@@ -4199,7 +4343,7 @@ Relocation/Housing: None. The salary is more than enough for COL. Fortunately I 
 Screw the Big N and Silicon Sillycon Valley. I'm going to Chile!!
 ```
 
-## opentable
+## Opentable
 
 ```*School/Year: UC Berkeley
 *Prior Experience: SWE internship at Forbes 100 company, Basketball analytics internship for professional team (Got this internship before though)
@@ -4211,7 +4355,7 @@ Screw the Big N and Silicon Sillycon Valley. I'm going to Chile!!
 *Relocation/Housing Stipend: 2500 for summer
 ```
 
-## vmware
+## Vmware
 
 ```Education: CS bachelor's at top school in the Northeast
 Prior Experience: 2 internships, govt and e-commerce.
@@ -4245,7 +4389,7 @@ Salary: $35.50/hr
 Relocation/Housing Stipend: Housing included
 ```
 
-## even
+## Even
 
 ```
 Education:
@@ -4683,7 +4827,7 @@ SF salaries end up getting a huge chunk taken out of them for COL/income taxes, 
 I was looking at staying in my current state and even with a 35k+ paycut, I would have ended up ahead just because of the rent and tax differences. I'll probably move back here after a few years, but I really like SF and am willing to take the overall cut in salary for now.
 ```
 
-## datadog
+## Datadog
 
 ```​
 School/Year: Top 50 school, Masters
@@ -4706,7 +4850,7 @@ Duration: 4 months Salary: ~7.3k/mo
 Relocation/Housing Stipend: 1.2k/mo
 ```
 
-## extend
+## Extend
 
 ```School/Year: Senior at a PNW state school
 Prior Experience: Retail & Hotel jobs
@@ -4719,7 +4863,7 @@ Relocation/Housing Stipend: N/A
 I started this internship back in june at $15/hr, and have been granted a raise as well as an extension of the internship beyond the summer. I like in the northwest, but not in Seattle/Portland. You can definitely find tech jobs in my city, but they aren't nearly as numerous or well paying as the ones in the cities I mentioned.
 ```
 
-## university of maryland
+## University Of Maryland
 
 ```Education: University of Maryland
 Prior Experience: 2 time intern at Big 4
@@ -4742,7 +4886,7 @@ Salary: $40/hr, $60/hr overtime (45 hour weeks)
 Relocation/Housing Stipend: Relocation costs are reimbursed, housing provided in the city
 ```
 
-## bridgewater
+## Bridgewater
 
 ```Education: Top CS School
 Experience: 2 Microsoft internships
@@ -4761,7 +4905,7 @@ Stock and/or recurring bonuses: Target is 55k/yr, but upwards to 110k/yr
 Decided to do BW bc I kind of wanted to explore out the tech scene (plus I really loved every single person I met at BW), but did love my time at MSFT
 ```
 
-## airbnb
+## Airbnb
 
 ```
 Education: BS and MS from one of: MIT, Stanford, CMU, Berkeley
@@ -5559,7 +5703,7 @@ Stock and/or recurring bonuses: "220k"/4 years, 25% equity bonus
 All relocation bonuses were 5-10k
 ```
 
-## university of florida
+## University Of Florida
 
 ```I'm going to give both the job I just left,  and the job I just accepted. Old one is in a Low CoL area, new one in a high CoL
 Education: BS Computer Science from a Florida University
@@ -5595,7 +5739,7 @@ Salary: $28/hr
 Relocation/Housing Stipend:n/a
 ```
 
-## deloitte
+## Deloitte
 
 ```
 Education: Masters in CS (lower ranked UC)  
@@ -5611,7 +5755,7 @@ Total comp: 105k
 
 ```
 
-## exxonmobil
+## Exxonmobil
 
 ```School/Year: Rising junior at large state school
 Prior Experience: Interned at medium sized cybersecurity company and a small startup
@@ -5623,7 +5767,7 @@ Salary: $30/hour
 Relocation/Housing Stipend: $1500 at the beginning of the internship
 ```
 
-## bird
+## Bird
 
 ```Education: You’ve never heard of it, Canada
 Prior Experience: Nada
@@ -5651,7 +5795,7 @@ Total Comp: 180k + 6.5k bonus and one time 20k signing bonus
 
 ```
 
-## reddit
+## Reddit
 
 ```Education: BS in Econ and CS @ top 5 liberal arts college
 Prior Experience: finance internships (only one has somewhat of a tech/PM twist) + started tech startup (failed)
@@ -5671,7 +5815,7 @@ I have better offers in the same city, but I love this site.
 *this is a throwaway acct. 
 ```
 
-## yext
+## Yext
 
 ```School/Year: Senior at one of [CMU, Cornell, Princeton, Duke]
 Prior Experience: Two internships at small local companies
@@ -5683,7 +5827,7 @@ Salary: $7700/month ($48.13/hour)
 Relocation/Housing Stipend: $10,000 signing bonus
 ```
 
-## arizona state university
+## Arizona State University
 
 ```
 Education: BS in CS at Arizona State University
@@ -5708,7 +5852,7 @@ Total comp:
 
 ```
 
-## at&t
+## At&T
 
 ```• ⁠Education: BS in CS at large SEC school
 • ⁠Prior Experience: 1x internship at a small company, 1x large top 10 company
@@ -5807,7 +5951,7 @@ Total comp: 74k
 
 ```
 
-## university of alabama
+## University Of Alabama
 
 ```
 Education: BS in Computer Science
@@ -5823,7 +5967,7 @@ Total comp: 130K
 
 ```
 
-## box
+## Box
 
 ```School/Year:  Junior @ State School in Illinois
 Prior Experience:  Management experience at a big box retailer, currently working IT support at my school (student position)
@@ -5869,7 +6013,7 @@ Relocation/Housing Stipend: $1500 per month, airfare
 EDIT: Decided to choose FB!
 ```
 
-## shift
+## Shift
 
 ```*Education: MS in CS
 *Prior Experience: This was my first job, although I've transferred among the various dev groups in this company.
@@ -5947,7 +6091,7 @@ HSA
 Edit: They also paid for my MS in CS.
 ```
 
-## bank of america
+## Bank Of America
 
 ```
 School/Year: sophomore @ college in New York
@@ -5961,7 +6105,7 @@ Relocation/Housing Stipend: 2.5k for housing
 
 ```
 
-## ohio university
+## Ohio University
 
 ```• Education: Regis University
 • Prior Experience: 
@@ -5988,7 +6132,7 @@ Relocation/Signing Bonus: $0, since I lived in the city
 Stock and/or recurring bonuses: Just an ESPP
 ```
 
-## drw
+## Drw
 
 ```
 School/Year: one of MIT/Stanford/CMU/UCB, junior
@@ -6026,7 +6170,7 @@ Relocation/Housing Stipend: free housing
 having a competing offer from rival firms is ridiculously strong for negotiation
 ```
 
-## akuna capital
+## Akuna Capital
 
 ```School/Year: Top 10 CS / Junior 
 Prior Experience: 2 x Big N Intern  
@@ -6039,7 +6183,7 @@ Relocation/Housing Stipend: corporate housing and flight
 I thought I'd post this because the Glassdoor numbers seem to be misleading. 
 ```
 
-## twitch
+## Twitch
 
 ```
  School/Year: Incoming 3rd year at UC Irvine
@@ -6068,7 +6212,7 @@ Relocation/Housing Stipend: None
 
 ```
 
-## ubisoft
+## Ubisoft
 
 ```School/Year: Just finished my fourth school term, out of six, at a university in Montreal
 Prior Experience: Two internships at Genetec
@@ -6080,7 +6224,7 @@ Salary: 21$/hour
 Relocation/Housing Stipend: 0
 ```
 
-## qualtrics
+## Qualtrics
 
 ```Education: Double BS in Electrical Computer Engineering and Math at non-target state school
 Prior Experience: Software validation engineer intern at small scientific R&D company
@@ -6095,7 +6239,7 @@ Total Comp: $157k
 
 ```
 
-## apple
+## Apple
 
 ```Can’t sleep so I thought I’d make a post since I’ve lurked on these salary sharing threads for a while. Sorry for bad formatting I’m on mobile. 
 School/Year: Junior at top 15 CS school
@@ -6223,7 +6367,7 @@ Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrai
 
 ```
 
-## lyft
+## Lyft
 
 ```Education: BS CS at California Target School
 Prior Experience: 3 internships
@@ -6309,7 +6453,7 @@ Housing Stipend: 9k
 
 ```
 
-## directly
+## Directly
 
 ```I’m currently on a September comp cycle, so these numbers are brand new and reflect my raise for the year.
 Note there’s a lot of variance in my yearly "income" since more than half my comp is RSUs alone now, and changes to stock price will significantly affect both my assets and my W2 income.
@@ -6354,7 +6498,7 @@ Total comp: $113,850-$125,235 in 2018
 Other: we just moved from a PTO system to a discretionary (theoretically infinite :eyeroll:) time off.
 ```
 
-## cisco
+## Cisco
 
 ```Education: B.S. ECE
 Prior Experience: 1 internship at a medical company
@@ -6421,7 +6565,7 @@ Salary: $28/hour
 Relocation/Housing Stipend: $6,000 relocation bonus or corporate housing 
 ```
 
-## shopify
+## Shopify
 
 ```
 School/Year: Carleton U 2nd Year
@@ -6435,7 +6579,7 @@ Relocation/Housing Stipend: not applicable to me
 
 ```
 
-## new york university
+## New York University
 
 ```School: BS CS / Finance Minor from Top 25 CS University (Top 50 US University)
 Prior Experience: 1 Fortune 50 Insurance Company, 1 Large Bank
@@ -6464,7 +6608,7 @@ Relocation/Housing Stipend: USD $300/month transportation fee, campus housing pr
 The monthly expense was like USD $150/month since lunch and dinner were provided at their dining hall lol, so not as bad as it seems on paper.
 ```
 
-## the we company
+## The We Company
 
 ```Education: 4 year B.S. in Computer Science
 Prior Experience: - One internship my senior year - 11 years and about as many prior jobs ranging from support to developer (the recession was a bitch)
@@ -6557,7 +6701,7 @@ Sucks but it gets worse. I know a few people that got $12.75/hour in SF. This wa
 If i could do it again, i would do a ton of side projects to put on my resume that would make it much more attractive. This would give me a chance at getting interviews for actual better internships. Then it is a matter of studying CTCI to pass the interview.
 ```
 
-## comcast
+## Comcast
 
 ```Posting this under Low CoL as stated in OP, but apparently Philly is considered Medium CoL from most places I've heard. May be wrong though.
 Education: Non-target Top 100ish School  
@@ -6587,7 +6731,7 @@ School/Year: rising senior/unnamed tiny college
 
 ```
 
-## citadel
+## Citadel
 
 ```
 Education: CS and Math major from non-Ivy
@@ -6654,7 +6798,7 @@ Relocation/Housing Stipend: Corporate housing (studio) in downtown SF, walking d
 Starting next week, super pumped!
 ```
 
-## medium
+## Medium
 
 ```The young'ins had their chance, now it's time for us geezers to shine! This thread is for sharing recent offers/current salaries for professionals with 2 or more years of experience.
 Please only post an offer if you're including hard numbers, but feel free to use a throwaway account if you're concerned about anonymity. You can also genericize some of your answers (e.g. "Biotech company" or "Hideously Overvalued Unicorn"), or add fields if you feel something is particularly relevant.
@@ -7577,7 +7721,7 @@ Total comp: 85k
 Hope someone finds this helpful! 
 ```
 
-## north
+## North
 
 ```Education: Full sail University 2012-BS in game design
 Prior experience: 6 years total. freelance web dev in college, Application Developer for printing/translation company,  Application developer for financial company
@@ -7639,7 +7783,7 @@ Stock and/or recurring bonuses: ~85k/year in RSUs
 Total comp: 235k  
 ```
 
-## ncr
+## Ncr
 
 ```
 School/Year: Top 10 CS/Rising 5th year
@@ -7728,7 +7872,7 @@ Relocation/Housing Stipend: Paid relocation. No housing.
 
 ```
 
-## paypal
+## Paypal
 
 ```
 School/Year: San Jose State University, Master's Student
@@ -7742,7 +7886,7 @@ Relocation/Housing Stipend: Housing + return flight paid for
 
 ```
 
-## atlassian
+## Atlassian
 
 ```Education: Undergraduate Computer Science at Go8, Australia
 Prior Experience: 2 internships at Big 4 tech firms 
@@ -7941,7 +8085,7 @@ Relocation/Housing Stipend: None
 I had no idea Atlassian could pay like a Big-N company could.
 ```
 
-## properly
+## Properly
 
 ```
 Education: dropped out of college, completed ~2 years of BSEE
@@ -7957,7 +8101,7 @@ other compensation: standard benefits, up to ~$4.5k in 401k matching, pretty goo
 Worth noting I know a few people in the $170k-180k range in my market (Indianapolis).  Senior engineers in the $110-130k range is now fairly normal.  I know many mid-level engineers in the $80-100k range, and new grads around $55k-60k.  I've had a lot of open conversations with coworkers, people seem to be less shy these days.  I've literally doubled my salary in the past ~7 years since I was first given a software engineering titled role. 
 ```
 
-## capital one
+## Capital One
 
 ```Education: Top 10/15 CS Schools
 Prior Experience: Internships at Google and two other mid-tier companies
@@ -8481,7 +8625,7 @@ Total comp: 40,000 GBP + x
 Looking at all the other London offers I didn't realise how much this was at the lower end for international companies. Also looking at salaries from the US by Capital One feels strange.
 ```
 
-## quantcast
+## Quantcast
 
 ```
 School/Year: UC Berkeley, Sophomore
@@ -8495,7 +8639,7 @@ Housing Stipend: $3k
 
 ```
 
-## zillow
+## Zillow
 
 ```
 Education: Public Ivy UC  
@@ -8510,7 +8654,7 @@ Total comp: Around 190k for the first two years.
 
 ```
 
-## salesforce
+## Salesforce
 
 ```
 Education: BS in Computer Science, large state school
@@ -8591,7 +8735,7 @@ Total comp: 130K
 
 ```
 
-## ibm
+## Ibm
 
 ```
 Education:
@@ -8729,7 +8873,7 @@ Stock and/or recurring bonuses: None lol
 Total comp: $91,500
 ```
 
-## affirm
+## Affirm
 
 ```
 School/Year: top 4 university for cs, Junior
@@ -8795,7 +8939,7 @@ Relocation/Housing Stipend: $7.6k 1-time
 
 ```
 
-## ebay
+## Ebay
 
 ```
 Education: CS undergrad at a target
@@ -8848,7 +8992,7 @@ Accepted Lyft last week after reviewing my offers, really excited to start there
 
 ```
 
-## qualcomm
+## Qualcomm
 
 ```
 Education: Football state
@@ -8921,7 +9065,7 @@ Relocation/Housing Stipend: Relocation package + corporate housing
 
 ```
 
-## carrot
+## Carrot
 
 ```
 Education: College Dropout
@@ -8942,7 +9086,7 @@ My life breakdown is generally like so -- there are 168 hours in a week, so 60-8
 
 ```
 
-## glassdoor
+## Glassdoor
 
 ```Obviously this is not the norm. But such salary do exist for foreigners. I had alternate offers (in other countries) so maybe that played some part as well.
 Cost of living is really cheap...
@@ -8950,7 +9094,7 @@ Not really but yeah I agree it's cheaper if you compared to US high COL. The hou
 PS: sites like glassdoor don't have reliable figures when it comes to job outside US.
 ```
 
-## electronic arts
+## Electronic Arts
 
 ```School/Year: Carleton University, Junior
 Prior Experience: One 4 month government internship
@@ -8978,7 +9122,7 @@ Salary: $19/hour
 Relocation/Housing Stipend: None
 ```
 
-## chan zuckerberg initiative
+## Chan Zuckerberg Initiative
 
 ```School/Year: Junior at University of Toronto
 Prior Experience: Toronto small tech startup x2, Research Assistantship, Big N SF Tech company
@@ -8996,7 +9140,7 @@ Salary: $8000/mo
 Relocation/Housing Stipend: Paid intern housing + transportation pass
 ```
 
-## uber
+## Uber
 
 ```
 School/Year: Second-Year, Top 20 CS
@@ -9077,7 +9221,7 @@ Salary: 6400/mo
 Relocation/Housing Stipend: Included
 ```
 
-## autodesk
+## Autodesk
 
 ```​
 School/Year: Top 50 school, Masters
@@ -9091,7 +9235,7 @@ Relocation/Housing Stipend: 1200$/month
 
 ```
 
-## tesla
+## Tesla
 
 ```
 Education: BS Computer Science '16, MS Computer Science '18 Stanford  
@@ -9143,7 +9287,7 @@ Relocation/Housing Stipend: 3K Lump Sum
 Super excited to have an internship this summer, work is going to be long but still super hyped! Hope this gives a good idea of Tesla
 ```
 
-## linkedin
+## Linkedin
 
 ```School/Year: T100/Junior
 Prior Experience: Various student activities
@@ -9167,7 +9311,7 @@ Relocation/Housing Stipend: Free (shared) corporate housing, $500 relocation sti
 Very excited about this, since it's my first internship at a big company and also systems/infra is an area I've wanted to work in for a while. Also honestly a little surprised because someone told me that LinkedIn only offers off-season internships to Waterloo students or something like that.
 ```
 
-## expedia
+## Expedia
 
 ```
 Education: BA Computer Science - Decent State School
@@ -9193,7 +9337,7 @@ Salary: $32/hour
 Relocation/Housing Stipend: None
 ```
 
-## sas
+## Sas
 
 ```School/Year: Senior, Unaccredited new state school
 Prior Experience: None in tech. Two serving jobs totaling 3 years experience total.
@@ -9205,7 +9349,7 @@ Salary: 12/hr 8hrs/day MWF(I feel like a dweeb looking at what other people get.
 Relocation/Housing Stipend: None. I live 45 mins away.
 ```
 
-## blackrock
+## Blackrock
 
 ```School/Year: Top 5 CS School , Junior 
 Prior Experience: 1 small internship 
@@ -9216,7 +9360,7 @@ Salary: $100,000 prorated
 Housing/Relocation: N/A
 ```
 
-## hubspot
+## Hubspot
 
 ```
 School/Year: Junior, Top school
@@ -9242,7 +9386,7 @@ Relocation/Housing Stipend: 750/month
 
 ```
 
-## redfin
+## Redfin
 
 ```School/Year: Target Canadian school
 Prior Experience: 3 internships
@@ -9277,7 +9421,7 @@ Relocation/Housing Stipend: $10,000 one-time bonus
 
 ```
 
-## appfolio
+## Appfolio
 
 ```School: UCSB, 2.5 year BS CS
 Prior Experience: 3 internships - small startup near my school (Freshman Winter + Spring), AppFolio (Freshman summer), and Facebook (sophomore summer)
@@ -9301,7 +9445,7 @@ Total Comp: $234k year 1, then $184k
 
 ```
 
-## tableau
+## Tableau
 
 ```School/Year: Junior at top 10 CS school in the US
 Prior Experience: 1 internship mid-sized software company, 1 internship at large banking institution
@@ -9320,7 +9464,7 @@ Salary: 40/hr
 Relocation/Housing Stipend: $4,000 for the whole summer
 ```
 
-## workday
+## Workday
 
 ```
 School/Year: California Polytechnic State University, SLO / 3rd
@@ -9334,7 +9478,7 @@ Relocation/Housing Stipend: Housing provided
 
 ```
 
-## university of toronto
+## University Of Toronto
 
 ```Education: Top university in Canada
 Prior Experience: 2.5 years fulltime, 20 months of internships at 3 different companies 
@@ -9387,7 +9531,7 @@ Total comp:
 $85,000
 ```
 
-## arista networks
+## Arista Networks
 
 ```School/Year: Incoming 4th year, mid-sized uni in Ireland
 Prior Experience: 1 Google internship (3mo) and 1 Arista Networks internship (11mo)
@@ -9433,7 +9577,7 @@ Salary: €2,400/m
 
 ```
 
-## asana
+## Asana
 
 ```School/Year: Waterloo
 Prior Experience: 2 Internships (1 startup, 1 large company not in tech)  
@@ -9453,7 +9597,7 @@ Misc: Breakfast/lunch/dinner
 
 ```
 
-## square
+## Square
 
 ```School/Year: Junior
 Prior Experience: Two internships (one Big4)
@@ -9467,7 +9611,7 @@ Relocation/Housing Stipend: Corporate housing (studio) in downtown SF, walking d
 Starting next week, super pumped!
 ```
 
-## surveymonkey
+## Surveymonkey
 
 ```
 School/Year: Top 10 CS/Rising 5th year
@@ -9541,7 +9685,7 @@ Housing Stipend/Misc: $3,500 housing (lump sum I think), $100 monthly for CalTra
 
 ```
 
-## node
+## Node
 
 ```
 Education: M.Eng CS (integrated masters), Ph.D CS (awaiting viva)
@@ -9560,7 +9704,7 @@ Total comp: £50,000
 There's a pension scheme with an average of 22% contribution from the Cabinet Office which I don't know the full details of yet.  I get 34 days holiday (8 of which are bank holidays and 1 of which is the Queen's official birthday).
 ```
 
-## mozilla
+## Mozilla
 
 ```
 Education: Masters CS, top 20 (2015)
@@ -9578,7 +9722,7 @@ Total comp: $154,000
 
 ```
 
-## university of houston
+## University Of Houston
 
 ```Education: BS Comp. Sci. from University of Houston
 Prior Experience: None related
@@ -9591,7 +9735,7 @@ Stock and/or recurring bonuses: Up to $24k annual
 Total comp: min $65k, max $89k
 ```
 
-## united technologies
+## United Technologies
 
 ```Oracle (Construction and Engineering Industry)
 School/Year: 4th year @ RIT
@@ -9612,7 +9756,7 @@ Relocation/Housing Stipend: $1000 one-time stipend
 
 ```
 
-## mongodb
+## Mongodb
 
 ```
 School/Year: Junior @ non target school
@@ -9636,7 +9780,7 @@ Relocation/Housing Stipend: Corporate Housing or stipend of $7000
 Never posted in this before. Happy to finally serve as a data point.
 ```
 
-## mediamath
+## Mediamath
 
 ```
 Education: BA Economics from UCLA
@@ -9652,7 +9796,7 @@ Total comp: 88k
 Degree's in economics, went to AppAcademy bootcamp and got a job a couple months after. 2 years out of college but I guess it's also a nice reference point.
 ```
 
-## visa
+## Visa
 
 ```School/Year: UC Berkeley, Junior
 Prior Experience: some projects, 1 semester of research, no internships
@@ -9671,7 +9815,7 @@ Relocation/Housing Stipend: $4k, plus pays for public transportation/food
 Pretty happy I finally got a job and can contribute here
 ```
 
-## stripe
+## Stripe
 
 ```
 Company/Industry: Stripe
@@ -9683,7 +9827,7 @@ Relocation/Housing Stipend: Reimbursed moving expenses / corporate housing, 10 m
 
 ```
 
-## bloomberg
+## Bloomberg
 
 ```Education: BS in CS
 Prior Experience: 2 SWE internships at a startup and a 3 person company
@@ -10311,7 +10455,7 @@ Total comp: 131500 + ($10k over 1 year)
 
 ```
 
-## dropbox
+## Dropbox
 
 ```You should be able to EASILY get 120k / 3.5 years with Microsoft. They give that to people from no-name school who just negotiate a bit without any competing offers. With 2 Big 4 internships and a Dropbox competing offer, it should be pretty easy.
 With the 120k / 3.5 years, the Microsoft offer might be better. I think Dropbox just filed for IPO about 2 weeks ago, so it's still paper money, and you won't get to cash out like the people who are there since many years. If it's anything like the Snapchat IPO, it might be worth a lot less in the nest few months.
@@ -10341,7 +10485,7 @@ Total comp: ~190k first year, ~160k after
 Finished an onsite with G also, but their recruitment process is soooo slow. My other offers expired even with extensions so I just canceled the process.
 ```
 
-## doordash
+## Doordash
 
 ```Education: Purdue University
 Prior Experience: Internships at Mid size company in Bay Area (SmugMug) and MSFT
@@ -10354,7 +10498,7 @@ Stock and/or recurring bonuses: 750 RSUs (~$150k)
 Total comp: $145k guaranteed first year (not counting RSUs since their value will likely change)
 ```
 
-## github
+## Github
 
 ```School/Year: Junior
 Prior Experience: Two internships (one Big4)
@@ -10378,7 +10522,7 @@ Salary: $24/hour, $36/hour Overtime
 Relocation/Housing: Housing Covered, but I live a 5 minute drive away so won't be using it
 ```
 
-## yelp
+## Yelp
 
 ```
 School/Year: Rising senior @ Ivy league school
@@ -10402,7 +10546,7 @@ Salary: $7500/month
 Relocation/Housing Stipend: $1500/month
 ```
 
-## cover
+## Cover
 
 ```School/Year:  Junior @ State School you’ve heard of but not super well known for CS
 Prior Experience: Previous degree and nearly a decade in a non tech role. Was told after they hired me that they liked my having a degree and work experience. The other intern with me is also a guy my age. 
@@ -10459,7 +10603,7 @@ Housing: corporate or $7000 to cover rent
 
 ```
 
-## goldman sachs
+## Goldman Sachs
 
 ```Education: Ivy
 Prior Experience: ~9 months at a Big 4.
@@ -10630,7 +10774,7 @@ Relocation:Housing Stipend: £1000, no housing
 Non-negotiatable intern salary. However my recruiter said that new grad salaries are negotiable.
 ```
 
-## pennsylvania state university
+## Pennsylvania State University
 
 ```Education: State University in Pennsylvania
 Prior Experience: 1 Software Developer internship
@@ -10653,7 +10797,7 @@ Relocation/Signing Bonus: $3k
 Stock and/or recurring bonuses: TBD  
 ```
 
-## boston university
+## Boston University
 
 ```Education: BS from large university in Canada 
 Prior Experience: 3 summer internships (1 large healthcare company, 2 startups)
@@ -10701,7 +10845,7 @@ Relocation/Housing Stipend: free flight, transit
 
 ```
 
-## university of california
+## University Of California
 
 ```Education: M.Sc. Mathematics, University of Toronto
 Prior Experience: None
@@ -10715,7 +10859,7 @@ Total comp: 200k first year, 170k recurring
 
 ```
 
-## nvidia
+## Nvidia
 
 ```School/Year: Top 10 CS School , Masters [1st year]
 Prior Experience:  3 small internships , 1 research internship at University 
@@ -10727,7 +10871,7 @@ Salary: $50.25/hour
 Relocation/Housing Stipend: $550/week
 ```
 
-## deutsche bank
+## Deutsche Bank
 
 ```
 School/Year: Penultimate Year, "Oxbridge Reject" RG Uni
@@ -10769,7 +10913,7 @@ Relocation/Housing Stipend: £1k
 Other offers still pending - will update
 ```
 
-## western digital
+## Western Digital
 
 ```
 Education: B.S. Mechanical Engineering, mid ranked public U in USA.
@@ -10799,7 +10943,7 @@ Salary: $27/hr
 Relocation/Housing Stipend: Free housing for the duration of the program
 ```
 
-## blend
+## Blend
 
 ```Education: Dartmouth College
  • Prior Experience: Research Labs, Retail & Media Industry SWE Experience (Internships; not Big 4): Microsoft, Capital One, Blend (all internships)
@@ -11144,7 +11288,7 @@ Other notable perks: $175 Lyft credit per month, $130/month towards transit/park
 
 ```
 
-## microsoft
+## Microsoft
 
 ```Education: BSCS Top 10 CS school
 Prior Experience: 1 year SWE at a small company
@@ -11484,7 +11628,7 @@ Total comp: $182,000 in year one, but with other benefits (401k, healthcare, etc
 Edit: did have 2 other competing offers used to negotiate (one big N and one "finance")
 ```
 
-## autogravity
+## Autogravity
 
 ```Education: CS Degree at University of Oregon
 Prior Experience: Part-time job, Internship at LAIKA, and a contract gig with Charter (Spectrum).
@@ -11497,7 +11641,7 @@ Stock and/or recurring bonuses: 15% target annual bonus
 Total comp: $100k first year + $13.5k bonus
 ```
 
-## university of pittsburgh
+## University Of Pittsburgh
 
 ```
 Education: B.S. in Computer Engineering at the University of Pittsburgh in May 2014
