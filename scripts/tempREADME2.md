@@ -5,49 +5,49 @@ Company Table of Contents
 
 <!--ts-->
 + [Uber](#uber)
-+ [None](#optiver)
-+ [None](#all)
++ [optiver](#optiver)
++ [all](#all)
 + [JP Morgan Chase](#jp-morgan-chase)
 + [Autodesk](#autodesk)
-+ [None](#-hft)
-+ [None](#-goldman-sachs)
-+ [None](#-cloudera)
++ [ hft](#-hft)
++ [ goldman sachs](#-goldman-sachs)
++ [ cloudera](#-cloudera)
 + [Google](#google)
 + [ViaSat](#viasat)
-+ [None](#-linkedin)
-+ [None](#-sumologic)
++ [ linkedin](#-linkedin)
++ [ sumologic](#-sumologic)
 + [HubSpot](#hubspot)
 + [Lime](#lime)
-+ [None](#unknown)
-+ [None](#-sumo-logic)
-+ [None](#saas)
-+ [None](#-optiver)
-+ [None](#-amazon)
-+ [None](#-rubrik)
-+ [None](#disney)
-+ [None](#-facebook)
-+ [None](#-nike)
-+ [None](#aws)
++ [unknown](#unknown)
++ [ sumo logic](#-sumo-logic)
++ [saas](#saas)
++ [ optiver](#-optiver)
++ [ amazon](#-amazon)
++ [ rubrik](#-rubrik)
++ [disney](#disney)
++ [ facebook](#-facebook)
++ [ nike](#-nike)
++ [aws](#aws)
 + [Siemens](#siemens)
 + [Amazon](#amazon)
 + [GitHub](#github)
 + [Facebook](#facebook)
 + [Starbucks](#starbucks)
-+ [None](#-okta)
-+ [None](#none)
++ [ okta](#-okta)
++ [none](#none)
 + [Lockheed Martin](#lockheed-martin)
-+ [None](#guidewire)
-+ [None](#-confluent)
-+ [None](#-atlassian)
++ [guidewire](#guidewire)
++ [ confluent](#-confluent)
++ [ atlassian](#-atlassian)
 + [Goldman Sachs](#goldman-sachs)
-+ [None](#-capital-one)
++ [ capital one](#-capital-one)
 + [NASA](#nasa)
-+ [None](#-bloomberg)
-+ [None](#-surveymonkey)
-+ [None](#-optum)
-+ [None](#prop-trading)
-+ [None](#-zillow)
-+ [None](#-microstrategy)
++ [ bloomberg](#-bloomberg)
++ [ surveymonkey](#-surveymonkey)
++ [ optum](#-optum)
++ [prop trading](#prop-trading)
++ [ zillow](#-zillow)
++ [ microstrategy](#-microstrategy)
 
 <!--te-->
 
@@ -121,7 +121,7 @@ Relocation: Corporate housing or $5100 lump sum + $2000 relocation bonus (idk wh
 Salary Sharing thread for INTERNS :: March, 2019 
 ```
 
-## None
+## optiver
 
 ```Since internship season has ended in AU I'm just here to give some data points on the openings that I've seen on job boards for internships next summer (2019-2020 here). Link to my post in the last thread for those interested: https://www.reddit.com/r/cscareerquestions/comments/a2mafb/official_salary_sharing_thread_for_interns/eazmi0h/
 Again I haven't actually gotten offers for the jobs below, just saw the postings (these are ones with salaries)
@@ -237,7 +237,7 @@ Relocation/Housing Stipend: 1200$/month
 Salary Sharing thread for INTERNS :: March, 2019 
 ```
 
-## None
+##  hft
 
 ```
 School/Year: Somewhere in top 50 CS school (lol)
@@ -296,7 +296,7 @@ Relocation/Housing Stipend: corp housing or $5000 I think it was
 Salary Sharing thread for INTERNS :: March, 2018 
 ```
 
-## None
+##  goldman sachs
 
 ```
 School/Year: Junior Top 10 CS
@@ -389,7 +389,7 @@ Relocation/Housing Stipend: Corporate housing or stipend, relocation covered
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
 
-## None
+##  cloudera
 
 ```
 School/Year: Junior Top 10 CS
@@ -484,7 +484,7 @@ Relocation/Housing Stipend: Shared Furnished Apartment or $25/day Stipend (prora
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
 
-## None
+##  linkedin
 
 ```Accepted:
 School/Year: Decent Uni in Canada, Junior
@@ -508,7 +508,7 @@ Relocation/Housing Stipend: Housing provided
 Salary Sharing thread for INTERNS :: March, 2018 
 ```
 
-## None
+##  sumologic
 
 ```School/Year: Rising Senior Top 10 CS (Public)
 Prio Experience: internship at mid-size company and internship at a little well known Saas company in Bay Area
@@ -597,7 +597,7 @@ Confluent:
 Salary Sharing thread for INTERNS :: December, 2018 
 ```
 
-## None
+##  sumo logic
 
 ```
 School/Year: Junior Top 10 CS
@@ -636,7 +636,7 @@ Salary: $45/hr + ~3k stipend
 Salary Sharing thread for INTERNS :: December, 2018 
 ```
 
-## None
+## saas
 
 ```College/Year:
 Small State College / 2nd year of a 2 year Software Programming program (not traditional college courses). I will have an Associate's of Applied Science when finished.
@@ -663,7 +663,7 @@ None
 Salary Sharing thread for INTERNS :: September, 2018 
 ```
 
-## None
+##  optiver
 
 ```
 School/Year: Junior Top 10 CS
@@ -736,7 +736,7 @@ Relocation/Housing Stipend: provided housing
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
 
-## None
+##  amazon
 
 ```
 School/Year: Top 4 CS in US (yay?), junior
@@ -908,7 +908,7 @@ Relocation/Housing Stipend: Corporate housing or stipend, relocation covered
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
 
-## None
+##  rubrik
 
 ```About Me:
 School/Year: Junior at a higher ranked (lol) UC
@@ -931,7 +931,7 @@ Relocation/Housing Stipend/Misc: $1000 monthly, free meals
 Salary Sharing thread for INTERNS :: September, 2018 
 ```
 
-## None
+## disney
 
 ```
 School/Year: Top 10 CS/Rising 5th year
@@ -956,7 +956,7 @@ Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrai
 Salary Sharing thread for INTERNS :: June, 2019 
 ```
 
-## None
+##  facebook
 
 ```School/Year: University of Maryland College Park, Sophomore
 Prior Experience: 1x PM internship, 2x SWE internship  
@@ -995,7 +995,7 @@ Relocation/Housing Stipend: 6000 one time
 Salary Sharing thread for INTERNS :: March, 2018 
 ```
 
-## None
+##  nike
 
 ```School/Year: State School/Sophomore
 Prior Experience: Not much
@@ -1022,7 +1022,7 @@ Relocation/Housing Stipend: $4500 1 time
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
 
-## None
+## aws
 
 ```
 School/Year:    PhD Student  
@@ -1435,7 +1435,7 @@ Salary Sharing thread for INTERNS :: March, 2018
 Salary Sharing thread for INTERNS :: June, 2018 
 ```
 
-## None
+##  okta
 
 ```School/Year: Rising Senior Top 10 CS (Public)
 Prio Experience: internship at mid-size company and internship at a little well known Saas company in Bay Area
@@ -1469,7 +1469,7 @@ Confluent:
 Salary Sharing thread for INTERNS :: December, 2018 
 ```
 
-## None
+## none
 
 ```School/Year: Sophomore, University of Michigan
 Prior Experience: 1 year as engineer before starting undergrad, only 1 cs class at Michigan
@@ -1574,7 +1574,7 @@ Relocation/Housing Stipend: $1100/month
 Salary Sharing thread for INTERNS :: December, 2018 
 ```
 
-## None
+## guidewire
 
 ```
 School/Year: Top 4 CS in US (yay?), junior
@@ -1604,7 +1604,7 @@ Salary: $8500/month
 Salary Sharing thread for INTERNS :: March, 2019 
 ```
 
-## None
+##  confluent
 
 ```School/Year: Rising Senior Top 10 CS (Public)
 Prio Experience: internship at mid-size company and internship at a little well known Saas company in Bay Area
@@ -1638,7 +1638,7 @@ Confluent:
 Salary Sharing thread for INTERNS :: December, 2018 
 ```
 
-## None
+##  atlassian
 
 ```
 School/Year: Junior Top 10 CS
@@ -1741,7 +1741,7 @@ Relocation/Housing Stipend: provided housing
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
 
-## None
+##  capital one
 
 ```
 School/Year: Somewhere in top 50 CS school (lol)
@@ -1817,7 +1817,7 @@ Relocation/Housing Stipend: Hah, I wish.
 Salary Sharing thread for INTERNS :: March, 2018 
 ```
 
-## None
+##  bloomberg
 
 ```
 School/Year: Junior Top 10 CS
@@ -1903,7 +1903,7 @@ Relocation: Corporate housing or $5100 lump sum + $2000 relocation bonus (idk wh
 Salary Sharing thread for INTERNS :: March, 2019 
 ```
 
-## None
+##  surveymonkey
 
 ```
 School/Year: Top 10 CS/Rising 5th year
@@ -1928,7 +1928,7 @@ Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrai
 Salary Sharing thread for INTERNS :: June, 2019 
 ```
 
-## None
+##  optum
 
 ```
 School/Year: top 5-8 for cs as a Junior
@@ -1948,7 +1948,7 @@ Happy to say that seeing the previous internship salary thread motivated me to w
 Salary Sharing thread for INTERNS :: March, 2019 
 ```
 
-## None
+## prop trading
 
 ```School/Year: Junior at top 30 CS school
 Previous Experience: F50 Internship, dev job at school
@@ -1992,7 +1992,7 @@ Relocation/Housing Stipend: Corporate housing or stipend, relocation covered
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
 
-## None
+##  zillow
 
 ```
 School/Year: I don't even know at this point, man   
@@ -2018,7 +2018,7 @@ Had to work my way down the coast but this summer is finally in the place I want
 Salary Sharing thread for INTERNS :: March, 2019 
 ```
 
-## None
+##  microstrategy
 
 ```
 School/Year: Somewhere in top 50 CS school (lol)
