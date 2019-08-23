@@ -11,15 +11,16 @@ companies = []
 for k, v in xVal.iteritems():
 	for val in v:
 		if "INTERNS" in val['thread'].upper():
-			companies.append(k)
+			if k != "none" and k != "unknown" and k != "all":
+				companies.append(k)
 			break
 
-
+companies.sort()
 companyList = open("companies.txt").read().split("\n")
 
 def get_correct_case(string):
 	for val in companyList:
-		if val.lower() == string.lower():
+		if val.strip().lower() == string.strip().lower():
 			return val
 	return string
 
@@ -43,8 +44,11 @@ readme += '''
 with open("tempREADME2.md", "a") as myfile:
 	myfile.write(readme)
 
-for k, v in json.load(open('fixed3.json')).iteritems():
-	if k != 'unknown' and k != 'all' and k in companies:
+a = list(json.load(open('fixed3.json')).iteritems())
+a.sort(key=lambda k: k[0])
+
+for k, v in a:
+	if k.strip() != 'unknown' and k != 'all' and k in companies:
 		os.system("echo '## {}\n' >> tempREADME2.md".format(get_correct_case(k)))
 		for val in v:
 			if "INTERNS" in val['thread'].upper():
