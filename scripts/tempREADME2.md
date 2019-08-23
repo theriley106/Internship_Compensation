@@ -5,7 +5,7 @@ Company Table of Contents
 
 <!--ts-->
 + [Uber](#uber)
-+ [optiver](#optiver)
++ [Optiver](#optiver)
 + [all](#all)
 + [JP Morgan Chase](#jp-morgan-chase)
 + [Autodesk](#autodesk)
@@ -20,14 +20,14 @@ Company Table of Contents
 + [Lime](#lime)
 + [unknown](#unknown)
 + [ sumo logic](#-sumo-logic)
-+ [saas](#saas)
++ [SAAS](#saas)
 + [ optiver](#-optiver)
 + [ amazon](#-amazon)
 + [ rubrik](#-rubrik)
-+ [disney](#disney)
++ [Disney](#disney)
 + [ facebook](#-facebook)
 + [ nike](#-nike)
-+ [aws](#aws)
++ [AWS](#aws)
 + [Siemens](#siemens)
 + [Amazon](#amazon)
 + [GitHub](#github)
@@ -121,7 +121,7 @@ Relocation: Corporate housing or $5100 lump sum + $2000 relocation bonus (idk wh
 Salary Sharing thread for INTERNS :: March, 2019 
 ```
 
-## optiver
+## Optiver
 
 ```Since internship season has ended in AU I'm just here to give some data points on the openings that I've seen on job boards for internships next summer (2019-2020 here). Link to my post in the last thread for those interested: https://www.reddit.com/r/cscareerquestions/comments/a2mafb/official_salary_sharing_thread_for_interns/eazmi0h/
 Again I haven't actually gotten offers for the jobs below, just saw the postings (these are ones with salaries)
@@ -636,7 +636,7 @@ Salary: $45/hr + ~3k stipend
 Salary Sharing thread for INTERNS :: December, 2018 
 ```
 
-## saas
+## SAAS
 
 ```College/Year:
 Small State College / 2nd year of a 2 year Software Programming program (not traditional college courses). I will have an Associate's of Applied Science when finished.
@@ -931,7 +931,7 @@ Relocation/Housing Stipend/Misc: $1000 monthly, free meals
 Salary Sharing thread for INTERNS :: September, 2018 
 ```
 
-## disney
+## Disney
 
 ```
 School/Year: Top 10 CS/Rising 5th year
@@ -1022,7 +1022,7 @@ Relocation/Housing Stipend: $4500 1 time
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
 
-## aws
+## AWS
 
 ```
 School/Year:    PhD Student  
