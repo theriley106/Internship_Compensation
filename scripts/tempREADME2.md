@@ -154,7 +154,7 @@ Salary: $20.50/hr
 Relocation/Housing Stipend: None
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ## University of Washington
 
@@ -168,7 +168,7 @@ Relocation/Housing Stipend: None
 • Relocation/Housing Stipend: N/A, unlimited bus pass given
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ## NEXT Canada
 
@@ -190,7 +190,7 @@ Salary: ~$27/hour
 Relocation/Housing Stipend: $1100/month
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## JP Morgan Chase
 
@@ -204,7 +204,7 @@ Salary: $29/hr
 Signing Bonus: 1.5k
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```
 School/Year: Non-target Florida school. Junior  
@@ -220,7 +220,7 @@ I had interviewed with lots of big companies but need to sharpen up my skills fo
 ​
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```School/Year: Sophomore @ Top 40 Private University 
 Prior Experience: 3 Internships, 2 @ startups during summer 18, 1 @ F300 Energy company during Fall 18 semester
@@ -232,7 +232,7 @@ Salary: $28.75/hour, Overtime: $43/Hour
 Signing Bonus: 1.5k one-time payment
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Cruise
 
@@ -256,7 +256,7 @@ Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrai
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```
 School/Year: Top 10 CS/Rising 5th year
@@ -278,7 +278,7 @@ Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrai
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```About Me:
 School/Year: Junior at a higher ranked (lol) UC
@@ -298,7 +298,7 @@ Relocation/Housing Stipend/Misc: $1000 monthly, free meals
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ## ViaSat
 
@@ -314,7 +314,7 @@ Relocation/Housing Stipend: Shared Furnished Apartment or $25/day Stipend (prora
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Nordstrom
 
@@ -332,7 +332,7 @@ Relocation/Housing Stipend: 1200$/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Okta
 
@@ -365,7 +365,7 @@ Confluent:
 ​
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Snap
 
@@ -403,7 +403,7 @@ Salary: $45/hr + ~3k stipend
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Upwork
 
@@ -429,7 +429,7 @@ None
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ## NASA
 
@@ -445,7 +445,7 @@ Relocation/Housing Stipend: 1200$/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ```
 School/Year: Waterloo, 3rd Year
@@ -459,7 +459,7 @@ Relocation/Housing Stipend: Hah, I wish.
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## Nokia
 
@@ -475,7 +475,7 @@ Salary: $21/hr
 Relocation/Housing Stipend: None, live in the area
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2017 ```
 
 ## Amazon
 
@@ -491,7 +491,7 @@ Relocation/Housing Stipend: Corporate housing (studio) in downtown SF, walking d
 Starting next week, super pumped!
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```School / year: Midwest state school. Decent CS and know in the Rocky Mountain area. Rising Junior. 
 Prior experience: Research assistant and part time for a year with the IT division at the uni. 
@@ -510,7 +510,7 @@ Salary: $27 / hour
 Relocation: None
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```
 School/Year:    PhD Student  
@@ -524,7 +524,7 @@ Relocation/Housing Stipend:   Corporate Housing  OR   Monthly Net Stipend 1925$
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```Here again to post some of the salaries I've seen advertised. These all had salaries included in the ads so it isn't guesswork.
 School/Year: 4th year/5 non-Go8
@@ -545,14 +545,14 @@ Relocation/Housing Stipend: None
 Sidenote, this is the first year Amazon has advertised internships afaik. I'm applying so if I hit the hail mary then I might have numbers for them for the next thread. Since both Google and Expedia haven't gotten back to me (ever) though I somehow doubt Amazon would
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```Amazon has advertised internships since 2017. Intern salary is $47 per hour but no relocation/housing - good luck it's extremely competitive! 
 Google's intern salary is a bit less at around $35-40 per hour, but housing is provided if you need it and there's free meals in the office :)
 PM if you want more info
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```
 School/Year: I don't even know at this point, man   
@@ -575,7 +575,7 @@ Relocation/Housing Stipend: 1k/month
 Had to work my way down the coast but this summer is finally in the place I wanted.  Can't wait to be back home in SoCal/OC 😄🏝️   
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```School/Year: Senior at Top 15/20 school, graduating Fall 2019
 Prior Experience: Internship at very small company
@@ -586,7 +586,7 @@ Salary: $6100/mo
 Relocation/Housing Stipend: Free corporate housing
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: top 5-8 for cs as a Junior
@@ -603,7 +603,7 @@ Also got a TCP Intern offer from a Optum in their New Jersey office for $24 an h
 Happy to say that seeing the previous internship salary thread motivated me to work harder on Leetcode and try to be able to post in the next one that happens. Sure enough, I got Amazon (which isn't the best but fuck it I'll take it). Good luck to those looking around and still trying to find an internship!
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: Some Canadian University
@@ -649,7 +649,7 @@ Relocation: Corporate housing or $5100 lump sum + $2000 relocation bonus (idk wh
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: Regional Midwest State School / Junior
@@ -663,7 +663,7 @@ Relocation/Housing Stipend: $1375 post taxes/month + travel
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```School/Year: junior at Ivy League university
 Prior Experience: interned at Amazon my sophomore year
@@ -677,7 +677,7 @@ Relocation/Housing Stipend: $3,500 per month housing stipend, or corporate housi
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```School/Year: Junior at top 30 CS school
 Previous Experience: F50 Internship, dev job at school
@@ -689,7 +689,7 @@ Salary: $10,000/month
 Relocation/Housing Stipend: Corporate housing 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: Top 4 CS in US (yay?), junior
@@ -716,7 +716,7 @@ Salary: $8500/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```​
 School/Year: Top 50 school, Masters
@@ -730,7 +730,7 @@ Relocation/Housing Stipend: 1200$/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```​
 School/Year: Top 50 school, Masters
@@ -744,7 +744,7 @@ Relocation/Housing Stipend: 1200$/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```​
 School/Year: Top 50 school, Masters
@@ -758,7 +758,7 @@ Relocation/Housing Stipend: 1200$/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```​
 School/Year: Top 50 school, Masters
@@ -772,7 +772,7 @@ Relocation/Housing Stipend: 1200$/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```Still waiting on one more offer, but here's this summer's offers:
 School/Year: Sophomore at RG uni in the UK
@@ -791,7 +791,7 @@ Salary: €25k EUR pro-rata (= £2.1k per month)
 Relocation/Housing Stipend: None
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```Since internship season has ended in AU I'm just here to give some data points on the openings that I've seen on job boards for internships next summer (2019-2020 here). Link to my post in the last thread for those interested: https://www.reddit.com/r/cscareerquestions/comments/a2mafb/official_salary_sharing_thread_for_interns/eazmi0h/
 Again I haven't actually gotten offers for the jobs below, just saw the postings (these are ones with salaries)
@@ -812,7 +812,7 @@ As a side note, I've been talking to a lot of people I know from uni about their
 The company I was at had plenty of unpaid interns actually, which is unfortunately pretty common here because of the 30 day supervised work requirement for engineering students. It seems to be that a lot of the work is geared towards them, and the paid stuff (while good) is just a little less common.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```• School/Year: Unknown Canadian School, Junior
 • Company/Industry: Amazon
@@ -823,7 +823,7 @@ The company I was at had plenty of unpaid interns actually, which is unfortunate
 • Relocation/Housing Stipend: ~$5000-5500 one time
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```​
 School/Year: Top 50 school, Masters
@@ -837,7 +837,7 @@ Relocation/Housing Stipend: 1200$/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```I've already posted in the last thread but I'm posting again now that my numbers are updated since I'm in one of the San Francisco offices which is a "premium" office (All Bay Area and NYC offices are to my knowledge). Hope this is helpful/informative!     
 School/Year: Junior @ state school satellite campus
@@ -851,7 +851,7 @@ Relocation/Housing Stipend: $3500/month stipend or corporate housing for $500/mo
 Cheers all, have a great week   
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ```You're dramatically overestimating the taxes involved. Actual taxes for this (assuming 3 months of salary + stipend):
 Total Income: $35,925
@@ -863,7 +863,7 @@ Total combined tax rate is ~16%, meaning $3500 becomes ~$2940. If OP pays their 
 tl:dr - Amazon convenience housing costs OP $3440-3732 post-tax each month.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ```
 School/Year: Ivy League, sophomore
@@ -877,7 +877,7 @@ Relocation/Housing Stipend: $2.5k/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ```
 School/Year: Penn State / Senior
@@ -891,7 +891,7 @@ Relocation/Housing Stipend: Relocation up to price from your home location / sch
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ```This is the standard Amazon (first time/non-return) intern offer in the US for anyone ctrl-f'ing  
 School/Year: Junior @ state school satellite campus
@@ -905,7 +905,7 @@ Relocation/Housing Stipend: $2500/month housing stipend, upped to $3500/month fo
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```
 School/Year: State school in SC (top 4 in football tho), Junior
@@ -919,7 +919,7 @@ Relocation/Housing Stipend: $2500/mo stipend or corp housing (lose $500/mo from 
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```
 School/Year: Somewhere in top 50 CS school (lol)
@@ -975,7 +975,7 @@ Relocation/Housing Stipend: corp housing or $5000 I think it was
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```
 School/Year: Somewhere in top 50 CS school (lol)
@@ -1031,7 +1031,7 @@ Relocation/Housing Stipend: corp housing or $5000 I think it was
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```
 School/Year: Somewhere in top 50 CS school (lol)
@@ -1087,7 +1087,7 @@ Relocation/Housing Stipend: corp housing or $5000 I think it was
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```
 School/Year: Somewhere in top 50 CS school (lol)
@@ -1143,7 +1143,7 @@ Relocation/Housing Stipend: corp housing or $5000 I think it was
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```
 School/Year: Somewhere in top 50 CS school (lol)
@@ -1199,7 +1199,7 @@ Relocation/Housing Stipend: corp housing or $5000 I think it was
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```
 School/Year: Somewhere in top 50 CS school (lol)
@@ -1255,7 +1255,7 @@ Relocation/Housing Stipend: corp housing or $5000 I think it was
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```
 School/Year: Somewhere in top 50 CS school (lol)
@@ -1311,7 +1311,7 @@ Relocation/Housing Stipend: corp housing or $5000 I think it was
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```School/Year: University of Maryland College Park, Sophomore
 Prior Experience: 1x PM internship, 2x SWE internship  
@@ -1347,7 +1347,7 @@ Salary: 43/hr
 Relocation/Housing Stipend: 6000 one time
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```Accepted:
 School/Year: Decent Uni in Canada, Junior
@@ -1368,7 +1368,7 @@ Relocation/Housing Stipend: Housing provided
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```Accepted:
 School/Year: Decent Uni in Canada, Junior
@@ -1389,7 +1389,7 @@ Relocation/Housing Stipend: Housing provided
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```School/Year: No Name State School / Post-bacc Sophomore
 Prior Experience: Cofounded Startup / Research Assistant
@@ -1401,7 +1401,7 @@ Salary: $7,725
 Relocation/Housing Stipend: -300/-500 for corporate, $2500/month for stipend. 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```School/Year: Top 50 school, decent CS program but not super prestigious 
 Prior Experience: 2 internships, 1 small start-up 1 medium-small. Non-negligible open source work
@@ -1419,7 +1419,7 @@ Location: TBD
 Relocation/Housing: Relocation covered, $2500-3500/month housing stipend, depending on location
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```Offers to date:
 School/Year: small school in the middle of nowhere, 3/5
@@ -1452,7 +1452,7 @@ Relocation/Housing Stipend: provided housing
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```School/Year: State School/Sophomore
 Prior Experience: Not much
@@ -1476,7 +1476,7 @@ Salary: $23/hr
 Relocation/Housing Stipend: $4500 1 time 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```School/Year: Junior, top state school
 Prior Experience: Amazon and prop trading firm
@@ -1504,12 +1504,12 @@ Relocation/Housing Stipend: Corporate housing or stipend, relocation covered
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```Since you mentioned a return offer: Do you know which locations Amazon considers "premium" in the salary/housing? My recruiter hasn't responded
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```Should accept offer today - 
 School/Year: UMD / senior (graduating in 5 years)
@@ -1527,7 +1527,7 @@ Fannie Mae (20 / hour)
 Google host matching (ugh)
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```
 School/Year: Little Ivy / Junior
@@ -1556,7 +1556,7 @@ Relocation/Housing: $6,000 one-time housing stipend
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```School/Year: football school/junior
 Prior Experience: Big 4, Bank
@@ -1577,7 +1577,7 @@ Relocation/Housing Stipend: Corporate housing (-$500/mo) or $2,500/mo + flights
 EDIT: Amazon offer is for returning+MS intern. That's Google's 2018 intern salary too.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```
  School/Year: Top State School, Junior
@@ -1597,7 +1597,7 @@ Company/Industry: Microsoft
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```
  School/Year: Top State School, Junior
@@ -1617,7 +1617,7 @@ Company/Industry: Microsoft
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```
 School/Year: Top 3 CS school in Canada, 3rd year
@@ -1631,7 +1631,7 @@ Relocation/Housing Stipend: 2500 USD or Corporate housing (-500 USD)
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Higher Logic
 
@@ -1645,7 +1645,7 @@ Relocation/Housing Stipend: 2500 USD or Corporate housing (-500 USD)
 • Relocation/Housing Stipend: None
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Facebook
 
@@ -1658,7 +1658,7 @@ Salary: $6100/mo
 Relocation/Housing Stipend: Free corporate housing
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```
 School/Year: Sophomore, Top 10 CS school
@@ -1673,7 +1673,7 @@ Relocation/Housing Stipend: Corporate housing (or stipend), paid relocation (+$3
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: Junior at Top 15/20 school
@@ -1702,7 +1702,7 @@ Relocation/Housing Stipend: Corporate Housing or variable stipend
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```School: Top 500 CS (lol)
 Company: Facebook
@@ -1712,7 +1712,7 @@ Salary: 4200£ + 1000£ or corporate housing
 It's standart as far as I know.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: Junior, no-name state school in the southern US.
@@ -1750,7 +1750,7 @@ Relocation/Housing Stipend: Corporate Intern Housing or $1600/month housing stip
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```School/Year: Rutgers, Sophomore
 Prior Experience: None SWE-specific, lots of competitive programming
@@ -1762,7 +1762,7 @@ Salary: $8000 per month
 Relocation/Housing Stipend: Corporate housing :)
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```School/Year: Going into last year of college
 Prior Experience: 4 internships at smaller startups and a couple contracts.
@@ -1774,7 +1774,7 @@ Salary: $8000 per month
 Relocation/Housing Stipend: Provided housing (with additional perks of working at a large tech company in the Bay Area)
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ```School/Year: Ivy League, Junior
 Prior Experience: Facebook (returning intern)
@@ -1788,7 +1788,7 @@ Relocation/Housing Stipend: Corporate Housing or 1k/month stipend
 Nothing surprising, but just a general heads up that FB's intern offer isn't changing for 2019
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ```Company 1 (Accepted)
 School/Year: Top 10 CS School/Sophomore
@@ -1811,7 +1811,7 @@ Relocation/Housing Stipend: Corporate housing or 1000$/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```
 School/Year: MSc CS, 1 year before graduation, German technical university, Top4 in the country
@@ -1825,7 +1825,7 @@ Relocation/Housing Stipend: £700 housing stipend or corporate housing (everyone
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Riot Games
 
@@ -1840,7 +1840,7 @@ Relocation/Housing Stipend: Company housing, free meals, etc.
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Sony
 
@@ -1873,7 +1873,7 @@ Relocation/Housing Stipend: $1000/month
 ​
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: University of Waterloo (4th year CS)
@@ -1902,7 +1902,7 @@ Relocation/Housing Stipend: $1000/month
 ​
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: Rising Senior, target Canadian School
@@ -1931,7 +1931,7 @@ Relocation/Housing Stipend: none
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Slack
 
@@ -1947,7 +1947,7 @@ Relocation/Housing Stipend: 2k/mo + flights/commute
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: East coast public university, Junior
@@ -1961,7 +1961,7 @@ Relocation/Housing Stipend: $2000/ month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ## Little Labs
 
@@ -1977,7 +1977,7 @@ Relocation/Housing Stipend: 1 house hunting trip paid fully (about 2 days with h
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## PagerDuty
 
@@ -2014,7 +2014,7 @@ Relocation/Housing Stipend: $10,000 one-time bonus
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Intel
 
@@ -2036,7 +2036,7 @@ Salary: 31/hour
 Currently working in the first position. Begin the 2nd in February.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Drop
 
@@ -2052,7 +2052,7 @@ Salary: $20/hour
 Relocation/Housing Stipend: $1,500/mo, but I live too close to qualify
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## Grab
 
@@ -2069,7 +2069,7 @@ Duration: 3 months
 Salary: $28/hour
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ## GE Healthcare
 
@@ -2090,7 +2090,7 @@ Salary: $6,920/month
 Relocation/Housing Stipend: $9000 one time
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```
 School/Year: Georgia Tech / Rising 2nd year
@@ -2104,7 +2104,7 @@ Relocation/Housing Stipend: $9000
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```School/Year: bad state school, Junior
 Prior experience: 2 internships (1 big N)
@@ -2114,7 +2114,7 @@ Salary: $7,500/mo
 Relocation: $9k one-time (minus taxes, so more like 4.5-5k)
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```
 School/Year: Freshman, T5
@@ -2136,7 +2136,7 @@ Relocation/Housing Stipend: $9000 total
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: Large, well-known private university, junior  
@@ -2159,7 +2159,7 @@ The Google offer was a huge surprise to me. Never thought I'd actually be able t
 ​
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: Northeastern University, Sophomore
@@ -2179,7 +2179,7 @@ Relocation/Housing Stipend: Either cooperate housing in Brooklyn or 1.5k/month.
 TBH I really wanted to go with Squarespace due to a much more personalized interview process. I connected more with them, people were friendlier, had my own say what I wanted to focus on. But Google sets me up for life and had better dates for me so I went with that.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```School: Freshman at Morehouse College
 Prior Experience: Data Science research at University of Mississippi
@@ -2191,7 +2191,7 @@ Salary: $33.65
 Relocation/Housing Stipend: around $5500 after taxes
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```School: Edinburgh University
 Prior Experience: Couple of internships at financial companies.
@@ -2202,7 +2202,7 @@ Salary: 6933 CHF per month
 Relocation / Housing Stipend: 7200 CHF 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```School: first-year math PhD in Amsterdam
 Prior experience: big-4 internship in USA
@@ -2214,7 +2214,7 @@ Salary: 1000 pounds per week
 Relocation: 7200 pounds
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ```
 School/Year: PhD student
@@ -2228,7 +2228,7 @@ Relocation/Housing Stipend: $10000
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ```
 School/Year: incoming 3rd year, Midwestern flagship state school (not known for CS)
@@ -2242,7 +2242,7 @@ Relocation/Housing Stipend: lump sum of 9000 pretax (45% initially withheld)
 edit: This is for fall 2018
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ```School/Year: no name State school
 Prior Experience: one internship in similar position, TA, research work
@@ -2254,7 +2254,7 @@ Salary: 90k/year or ~43/hour
 Relocation/Housing Stipend: 9k
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ```Me:
 School/Year: Small public tech school in NJ, second year
@@ -2277,7 +2277,7 @@ Relocation: None, local employer
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```
 School/Year: Drexel University, Sophomore
@@ -2298,7 +2298,7 @@ Relocation: $250 for traveling stipend
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```
 School/Year: UK polytechnic for BSc CS, currently on placement year
@@ -2312,7 +2312,7 @@ Relocation/Housing Stipend: 5400 euro relocation, no housing
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Adobe
 
@@ -2338,7 +2338,7 @@ Relocation/Housing Stipend: I´m in Atlanta so no relocation or housing.
 Didn´t take either of these.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ```Hope this doesn't get buried. I feel like I struck gold with this one. 
 School/Year: BS in CS from Georgia Tech, Jr.
@@ -2352,7 +2352,7 @@ Relocation/Housing: None. The salary is more than enough for COL. Fortunately I 
 Screw the Big N and Silicon Sillycon Valley. I'm going to Chile!!
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## OpenTable
 
@@ -2366,7 +2366,7 @@ Screw the Big N and Silicon Sillycon Valley. I'm going to Chile!!
 *Relocation/Housing Stipend: 2500 for summer
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ## VMware
 
@@ -2380,7 +2380,7 @@ Salary: $3200 a month
 Nearing the end of this internship and have had a great time. 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ```School/Year: Small university in SF (not well known), Incoming 3rd year undergrad
 Prior Experience: Internship at a small startup VR company, TAing
@@ -2392,7 +2392,7 @@ Salary: $35.50/hr
 Relocation/Housing Stipend: Housing included
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ## EVEN
 
@@ -2410,7 +2410,7 @@ Relocation/Housing Stipend: 1200$/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```School/Year: uWaterloo, equivalent to rising Junior 
 Prior Experience: 3 internships 
@@ -2421,7 +2421,7 @@ Duration: 4 months Salary: ~7.3k/mo
 Relocation/Housing Stipend: 1.2k/mo
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Extend
 
@@ -2436,7 +2436,7 @@ Relocation/Housing Stipend: N/A
 I started this internship back in june at $15/hr, and have been granted a raise as well as an extension of the internship beyond the summer. I like in the northwest, but not in Seattle/Portland. You can definitely find tech jobs in my city, but they aren't nearly as numerous or well paying as the ones in the cities I mentioned.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ## University of Maryland
 
@@ -2450,7 +2450,7 @@ Salary: $40/hr, $60/hr overtime (45 hour weeks)
 Relocation/Housing Stipend: Relocation costs are reimbursed, housing provided in the city
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Bridgewater
 
@@ -2490,7 +2490,7 @@ Salary: $45/hr + ~3k stipend
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```School/Year: Junior Top 10 CSE
 Prior Experience: Freshman internship (smaller company), Big 4
@@ -2517,7 +2517,7 @@ Relocation/Housing: Corporate housing or ~$1600/mo
 Edit 3: Removed Microsoft as I declined before receiving their offer details.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```- School/Year: Junior, top 40 CS in Midwest
 - Prior Experience: Google EP
@@ -2549,7 +2549,7 @@ Relocation/Housing Stipend: $9k stipend
 ​
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```School/Year: top state school/junior
 Prior Experience: research + travel reimbursement company
@@ -2591,7 +2591,7 @@ Relocation/Housing Stipend: $1000/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```
 School/Year: Top 40 School/Junior
@@ -2648,7 +2648,7 @@ Relocation/Housing Stipend: Housing
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```
 School/Year: Top 40 School/Junior
@@ -2705,7 +2705,7 @@ Relocation/Housing Stipend: Housing
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```
 School/Year: Top 40 School/Junior
@@ -2762,7 +2762,7 @@ Relocation/Housing Stipend: Housing
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```
 School/Year: Top 40 School/Junior
@@ -2819,7 +2819,7 @@ Relocation/Housing Stipend: Housing
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```
 School/Year: Top 40 School/Junior
@@ -2876,7 +2876,7 @@ Relocation/Housing Stipend: Housing
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```
 School/Year: Top 40 School/Junior
@@ -2933,7 +2933,7 @@ Relocation/Housing Stipend: Housing
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```
 School/Year: Top 40 School/Junior
@@ -2990,7 +2990,7 @@ Relocation/Housing Stipend: Housing
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```School / Year: Top 4, Junior 
 Prior Experience: Big SF unicorn
@@ -3027,7 +3027,7 @@ Relocation/Housing Stipend: Housing (or $5100) and flights provided.
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```School/Year: Top State School/Junior
 Prior Experience: Small SF startup + Uber
@@ -3055,7 +3055,7 @@ Relocation/Housing Stipend: $1000/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```School/Year: Top 10 CS School/Junior
 Prior Experience: 2 Internships at Big Company and Unicorn  
@@ -3090,7 +3090,7 @@ Relocation/Housing Stipend: $1000/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## University of Florida
 
@@ -3104,7 +3104,7 @@ Salary: $28/hr
 Relocation/Housing Stipend:n/a
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## Deloitte
 
@@ -3120,7 +3120,7 @@ Salary: $30/hour
 Relocation/Housing Stipend: $1500 at the beginning of the internship
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ## Bird
 
@@ -3138,7 +3138,7 @@ Salary: $7700/month ($48.13/hour)
 Relocation/Housing Stipend: $10,000 signing bonus
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## Arizona State University
 
@@ -3156,7 +3156,7 @@ Relocation/housing: $1500 stipend
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```
 School/Year: Senior, Midwest state school
@@ -3170,7 +3170,7 @@ Relocation/housing: $1500 stipend
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## University of Alabama
 
@@ -3186,7 +3186,7 @@ Salary:  $18.50/hour
 Relocation/Housing Stipend:  None that I'm aware of, it's pretty close for me anyway
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```School/Year: East Coast, decent but not a target school/Junior
 Prior Experience: 1 internship at small tech company, research internship at school
@@ -3222,7 +3222,7 @@ Relocation/Housing Stipend: $1500 per month, airfare
 EDIT: Decided to choose FB!
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Shift
 
@@ -3240,7 +3240,7 @@ Relocation/Housing Stipend: 2.5k for housing
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Ohio University
 
@@ -3282,7 +3282,7 @@ Relocation/Housing Stipend: free housing
 having a competing offer from rival firms is ridiculously strong for negotiation
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Akuna Capital
 
@@ -3297,7 +3297,7 @@ Relocation/Housing Stipend: corporate housing and flight
 I thought I'd post this because the Glassdoor numbers seem to be misleading. 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Twitch
 
@@ -3328,7 +3328,7 @@ Relocation/Housing Stipend: None
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ## Ubisoft
 
@@ -3342,7 +3342,7 @@ Salary: 21$/hour
 Relocation/Housing Stipend: 0
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ## Qualtrics
 
@@ -3365,7 +3365,7 @@ Salary: $42/hr
 Relocation/housing stipend: there is a relocation option but not sure how much because I didn’t use it and one lump sum of $3750 before taxes for housing and there is also a corporate housing option
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```School/Year: Sophomore 
 Prior Experience: Internship at open-source project, contract web development for several startups
@@ -3377,7 +3377,7 @@ Salary: $40/hr
 Relocation/Housing Stipend: Corporate housing, $1000 relocation one-time sum
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```Top 2 Canadian CS School, just finished 1st year, heading to second. Mediocre GPA & flopped discrete math, so there's hope for anyone lol.
 School/Year: Rising Sophomore
@@ -3391,7 +3391,7 @@ Relocation/Housing Stipend: Corporate housing & they paid for relocation.
 If it's worth mentioning, before choosing MS also got competing offers from Google & Facebook.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```
 School/Year: Junior, ivy
@@ -3405,7 +3405,7 @@ Relocation/Housing Stipend: Corporate housing or 1k/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```
 School/Year: Top 10 CS
@@ -3427,7 +3427,7 @@ Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrai
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ## Lyft
 
@@ -3461,7 +3461,7 @@ Relocation/Housing Stipend: None
 Got rejection after rejection for a few months until I magically got all of these offers within days of each other. You really do get better with every interview (good or bad), stick with it guys!
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: US top 100 CS school (not known for CS)
@@ -3475,7 +3475,7 @@ Relocation/Housing Stipend: Full comp relocation, $1500/month housing
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```School/Year: Somewhat well known tech school in the US / 3rd year
 Prior Experience: Unicorn company first year program and big N first/second year program
@@ -3495,7 +3495,7 @@ Salary: $7,300/month + $5,000 return bonus (one time)
 Relocation/housing stipend: $7,000 for the 12 weeks plus all flights paid for
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```
 School/Year: Top 10 CS school in California, Junior
@@ -3509,7 +3509,7 @@ Housing Stipend: 9k
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## Directly
 
@@ -3526,7 +3526,7 @@ Relocation/Housing Stipend/Misc: Paid housing, $100 lyft credits/month, subsidiz
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```School/Year: Senior, Top 50 State School
 Prior Experience: J.P. Morgan
@@ -3538,7 +3538,7 @@ Salary: 33/hr
 Relocation/Housing Stipend: $6k
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ```School/Year: Decent CSU (California State University), Sophomore
 Prior Experience: None related, just regular school jobs
@@ -3550,7 +3550,7 @@ Salary: $28/hour
 Relocation/Housing Stipend: $6,000 relocation bonus or corporate housing 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Shopify
 
@@ -3566,7 +3566,7 @@ Relocation/Housing Stipend: not applicable to me
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2017 ```
 
 ## New York University
 
@@ -3583,7 +3583,7 @@ Relocation/Housing Stipend: USD $300/month transportation fee, campus housing pr
 The monthly expense was like USD $150/month since lunch and dinner were provided at their dining hall lol, so not as bad as it seems on paper.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ## The We Company
 
@@ -3599,7 +3599,7 @@ Sucks but it gets worse. I know a few people that got $12.75/hour in SF. This wa
 If i could do it again, i would do a ton of side projects to put on my resume that would make it much more attractive. This would give me a chance at getting interviews for actual better internships. Then it is a matter of studying CTCI to pass the interview.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Comcast
 
@@ -3615,7 +3615,7 @@ School/Year: rising senior/unnamed tiny college
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ## Citadel
 
@@ -3631,7 +3631,7 @@ Relocation/Housing Stipend: Corporate Housing/all meals provided
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```• ⁠School/Year: Senior (MEng), Stanford/MIT
 • ⁠Prior Experience: Big 4
@@ -3649,7 +3649,7 @@ Facebook
 • ⁠Relocation/Housing Stipend: corporate housing 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```
 School/Year: top 10 CS School, Sophomore
@@ -3663,7 +3663,7 @@ Relocation/Housing Stipend: Corporate housing + flights provided
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```School/Year: Junior
 Prior Experience: Two internships (one Big4)
@@ -3677,7 +3677,7 @@ Relocation/Housing Stipend: Corporate housing (studio) in downtown SF, walking d
 Starting next week, super pumped!
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2017 ```
 
 ## Medium
 
@@ -3706,7 +3706,7 @@ Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Po
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```Already had my internship this year (mine are from Jan to April) but so far I do have one return offer for 2020 which stands as such:
 School: UWaterloo, will be in 4th year
@@ -3721,7 +3721,7 @@ Other benefits: 4 paid days off, employee banking benefits like market exchange 
 Fairly good offer for Ontario, haven't been able to land any better ones. I haven't accepted it yet, I'm still applying to some places in the States (mainly interested in medium CoL cities like Chicago and Austin), but I'm open to live anywhere if the work is interesting and pays well. If anyone has any advice for landing a FinTech job in the States (e.g. at a bank, hedge fund, etc), I'd love to hear it!
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```Here you go
 ​
@@ -3737,7 +3737,7 @@ Relocation/Housing Stipend: -
 Reading others answer (especially the one from US High CoL) makes me kinda depressed lol
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
@@ -3764,7 +3764,7 @@ Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Po
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
@@ -3791,7 +3791,7 @@ Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Po
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
@@ -3818,7 +3818,7 @@ Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Po
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ```School/Year:  Rising Juniorish @ Top 10 CS School
 Prior Experience: None
@@ -3831,7 +3831,7 @@ Salary: $17/hour
 Relocation/Housing Stipend : None, I live in ATL.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
@@ -3858,7 +3858,7 @@ Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Po
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
@@ -3885,7 +3885,7 @@ Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Po
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2017 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
@@ -3912,7 +3912,7 @@ Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Po
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```No big-N or anything here but was grateful to receive a couple offers from more local companies.
 The offer I took is Medium CoL (Lower than Seattle, Higher than Chicago) and another in high COL but the rest of my offers are from low CoL.
@@ -3945,7 +3945,7 @@ Salary: $20/hr
 Relocation/Housing Stipend: None
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```MODNOTE: Some people like these threads, some people hate them. If you hate them, that's fine, but please don't get in the way of the people who find them useful. Thanks!
 This thread is for sharing recent new grad offers you've gotten or current salaries for new grads (< 2 years' experience). Friday will be the thread for people with more experience.
@@ -3972,7 +3972,7 @@ Medium CoL: Chicago, Houston, Miami, Atlanta, Riverside, Minneapolis, Denver, Po
 Low CoL: Dallas, Phoenix, Philadelphia, Detroit, Tampa, St. Louis, Baltimore, Charlotte, Orlando, San Antonio, Pittsburgh, Cincinnati, Kansas City
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```Company 1.    
 School/Year: California State University. Junior. 
@@ -3995,7 +3995,7 @@ Relocation/Housing Stipend: Flight + Housing paid
 I think they're both medium CoL. Added Kohls offer. 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```School/Year: Average State School. I graduate Dec 2018
 Prior Experience: 2 year IT Support internship
@@ -4008,7 +4008,7 @@ Relocation/Housing Stipend: N/A
 How is Raleigh Medium COL but Charlotte low? Makes no sense.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## North
 
@@ -4025,7 +4025,7 @@ Relocation/Housing Stipend: N/A
 Interviewed with Cerner but was turned down as they had filled all positions for summer internships. Encouraged me to apply again for the next round of internships.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ## NCR
 
@@ -4049,7 +4049,7 @@ Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrai
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```
 School/Year: Top 10 CS/Rising 5th year
@@ -4071,7 +4071,7 @@ Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrai
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```
 School/Year: top 10 CS school, Sophomore
@@ -4100,7 +4100,7 @@ Relocation/Housing Stipend:  1000/mo
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: Rising Super Senior @ Top 10 CS
@@ -4122,7 +4122,7 @@ Relocation/Housing Stipend: Paid relocation. No housing.
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## PayPal
 
@@ -4138,7 +4138,7 @@ Relocation/Housing Stipend: Housing + return flight paid for
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ## Atlassian
 
@@ -4154,7 +4154,7 @@ Relocation/Housing Stipend: $2000AUD lump sum
 (Have posted this before, but feel like it's worth re-posting as Aus is sometimes bare)
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ```School/Year: Top/big Australian university, 2nd year undergraduate
 Prior Experience: Started programming since middle school, had an internship at Atlassian previously
@@ -4166,7 +4166,7 @@ Salary: ~$22,000 USD for the 12 weeks
 Relocation/Housing Stipend: Corporate housing included
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ```
 School/Year: NYU/Junior
@@ -4180,7 +4180,7 @@ Relocation/Housing Stipend: None
 I had no idea Atlassian could pay like a Big-N company could.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## Properly
 
@@ -4226,7 +4226,7 @@ Relocation/Housing Stipend/Misc: n/a
 I accepted offers with the F-500 Company (Spring 2019), Capital One (Summer 2019), and Tesla (Fall 2019)
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: non-target state school on the east coast  
@@ -4256,7 +4256,7 @@ Relocation/Housing Stipend: Corp Housing or ~1500/month
 Taking offers in the Winter/Summer. Hype to have these opportunities :) (although I still get jealous when I see these unicorn/trading comps)
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```School/Year: HYP/Junior
 Prior Experience: Two SWE internships at relatively unknown places
@@ -4305,7 +4305,7 @@ Salary: $5000/month
 Relocation/Housing Stipend: None
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```​
 School/Year: Top 50 school, Masters
@@ -4319,7 +4319,7 @@ Relocation/Housing Stipend: 1200$/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```
 School/Year: State School / Junior
@@ -4343,7 +4343,7 @@ Transportation Stipend: Rental car ($375/month) or $1200 stipend
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```
 School/Year: State School / Junior
@@ -4367,7 +4367,7 @@ Transportation Stipend: Rental car ($375/month) or $1200 stipend
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```School/Year: University of Wisconsin - Madison. Junior
 Prior Experience: Fortune 50 Insurance company, small health care company
@@ -4388,7 +4388,7 @@ Relocation/Housing Stipend: $2000 relocation and housing stipend
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```School/Year: University of Maryland, College Park. Junior.
 Prior Experience: Nordstrom, email infra, gov't contractor
@@ -4437,7 +4437,7 @@ Relocation/Housing Stipend: corp housing
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```School/Year: Top 50 CS Schools Junior 
 Prior Experience: 1 internship as Tech Analyst at medium bank in NYC, 1 internship as web developer at small nonprofit in Boston
@@ -4449,7 +4449,7 @@ Salary: 45/hr
 Relocation/Housing Stipend: $3000 lump
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Quantcast
 
@@ -4465,7 +4465,7 @@ Housing Stipend: $3k
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## Zillow
 
@@ -4482,7 +4482,7 @@ Salary: £18.5k
 Other benefits: So many, it's a great company and it treats it's employees amazingly
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ## IBM
 
@@ -4497,7 +4497,7 @@ Salary: 24$/hr
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```
 School/Year: Freshman/rising sophomore @ a big 4 school
@@ -4511,7 +4511,7 @@ Relocation/Housing Stipend: $0
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ## Affirm
 
@@ -4549,7 +4549,7 @@ Relocation/Housing Stipend: 4k/summer
 ​
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: Junior, State School (UIUC)
@@ -4581,7 +4581,7 @@ Relocation/Housing Stipend: $7.6k 1-time
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Ebay
 
@@ -4607,7 +4607,7 @@ Relocation/Housing Stipend: I´m in Atlanta so no relocation or housing.
 Didn´t take either of these.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ```
 School/Year: Upcoming Senior @ non-target state school
@@ -4621,7 +4621,7 @@ Relocation/Housing Stipend: Relocation package + corporate housing
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## Carrot
 
@@ -4655,7 +4655,7 @@ Salary: $19/hour
 Relocation/Housing Stipend: None
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## Chan Zuckerberg Initiative
 
@@ -4675,7 +4675,7 @@ Salary: $8000/mo
 Relocation/Housing Stipend: Paid intern housing + transportation pass
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Uber
 
@@ -4692,7 +4692,7 @@ Perks: 1.5x Overtime Pay ($66.22 per hour, 5 hours a week), 17% Off Uber Rides &
 At orientation, they claimed that their internship acceptance rate is 0.1%. Looking forward to a great summer!
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```
 School/Year: Top
@@ -4706,7 +4706,7 @@ Relocation/Housing Stipend: $1500/month, $200/month credits, flights covered
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```reposting from last thread
 About Me:
@@ -4727,7 +4727,7 @@ Relocation/Housing Stipend/Misc: $1300 monthly, free meals
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ```About Me:
 School/Year: Junior at a higher ranked (lol) UC
@@ -4747,7 +4747,7 @@ Relocation/Housing Stipend/Misc: $1000 monthly, free meals
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```School/Year: Target
 Prior Experience: SWE internship
@@ -4766,7 +4766,7 @@ Salary: 6400/mo
 Relocation/Housing Stipend: Included
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Autodesk
 
@@ -4782,7 +4782,7 @@ Relocation/Housing Stipend: 1200$/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ## Tesla
 
@@ -4796,7 +4796,7 @@ Salary: $29 / hour
 Relocation/Housing Stipend: None
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ```
 School/Year: Purdue, Sophomore
@@ -4810,7 +4810,7 @@ Relocation/Housing Stipend: $500 relocation because I drove. $3000 one time hous
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2017 ```
 
 ```School/Year: Top 30 School for CS, Junior
 Prior Experience: ETL engineer on campus
@@ -4823,7 +4823,7 @@ Relocation/Housing Stipend: 3K Lump Sum
 Super excited to have an internship this summer, work is going to be long but still super hyped! Hope this gives a good idea of Tesla
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## LinkedIn
 
@@ -4837,7 +4837,7 @@ Salary: $45
 Relocation/Housing Stipend: $6000 or company housing
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```
 School/Year: Rising senior at UC Santa Cruz (not gonna bother hiding it, since this is my main account anyways.) - low/mid tier UC, prob top 50 CS
@@ -4851,7 +4851,7 @@ Relocation/Housing Stipend: Free (shared) corporate housing, $500 relocation sti
 Very excited about this, since it's my first internship at a big company and also systems/infra is an area I've wanted to work in for a while. Also honestly a little surprised because someone told me that LinkedIn only offers off-season internships to Waterloo students or something like that.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ## Expedia
 
@@ -4865,7 +4865,7 @@ Salary: $32/hour
 Relocation/Housing Stipend: None
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## SAS
 
@@ -4879,7 +4879,7 @@ Salary: 12/hr 8hrs/day MWF(I feel like a dweeb looking at what other people get.
 Relocation/Housing Stipend: None. I live 45 mins away.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## BlackRock
 
@@ -4892,7 +4892,7 @@ Salary: $100,000 prorated
 Housing/Relocation: N/A
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## HubSpot
 
@@ -4920,7 +4920,7 @@ Relocation/Housing Stipend: 750/month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Redfin
 
@@ -4957,7 +4957,7 @@ Relocation/Housing Stipend: $10,000 one-time bonus
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Appfolio
 
@@ -4980,7 +4980,7 @@ Salary: 40/hr
 Relocation/Housing Stipend: $4,000 for the whole summer
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Workday
 
@@ -4996,7 +4996,7 @@ Relocation/Housing Stipend: Housing provided
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## University of Toronto
 
@@ -5010,7 +5010,7 @@ Salary: $47/hour
 Relocation/Housing Stipend: 11.5k stipend 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ## Arista Networks
 
@@ -5024,7 +5024,7 @@ Salary: $7,500/m
 Relocation: $10,000
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ```Current Place: 
 School/Year: Decent Irish university, 2nd year
@@ -5060,7 +5060,7 @@ Salary: €2,400/m
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Asana
 
@@ -5082,7 +5082,7 @@ Misc: Breakfast/lunch/dinner
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Square
 
@@ -5098,7 +5098,7 @@ Relocation/Housing Stipend: Corporate housing (studio) in downtown SF, walking d
 Starting next week, super pumped!
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## SurveyMonkey
 
@@ -5122,7 +5122,7 @@ Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrai
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```
 School/Year: Top 10 CS/Rising 5th year
@@ -5144,7 +5144,7 @@ Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrai
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```
 School/Year: Top 10 CS
@@ -5166,7 +5166,7 @@ Relocation/Housing Stipend: IIRC, $3,500 for housing/flight and we get a Caltrai
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: Junior Top 20 CS
@@ -5180,7 +5180,7 @@ Housing Stipend/Misc: $3,500 housing (lump sum I think), $100 monthly for CalTra
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Node
 
@@ -5209,7 +5209,7 @@ Relocation/Housing Stipend: $1000 one-time stipend
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## MongoDB
 
@@ -5235,7 +5235,7 @@ Relocation/Housing Stipend: Corporate Housing or stipend of $7000
 Never posted in this before. Happy to finally serve as a data point.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## MediaMath
 
@@ -5258,7 +5258,7 @@ Relocation/Housing Stipend: $4k, plus pays for public transportation/food
 Pretty happy I finally got a job and can contribute here
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## Stripe
 
@@ -5272,7 +5272,7 @@ Relocation/Housing Stipend: Reimbursed moving expenses / corporate housing, 10 m
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Bloomberg
 
@@ -5313,7 +5313,7 @@ Relocation: Corporate housing or $5100 lump sum
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```School/Year: 4th Year, small Canadian university
 Prior Experience: Google, Bloomberg, and Microsoft internships
@@ -5343,7 +5343,7 @@ Salary: $8000/mo
 Relocation/Housing Stipend: corporate housing
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```- School/Year: Top 5 School in UK
 - Prior Experience: A couple of internships at other big companies
@@ -5355,7 +5355,7 @@ Relocation/Housing Stipend: corporate housing
 - Relocation/Housing Stipend: £5000
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```
    School/Year: Small Canadian university, 3rd year
@@ -5369,7 +5369,7 @@ Relocation/Housing Stipend: corporate housing
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## Dropbox
 
@@ -5389,7 +5389,7 @@ Relocation/Housing Stipend: Corporate housing (studio) in downtown SF, walking d
 Starting next week, super pumped!
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```School/Year: Freshman @ Small State School
 Prior Experience: Few small projects on Github
@@ -5401,7 +5401,7 @@ Salary: $24/hour, $36/hour Overtime
 Relocation/Housing: Housing Covered, but I live a 5 minute drive away so won't be using it
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ## Yelp
 
@@ -5417,7 +5417,7 @@ Relocation/Housing Stipend: $1500 / month
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2019 ```
 
 ```School/Year: Top Canadian University, junior
 Prior Experience: One internship at Fortune 500 company
@@ -5429,7 +5429,7 @@ Salary: $7500/month
 Relocation/Housing Stipend: $1500/month
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ## Cover
 
@@ -5444,7 +5444,7 @@ Relocation/Housing Stipend:  None.
 They had posted the internship on my school’s job board online. Usually our department chair will email out internships like this but they never did. I got lucky in seeing it and sent in my resume and cover letter. Got an interview a week or so later and was offered the position on the spot. No coding challenges although they did ask about my projects and the stuff i learned in school. I was a little bummed when i started because it seemed less technical than i was expecting but we pivoted a week in and I’m now working on a super cool project in Unity and my friends all lament that i got the perfect opportunity lol. 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```
 School/Year: Freshman @ Puerto Rico
@@ -5467,7 +5467,7 @@ Relocation/Housing Stipend: $1800 total to cover transportation to and from work
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```I read the mod note and am not trying to troll. If people find this useful by all means I won't stand in the way.
 That being said, I feel like an intern's primary goal should be to make sure they're working somewhere that provides valuable experience. That being said, I also think interns should be paid well, but it should take a back seat to how it the experience will position you in the future.
@@ -5480,7 +5480,7 @@ Is there an opportunity to work part time after going back to school?
 These are all way more important to your career than salary. Yet still, I interview some interns who will have multiple offers that will compare them more or less based on the salary. Like, $company is paying me $x, can you match that? Nothing terribly wrong with asking that question, but for many of them it's clear that the answer is a strong determinant of where they will chose to work, which I think is wrong. 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ```
 School/Year: sophomore @ Queen’s University, Canada.
@@ -5494,7 +5494,7 @@ Housing: corporate or $7000 to cover rent
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## Goldman Sachs
 
@@ -5535,7 +5535,7 @@ Relocation/Housing Stipend: Free corporate housing 20 min walk from  office, 125
 ​
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```
 School/Year: top UK university, 2nd year
@@ -5549,7 +5549,7 @@ Relocation/Housing Stipend: £1000
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ```
 School/Year: Rising Senior, Big 10 school
@@ -5563,7 +5563,7 @@ Relocation/Housing Stipend: $1500
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ```Copy and pasted from another thread :)
 School/Year:Top 5 UK University BSc CS
@@ -5576,7 +5576,7 @@ Relocation:Housing Stipend: £1000, no housing
 Non-negotiatable intern salary. However my recruiter said that new grad salaries are negotiable.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```Offers to date:
 School/Year: small school in the middle of nowhere, 3/5
@@ -5609,7 +5609,7 @@ Relocation/Housing Stipend: provided housing
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```School/Year: Junior, No name state school from Western U.S.
 Prior Experience: QA/Testing
@@ -5635,7 +5635,7 @@ Relocation/Housing Stipend: $715/month housing or company provided housing in BS
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```
 School/Year:Top 5 UK University BSc CS
@@ -5648,7 +5648,7 @@ Relocation:Housing Stipend: £1000, no housing
 Non-negotiatable intern salary. However my recruiter said that new grad salaries are negotiable.
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Pennsylvania State University
 
@@ -5664,7 +5664,7 @@ Salary: $6000/month
 Relocation/Housing Stipend: free flight, transit
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```* School/Year: small LAC in the south, Junior
 * Prior Experience: internship teaching web development to kids
@@ -5677,7 +5677,7 @@ Relocation/Housing Stipend: free flight, transit
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ## None
 
@@ -5693,7 +5693,7 @@ Salary: $50.25/hour
 Relocation/Housing Stipend: $550/week
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## Deutsche Bank
 
@@ -5717,7 +5717,7 @@ Relocation/Housing Stipend: £1k
 Other offers still pending - will update
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: Penultimate Year, "Oxbridge Reject" RG Uni
@@ -5739,7 +5739,7 @@ Relocation/Housing Stipend: £1k
 Other offers still pending - will update
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ## Western Digital
 
@@ -5753,7 +5753,7 @@ Salary: $27/hr
 Relocation/Housing Stipend: Free housing for the duration of the program
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ## Blend
 
@@ -5810,7 +5810,7 @@ Other notable perks: $175 Lyft credit per month, $130/month towards transit/park
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2017 ```
 
 ```School/Year: Northeastern University, Junior (Year 4 of 5)
 Prior Experience: one 2 month SWE Internship, two 6+ month SWE co-ops (one at a well-known SV company, not a "big 4")
@@ -5865,7 +5865,7 @@ Other notable perks: $175 Lyft credit per month, $130/month towards transit/park
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2017 ```
 
 ```School/Year: Northeastern University, Junior (Year 4 of 5)
 Prior Experience: one 2 month SWE Internship, two 6+ month SWE co-ops (one at a well-known SV company, not a "big 4")
@@ -5920,7 +5920,7 @@ Other notable perks: $175 Lyft credit per month, $130/month towards transit/park
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2017 ```
 
 ```School/Year: Northeastern University, Junior (Year 4 of 5)
 Prior Experience: one 2 month SWE Internship, two 6+ month SWE co-ops (one at a well-known SV company, not a "big 4")
@@ -5975,7 +5975,7 @@ Other notable perks: $175 Lyft credit per month, $130/month towards transit/park
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2017 ```
 
 ```School/Year: Northeastern University, Junior (Year 4 of 5)
 Prior Experience: one 2 month SWE Internship, two 6+ month SWE co-ops (one at a well-known SV company, not a "big 4")
@@ -6030,7 +6030,7 @@ Other notable perks: $175 Lyft credit per month, $130/month towards transit/park
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2017 ```
 
 ```School/Year: Northeastern University, Junior (Year 4 of 5)
 Prior Experience: one 2 month SWE Internship, two 6+ month SWE co-ops (one at a well-known SV company, not a "big 4")
@@ -6085,7 +6085,7 @@ Other notable perks: $175 Lyft credit per month, $130/month towards transit/park
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2017 ```
 
 ## Microsoft
 
@@ -6099,7 +6099,7 @@ Other notable perks: $175 Lyft credit per month, $130/month towards transit/park
 • Relocation/Housing Stipend: $5000 one time housing
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2019 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2019 ```
 
 ```
 School/Year: 4th/5 years, RIT
@@ -6119,7 +6119,7 @@ Relocation/Housing Stipend: $1500
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```
 School/Year: 5th year, Texas A&M University
@@ -6133,7 +6133,7 @@ Relocation/Housing Stipend: Choice of corporate housing/$7000
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2018 ```
 
 ```
 School/Year: Senior at top 100 CS School
@@ -6147,7 +6147,7 @@ Relocation/Housing Stipend: $7,000 (post-tax) + $12,500 signup bonus (pre-tax)
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: June, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: June, 2018 ```
 
 ```
 School/Year: Top 20 CS School, Junior
@@ -6161,7 +6161,7 @@ Relocation/Housing Stipend: Corporate Housing or $7K stipend. $1200 for commute 
 
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2018 ```
 
 ```School/Year: unknown Canadian school, incoming junior
 Prior Experience: 2 internships (one at MS), research experience, freelance
@@ -6174,7 +6174,7 @@ Relocation/Housing Stipend: $4k or free corporate housing, free transportation t
 Total comp per month: ~$10,750 USD or ~ $13,062 CAD
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2017 ```
 
 ```School/Year: Top 20 CS School (December 2018 grad)
 Prior Experience: Microsoft, and defense contractor
@@ -6186,7 +6186,7 @@ Salary: $7,650/month + $5,000 signing bonus
 Relocation/Housing Stipend: Corporate housing or $4,000 stipend + $1,500 traveling bonus during internship
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: September, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: September, 2017 ```
 
 ```School/Year: 3rd year, small Canadian uni
 Prior Experience: research exp, freelance, 2 past internships
@@ -6198,7 +6198,7 @@ Salary: 7250/month USD
 Relocation/Housing Stipend: 5k signing bonus, 7k stipend for housing or free corporate, free flights to and from, 1.5k travel stipend, free gym + bus pass
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: March, 2018 : cscareerquestions```
+Salary Sharing thread for INTERNS :: March, 2018 ```
 
 ```School/Year: Purdue University - Junior in CS
 Prior Experience: Internship at SmugMug - Summer 2017
@@ -6210,7 +6210,7 @@ Salary: $7250/mo
 Relocation/Housing Stipend: $7000 stipend full (taxes already accounted for), $1200 full for transportation, $300 extra "Internship Allowance".
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```School/Year: Top Ivy, Sophomore (2nd year)
 Prior Experience: research, then small startup
@@ -6233,7 +6233,7 @@ Transportation Stipend: none
 Definitely would not recommend BNY Mellon if you have other options. The superday was very unorganized, and IMO the whole "innovation center" concept is a sham. Also, they don't give full-time return offers to interns (you would have to reapply and enter the same application pipeline as external applicants).
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ```School/Year: Top 5 Uni in Canada, 3rd year
 Prior Experience: 1.5 years at a startup, 1 internship at an aviation company
@@ -6245,7 +6245,7 @@ Salary: $4200 / month
 Relocation/Housing Stipend: $5k housing stipend, $1100 for relocation
 
 
-[OFFICIAL] Salary Sharing thread for INTERNS :: December, 2017 : cscareerquestions```
+Salary Sharing thread for INTERNS :: December, 2017 ```
 
 ## AutoGravity
 
