@@ -134,8 +134,6 @@ Salary Sharing thread for INTERNS :: June, 2019
 Salary Sharing thread for INTERNS :: June, 2018 
 ```
 
-## NEXT Canada
-
 ## Lockheed Martin
 
 ```School/Year: Junior @ Temple University
@@ -288,8 +286,6 @@ Relocation/Housing Stipend: Shared Furnished Apartment or $25/day Stipend (prora
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
 
-## Nordstrom
-
 ## HomeAway
 
 ```​
@@ -438,8 +434,6 @@ Relocation/Housing Stipend: Hah, I wish.
 
 Salary Sharing thread for INTERNS :: March, 2018 
 ```
-
-## Nokia
 
 ## Siemens
 
@@ -1882,8 +1876,6 @@ Relocation/Housing Stipend: Company housing, free meals, etc.
 Salary Sharing thread for INTERNS :: December, 2018 
 ```
 
-## Sony
-
 ## Credit Karma
 
 ```
@@ -2086,8 +2078,6 @@ Currently working in the first position. Begin the 2nd in February.
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
 
-## Drop
-
 ## Georgia State University
 
 ```School/Year: Georgia State University
@@ -2103,10 +2093,6 @@ Relocation/Housing Stipend: $1,500/mo, but I live too close to qualify
 Salary Sharing thread for INTERNS :: March, 2018 
 ```
 
-## Grab
-
-## Braintree
-
 ## Virginia Tech
 
 ```School/Year: Incoming 4th year, Virginia Tech
@@ -2120,12 +2106,6 @@ Salary: $28/hour
 
 Salary Sharing thread for INTERNS :: September, 2018 
 ```
-
-## GE Healthcare
-
-## Playstation
-
-## Pluralsight
 
 ## Google
 
@@ -2379,8 +2359,6 @@ Relocation/Housing Stipend: 5400 euro relocation, no housing
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
 
-## Adobe
-
 ## Equifax
 
 ```School/Year: Top 10 CS, Rising Sr.
@@ -2464,8 +2442,6 @@ Relocation/Housing Stipend: Housing included
 Salary Sharing thread for INTERNS :: September, 2018 
 ```
 
-## EVEN
-
 ## Datadog
 
 ```​
@@ -2525,8 +2501,6 @@ Relocation/Housing Stipend: Relocation costs are reimbursed, housing provided in
 
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
-
-## Bridgewater
 
 ## Airbnb
 
@@ -3195,8 +3169,6 @@ Relocation/Housing Stipend:n/a
 Salary Sharing thread for INTERNS :: March, 2018 
 ```
 
-## Deloitte
-
 ## ExxonMobil
 
 ```School/Year: Rising junior at large state school
@@ -3212,10 +3184,6 @@ Relocation/Housing Stipend: $1500 at the beginning of the internship
 Salary Sharing thread for INTERNS :: September, 2018 
 ```
 
-## Bird
-
-## Reddit
-
 ## Yext
 
 ```School/Year: Senior at one of [CMU, Cornell, Princeton, Duke]
@@ -3230,8 +3198,6 @@ Relocation/Housing Stipend: $10,000 signing bonus
 
 Salary Sharing thread for INTERNS :: March, 2018 
 ```
-
-## Arizona State University
 
 ## AT&T
 
@@ -3264,8 +3230,6 @@ Relocation/housing: $1500 stipend
 
 Salary Sharing thread for INTERNS :: December, 2018 
 ```
-
-## University of Alabama
 
 ## Box
 
@@ -3319,8 +3283,6 @@ EDIT: Decided to choose FB!
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
 
-## Shift
-
 ## Bank of America
 
 ```
@@ -3337,8 +3299,6 @@ Relocation/Housing Stipend: 2.5k for housing
 
 Salary Sharing thread for INTERNS :: December, 2018 
 ```
-
-## Ohio University
 
 ## DRW
 
@@ -3443,8 +3403,6 @@ Relocation/Housing Stipend: 0
 
 Salary Sharing thread for INTERNS :: September, 2018 
 ```
-
-## Qualtrics
 
 ## Apple
 
@@ -3619,8 +3577,6 @@ Housing Stipend: 9k
 
 Salary Sharing thread for INTERNS :: March, 2018 
 ```
-
-## Directly
 
 ## Cisco
 
@@ -4325,8 +4281,6 @@ I had no idea Atlassian could pay like a Big-N company could.
 Salary Sharing thread for INTERNS :: March, 2018 
 ```
 
-## Properly
-
 ## Capital One
 
 ```School/Year: Sophomore / Rank ~50 Engineering School
@@ -4620,8 +4574,6 @@ Housing Stipend: $3k
 Salary Sharing thread for INTERNS :: March, 2018 
 ```
 
-## Zillow
-
 ## Salesforce
 
 ```This is the internship I'm coming to the end of...
@@ -4741,8 +4693,6 @@ Relocation/Housing Stipend: $7.6k 1-time
 Salary Sharing thread for INTERNS :: December, 2018 
 ```
 
-## Ebay
-
 ## Qualcomm
 
 ```School/Year: Top 10 CS, Rising Sr.
@@ -4782,10 +4732,6 @@ Relocation/Housing Stipend: Relocation package + corporate housing
 
 Salary Sharing thread for INTERNS :: March, 2018 
 ```
-
-## Carrot
-
-## Glassdoor
 
 ## Electronic Arts
 
@@ -5137,8 +5083,6 @@ Relocation/Housing Stipend: $10,000 one-time bonus
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
 
-## Appfolio
-
 ## Tableau
 
 ```School/Year: Junior at top 10 CS school in the US
@@ -5371,12 +5315,6 @@ Housing Stipend/Misc: $3,500 housing (lump sum I think), $100 monthly for CalTra
 Salary Sharing thread for INTERNS :: December, 2018 
 ```
 
-## Node
-
-## Mozilla
-
-## University of Houston
-
 ## United Technologies
 
 ```Oracle (Construction and Engineering Industry)
@@ -5427,8 +5365,6 @@ Never posted in this before. Happy to finally serve as a data point.
 
 Salary Sharing thread for INTERNS :: December, 2018 
 ```
-
-## MediaMath
 
 ## Visa
 
@@ -5567,10 +5503,6 @@ Salary Sharing thread for INTERNS :: December, 2018
 
 Salary Sharing thread for INTERNS :: March, 2018 
 ```
-
-## Dropbox
-
-## DoorDash
 
 ## GitHub
 
@@ -5862,8 +5794,6 @@ Non-negotiatable intern salary. However my recruiter said that new grad salaries
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
 
-## Pennsylvania State University
-
 ## Boston University
 
 ```School/Year: University of Waterloo, 4th year
@@ -5892,8 +5822,6 @@ Salary Sharing thread for INTERNS :: March, 2018
 
 Salary Sharing thread for INTERNS :: March, 2018 
 ```
-
-## None
 
 ## NVIDIA
 
@@ -6481,8 +6409,4 @@ Relocation/Housing Stipend: $5k housing stipend, $1100 for relocation
 
 Salary Sharing thread for INTERNS :: December, 2017 
 ```
-
-## AutoGravity
-
-## University of Pittsburgh
 
