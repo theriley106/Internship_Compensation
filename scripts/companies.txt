@@ -2018,3 +2018,18 @@ Zumper
 Zuora
 Zymergen
 Zynga
+Okta
+Disney
+AWS
+Optiver
+HFT
+Goldman Sachs
+Cloudera
+LinkedIn
+SumoLogic
+Sumo Logic
+SAAS
+Rubrik
+Disney
+Facebook
+Nike
