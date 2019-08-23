@@ -2033,3 +2033,7 @@ Rubrik
 Disney
 Facebook
 Nike
+Optum
+Prop Trading
+MicroStrategy
+GuideWire
